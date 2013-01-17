@@ -5,8 +5,8 @@ require 'sqlite3'
 require 'active_record'
 
 Dir[File.dirname(__FILE__) + '/gdshowsdb/*.rb'].each {|file| require file }
-Dir[File.dirname(__FILE__) + '/gdshowsdb/model/*.rb'].each {|file| require file }
 Dir[File.dirname(__FILE__) + '/gdshowsdb/db/migrations/*.rb'].each {|file| require file }
+Dir[File.dirname(__FILE__) + '/gdshowsdb/models/*.rb'].each {|file| require file }
 
 module Gdshowsdb
   ActiveRecord::Base.establish_connection(
@@ -15,6 +15,7 @@ module Gdshowsdb
 	)
 
 	CreateSongRefTable.new.migrate :change
+	ImportSongRefs.new.migrate :change
 end
 
 
