@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+rvm use --create --install ruby-1.9.3@gdshowsdb 
+bundle install
