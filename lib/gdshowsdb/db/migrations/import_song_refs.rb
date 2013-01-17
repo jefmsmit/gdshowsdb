@@ -4,7 +4,11 @@ class ImportSongRefs < ActiveRecord::Migration
 	def change		
 		@song_refs = YAML.load_file(File.dirname(__FILE__) + '/../../song_refs.yaml')	
 		@song_refs.each do |key, value|
-			SongRef.create(:name => key, :uuid => value)
+			song_ref = SongRef.new
+			song_ref.uuid = value
+			song_ref.name = key
+			song_ref.save!
+			# SongRef.create(:name => key, :id => value)
 		end
 	end
 end
