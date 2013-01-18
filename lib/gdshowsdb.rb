@@ -17,6 +17,9 @@ module Gdshowsdb
 
 	CreateSongRefTable.new.migrate :change
 	ImportSongRefs.new.migrate :change
+	CreateShowTable.new.migrate :change
+	CreateShowSetTable.new.migrate :change
+	CreateSongTable.new.migrate :change
 end
 
 

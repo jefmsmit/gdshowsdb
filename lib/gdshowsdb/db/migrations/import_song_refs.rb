@@ -8,7 +8,6 @@ class ImportSongRefs < ActiveRecord::Migration
 			song_ref.uuid = value
 			song_ref.name = key
 			song_ref.save!
-			# SongRef.create(:name => key, :id => value)
 		end
 	end
 end
