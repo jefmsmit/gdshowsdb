@@ -20,6 +20,7 @@ module Gdshowsdb
 	CreateShowTable.new.migrate :change
 	CreateShowSetTable.new.migrate :change
 	CreateSongTable.new.migrate :change
+	ImportShows.new.migrate :change
 end
 
 
