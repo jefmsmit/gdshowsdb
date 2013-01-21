@@ -1,0 +1,138 @@
+--- 
+1995/07/08: 
+  :uuid: 9d517535-f4b2-4b4e-86a4-f572451eac70
+  :venue: Soldier Field
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: 
+  - :uuid: c46a9c64-af01-46ae-8ce2-bba286f0d1d4
+    :songs: 
+    - :uuid: 220ca82c-f6a4-4c81-85fb-07aba575a72a
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 73a357c9-a775-419f-b9d0-3c32264bffae
+      :name: Sugaree
+      :segued: false
+    - :uuid: 970c6b72-0648-4bdf-84e7-8547b0996658
+      :name: Wang Dang Doodle
+      :segued: false
+    - :uuid: cf16f026-83a0-4a81-af65-44001470dbcd
+      :name: Althea
+      :segued: false
+    - :uuid: 87d7ce54-fa65-4161-bd38-a97bce191b5e
+      :name: Queen Jane Approximately
+      :segued: false
+    - :uuid: b8379423-53b0-453c-a095-3f8329de10fd
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 6d7d0116-0327-4ad6-9e2c-ab012622cd86
+      :name: Eternity
+      :segued: false
+    - :uuid: 42395893-6aa2-4c3c-87c5-57ca1f114b7e
+      :name: Don't Ease Me In
+      :segued: false
+  - :uuid: 5183624f-9c90-4173-8c92-4f299ac28769
+    :songs: 
+    - :uuid: eb9ba4e9-e9b2-47f4-abf2-3111c3afc5f6
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 4c11bc2e-7c82-49ce-af3e-616314b869d3
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 9291c617-3658-4ba0-bdbb-a54aeeec6c4c
+      :name: It's All Too Much
+      :segued: false
+    - :uuid: eaf2225e-15a7-41ee-a9e8-878c7db5d4eb
+      :name: Saint Of Circumstance
+      :segued: true
+    - :uuid: 1c277179-9bde-46cb-93ee-9d17cfba4082
+      :name: Terrapin Station
+      :segued: true
+    - :uuid: 7ea2f530-432d-4ebd-8982-3c8264ed487e
+      :name: Drums
+      :segued: true
+    - :uuid: 767cceb8-8e28-423f-a200-c285f9b9fd1d
+      :name: Space
+      :segued: true
+    - :uuid: 7d77128c-73db-4294-83b9-29b1c3c8689a
+      :name: The Other One
+      :segued: true
+    - :uuid: 94ac5077-14f0-4c5f-a2bc-515786fea24a
+      :name: Visions Of Johanna
+      :segued: false
+    - :uuid: 5e599339-f03e-48ae-bce8-73716aca1d49
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: 28da985b-c22b-4d1e-9cd5-a84aee7ac02c
+    :songs: 
+    - :uuid: 25363919-27f8-40b9-88fe-a75faba62570
+      :name: U.S. Blues
+      :segued: false
+1995/07/09: 
+  :uuid: 98d2c34f-e754-42d4-817d-de1fb0dde224
+  :venue: Soldier Field
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: 
+  - :uuid: 7b8d5555-5bbf-4001-9650-91ca3ddb74f3
+    :songs: 
+    - :uuid: aed87e25-5aad-4ea3-b490-9fd6dc8b7334
+      :name: Touch Of Grey
+      :segued: false
+    - :uuid: bc3c5dea-84da-4199-bb02-881d372237ec
+      :name: Little Red Rooster
+      :segued: false
+    - :uuid: ec221f53-3fc9-4bc9-a854-16ad96a70788
+      :name: Lazy River Road
+      :segued: false
+    - :uuid: e5171180-a061-424a-a05c-1421127bbf5f
+      :name: When I Paint My Masterpiece
+      :segued: false
+    - :uuid: 5fcec949-fb53-48a7-a33e-55cef8064064
+      :name: Childhood's End
+      :segued: false
+    - :uuid: dfc2e81a-13c8-453f-82a7-5d30d0264548
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 72533e8a-53a8-485b-a94e-1448be94c7e3
+      :name: The Promised Land
+      :segued: false
+  - :uuid: c33f35ad-6b76-4248-883b-572eb3ec8548
+    :songs: 
+    - :uuid: 9b7a0edc-96e5-407e-b683-30dcbc8b66ef
+      :name: Shakedown Street
+      :segued: false
+    - :uuid: 0c628edf-9d1a-4714-9627-0bf6ab984c64
+      :name: Samson And Delilah
+      :segued: false
+    - :uuid: 41b653d5-8323-4c57-a2b9-4daacbf5d642
+      :name: So Many Roads
+      :segued: false
+    - :uuid: d0433802-9c90-466c-bbbc-254e5f67281a
+      :name: Samba In The Rain
+      :segued: false
+    - :uuid: 52c174a0-afa9-4a8f-9b91-61e301be3b56
+      :name: Corrina
+      :segued: true
+    - :uuid: fdea4bf8-9128-4221-90d1-a81fb614c9d6
+      :name: Drums
+      :segued: true
+    - :uuid: 0a6f27ab-6d75-4054-ace5-c5512eda16eb
+      :name: Space
+      :segued: true
+    - :uuid: 053bf48d-e05a-4173-a80b-ec96e1f9c8aa
+      :name: Unbroken Chain
+      :segued: false
+    - :uuid: da604a59-da9d-402a-a802-9e40e57eb0b8
+      :name: Sugar Magnolia
+      :segued: false
+  - :uuid: 27cc13da-de6b-40c3-9265-3da5e18d705e
+    :songs: 
+    - :uuid: 98d6734d-de32-4674-9bd1-f79810da1756
+      :name: Black Muddy River
+      :segued: false
+    - :uuid: cc5d3c94-eda5-40d8-9c06-3642d5c78c7c
+      :name: Box Of Rain
+      :segued: false
