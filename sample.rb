@@ -1,5 +1,8 @@
 require 'gdshowsdb'
 
+Gdshowsdb.init()
+Gdshowsdb.load()
+
 puts "Sample Application"
 
 show = Show.find_by_year_and_month_and_day(1995,7,8)

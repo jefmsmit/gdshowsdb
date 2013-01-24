@@ -10,17 +10,22 @@ Dir[File.dirname(__FILE__) + '/gdshowsdb/models/extensions/*.rb'].each {|file| r
 Dir[File.dirname(__FILE__) + '/gdshowsdb/models/*.rb'].each {|file| require file }
 
 module Gdshowsdb
-  connection = ActiveRecord::Base.establish_connection(
-	  :adapter => 'sqlite3',
-	  :database => 'test.db'
-	)
 
-	CreateSongRefTable.new.migrate :change
-	ImportSongRefs.new.migrate :change
-	CreateShowTable.new.migrate :change
-	CreateShowSetTable.new.migrate :change
-	CreateSongTable.new.migrate :change
-	ImportShows.new.migrate :change
+	def self.init
+		@@connection = ActiveRecord::Base.establish_connection(
+		  :adapter => 'sqlite3',
+		  :database => 'gdshowsdb.db'
+		)		
+	end
+
+	def self.load
+		CreateSongRefTable.new.migrate :change
+		ImportSongRefs.new.migrate :change
+		CreateShowTable.new.migrate :change
+		CreateShowSetTable.new.migrate :change
+		CreateSongTable.new.migrate :change
+		ImportShows.new.migrate :change
+	end  
 end
 
 
