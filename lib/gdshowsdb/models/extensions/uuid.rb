@@ -3,7 +3,7 @@ module Extensions
     extend ActiveSupport::Concern
 
     included do
-      primary_key = 'uuid'
+      self.primary_key = 'uuid'
     end
   end
 end

@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     gdshowsdb (0.0.1)
-      activerecord (~> 3.2.9)
+      activerecord
       sqlite3
 
 GEM

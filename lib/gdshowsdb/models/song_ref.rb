@@ -1,5 +1,7 @@
 class SongRef < ActiveRecord::Base
 	include Extensions::UUID
-	
-	attr_reader :uuid, :name
+
+	has_many :songs, :foreign_key => :song_ref_uuid, :primary_key => :uuid
+
+	attr_accessible :uuid, :name
 end

@@ -8,7 +8,9 @@ puts "#{show.year}/#{show.month}/#{show.day} @ #{show.venue}"
 
 show.show_sets.each do |set|
 	puts "Set #{set.order}"
-	set.songs.each do |song|
-		puts song.inspect
+	set.songs.each do |song|		
+		song_string = "#{song.order} #{song.song_ref.name}"
+		song_string << " >" if song.segued
+		puts song_string
 	end
 end
