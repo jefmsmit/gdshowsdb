@@ -122751,7 +122751,7 @@
     :songs: 
     - :uuid: eb9ba4e9-e9b2-47f4-abf2-3111c3afc5f6
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 4c11bc2e-7c82-49ce-af3e-616314b869d3
       :name: I Know You Rider
       :segued: false
@@ -122760,19 +122760,19 @@
       :segued: false
     - :uuid: eaf2225e-15a7-41ee-a9e8-878c7db5d4eb
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 1c277179-9bde-46cb-93ee-9d17cfba4082
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 7ea2f530-432d-4ebd-8982-3c8264ed487e
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 767cceb8-8e28-423f-a200-c285f9b9fd1d
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 7d77128c-73db-4294-83b9-29b1c3c8689a
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 94ac5077-14f0-4c5f-a2bc-515786fea24a
       :name: Visions Of Johanna
       :segued: false
@@ -122830,13 +122830,13 @@
       :segued: false
     - :uuid: 52c174a0-afa9-4a8f-9b91-61e301be3b56
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: fdea4bf8-9128-4221-90d1-a81fb614c9d6
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 0a6f27ab-6d75-4054-ace5-c5512eda16eb
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 053bf48d-e05a-4173-a80b-ec96e1f9c8aa
       :name: Unbroken Chain
       :segued: false

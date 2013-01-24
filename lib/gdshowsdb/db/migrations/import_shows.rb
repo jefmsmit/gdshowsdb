@@ -2,7 +2,7 @@ require 'yaml'
 
 class ImportShows < ActiveRecord::Migration
 	def change		
-		@shows = YAML.load_file(File.dirname(__FILE__) + '/../../shows-debug.yaml')	
+		@shows = YAML.load_file(File.dirname(__FILE__) + '/../../shows.yaml')	
 		@shows.each do |key, value|
 			show = Show.new
 			show.uuid = value[:uuid]
@@ -27,7 +27,8 @@ class ImportShows < ActiveRecord::Migration
 
 				set[:songs].each_with_index do |song, song_index|
 					song_ref = SongRef.find_by_name(song[:name])
-					saved_song = show_set.songs.create(:uuid => song[:uuid], :order => song_index, :segued => song[:segued])					
+					saved_song = show_set.songs.create(:uuid => song[:uuid], :order => song_index, 
+						:segued => song[:segued])					
 					
 					song_ref.songs << saved_song					
 				end				
@@ -35,7 +36,5 @@ class ImportShows < ActiveRecord::Migration
 
 			puts "done importing #{key}"
 		end
-
-		puts "Assigning songs to sets"		
 	end	
 end

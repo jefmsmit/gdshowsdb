@@ -10,7 +10,7 @@ Dir[File.dirname(__FILE__) + '/gdshowsdb/models/extensions/*.rb'].each {|file| r
 Dir[File.dirname(__FILE__) + '/gdshowsdb/models/*.rb'].each {|file| require file }
 
 module Gdshowsdb
-  ActiveRecord::Base.establish_connection(
+  connection = ActiveRecord::Base.establish_connection(
 	  :adapter => 'sqlite3',
 	  :database => 'test.db'
 	)
