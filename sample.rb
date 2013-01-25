@@ -17,3 +17,9 @@ show.show_sets.each do |set|
 		puts song_string
 	end
 end
+
+jack_straw_shows = SongRef.find_by_name('Jack Straw').shows
+
+jack_straw_shows.each do |show|
+	puts show.title
+end
