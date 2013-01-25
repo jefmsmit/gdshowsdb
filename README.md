@@ -7,3 +7,5 @@ Hoping to make this freely available database the cannonical resource for all Gr
 # Resources
 
 http://blog.flatironschool.com/post/35204301093/activerecord-without-rails
+
+https://simpleprojectmanagement.eu/blog//2012/05/dead-simple-activerecord-migrations-without-rails/
