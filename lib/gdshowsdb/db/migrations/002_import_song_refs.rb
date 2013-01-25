@@ -1,7 +1,7 @@
 require 'yaml'
 
 class ImportSongRefs < ActiveRecord::Migration
-	def change		
+	def up		
 		@song_refs = YAML.load_file(File.dirname(__FILE__) + '/../../song_refs.yaml')	
 		@song_refs.each do |key, value|
 			song_ref = SongRef.new
@@ -9,5 +9,9 @@ class ImportSongRefs < ActiveRecord::Migration
 			song_ref.name = key
 			song_ref.save!
 		end
+	end
+
+	def down
+		SongRef.delete_all
 	end
 end

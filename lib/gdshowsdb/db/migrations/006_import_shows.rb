@@ -1,7 +1,8 @@
 require 'yaml'
 
 class ImportShows < ActiveRecord::Migration
-	def change		
+	
+	def up		
 		@shows = YAML.load_file(File.dirname(__FILE__) + '/../../shows.yaml')	
 		@shows.each do |key, value|
 			show = Show.new
@@ -37,4 +38,10 @@ class ImportShows < ActiveRecord::Migration
 			puts "done importing #{key}"
 		end
 	end	
+
+	def down
+		Song.delete_all
+		ShowSet.delete_all
+		Show.delete_all
+	end
 end

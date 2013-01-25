@@ -1,5 +1,6 @@
 class CreateShowTable < ActiveRecord::Migration
-	def change
+	
+	def up
 		create_table :shows, :id => false do |t|
 			t.string :uuid, :primary => true
 			t.integer :year
@@ -10,5 +11,9 @@ class CreateShowTable < ActiveRecord::Migration
 			t.string :state
 			t.string :country
 		end
+	end
+
+	def down
+		drop_table :shows
 	end
 end

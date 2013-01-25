@@ -1,5 +1,6 @@
 class CreateSongTable < ActiveRecord::Migration
-	def change
+	
+	def up
 		create_table :songs, :id => false do |t|
 			t.string :uuid, :primary => true
 			t.string :show_set_uuid
@@ -7,5 +8,9 @@ class CreateSongTable < ActiveRecord::Migration
 			t.integer :order
 			t.boolean :segued
 		end
+	end
+
+	def down
+		drop_table :sogs
 	end
 end

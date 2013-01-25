@@ -19,12 +19,13 @@ module Gdshowsdb
 	end
 
 	def self.load
-		CreateSongRefTable.new.migrate :change
-		ImportSongRefs.new.migrate :change
-		CreateShowTable.new.migrate :change
-		CreateShowSetTable.new.migrate :change
-		CreateSongTable.new.migrate :change
-		ImportShows.new.migrate :change
+		ActiveRecord::Migrator.migrate File.dirname(__FILE__) + '/gdshowsdb/db/migrations', ARGV[0] ? ARGV[0].to_i : nil
+		# CreateSongRefTable.new.migrate :change
+		# ImportSongRefs.new.migrate :change
+		# CreateShowTable.new.migrate :change
+		# CreateShowSetTable.new.migrate :change
+		# CreateSongTable.new.migrate :change
+		# ImportShows.new.migrate :change
 	end  
 end
 
