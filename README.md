@@ -1,5 +1,7 @@
 # Gdshowsdb
 
+[![Build Status](https://secure.travis-ci.org/jefmsmit/gdshowsdb.png)](http://travis-ci.org/jefmsmit/gdshowsdb)
+
 All Grateful Dead show information in a relational database.
 
 Hoping to make this freely available database the cannonical resource for all Grateful Dead concert information.
