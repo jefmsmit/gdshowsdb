@@ -19,7 +19,6 @@ jack_straw_shows.each do |show|
 end
 ```
 
-
 # Resources
 
 http://blog.flatironschool.com/post/35204301093/activerecord-without-rails
