@@ -3,7 +3,7 @@ require 'yaml'
 class ImportShows < ActiveRecord::Migration
 	
 	def up		
-		@shows = YAML.load_file(File.dirname(__FILE__) + '/../../shows.yaml')	
+		@shows = YAML.load_file(File.dirname(__FILE__) + '/../../shows-debug.yaml')	
 		@shows.each do |key, value|
 			show = Show.new
 			show.uuid = value[:uuid]
