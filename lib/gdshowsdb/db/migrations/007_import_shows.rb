@@ -31,7 +31,8 @@ class ImportShows < ActiveRecord::Migration
 					saved_song = show_set.songs.create(:uuid => song[:uuid], :order => song_index, 
 						:segued => song[:segued])					
 					
-					song_ref.songs << saved_song					
+					song_ref.songs << saved_song
+					song_ref.shows << show					
 				end				
 			end
 

@@ -11,6 +11,6 @@ class CreateSongTable < ActiveRecord::Migration
 	end
 
 	def down
-		drop_table :sogs
+		drop_table :songs
 	end
 end
