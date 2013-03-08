@@ -8,6 +8,7 @@ Dir[File.dirname(__FILE__) + '/gdshowsdb/*.rb'].each {|file| require file }
 Dir[File.dirname(__FILE__) + '/gdshowsdb/db/migrations/*.rb'].each {|file| require file }
 Dir[File.dirname(__FILE__) + '/gdshowsdb/models/extensions/*.rb'].each {|file| require file }
 Dir[File.dirname(__FILE__) + '/gdshowsdb/models/*.rb'].each {|file| require file }
+Dir[File.dirname(__FILE__) + '/gdshowsdb/generators/*.rb'].each {|file| require file }
 
 module Gdshowsdb
 
