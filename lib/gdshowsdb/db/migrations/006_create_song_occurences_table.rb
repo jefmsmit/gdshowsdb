@@ -5,6 +5,7 @@ class CreateSongOccurencesTable < ActiveRecord::Migration
       t.string :uuid, :primary => true
       t.string :show_uuid
       t.string :song_ref_uuid
+      t.integer :order
     end
   end
 
