@@ -8,6 +8,8 @@ Hoping to make this freely available database the cannonical resource for all Gr
 
 Additionally, This Gem can be used as an API to the data.
 
+## Using with Ruby
+
 ```ruby
 require 'gdshowsdb'
 
@@ -21,9 +23,15 @@ jack_straw_shows.each do |show|
 end
 ```
 
+## Using with Rails
 
-# Resources
+Add this to your Gemfile
+```
+gem 'gdshowsdb', :git => 'git://github.com/jefmsmit/gdshowsdb.git'
+```
 
-http://blog.flatironschool.com/post/35204301093/activerecord-without-rails
+Generate the database migrations
+```
+rails generate gdshowsdatabase
+```
 
-https://simpleprojectmanagement.eu/blog//2012/05/dead-simple-activerecord-migrations-without-rails/
