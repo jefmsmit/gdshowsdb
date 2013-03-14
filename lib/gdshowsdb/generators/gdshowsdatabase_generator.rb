@@ -10,6 +10,7 @@ class GdshowsdatabaseGenerator < Rails::Generators::Base
 
   def create_migration_files
     Dir.entries(@@migrations_dir).each do |file|
+      sleep 1 #gross
       migration_template(file, "db/migrate/#{file.sub(/\d\d\d_/, '')}") unless File.directory?(file)
     end    
   end
