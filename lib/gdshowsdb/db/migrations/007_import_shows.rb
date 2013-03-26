@@ -1,10 +1,11 @@
 require 'yaml'
 require 'securerandom'
+require 'gdshowsdb'
 
 class ImportShows < ActiveRecord::Migration
 	
 	def up		
-		@shows = YAML.load_file(File.dirname(__FILE__) + '/../../shows.yaml')	
+		@shows = YAML.load_file(Gem.datadir('gdshowsdb') + '/shows.yaml')
 		@shows.each do |key, value|
 			show_song_count = {}
 			show = save_show(key, value)			
