@@ -1,7 +1,6 @@
 require "gdshowsdb/version"
 
 require 'rubygems'
-require 'sqlite3'
 require 'active_record'
 require 'rails/generators'
 
