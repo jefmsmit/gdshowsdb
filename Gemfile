@@ -8,4 +8,5 @@ group :development do
   gem "rspec"
   gem "bundler", "1.2.3"
   gem "ZenTest"
+  gem "sqlite3"
 end

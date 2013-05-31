@@ -19,6 +19,7 @@ show.show_sets.each do |set|
 end
 
 jack_straw = SongRef.find_by_name('Jack Straw')
+puts "#{jack_straw.name} was played #{jack_straw.song_occurences.size} times"
 jack_straw_shows = jack_straw.shows
 
 jack_straw_shows.each do |show|
