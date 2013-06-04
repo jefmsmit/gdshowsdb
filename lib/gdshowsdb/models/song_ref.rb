@@ -7,6 +7,6 @@ class SongRef < ActiveRecord::Base
 
   accepts_nested_attributes_for :song_occurences
 
-	attr_accessible :uuid, :name
+	attr_accessible :uuid, :name, :slug
 	
 end

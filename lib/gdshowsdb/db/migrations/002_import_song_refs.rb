@@ -9,6 +9,7 @@ class ImportSongRefs < ActiveRecord::Migration
 			song_ref = SongRef.new
 			song_ref.uuid = value
 			song_ref.name = key
+			song_ref.slug = key.parameterize.underscore
 			song_ref.save!
 		end
 	end

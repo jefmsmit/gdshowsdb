@@ -9,8 +9,10 @@ class CreateShowTable < ActiveRecord::Migration
 			t.string :venue
 			t.string :city
 			t.string :state
-			t.string :country
+			t.string :country			
 		end
+
+		add_index :shows, [:uuid]
 	end
 
 	def down
