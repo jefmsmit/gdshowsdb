@@ -5,5 +5,9 @@ class ShowSet < ActiveRecord::Base
 	belongs_to :show, :foreign_key => :show_uuid, :primary_key => :uuid
   accepts_nested_attributes_for :songs
 	
-	attr_accessible :uuid, :order
+	attr_accessible :uuid, :order, :encore
+
+  def encore?
+    encore
+  end
 end

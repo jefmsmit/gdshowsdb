@@ -5,6 +5,7 @@ class CreateShowSetTable < ActiveRecord::Migration
 			t.string :uuid, :primary => true
 			t.string :show_uuid
 			t.integer :order
+			t.boolean :encore, :default => false
 		end
 	end
 

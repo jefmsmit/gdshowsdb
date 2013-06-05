@@ -12,7 +12,7 @@ class ImportShows < ActiveRecord::Migration
 			
 			sets = value[:sets]
 			sets.each_with_index do |set, index|
-				show_set = save_show_set(show, set, index)
+				show_set = save_show_set(show, set, index, (set == sets.last), set[:songs].length)
 
 				set[:songs].each_with_index do |song, song_index|
 					song_ref = lookup_song_ref(song[:name])
@@ -56,11 +56,12 @@ class ImportShows < ActiveRecord::Migration
 		Show.find_by_uuid(value[:uuid])
 	end
 
-	def save_show_set(show, set, index)
+	def save_show_set(show, set, index, is_last, number_of_songs)
 		show_set = ShowSet.new
 		show_set.uuid = set[:uuid]
 		show_set.show = show
 		show_set.order = index
+		show_set.encore = (number_of_songs < 3 && is_last)
 		show_set.save!
 
 		ShowSet.find_by_uuid(set[:uuid])
