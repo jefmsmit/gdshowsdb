@@ -983,7 +983,17 @@
   :city: San Francisco
   :state: CA
   :country: US
+  :order: 0
   :sets: []
+
+1967/01/13: 
+  :uuid: 5da9ef8a-f3be-487d-972e-92e9a587c3de
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :order: 1
+  :sets: []  
 
 1967/01/14: 
   :uuid: 16a89512-324d-41c4-bf78-80937c0ebc03
@@ -991,7 +1001,28 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :order: 0
+  :sets:
+  - :uuid: d58a3f2d-9647-404d-a852-7565bcaa5090
+    :songs: 
+    - :uuid: 7b211b13-3f73-49ad-abfa-be58da74d24f
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 9c2725cf-4ea3-42d2-ac30-257e04824894
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 95465852-e9ba-4c0b-8c8d-30e7b1a5e528
+      :name: Good Morning Litle Schoolgirl
+      :segued: false  
+
+1967/01/14: 
+  :uuid: e2036b78-edb6-4997-a84a-d72bd2574aac
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :order: 1
+  :sets: []  
 
 1967/01/15: 
   :uuid: e4df6c4d-3131-435f-9f95-f6608c1e160f
@@ -1490,11 +1521,21 @@
   :sets: []
 
 1967/07/16: 
+  :uuid: 625c7db1-ce25-4346-89b7-d35f988a1245
+  :venue: Golden Gardens Beach
+  :city: Seattle
+  :state: WA
+  :country: US
+  :order: 0
+  :sets: []
+
+1967/07/16: 
   :uuid: 295063cc-59bd-4b04-863a-e082f9babe17
   :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
   :country: US
+  :order: 1
   :sets: []
 
 1967/07/18: 
@@ -1546,11 +1587,21 @@
   :sets: []
 
 1967/08/02: 
+  :uuid: 587e6ab2-79a7-4005-b95b-876ef0691b2c
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ""
+  :country: CA
+  :order: 0
+  :sets: []
+
+1967/08/02: 
   :uuid: b32546ec-246a-4f08-b53b-fc65635a18f8
   :venue: O'Keefe Centre
   :city: Toronto
   :state: ""
   :country: CA
+  :order: 1
   :sets: []
 
 1967/08/03: 
@@ -1570,11 +1621,39 @@
   :sets: []
 
 1967/08/05: 
+  :uuid: c9dbe3c4-59c3-4d07-acb4-8fc6cef68ec3
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ""
+  :country: CA
+  :order: 0
+  :sets: []
+
+1967/08/05: 
   :uuid: 860cbb8d-0efe-4e48-824f-becf6f7c411e
   :venue: O'Keefe Centre
   :city: Toronto
   :state: ""
   :country: CA
+  :order: 1
+  :sets: [
+  - :uuid: 7687b3bf-a94d-4b57-aa94-93d78295a5ec
+  :songs: 
+  - :uuid: ae615da7-b47e-4368-9e24-873d5613ca0a
+    :name: Turn On Your Lovelight
+    :segued: false
+  - :uuid: 9f070af3-4268-40ce-85e3-ef705d7aa2ba
+    :name: Alligator
+    :segued: false
+  ]
+
+1967/08/06: 
+  :uuid: 342970e0-528b-4bb4-954a-0f382ae8c79c
+  :venue: Palace Ville Marie
+  :city: Montreal
+  :state: ""
+  :country: CA
+  :order: 0
   :sets: []
 
 1967/08/06: 
@@ -1583,6 +1662,7 @@
   :city: Montreal
   :state: ""
   :country: CA
+  :order: 1
   :sets: []
 
 1967/08/10: 
@@ -1666,11 +1746,21 @@
   :sets: []
 
 1967/09/09: 
+  :uuid: 20e0786f-6274-44dd-8702-d8f67e5dcad2
+  :venue: Volunteer Park
+  :city: Seattle
+  :state: WA
+  :country: US
+  :order: 0
+  :sets: []
+
+1967/09/09: 
   :uuid: d3f87906-5430-4d6a-a839-c4318f03d4ce
   :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
   :country: US
+  :order: 1
   :sets: []
 
 1967/09/15: 
@@ -1818,12 +1908,27 @@
   :sets: []
 
 1967/12/27: 
+  :uuid: f6f921c3-4a0a-4c4d-8184-b9846d6ca34c
+  :venue: Village Theater
+  :city: New York
+  :state: NY
+  :country: US
+  :order: 0
+  :sets: 
+  - :uuid: b963c7e4-2e7f-4606-a10d-e0ee87a85174
+    :songs:
+    - :uuid: 7fb81f2a-9483-4c79-9fc9-d61c4a33c577
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+
+1967/12/27: 
   :uuid: f1d4582f-1533-412e-b763-d504dc3d837f
   :venue: Village Theater
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :order: 1
+  :sets: []  
 
 1967/12/29: 
   :uuid: a4570aaa-33f2-4333-8890-5fef50b3311a
@@ -2137,6 +2242,24 @@
   :country: US
   :sets: []
 
+1968/03/09: 
+  :uuid: 66282770-8884-4639-bcac-516afb6950e6
+  :venue: Melodyland Theatre
+  :city: Anaheim
+  :state: CA
+  :country: US
+  :order: 0
+  :sets: []
+
+1968/03/09: 
+  :uuid: 28d0b941-56fe-4098-896e-34ad704d3179
+  :venue: Melodyland Theatre
+  :city: Anaheim
+  :state: CA
+  :country: US
+  :order: 1
+  :sets: []
+
 1968/03/11: 
   :uuid: e21a1bdd-9f33-424a-ae37-b183eabcb193
   :venue: Sacramento Memorial Auditorium
@@ -2358,11 +2481,30 @@
   :sets: []
 
 1968/05/08: 
+  :uuid: 4354d1af-7d3e-4e2c-b1b2-2e4560a8215e
+  :venue: Electric Circus
+  :city: New York
+  :state: NY
+  :country: US
+  :order: 0
+  :sets: []
+
+1968/05/08: 
   :uuid: 2212e933-0fdd-444b-97e1-fbcc36029af8
   :venue: Electric Circus
   :city: New York
   :state: NY
   :country: US
+  :order: 1
+  :sets: []
+
+1968/05/09: 
+  :uuid: 1aa9cc9f-42fb-4d7f-a71c-382492e427b3
+  :venue: Electric Circus
+  :city: New York
+  :state: NY
+  :country: US
+  :order: 0
   :sets: []
 
 1968/05/09: 
@@ -2371,6 +2513,7 @@
   :city: New York
   :state: NY
   :country: US
+  :order: 1
   :sets: []
 
 1968/05/11: 
@@ -2390,11 +2533,21 @@
   :sets: []
 
 1968/05/18: 
+  :uuid: 086d10b3-9a6b-4be2-9738-473aad53374d
+  :venue: Santa Clara County Fairgrounds
+  :city: Santa Clara
+  :state: CA
+  :country: US
+  :order: 0
+  :sets: []
+
+1968/05/18: 
   :uuid: bbd21a75-36db-498a-a687-016c729ec086
   :venue: Shrine Exhibition Hall
   :city: Los Angeles
   :state: CA
   :country: US
+  :order: 1
   :sets: []
 
 1968/05/23: 
@@ -2493,11 +2646,83 @@
   :sets: []
 
 1968/06/14: 
+  :uuid: 746d0777-34c5-4f8b-b167-a320354a2809
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :order: 0
+  :sets:
+  :sets: 
+  - :uuid: 4dba90e5-c2c0-4cae-8302-7a6d0fe566cb
+    :songs: 
+    - :uuid: 61697f2e-f69e-4661-81a8-105b715abd21
+      :name: Morning Dew
+      :segued: false
+    - :uuid: eb4cd691-0d63-4e1d-b280-7b53c1ebab34
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 609c84a0-3e1a-45ad-8e8b-ce66551486e2
+      :name: The Other One
+      :segued: true
+    - :uuid: 45036309-430f-415e-9ede-483cdc12e0ac
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: a5a1e7f1-89ad-4d55-9ee1-412672384ee7
+      :name: New Potato Caboose
+      :segued: true
+
+1968/06/14: 
   :uuid: 2222ca36-6a5a-418d-9570-ad177fc8e60e
   :venue: Fillmore East
   :city: New York
   :state: NY
   :country: US
+  :order: 1
+  :sets:
+  - :uuid: 05ec3435-1ce4-4a2a-bc1a-f3a8743431e8
+    :songs:
+    - :uuid: 0197ff3e-0d85-40c7-adf5-f4672b79964e
+      :name: Space
+      :segued: true
+    - :uuid: 2fc4250f-3564-4c18-ae68-d712bfbdcc27    
+      :name: Jam
+      :segued: true
+    - :uuid: 9575d166-f556-4f40-b6bb-16006d4a5914
+      :name: The Eleven      
+      :segued: true
+    - :uuid: 406eadcb-7c37-44fa-a576-66f4e741abaf
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: 61f67f80-898a-427e-a062-9cb05792ae1d
+      :name: Alligator
+      :segued: true
+    - :uuid: 42df57f3-e28b-4546-9a47-972eacbd078d
+      :name: Drums
+      :segued: true
+    - :uuid: 79d59ac3-f79c-468b-9f4f-7e1fc4f019cf
+      :name: Turn On Your Lovelight
+      :segued: true
+    - :uuid: babc0a56-b51c-4d7e-a471-1c92aee05ba9
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 14c29787-4a84-48cd-88c8-391fb2141466
+      :name: Drums
+      :segued: true
+    - :uuid: f2229dc8-1407-42a0-a122-a0b3e4f8b989
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid:0e84ee58-d7c8-45e8-849b-db450c5cb333
+      :name: Feedback
+      :segued: false 
+
+1968/06/15: 
+  :uuid: b07588e5-613d-44b7-8e4b-b6b7d6f4ed6d
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :order: 0
   :sets: []
 
 1968/06/15: 
@@ -2506,6 +2731,7 @@
   :city: New York
   :state: NY
   :country: US
+  :order: 1
   :sets: []
 
 1968/06/19: 
@@ -2733,11 +2959,21 @@
   :sets: []
 
 1968/09/01: 
+  :uuid: c551221a-3bd2-4fc9-ad1d-40615cb0a701
+  :venue: Palace Of Fine Arts
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :order: 0
+  :sets: []
+
+1968/09/01: 
   :uuid: 02ab7891-20c3-449f-a235-33db14d60810
   :venue: Fillmore West
   :city: San Francisco
   :state: CA
   :country: US
+  :order: 1
   :sets: []
 
 1968/09/02: 
@@ -2938,11 +3174,21 @@
   :sets: []
 
 1968/11/17: 
+  :uuid: 3a0ef00f-8697-4891-8c46-9d56c2d18334
+  :venue: Eagle's Auditorium
+  :city: Seattle
+  :state: WA
+  :country: US
+  :order: 0
+  :sets: []
+
+1968/11/17: 
   :uuid: b9c002eb-a97d-4d7c-92d2-c9aa94bd0a36
   :venue: Eagle's Auditorium
   :city: Seattle
   :state: WA
   :country: US
+  :order: 1
   :sets: []
 
 1968/11/21: 
