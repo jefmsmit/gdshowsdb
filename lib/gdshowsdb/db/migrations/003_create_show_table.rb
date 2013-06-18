@@ -6,13 +6,14 @@ class CreateShowTable < ActiveRecord::Migration
 			t.integer :year
 			t.integer :month
 			t.integer :day
+			t.integer :order, :default => 0
 			t.string :venue
 			t.string :city
 			t.string :state
 			t.string :country			
 		end
 
-		add_index :shows, [:uuid]
+		add_index :shows, [:uuid, :year, :month, :day]
 	end
 
 	def down

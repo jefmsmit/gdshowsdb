@@ -40,17 +40,19 @@ class ImportShows < ActiveRecord::Migration
 	def lookup_song_ref(name)
 		@ref_cache = {} if @ref_cache.nil?
 		@ref_cache[name] = SongRef.find_by_name(name) unless @ref_cache.has_key?(name)
+		raise "#{name} is not a valid SongRef" if @ref_cache[name].nil? 
 		@ref_cache[name]
 	end
 
 	def save_show(key, value)
 		show = Show.new
 		show.uuid = value[:uuid]
-		show.year, show.month, show.day = key.split("/")
+		show.year, show.month, show.day, order = key.split("/")
 		show.venue = value[:venue]
 		show.city = value[:city]
 		show.state = value[:state]
 		show.country = value[:country]
+		show.order = order if order
 		show.save!
 
 		Show.find_by_uuid(value[:uuid])
