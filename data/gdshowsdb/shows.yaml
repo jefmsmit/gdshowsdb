@@ -1636,7 +1636,7 @@
   :state: ""
   :country: CA
   :order: 1
-  :sets: [
+  :sets: 
   - :uuid: 7687b3bf-a94d-4b57-aa94-93d78295a5ec
   :songs: 
   - :uuid: ae615da7-b47e-4368-9e24-873d5613ca0a
@@ -1645,7 +1645,6 @@
   - :uuid: 9f070af3-4268-40ce-85e3-ef705d7aa2ba
     :name: Alligator
     :segued: false
-  ]
 
 1967/08/06: 
   :uuid: 342970e0-528b-4bb4-954a-0f382ae8c79c
@@ -3436,12 +3435,77 @@
   :sets: []
 
 1969/02/07: 
+  :uuid: 9d9d2576-91d8-4b7e-b82b-6bb8bed4caca
+  :venue: Stanley Theatre
+  :city: Pittsburgh
+  :state: PA
+  :country: US
+  :order: 0
+  :sets:
+  - :uuid: 50781c4f-2743-4c59-8ba9-2b89613dd7cc
+    :songs: 
+    - :uuid: 7a668106-7d3b-406a-a16f-a1054fdd9235
+      :name: Dark Star
+      :segued: true
+    - :uuid: ee361e7d-f625-45a2-ba2f-3ac8ecdc1ad2
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: c998c2be-2c91-4c11-aca4-94d906e2fb27
+      :name: The Eleven
+      :segued: true
+    - :uuid: d306ec56-81e9-46f8-9ade-a057eef3a03e
+      :name: Turn On Your Lovelight
+      :segued: false
+
+1969/02/07: 
   :uuid: 98ac3305-22c4-4572-857b-2d8a617064a8
   :venue: Stanley Theatre
   :city: Pittsburgh
   :state: PA
   :country: US
-  :sets: []
+  :order: 1
+  :sets:
+  - :uuid: aadbee6e-8854-4766-b7a2-05437e000a05
+    :songs: 
+    - :uuid: 05865e6c-793a-42f8-9cfc-a64a650b7e1a
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 0b2d7d6a-d541-4be1-9d65-302c90cbd3b8
+      :name: Drums
+      :segued: true
+    - :uuid: ffc426f0-30fb-43ef-8d40-e308fecc334c 
+      :name: The Other One
+      :segued: true
+    - :uuid: 89a0db6f-37d1-4ccd-a385-cac121de09f5
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 2fedb4fd-12e6-4025-aca4-59066b93b723 
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 218da5c2-2a9d-428f-99eb-2e88810a0b27
+      :name: Alligator
+      :segued: true
+    - :uuid: 2c76433c-c54b-4354-aa09-61db4b40ed2e
+      :name: Drums
+      :segued: true
+    - :uuid: 29e1ae8e-6234-488e-ab9b-ea86a8a0bbc5
+      :name: Jam
+      :segued: true
+    - :uuid: 8019f14e-04b3-440b-b9f3-35d024e7e68f
+      :name: China Cat Sunflower Jam
+      :segued: true
+    - :uuid: bce37a84-c347-4d6f-84d7-559a9d564dfe
+      :name: Jam
+      :segued: true
+    - :uuid: c2c0cd6c-be91-4863-ae32-9a2c00770f1d
+      :name: Caution (Do Not Step On The Tracks)
+      :segued: true
+    - :uuid: 0ac8c69b-7bd7-40d3-b571-b86237f37097
+      :name: Feedback
+      :segued: true
+    - :uuid: 357ea1c0-b0ae-4abb-8b4b-949b5321eea8
+      :name: And We Bid You Goodnight
+      :segued: false
 
 1969/02/09: 
   :uuid: 32a3f97f-efc9-4005-889c-85a230d58ffe
@@ -3457,7 +3521,43 @@
   :city: New York
   :state: NY
   :country: US
+  :order: 0
   :sets: []
+
+1969/02/11: 
+  :uuid: 572ea81d-a581-459c-a5e4-3a26c2323a44
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :order: 1
+  :sets:
+  - :uuid: c850489a-c968-4d10-b94e-7c27948821a0
+    :songs:
+    - :uuid: 0e76f4d8-870a-4f3d-b497-7bdb970435d8
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 869f5734-163e-467f-a978-caebcf432f0c
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 7a6bfe07-da03-4d43-9bfc-dc4d86507377
+      :name: The Other One
+      :segued: true
+    - :uuid: b46d6687-5d3a-4fbb-9190-f8e69cc16665
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 58ed1f3c-b7ba-4490-b22b-0f08672cc650
+      :name: Doin' That Rag
+      :segued: false
+    - :uuid: ab11a4c6-6173-4965-93e6-ab5ba92b866d
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: fbee28a7-e7fc-487e-9158-9d44da7e60a0
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: e8fb02ce-26e0-4f0a-8c9d-5a0815056d93
+      :name: Hey Jude
+      :segued: false
 
 1969/02/12: 
   :uuid: 62707cbe-d161-485a-accf-7a29ddd0707c
@@ -3465,7 +3565,41 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 95642e21-126b-4a0f-93f2-e3177e35b6d7
+    :songs:
+    - :uuid: 2edbd389-ac17-4e1b-94c8-64b550dcc566
+      :name: Dupree's Diamond Blus
+      :segued: false
+    - :uuid: dd4a976a-33d6-4a0b-b425-c06a440b1386
+      :name: Mountains Of The Moon
+      :segued: false
+    - :uuid: 2fff01dd-75d3-4fb0-8c0a-4bfc23defa40
+      :name: Dark Star
+      :segued: true
+    - :uuid: a0ae4049-ec31-4394-a659-94a844884adb
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 40848a1d-ed72-48f5-bff0-6da259213ea8
+      :name: The Eleven
+      :segued: true
+    - :uuid: 60fa2a20-113b-4ad4-98cf-b9e76aa73950
+      :name: Drums
+      :segued: true
+    - :uuid: 1e4943d6-fa9d-410b-b34f-b87158d2d13d
+      :name: Caution (Do Not Step On The Tracks)
+      :segued: true
+    - :uuid: d0480f8f-bbc5-45dd-851a-1094931b6e3f
+      :name: Feedback
+      :segued: true
+    - :uuid: 3e35dc13-90d5-4fee-93cc-473d74bbadf7
+      :name: And We Bid You Goodnight
+      :segued: false
+  - :uuid: 59042b2e-fdc2-44e6-83ab-afdde183c02b
+    :songs:
+    - :uuid: f8ed3b25-6dc0-4a5d-86f5-e0599aca2582
+      :name: Cosmic Charlie
+      :segued: false
 
 1969/02/14: 
   :uuid: 45768835-bb67-4a6b-b500-1a87f9d1c07e
@@ -3733,10 +3867,19 @@
 
 1969/05/02: 
   :uuid: 75ca8875-55ab-43a0-b69b-4f9ac4afbd0b
+  :venue: Sierra College
+  :city: Rocklin
+  :state: CA
+  :country: US
+  :sets: []
+
+1969/05/03: 
+  :uuid: f336f1b2-bfdd-4749-8c2c-a7d204a53b50
   :venue: Winterland Arena
   :city: San Francisco
   :state: CA
   :country: US
+  :order: 0
   :sets: []
 
 1969/05/03: 
@@ -3745,7 +3888,31 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :order: 1
+  :sets:
+  - :uuid: be7e94b3-b800-48a9-bdcc-976ab9caf272
+    :songs: 
+    - :uuid: 33965d98-82c8-4b45-a8c2-c135f27d8fbe
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: c2b4a079-9583-416f-ac0a-8d62dab22e90
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 0685642b-e035-4a62-b249-1ad6299ceb37
+      :name: Drums
+      :segued: true
+    - :uuid: 2d0b1f39-26e2-4692-ab59-e90c5e5ad5bc
+      :name: The Other One
+      :segued: true
+    - :uuid: 7f231f92-c3a4-41e8-bbfc-1292d29a1f87
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 283d9928-442f-410e-8740-602b9eb55894
+      :name: Doin' That Rag
+      :segued: false
+    - :uuid: 33e9c87d-c156-45a1-9c1d-7dab36e299a6
+      :name: Me And My Uncle
+      :segued: false
 
 1969/05/07: 
   :uuid: cd36309e-4610-4a58-882d-75cddda43333
@@ -3961,6 +4128,102 @@
   :sets: []
 
 1969/06/21: 
+  :uuid: 282c4f37-c9bb-44fd-b6e0-37564846b602
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :order: 0
+  :sets:
+  - :uuid: 471ebe38-3302-42e7-bef8-a6b71e3a0fea
+    :songs:
+    - :uuid: d941ea68-9827-434b-8204-f82a2b9dc8d2
+      :name: Green Green Grass Of Home
+      :segued: false
+    - :uuid: e4594fd5-a39e-4730-9027-e8e3f4fc6d51
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 7d9236d8-9f8e-4ca4-86c2-6c61f1712064
+      :name: High Time
+      :segued: false
+    - :uuid: 3d17a8ce-e0bd-4a2c-9eb0-70b4ecd38af7
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: ec528771-c782-4d1c-92b1-0eb85371766e
+      :name: Jam
+      :segued: true
+    - :uuid: d89c0d2d-c413-42b2-a732-763268e29ea2
+      :name: Morning Dew
+      :segued: true
+    - :uuid: ee41f668-efed-4c55-a209-c3231ab8b7d5
+      :name: Alligator
+      :segued: true
+    - :uuid: 1c2978e6-b955-4d08-a0eb-a9d6c70bd21e
+      :name: Drums
+      :segued: true
+    - :uuid: 4f42e182-6615-4002-981c-0f2309602396
+      :name: Jam
+      :segued: true
+    - :uuid: d9fa6d8f-7d8b-4fbe-8ca5-fb871bc826b8
+      :name: The Other One
+      :segued: true
+    - :uuid: 641f525b-1db7-4794-8843-5c73da2c102d
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: d550cb45-ab4c-4b32-968c-abc38e8ecf73
+      :name: Slewfoot
+      :segued: false
+  - :uuid: 7ba983d6-ad37-4737-a1a0-da08fc0e72a3
+    :songs:
+    - :uuid: 67b9024b-2616-4f37-bc2a-295cc75c413f
+      :name: Cosmic Charlie
+      :segued: false
+
+1969/06/21: 
+  :uuid: d9252570-0cc6-4c3d-92f9-777046e9a0da
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :order: 1
+  :sets:
+  - :uuid: 15fdf7c5-17ac-4617-9346-a5290013e8eb
+    :songs:
+    - :uuid: f869c15c-5bc3-4200-9ff5-2b7cdbbcbd45
+      :name: Old, Old House
+      :segued: false
+    - :uuid: 90fee55e-cab1-451a-b302-ac379bac6b97
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: 66d32f4b-ded5-43ab-ba40-5e17857b721e
+      :name: King Bee
+      :segued: false
+    - :uuid: 4b1988d8-fc45-4dd6-b99b-a6c173ec9f10
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 2a4988fa-e048-4f07-97d6-0b5c4432fa12
+      :name: Mama Tried
+      :segued: false
+    - :uuid: a98b19ad-abfa-4b1c-986c-e260f94d7eb5
+      :name: High Time
+      :segued: false
+    - :uuid: d99a5ddf-8415-4145-b442-2a3ef44c02b4
+      :name: Dupree's Diamond Blues
+      :segued: false
+    - :uuid: 9d57eaf7-3e52-45d0-bc4d-1053b6dad564
+      :name: Dark Star
+      :segued: true
+    - :uuid: 2e64d3cd-9452-4244-8106-0433bdb0ec0a
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 478245aa-a7f0-489c-94af-25e565ba85c1
+      :name: The Eleven
+      :segued: true
+    - :uuid: 5f1e9cd3-2cb8-4175-a3a2-e71d84650880
+      :name: Turn On Your Lovelight
+      :segued: false
+
+1969/06/22: 
   :uuid: 3161cd48-63ce-414d-bda5-b4e8577b5837
   :venue: Central Park
   :city: New York
@@ -3969,8 +4232,17 @@
   :sets: 
   - :uuid: bb0be889-0b3c-4f1c-b912-9d282805b3b0
     :songs: 
-    - :uuid: 22d72bb1-c052-4304-b29a-903163310711
-      :name: Silver Threads And Golden Needle
+    - :uuid: 853e13c9-2628-46da-a7ba-99f1bc3aa640
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 6b8064fb-2f64-4e4e-9758-7b815f04976c
+      :name: Jam
+      :segued: true
+    - :uuid: efb08720-653a-452a-811f-77a3d48bd5df
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 7cfabd74-0f26-44bd-a690-be383756bdc2
+      :name: Hard To Handle
       :segued: false
     - :uuid: 5445b3d2-5eb2-40fa-aa7c-53e14c427888
       :name: Me And My Uncle
@@ -3978,30 +4250,25 @@
     - :uuid: 4274b7bf-edfd-4700-bd34-4d5af3841664
       :name: Sittin' On Top Of The World
       :segued: false
-    - :uuid: efb08720-653a-452a-811f-77a3d48bd5df
-      :name: Casey Jones
+    - :uuid: 22d72bb1-c052-4304-b29a-903163310711
+      :name: Silver Threads And Golden Needle
       :segued: false
-    - :uuid: 7cfabd74-0f26-44bd-a690-be383756bdc2
-      :name: Hard To Handle
+    - :uuid: 9217c2cd-db0e-4c9f-9375-a28b7ad2bcdc
+      :name: Dark Star
+      :segued: true
+    - :uuid: 17f7e357-c692-44f4-b9d0-77dfd1c6921e
+      :name: The Other One
+      :segued: true
+    - :uuid: fb69e6d8-489f-4631-9ce1-e3d7115d3481
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 79ff3269-9036-427a-93de-10b893f54872
+      :name: It's A Sin
       :segued: false
     - :uuid: f2ad50e0-5321-488b-b453-13c0704cfbca
       :name: Turn On Your Lovelight
       :segued: false
-    - :uuid: 853e13c9-2628-46da-a7ba-99f1bc3aa640
-      :name: Dancing In The Street
-      :segued: false
-    - :uuid: 9217c2cd-db0e-4c9f-9375-a28b7ad2bcdc
-      :name: Dark Star
-      :segued: false
-    - :uuid: 17f7e357-c692-44f4-b9d0-77dfd1c6921e
-      :name: The Other One
-      :segued: false
-    - :uuid: fb69e6d8-489f-4631-9ce1-e3d7115d3481
-      :name: Saint Stephen
-      :segued: false
-    - :uuid: 79ff3269-9036-427a-93de-10b893f54872
-      :name: It's A Sin
-      :segued: false
+
 1969/06/27: 
   :uuid: 03be3df7-382d-44a2-87b4-df9839eb6749
   :venue: Veterans Auditorium
