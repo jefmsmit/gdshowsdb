@@ -7625,13 +7625,162 @@
   :country: US
   :sets: []
 
-1970/06/24: 
+1970/06/24/0: 
+  :uuid: ec4295c4-06fe-498d-8dea-08622aef3c71
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 5567f5c5-117b-4d83-b250-6ce1974effc2
+    :songs:
+    - :uuid: 78f685ae-d68c-4179-b4a1-a328ea7c109c
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 7303b078-dfb0-4e19-a900-1fbd55fbbfb8
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: ae689b91-73fc-4ce6-a6b5-4e7afbf15436
+      :name: Attics Of My Life
+      :segued: false
+    - :uuid: cdc443b2-8b00-43b3-81c0-21e663061f77
+      :name: Friend Of The Devil
+      :segued: false
+    - :uuid: 640cb4bb-3e65-42d4-b8cc-aa96267c3e5a
+      :name: Let Me In
+      :segued: false
+    - :uuid: d6df4627-80f7-461c-a992-cca23ca24211
+      :name: Candyman
+      :segued: false
+    - :uuid: 9e2a7181-9b78-40cc-9da9-05b21e02664b
+      :name: Uncle John's Band
+      :segued: false    
+  - :uuid: 37209ec4-46b6-4f99-b0b3-a78934bdad81
+    :songs:
+    - :uuid: 834bef43-12cc-444a-b229-6594cdcd140c
+      :name: Casey Jones
+      :segued: true
+    - :uuid: 5b3cfa6c-8f26-4f1d-a1cd-0fc4986dadd1
+      :name: Black Peter
+      :segued: false
+    - :uuid: 7fc8795f-ba0f-4a36-b3e4-e52d2fe3e199
+      :name: Drums
+      :segued: true
+    - :uuid: 79192a9c-82cb-49f1-82f3-d2ee57ca213b
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: 2582bef2-959d-43fc-8df7-b3bdefad29ca
+      :name: Drums
+      :segued: true
+    - :uuid: 64888741-98a1-4759-9f7c-79826fe2a7b0
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 4551abd6-cf41-48db-a610-234df5b0e8b9
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 738724b0-da11-43cd-8b26-0e8f5ad30038
+      :name: High Time
+      :segued: false
+    - :uuid: 11cc880f-d4b2-4011-9212-9b4bb91baad3
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 9cd7d752-03f3-4558-8999-a3f9c9e421ab
+      :name: Drums
+      :segued: true
+    - :uuid: a6143340-e58c-4e48-8b1d-6c88d26133e2
+      :name: The Other One
+      :segued: true
+    - :uuid: 77d9b84f-ba1b-4a07-b20a-c7fe14602c30
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 1e832845-b3e8-4439-b82f-ababc568d66b
+      :name: Cosmic Charlie
+      :segued: false    
+  - :uuid: 52f41996-e8de-4f9a-82f5-ff2e8c1081dd
+    :songs:
+    - :uuid: 90033346-8321-4da8-abaf-cd58473af216
+      :name: New Minglewood Blues
+      :segued: false
+
+1970/06/24/1: 
   :uuid: 129aaba6-ca56-46e9-b0ec-79ef9aa00501
   :venue: Capitol Theater
   :city: Port Chester
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: ac2b9088-18ec-47e4-b162-531687820f80
+    :songs:
+    - :uuid: 4ab9c5b4-4c86-47c1-8b32-99c227cfb54f
+      :name: Bg Railroad Blues
+      :segued: false
+    - :uuid: 7c895df2-f368-4776-a48c-ad474fa16cf2
+      :name: Deep Elem Blues
+      :segued: false
+    - :uuid: 70cb5cef-49b4-43fd-b338-0d7bba9cd60a
+      :name: Monkey And The Engineer
+      :segued: false
+    - :uuid: 840509b5-929b-48e6-8f8d-b6e8f8c7f5aa
+      :name: The Rub
+      :segued: false
+    - :uuid: 1dcf459c-b747-4f68-b09d-bc439ba6fd5b
+      :name: Silver Threads And Golden Needle
+      :segued: false
+    - :uuid: de324c3e-eb83-4178-93ae-02bb4db1e3c0
+      :name: Friend Of The Devil
+      :segued: false
+    - :uuid: f494c446-0ef9-42cd-9a42-9e55d3017616
+      :name: Candyman
+      :segued: false
+    - :uuid: 769c8774-ff47-4196-a9df-847a227c4977
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: a4fc90d6-f8bf-4058-96dc-346a117beefe
+      :name: Cold Jordan
+      :segued: false
+  - :uuid: 03369e58-755e-49d7-8a49-a64165bf7dbe
+    :songs:
+    - :uuid: de770940-108e-45fb-b319-710e9f5b40ef
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 3f221150-1284-40c1-a78e-47243fd55950
+      :name: Easy Wind
+      :segued: false
+    - :uuid: 4b3eb499-df3d-4745-b698-48a01700d219
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 4e4abd23-af6c-41d4-83ec-918866d680b7
+      :name: Dark Star
+      :segued: true
+    - :uuid: c0f855a0-4f3c-419f-ac62-a1bf06f9e3de
+      :name: Attics Of My Life
+      :segued: true
+    - :uuid: d6e6f8d1-6503-431e-8758-3630e21da63d
+      :name: Dark Star
+      :segued: true
+    - :uuid: fbf78b0f-e2c1-4d44-b520-0d8302cf6aeb
+      :name: Sugar Magnolia
+      :segued: true
+    - :uuid: 4351a151-9895-4862-b4f6-7e9af6e7b15a
+      :name: Dark Star
+      :segued: true
+    - :uuid: f1099bd1-9c94-46c8-a200-614f7aee76f1
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 86968d1d-3a83-47ec-afa4-13ab66d2c9bd
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 46fd8359-1162-402e-813f-3bb1581aadb1
+      :name: I Know You Rider
+      :segued: false
+  - :uuid: 86e50a6c-f3d5-44e7-87de-9c5f233dc9fa
+    :songs:
+    - :uuid: 75f5064c-4ec7-4503-a9cb-e71199362957
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: 28515a5d-a290-4aa0-af1a-dd0e06cb8c91
+      :name: Swing Low Sweet Chariot
+      :segued: false
 
 1970/06/27: 
   :uuid: b6b7af55-1d0c-4ce8-bc39-aeaf5661afe5
