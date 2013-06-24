@@ -8088,7 +8088,62 @@
   :country: US
   :sets: []
 
-1970/10/30: 
+1970/10/30/0: 
+  :uuid: 621c3f93-0795-4965-9978-608c1fbea2f9
+  :venue: SUNY Gym
+  :city: Stony Brook
+  :state: NY
+  :country: US
+  :sets: 
+  - :uuid: be5356d5-1b1c-4ff5-b1a8-91ee7647042b
+    :songs: 
+    - :uuid: c3187dfc-7b42-4256-ba34-dc64bcab5c93
+      :name: Smokestack Lightnin'
+      :segued: false
+    - :uuid: 1e187860-a00b-4813-8f01-9204f2330374
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 2ca65fb5-9d04-49ab-9fa9-b4253ae1ccb2
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 97db0155-2930-4e5e-9dfd-499fc186098a
+      :name: I Know You Rider
+      :segued: true
+    - :uuid: 1b7ece26-e2c7-4b02-878f-57c6eee91baf
+      :name: Friend Of The Devil
+      :segued: false
+    - :uuid: 615ea83d-0c29-4d8a-b37e-b28183dd0f05
+      :name: Truckin'
+      :segued: false
+    - :uuid: 8f5000fa-e2df-4d36-9cbf-a7d5b97612f8
+      :name: Candyman
+      :segued: false
+    - :uuid: 278dffde-668a-48b5-bc3f-ceebc734615c
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: ca33c7ea-05c3-4f3c-bfd8-d86260f5d5e1
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: eed01840-8733-4c0f-94a3-e9f3db4e3a85
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 0b564967-7c3d-4f0c-89b9-6e26d0a8f7ae
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 807064ca-3007-406d-ac11-bebece0fe696
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 0b9d7ba5-dc71-4be2-824b-78c173a79a21
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 56d6cd68-a235-4473-a607-4d59fc572eeb
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 6ec7e9cc-7366-441c-b8f9-33837dd01b46
+      :name: Turn On Your Lovelight
+      :segued: false
+
+1970/10/30/1: 
   :uuid: e0ae8d6c-ad35-4857-a013-6d3b5666690c
   :venue: SUNY Gym
   :city: Stony Brook
@@ -8108,7 +8163,7 @@
       :segued: false
     - :uuid: 812944c0-b45c-426c-bae4-188a694201e1
       :name: I Know You Rider
-      :segued: false
+      :segued: true
     - :uuid: 51ad332d-fed9-49ab-8a96-891aef2b57ea
       :name: Friend Of The Devil
       :segued: false
@@ -8129,19 +8184,20 @@
       :segued: false
     - :uuid: 8824d1a2-9d1b-4f76-9220-ee0587f4d23f
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 034e1d94-df5a-412c-9fb4-64863b52c67a
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: e201a0af-b9a7-4537-82fe-21d4e3d596fc
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 3a0b2002-2072-41ae-8e26-fc1ff854c89e
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 73bf561c-82ac-49b2-bf16-4c3f952b0957
       :name: Turn On Your Lovelight
       :segued: false
+
 1970/10/31: 
   :uuid: d91b7424-dcb8-4977-8774-7c7f103e196f
   :venue: SUNY Gym
