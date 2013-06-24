@@ -7782,9 +7782,43 @@
       :name: Swing Low Sweet Chariot
       :segued: false
 
-1970/06/27: 
+1970/06/27/0: 
   :uuid: b6b7af55-1d0c-4ce8-bc39-aeaf5661afe5
   :venue: Canadian National Exhibition Hall
+  :city: Toronto
+  :state: ""
+  :country: CA
+  :sets: 
+  - :uuid: dedf0acd-a917-4cc8-90c3-0a713d579eab
+    :songs:
+    - :uuid: e89bf385-44d0-44ba-9866-82ac51fc7c5d
+      :name: Candyman
+      :segued: false
+    - :uuid: 1a5d0f32-36fa-403a-aa34-a74b52460316
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: 95660826-63b2-4807-9177-be1061d0b6fe
+      :name: Easy Wind
+      :segued: false
+    - :uuid: 06936e65-280b-4d6e-85a5-f5aa42c87a4b
+      :name: New Speedway Boogie
+      :segued: true
+    - :uuid: 192492aa-c63f-4c52-a2d1-4c9d2469f530
+      :name: Nobody's Fault But Mine Jam
+      :segued: true
+    - :uuid: a8f7764b-95cc-47ef-b577-961819d0c21a
+      :name: New Speedway Boogie
+      :segued: false
+    - :uuid: e38c034e-de05-49cc-8a34-87e841f7b6f6
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: a30d36e7-72d4-4cf2-828f-05733ce45ade
+      :name: Casey Jones
+      :segued: false
+
+1970/06/27/1: 
+  :uuid: af97978f-5c72-453f-ac07-a6fade882459
+  :venue: Coronation Park
   :city: Toronto
   :state: ""
   :country: CA
