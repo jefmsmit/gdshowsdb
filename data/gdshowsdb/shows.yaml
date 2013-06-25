@@ -8198,7 +8198,56 @@
       :name: Turn On Your Lovelight
       :segued: false
 
-1970/10/31: 
+1970/10/31/0: 
+  :uuid: c6cff1a7-69d1-4110-8b66-0d27af09102c
+  :venue: University Gymnasium, State University of New York
+  :city: Stony Brook
+  :state: NY
+  :country: US
+  :sets: 
+  - :uuid: 0d226577-c149-4ff0-9c89-d39e7ded9412
+    :songs: 
+    - :uuid: 2ebc21f3-ea57-44a6-a3bf-4628bf79d505
+      :name: Till The Morning Comes
+      :segued: false
+    - :uuid: d4259c77-4ac1-4e71-9dea-88f2d6e03a02 
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 7a3e87dd-8bce-4b2c-80ab-af7d84cf1b78
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 2f5f8ac8-5750-41b5-b857-321632259dd5
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: da390292-8768-4fc3-9008-5e16439bbe7d
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: ad6a474e-2526-4673-9d8f-f0bc507602a7
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 44423610-41a3-48fd-8f2e-2425c91bc686
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 0be81302-bc86-4f90-8f10-bc6ccb07b541
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: f631f3ce-3677-44e2-88cb-88f49213fc08
+      :name: Dark Hollow
+      :segued: false
+    - :uuid: 35279184-1019-484d-9b92-d2f55f14fc00
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: f151dd39-4ba2-4519-b44d-3f53e825a6aa
+      :name: Viola Lee Blues
+      :segued: true
+    - :uuid: 2907108e-49b6-4ef8-a0c9-755de6a749f0
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: bba0f8c4-3ece-4141-bf81-e9ed92152fe5
+      :name: Uncle John's Band
+      :segued: false
+
+1970/10/31/1: 
   :uuid: d91b7424-dcb8-4977-8774-7c7f103e196f
   :venue: University Gymnasium, State University of New York
   :city: Stony Brook
