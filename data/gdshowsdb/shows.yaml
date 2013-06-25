@@ -8321,13 +8321,119 @@
   :country: US
   :sets: []
 
-1970/11/06: 
+1970/11/06/0: 
+  :uuid: 1d16b4aa-4cd2-43a2-9a29-b0ebd301ba34
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: b0a23b50-2e41-49e0-983a-13c13566ad71
+    :songs: 
+    - :uuid: d5ea4271-1e69-4fd2-aad3-72270735ed99
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: 23fdab01-e65b-411a-bcce-3d5701f7c01f
+      :name: Deep Elem Blues
+      :segued: false
+    - :uuid: 521cfd64-a48a-41f3-b39b-a44a332d61e0
+      :name: Dark Hollow
+      :segued: false
+    - :uuid: 6cf1c16a-4616-462d-93df-c9dbc1d2a274
+      :name: Friend Of The Devil
+      :segued: false
+    - :uuid: a5a394df-b46f-4f56-9c70-6b1acf0716c7
+      :name: The Rub
+      :segued: false
+    - :uuid: aee8f05e-d882-4c50-9cef-8c6cedf607c3
+      :name: Black Peter
+      :segued: false
+    - :uuid: 6d9f2ea3-23dd-443d-892e-7bac9c74731b
+      :name: El Paso
+      :segued: false
+    - :uuid: c11e3f0c-9d21-4b80-8bfb-fb076c661530
+      :name: Brokedown Palace
+      :segued: true
+    - :uuid: 1a388e52-fd94-4355-aeef-02e5ed834dfc
+      :name: Uncle John's Band
+      :segued: false
+
+1970/11/06/1: 
   :uuid: 5bd39ca4-e714-4486-a7b7-ded29fc56176
   :venue: Capitol Theater
   :city: Port Chester
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 94ffbf93-9005-4eae-a124-431253fd26a5
+    :songs: 
+    - :uuid: a14177fb-d60d-4098-94f4-0b5fb70fee4f
+      :name: Casey Jones
+      :segued: false
+    - :uuid: d3888db3-c7ec-40fb-aea9-9243c0ecb537
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 5f8afce2-43be-453a-92f9-ab31b73d7922
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 4cd17e47-6db6-4772-89e5-446e309abb9d
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 0db3f6cc-78fa-440f-a026-246004977b8a
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 716d04b0-e80b-469e-a4d5-ecf321f08e3e
+      :name: Truckin'
+      :segued: false
+    - :uuid: 46044790-4a02-4d6f-b500-2ad0a4a3e7c5
+      :name: Candyman
+      :segued: false
+    - :uuid: 88c819c0-df50-4230-a69d-38b84f4ad94b
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: bc9614fb-0eb7-4370-98fc-8e50a565adbf
+      :name: Drums
+      :segued: true
+    - :uuid: 662cb8e0-7b6d-402f-b919-d225e6641ffa
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: 8a175425-4bff-4598-9526-6d7f196dfe01
+      :name: Drums
+      :segued: true
+    - :uuid: 8eb21225-6b89-41dc-a38c-773492c1f8ea
+      :name: Playing In The Band
+      :segued: true
+    - :uuid: 011abfb9-dc7e-423d-bf1d-ff2d2ce73a0b
+      :name: Drums
+      :segued: true
+    - :uuid: 4b924a14-6ecd-40f4-91c8-ab981f71d979
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 298d2200-9d8a-4bba-9f50-0f1338348602
+      :name: Alligator
+      :segued: true
+    - :uuid: 984a3783-3572-4813-81b6-60f41c93a21b
+      :name: Jam
+      :segued: true
+    - :uuid: a2494fc5-fe97-4dbf-8cfd-80a93200c1e4
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 65fdf048-84c8-4d21-9fc6-2d0a114aa3e4
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: e4079ea9-0552-4100-b223-2dfbb9a5a664
+      :name: Mountain Jam
+      :segued: true
+    - :uuid: 58a8b51f-48c0-4e4f-b26a-34efc199300c
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 6bb35535-6d2e-45f0-be2f-6da6c4d0cabf
+      :name: Caution (Do Not Step On The Tracks)
+      :segued: true
+    - :uuid: 5df3f4ad-ad9c-497f-a06a-843db7427c23
+      :name: Turn On Your Lovelight
+      :segued: false
+
 
 1970/11/07: 
   :uuid: d783a94f-bdb0-410e-8753-d2be53c3bf79
