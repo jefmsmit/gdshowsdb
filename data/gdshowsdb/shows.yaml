@@ -8200,7 +8200,7 @@
 
 1970/10/31: 
   :uuid: d91b7424-dcb8-4977-8774-7c7f103e196f
-  :venue: SUNY Gym
+  :venue: University Gymnasium, State University of New York
   :city: Stony Brook
   :state: NY
   :country: US
@@ -8218,16 +8218,16 @@
       :segued: false
     - :uuid: e820f49d-552f-4698-a940-cdeaea468208
       :name: Cryptical Envelopment
-      :segued: false
+      :segued: true
     - :uuid: 5b5d57a7-62ce-41fe-a49f-d0d2142dc1bb
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: c0faf0a7-a173-4ac4-bf7b-f81593cf4813
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: efef0f00-1772-457c-b1aa-b5a2404aec42
       :name: Cryptical Envelopment
-      :segued: false
+      :segued: true
     - :uuid: e7d304ec-8e7b-4581-bf95-8d8a5d01fd5c
       :name: Cosmic Charlie
       :segued: false
@@ -8242,19 +8242,25 @@
       :segued: false
     - :uuid: c053705d-ffd8-4788-a996-5bb6ecc7f621
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: efb5c335-fdd9-4693-b168-a0b685570bcb
       :name: Good Lovin'
-      :segued: false
+      :segued: true
+    - :uuid: 475052ae-27b1-40ef-a758-cf10ef3c4c31
+      :name: Drums
+      :segued: true
+    - :uuid: 69e71366-13d5-4feb-9427-199526cbb670
+      :name: Good Lovin'
+      :segued: true
     - :uuid: 1bdda472-25af-42de-b773-d5af3d2d32c5
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: d8f9856e-b7d1-4d5b-b149-fb789436e744
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: b81a0b16-ceb5-4266-9322-48917c8d3401
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 905d6ab5-4735-4604-9493-712a71653ef5
       :name: Not Fade Away
       :segued: false
