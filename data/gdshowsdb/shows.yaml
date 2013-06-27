@@ -39108,7 +39108,8 @@
     - :uuid: a7e55221-6f83-47a1-94d7-2e6defb3368e
       :name: U.S. Blues
       :segued: false
-1978/11/17: 
+
+1978/11/17/0: 
   :uuid: afa3f9cc-d455-47a8-84b3-8dc6014aaf93
   :venue: Loyola College
   :city: Chicago
@@ -39147,6 +39148,78 @@
     - :uuid: dbe14935-10da-4cf9-9264-b2999e8f141f
       :name: Oh Boy
       :segued: false
+
+1978/11/17/1: 
+  :uuid: de682e19-a075-436d-9fb4-b5e33a4e52e0
+  :venue: Uptown Theatre
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: 
+  - :uuid: 3bb8ea75-aa63-44c8-8d4c-af58ac58b19d
+    :songs: 
+    - :uuid: d30b63f0-8f80-434c-8262-48eb4b6bd14c
+      :name: Shakedown Street
+      :segued: false
+    - :uuid: fb4f417f-1b73-427c-a5d4-528c8b273424
+      :name: Mama Tried
+      :segued: true
+    - :uuid: 4b7bbe29-a55f-42c1-a093-1eafdf559228
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: f20952e8-1117-4cf2-a5d4-a80cf84ef495
+      :name: Peggy-O
+      :segued: false
+    - :uuid: 1257e7c0-fcf4-43a4-bdfa-34a0e298c6a8
+      :name: Cassidy
+      :segued: false
+    - :uuid: 80958118-bc6a-4836-a342-94900dabdf97
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: c42b4623-a29d-40f1-b3a3-745690b3b960
+      :name: Passenger
+      :segued: false
+    - :uuid: 04cbab55-547a-4355-ae90-f1c60032e1bc
+      :name: Friend Of The Devil      
+      :segued: false
+    - :uuid: 8aeeb1ef-d0e2-4d56-80b4-d38969652832
+      :name: I Need A Miracle
+      :segued: false
+  - :uuid: 2608e1e3-ba8b-44f8-95fc-9f53a4e00bb5
+    :songs: 
+    - :uuid: 0f1e97dc-2590-4260-a464-d93119af9bfc
+      :name: Bertha
+      :segued: true
+    - :uuid: 4e1b1270-634d-4026-b705-ce1d8339bcc5
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: bfe81cac-bd0d-4e59-adda-d3b733af0a42
+      :name: Ship Of Fools
+      :segued: false
+    - :uuid: 936fc2f6-368e-4b78-94ae-28982222299c
+      :name: Estimated Prophet      
+      :segued: true
+    - :uuid: d3119299-d42c-447d-802f-6854c3792211
+      :name: Eyes Of The World
+      :segued: true
+    - :uuid: 98c6e842-bf0a-4ba9-b58b-0b8f0f6aa4b2
+      :name: Drums
+      :segued: true
+    - :uuid: 7a8e0b95-192e-43ff-9796-54e745491dbe
+      :name: Space
+      :segued: true
+    - :uuid: 0b0a7ee7-5c95-41a3-addd-f04cf92e9157
+      :name: Terrapin Station
+      :segued: true
+    - :uuid: fb8051c2-0ff3-474c-8022-fbecfc09d791
+      :name: Around And Around
+      :segued: false    
+  - :uuid: 7cb3fd5d-7d09-42fe-bc45-b5587342a00c
+    :songs: 
+    - :uuid: 9807694c-1329-4c47-b6b7-062ee8aeec39
+      :name: Casey Jones
+      :segued: false
+
 1978/11/18: 
   :uuid: 780d7ed5-a145-40f2-8eaf-f0b4b5903050
   :venue: Uptown Theatre
