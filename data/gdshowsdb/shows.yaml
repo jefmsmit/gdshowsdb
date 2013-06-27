@@ -8434,14 +8434,105 @@
       :name: Turn On Your Lovelight
       :segued: false
 
+1970/11/07/0: 
+  :uuid: 887df428-a0f3-42c5-b2db-1ea931f26b24
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: d7e5fc02-e38a-41b4-be86-830722e72ce9
+    :songs: 
+    - :uuid: 365f0c5b-06ec-4a39-9464-1a11b9b75245
+      :name: Deep Elem Blues
+      :segued: false
+    - :uuid: 57108e13-f4c2-4bb1-84d4-55b3c2f8da68
+      :name: Monkey And The Engineer
+      :segued: false
+    - :uuid: e27736da-865d-4982-9c4f-4d59c0eedaf4
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: e19f2d9a-fb89-4656-a578-886bce6d2bb2
+      :name: Operator
+      :segued: false
+    - :uuid: 90f70325-b81e-49fd-ab3e-64d3a2f6a9c2
+      :name: El Paso
+      :segued: false
+    - :uuid: 6a6e7527-9f0d-4939-a522-496c9f1a712e
+      :name: How Long Blues
+      :segued: false
+    - :uuid: 46d47bf0-b810-455e-8796-f30f98a5f312
+      :name: Ripple
+      :segued: false
+    - :uuid: c9456d76-fa9d-4050-a117-908ec0276b89
+      :name: Brokedown Palace
+      :segued: true
+    - :uuid: cd01bba9-2477-48b3-834f-b588c1436b56
+      :name: Uncle John's Band
+      :segued: false
+  - :uuid: 45ca846b-8b38-4c6e-a3ca-5ac37c7cf7a1
+    :songs: 
+    - :uuid: cc3ac96c-2e71-4a8d-b5a5-678b7c283d37
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 68b21bb0-e516-470d-b85d-2b947f0a81e9
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: e28daaf1-abaf-4e67-bc7f-1acb00b16031
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: d0dcf271-7610-47c0-b01a-452535e65260
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: c650290b-fe68-4475-b9df-6792f5e02e02
+      :name: Truckin'
+      :segued: true
+    - :uuid: bf19130d-40fc-40cd-962f-fec9144f6804
+      :name: Drums
+      :segued: true
+    - :uuid: 85a4a969-d5a0-45b7-a49e-4566b11a44a4
+      :name: The Other One
+      :segued: true
+    - :uuid: 72c3d020-ce95-4cff-afc0-3df0258e4f5c
+      :name: Casey Jones
+      :segued: false
 
-1970/11/07: 
+1970/11/07/1: 
   :uuid: d783a94f-bdb0-410e-8753-d2be53c3bf79
   :venue: Capitol Theater
   :city: Port Chester
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 70d1ba21-9deb-4ee3-ad0e-1ab520dd77a5
+    :songs: 
+    - :uuid: 11154b56-1cb9-4f6a-a80e-c5ac4246f2ff
+      :name: Attics Of My Life
+      :segued: false
+    - :uuid: 86788136-0a19-489f-b01e-5efe8a536e6f
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 7c430f45-43d4-4a28-8cf2-25443e8ad0e7
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: d761b2a4-0640-41c9-8eab-67936cdc16f3
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 3993825a-9780-40b8-8971-ab850c68304f
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: d13b309b-aad9-4aad-8169-fe0dd006b3a4
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 5a191086-4a1d-4b76-b848-1067ef753ced
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: f7817395-0822-48b3-8b63-4427f8fdbb1e 
+      :name: Drums
+      :segued: true
+    - :uuid: a3e070f7-48ed-435c-b87d-45ec925bdbf6
+      :name: Good Lovin'
+      :segued: false
 
 1970/11/08: 
   :uuid: 56ca50d1-3556-4b73-a5b3-d02b701d0947
