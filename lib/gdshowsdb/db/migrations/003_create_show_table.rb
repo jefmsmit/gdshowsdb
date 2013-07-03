@@ -2,7 +2,7 @@ class CreateShowTable < ActiveRecord::Migration
 	
 	def up
 		create_table :shows, :id => false do |t|
-			t.string :uuid, :primary => true
+			t.string :uuid, :primary => true, :null => false
 			t.integer :year
 			t.integer :month
 			t.integer :day
