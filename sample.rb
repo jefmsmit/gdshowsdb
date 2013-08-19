@@ -10,9 +10,9 @@ show = Show.find_by_year_and_month_and_day(1995,7,8)
 puts "#{show.year}/#{show.month}/#{show.day} @ #{show.venue}"
 
 show.show_sets.each do |set|
-	puts set.encore? ? 'Encore' : "Set #{set.order + 1}"
+	puts set.encore? ? 'Encore' : "Set #{set.position + 1}"
 	set.songs.each do |song|		
-		song_string = "#{song.order} #{song.song_ref.name}"
+		song_string = "#{song.position} #{song.song_ref.name}"
 		song_string << " >" if song.segued
 		puts song_string
 	end

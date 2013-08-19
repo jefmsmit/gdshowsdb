@@ -4,7 +4,7 @@ class CreateShowSetTable < ActiveRecord::Migration
 		create_table :show_sets, :id => false do |t|
 			t.string :uuid, :primary => true, :null => false
 			t.string :show_uuid
-			t.integer :order
+			t.integer :position
 			t.boolean :encore, :default => false
 		end
 	end

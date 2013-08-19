@@ -6,7 +6,7 @@ class CreateShowTable < ActiveRecord::Migration
 			t.integer :year
 			t.integer :month
 			t.integer :day
-			t.integer :order, :default => 0
+			t.integer :position
 			t.string :venue
 			t.string :city
 			t.string :state

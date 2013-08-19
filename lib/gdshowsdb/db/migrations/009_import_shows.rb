@@ -47,12 +47,12 @@ class ImportShows < ActiveRecord::Migration
 	def save_show(key, value)
 		show = Show.new
 		show.uuid = value[:uuid]
-		show.year, show.month, show.day, order = key.split("/")
+		show.year, show.month, show.day, position = key.split("/")
 		show.venue = value[:venue]
 		show.city = value[:city]
 		show.state = value[:state]
 		show.country = value[:country]
-		show.order = order if order
+		show.position = position if position
 		show.save!
 
 		Show.find_by_uuid(value[:uuid])
@@ -62,17 +62,17 @@ class ImportShows < ActiveRecord::Migration
 		show_set = ShowSet.new
 		show_set.uuid = set[:uuid]
 		show_set.show = show
-		show_set.order = index
+		show_set.position = index
 		show_set.encore = (number_of_songs < 3 && is_last)
 		show_set.save!
 
 		ShowSet.find_by_uuid(set[:uuid])
 	end
 
-	def save_song(show, show_set, song_ref, song, song_index, occurence_order)		
-		saved_song = show_set.songs.create(:uuid => song[:uuid], :order => song_index, :segued => song[:segued])					
+	def save_song(show, show_set, song_ref, song, song_index, occurence_position)		
+		saved_song = show_set.songs.create(:uuid => song[:uuid], :position => song_index, :segued => song[:segued])					
 		
 		song_ref.songs << saved_song
-		song_ref.song_occurences.create(:uuid => SecureRandom.uuid, :show => show, :order => occurence_order)
+		song_ref.song_occurences.create(:uuid => SecureRandom.uuid, :show => show, :position => occurence_position)
 	end
 end

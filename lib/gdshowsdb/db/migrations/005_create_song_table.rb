@@ -5,7 +5,7 @@ class CreateSongTable < ActiveRecord::Migration
 			t.string :uuid, :primary => true, :null => false
 			t.string :show_set_uuid
 			t.string :song_ref_uuid
-			t.integer :order
+			t.integer :position
 			t.boolean :segued			
 		end
 

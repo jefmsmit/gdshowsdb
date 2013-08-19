@@ -5,5 +5,5 @@ class SongOccurence < ActiveRecord::Base
   belongs_to :song_ref, :foreign_key => :song_ref_uuid, :primary_key => :uuid, :counter_cache => true
   accepts_nested_attributes_for :show
 
-  attr_accessible :order, :uuid, :order, :show
+  attr_accessible :position, :uuid, :show
 end
