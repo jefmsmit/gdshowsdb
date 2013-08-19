@@ -5,7 +5,7 @@ class Show < ActiveRecord::Base
   has_many :song_occurences, :foreign_key => :show_uuid, :primary_key => :uuid
   has_many :song_refs, :through => :song_occurences, :foreign_key => :show_uuid
 
-  attr_accessible :uuid, :year, :month, :day, :venue, :city, :state, :country
+  attr_accessible :uuid, :year, :month, :day, :venue, :city, :state, :country, :order
 
   def date_string(separator = "/")
     "#{year}#{separator}#{pad month}#{separator}#{pad day}"
