@@ -7,8 +7,8 @@ class Show < ActiveRecord::Base
 
   attr_accessible :uuid, :year, :month, :day, :venue, :city, :state, :country
 
-  def date_string
-    "#{year}/#{pad month}/#{pad day}"
+  def date_string(separator = "/")
+    "#{year}#{separator}#{pad month}#{separator}#{pad day}"
   end
 
   def title
