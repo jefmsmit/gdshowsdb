@@ -1,3 +1,5 @@
+require 'protected_attributes'
+
 class Show < ActiveRecord::Base
   include Extensions::UUID
 	
