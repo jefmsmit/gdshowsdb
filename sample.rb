@@ -25,3 +25,5 @@ jack_straw_shows = jack_straw.shows
 jack_straw_shows.each do |show|
 	puts show.title
 end
+
+puts SongRef.friendly.find('althea').inspect

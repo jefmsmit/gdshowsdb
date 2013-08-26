@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     gdshowsdb (0.0.1)
+      friendly_id (= 5.0.0.beta4)
       protected_attributes
       rails (~> 4.0.0)
 
@@ -38,6 +39,8 @@ GEM
     builder (3.1.4)
     diff-lcs (1.2.4)
     erubis (2.7.0)
+    friendly_id (5.0.0.beta4)
+      activerecord (~> 4.0.0)
     hike (1.2.3)
     i18n (0.6.5)
     mail (2.5.4)
