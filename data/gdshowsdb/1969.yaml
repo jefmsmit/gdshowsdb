@@ -1,0 +1,1799 @@
+---
+1969/01/02:
+  :uuid: 2b10a19a-2036-44fb-947a-a204489ef53b
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/01/04:
+  :uuid: f014323c-6b46-4be9-9059-6a289f79dea5
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/01/05:
+  :uuid: 85d1127b-a55c-4bd4-97dc-5e22cfeb9dfd
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/01/17:
+  :uuid: 72a5492b-d803-4ec0-a535-ae31fe0c6c3b
+  :venue: Robertson Gym
+  :city: Santa Barbara
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 6a59ef41-c2f6-4eaa-b575-8ed0857c12eb
+    :songs:
+    - :uuid: 4f91b33f-97d6-40bf-80d3-59a201865ef4
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: dbdeceda-44d3-49e6-b041-6e753bbe76f9
+      :name: Dark Star
+      :segued: true
+    - :uuid: 7316fcca-352c-45de-8a8f-886d60a2a421
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 9bed8049-ca5d-4cc3-a68a-15d42a517949
+      :name: The Eleven
+      :segued: true
+    - :uuid: 742bb5df-a424-408c-96d3-512a54107a28
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 7a4fcb58-c8e9-4683-90af-b4b80551ef2d
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 19bd9529-438d-4db3-aa27-f573074e29ed
+      :name: The Other One
+      :segued: true
+    - :uuid: 2c97ef80-a9d7-4742-981a-d24ba87a1df8
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: eebfbdb4-d7f2-4356-9568-302f136eb63f
+      :name: Cosmic Charlie
+      :segued: false
+1969/01/25:
+  :uuid: 2bf24718-44a9-41c3-aca4-a10364f6108a
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/01/26:
+  :uuid: b727a08e-19d5-47ef-ae3c-0ec8a9620c4a
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/01/31:
+  :uuid: f1362dab-2f63-4587-bf72-f0f3c381252a
+  :venue: The Kinetic Playground
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1969/02/01:
+  :uuid: 0be08ed3-b54a-4851-b7c0-43979742237a
+  :venue: The Kinetic Playground
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1969/02/02:
+  :uuid: b428cf18-0361-463e-bdf8-a1b3d80be02f
+  :venue: Labor Temple
+  :city: Minneapolis
+  :state: MN
+  :country: US
+  :sets: []
+1969/02/05:
+  :uuid: 56dfd61a-cd3f-40a2-9225-f89974788298
+  :venue: The Music Box
+  :city: Omaha
+  :state: NE
+  :country: US
+  :sets: []
+1969/02/06:
+  :uuid: 98cf7d91-a694-4c78-a2a7-fd2828916e09
+  :venue: Kiel Auditorium
+  :city: St. Louis
+  :state: MO
+  :country: US
+  :sets: []
+1969/02/07/0:
+  :uuid: 9d9d2576-91d8-4b7e-b82b-6bb8bed4caca
+  :venue: Stanley Theatre
+  :city: Pittsburgh
+  :state: PA
+  :country: US
+  :sets:
+  - :uuid: 50781c4f-2743-4c59-8ba9-2b89613dd7cc
+    :songs:
+    - :uuid: 7a668106-7d3b-406a-a16f-a1054fdd9235
+      :name: Dark Star
+      :segued: true
+    - :uuid: ee361e7d-f625-45a2-ba2f-3ac8ecdc1ad2
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: c998c2be-2c91-4c11-aca4-94d906e2fb27
+      :name: The Eleven
+      :segued: true
+    - :uuid: d306ec56-81e9-46f8-9ade-a057eef3a03e
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/02/07/1:
+  :uuid: 98ac3305-22c4-4572-857b-2d8a617064a8
+  :venue: Stanley Theatre
+  :city: Pittsburgh
+  :state: PA
+  :country: US
+  :sets:
+  - :uuid: aadbee6e-8854-4766-b7a2-05437e000a05
+    :songs:
+    - :uuid: 05865e6c-793a-42f8-9cfc-a64a650b7e1a
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 0b2d7d6a-d541-4be1-9d65-302c90cbd3b8
+      :name: Drums
+      :segued: true
+    - :uuid: ffc426f0-30fb-43ef-8d40-e308fecc334c
+      :name: The Other One
+      :segued: true
+    - :uuid: 89a0db6f-37d1-4ccd-a385-cac121de09f5
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 2fedb4fd-12e6-4025-aca4-59066b93b723
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 218da5c2-2a9d-428f-99eb-2e88810a0b27
+      :name: Alligator
+      :segued: true
+    - :uuid: 2c76433c-c54b-4354-aa09-61db4b40ed2e
+      :name: Drums
+      :segued: true
+    - :uuid: 29e1ae8e-6234-488e-ab9b-ea86a8a0bbc5
+      :name: Jam
+      :segued: true
+    - :uuid: 8019f14e-04b3-440b-b9f3-35d024e7e68f
+      :name: China Cat Sunflower Jam
+      :segued: true
+    - :uuid: bce37a84-c347-4d6f-84d7-559a9d564dfe
+      :name: Jam
+      :segued: true
+    - :uuid: c2c0cd6c-be91-4863-ae32-9a2c00770f1d
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 0ac8c69b-7bd7-40d3-b571-b86237f37097
+      :name: Feedback
+      :segued: true
+    - :uuid: 357ea1c0-b0ae-4abb-8b4b-949b5321eea8
+      :name: And We Bid You Good Night
+      :segued: false
+1969/02/09:
+  :uuid: 32a3f97f-efc9-4005-889c-85a230d58ffe
+  :venue: The Lyric Theater
+  :city: Baltimore
+  :state: MD
+  :country: US
+  :sets: []
+1969/02/11/0:
+  :uuid: 572ea81d-a581-459c-a5e4-3a26c2323a44
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1969/02/11/1:
+  :uuid: 572ea81d-a581-459c-a5e4-3a26c2323a44
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: c850489a-c968-4d10-b94e-7c27948821a0
+    :songs:
+    - :uuid: 0e76f4d8-870a-4f3d-b497-7bdb970435d8
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 869f5734-163e-467f-a978-caebcf432f0c
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 7a6bfe07-da03-4d43-9bfc-dc4d86507377
+      :name: The Other One
+      :segued: true
+    - :uuid: b46d6687-5d3a-4fbb-9190-f8e69cc16665
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 58ed1f3c-b7ba-4490-b22b-0f08672cc650
+      :name: Doin' That Rag
+      :segued: false
+    - :uuid: ab11a4c6-6173-4965-93e6-ab5ba92b866d
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: fbee28a7-e7fc-487e-9158-9d44da7e60a0
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: e8fb02ce-26e0-4f0a-8c9d-5a0815056d93
+      :name: Hey Jude
+      :segued: false
+1969/02/12:
+  :uuid: 62707cbe-d161-485a-accf-7a29ddd0707c
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 95642e21-126b-4a0f-93f2-e3177e35b6d7
+    :songs:
+    - :uuid: 2edbd389-ac17-4e1b-94c8-64b550dcc566
+      :name: Dupree's Diamond Blues
+      :segued: false
+    - :uuid: dd4a976a-33d6-4a0b-b425-c06a440b1386
+      :name: Mountains Of The Moon
+      :segued: false
+    - :uuid: 2fff01dd-75d3-4fb0-8c0a-4bfc23defa40
+      :name: Dark Star
+      :segued: true
+    - :uuid: a0ae4049-ec31-4394-a659-94a844884adb
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 40848a1d-ed72-48f5-bff0-6da259213ea8
+      :name: The Eleven
+      :segued: true
+    - :uuid: 60fa2a20-113b-4ad4-98cf-b9e76aa73950
+      :name: Drums
+      :segued: true
+    - :uuid: 1e4943d6-fa9d-410b-b34f-b87158d2d13d
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: d0480f8f-bbc5-45dd-851a-1094931b6e3f
+      :name: Feedback
+      :segued: true
+    - :uuid: 3e35dc13-90d5-4fee-93cc-473d74bbadf7
+      :name: And We Bid You Good Night
+      :segued: false
+  - :uuid: 59042b2e-fdc2-44e6-83ab-afdde183c02b
+    :songs:
+    - :uuid: f8ed3b25-6dc0-4a5d-86f5-e0599aca2582
+      :name: Cosmic Charlie
+      :segued: false
+1969/02/14:
+  :uuid: 45768835-bb67-4a6b-b500-1a87f9d1c07e
+  :venue: Electric Factory
+  :city: Philadelphia
+  :state: PA
+  :country: US
+  :sets: []
+1969/02/19:
+  :uuid: 4824033d-8ad6-4e0a-bfc3-d1fe8a2bd8eb
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/02/21:
+  :uuid: 8cdc9b6a-cb0d-4ca3-b38d-f80e44bf3ef1
+  :venue: Dream Bowl
+  :city: Napa
+  :state: CA
+  :country: US
+  :sets: []
+1969/02/22:
+  :uuid: eac57cb1-cb43-436a-9692-5f87f2014b90
+  :venue: Dream Bowl
+  :city: Napa
+  :state: CA
+  :country: US
+  :sets: []
+1969/02/26:
+  :uuid: 5165c85d-863e-4e64-bf8c-df2306cf40fa
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/02/27:
+  :uuid: a4f0064f-8efe-4e25-a4f4-2e2002839b13
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/02/28:
+  :uuid: 9255480c-9723-4c43-9852-1bab46d4d5b4
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/01:
+  :uuid: 6fb83c32-4e1c-4ee1-977c-0c64e2a8c61d
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/02:
+  :uuid: 9fb7759d-4cf0-4e12-b549-5d1b818817ab
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/12:
+  :uuid: 88d68d9d-ad8b-4589-b78b-7471f3fb5b0d
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/15:
+  :uuid: 1a4e12b3-19db-4f54-bae5-d5f9afb0e75e
+  :venue: Hilton Hotel
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/21:
+  :uuid: 4d91fa29-35e8-496b-af2b-6780074181c0
+  :venue: Rose Palace
+  :city: Pasadena
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/22:
+  :uuid: 4d86ab57-7f6b-4275-8b7b-1b444f64c969
+  :venue: Rose Palace
+  :city: Pasadena
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/27:
+  :uuid: 314368bc-9b98-46f6-8a38-bfab0fb6a953
+  :venue: Merced
+  :city: Merced
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/28:
+  :uuid: bd9e6797-c4f6-4154-bbcd-80522759b116
+  :venue: Student Center
+  :city: Modesto
+  :state: CA
+  :country: US
+  :sets: []
+1969/03/29:
+  :uuid: b5503c75-2aae-49d9-85ea-25aab3e9754d
+  :venue: Ice Palace
+  :city: Las Vegas
+  :state: NV
+  :country: US
+  :sets: []
+1969/04/03:
+  :uuid: 3038df60-5086-492a-a8fb-473967bc1034
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/04/04:
+  :uuid: 997e6204-e0e0-4271-9338-beaae9b39495
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/04/06:
+  :uuid: a9697f7e-a08a-4cf9-ac16-beaffc87dca1
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/04/11:
+  :uuid: 1d34f8cc-bcc3-4723-9d31-9cd431f91a67
+  :venue: University Auditorium
+  :city: Tucson
+  :state: AZ
+  :country: US
+  :sets: []
+1969/04/12:
+  :uuid: 789c4068-c757-4fee-bf99-29a5234f3ebf
+  :venue: Student Union Ballroom
+  :city: Salt Lake City
+  :state: UT
+  :country: US
+  :sets: []
+1969/04/13:
+  :uuid: 1d23df19-9303-4085-8e73-7ece760153f2
+  :venue: Ballroom
+  :city: Boulder
+  :state: CO
+  :country: US
+  :sets: []
+1969/04/15:
+  :uuid: a9ebc471-6466-4740-9a10-d7ecdc6e9293
+  :venue: The Music Box
+  :city: Omaha
+  :state: NE
+  :country: US
+  :sets: []
+1969/04/17:
+  :uuid: c02d42d0-956b-44f4-a747-511aa143bf89
+  :venue: Washington University
+  :city: St. Louis
+  :state: MO
+  :country: US
+  :sets: []
+1969/04/18:
+  :uuid: 9c0a2ed5-58f2-4595-9f71-106b9eac8b37
+  :venue: Memorial Union Ballroom
+  :city: West Lafayette
+  :state: IN
+  :country: US
+  :sets: []
+1969/04/20:
+  :uuid: fba1a0f9-e29a-41da-867a-46571b6b392a
+  :venue: Atwood Hall
+  :city: Worcester
+  :state: MA
+  :country: US
+  :sets: []
+1969/04/21:
+  :uuid: be1ee37c-b081-4184-84b9-a536808927da
+  :venue: The Ark
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1969/04/22:
+  :uuid: 02639f28-4481-456e-be35-0c9db9033359
+  :venue: The Ark
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1969/04/23:
+  :uuid: 62522844-f598-47ec-872e-3857541d1322
+  :venue: The Ark
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1969/04/24:
+  :uuid: 23e54978-5156-461f-985e-3da7b771fc08
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/04/25:
+  :uuid: 0c81f4d9-12cf-4c7f-82ec-b549bb432735
+  :venue: Electric Theater
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1969/04/26:
+  :uuid: a0aed680-f537-426c-a628-065580f82559
+  :venue: Electric Theater
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1969/04/27:
+  :uuid: 1189d0b2-ab76-4b91-bcda-49c570a1b517
+  :venue: Labor Temple
+  :city: Minneapolis
+  :state: MN
+  :country: US
+  :sets: []
+1969/05/02:
+  :uuid: 75ca8875-55ab-43a0-b69b-4f9ac4afbd0b
+  :venue: Sierra College
+  :city: Rocklin
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/03/0:
+  :uuid: f336f1b2-bfdd-4749-8c2c-a7d204a53b50
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/03/1:
+  :uuid: 6220746f-ddf7-4909-abc1-97b33a8427a5
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: be7e94b3-b800-48a9-bdcc-976ab9caf272
+    :songs:
+    - :uuid: 33965d98-82c8-4b45-a8c2-c135f27d8fbe
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: c2b4a079-9583-416f-ac0a-8d62dab22e90
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 0685642b-e035-4a62-b249-1ad6299ceb37
+      :name: Drums
+      :segued: true
+    - :uuid: 2d0b1f39-26e2-4692-ab59-e90c5e5ad5bc
+      :name: The Other One
+      :segued: true
+    - :uuid: 7f231f92-c3a4-41e8-bbfc-1292d29a1f87
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 283d9928-442f-410e-8740-602b9eb55894
+      :name: Doin' That Rag
+      :segued: false
+    - :uuid: 33e9c87d-c156-45a1-9c1d-7dab36e299a6
+      :name: Me And My Uncle
+      :segued: false
+1969/05/07:
+  :uuid: cd36309e-4610-4a58-882d-75cddda43333
+  :venue: Polo Field
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/08:
+  :uuid: 15398604-061a-4dbe-85c4-77ddc7fd3ee6
+  :venue: Unknown Location
+  :city: Unknown Location
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/09:
+  :uuid: ef7eaba5-ddf2-4fc1-8c7d-3362eeca30a0
+  :venue: Hall Of Flowers
+  :city: San Mateo
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/10:
+  :uuid: da1f80a1-16f4-443e-80be-24234d53dbd1
+  :venue: Rose Palace
+  :city: Pasadena
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/11:
+  :uuid: f7fe11ad-8314-4005-accb-a343e8214ceb
+  :venue: Aztec Bowl
+  :city: San Diego
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/16:
+  :uuid: 396afd52-564b-476f-838c-9db8e43859ad
+  :venue: Campolindo High School
+  :city: Moraga
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/23:
+  :uuid: f16d9df8-a239-4708-a431-6d8faa0b4d28
+  :venue: Seminole Indian Village
+  :city: West Hollywood
+  :state: FL
+  :country: US
+  :sets: []
+1969/05/24:
+  :uuid: b553c169-eeb9-4ad7-8031-9c8a939b9cd9
+  :venue: Seminole Indian Village
+  :city: West Hollywood
+  :state: FL
+  :country: US
+  :sets: []
+1969/05/28:
+  :uuid: dfe28edf-255d-4290-84ee-61219705a498
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/29:
+  :uuid: 228d45da-8ba4-47fb-a521-77fedf4b889b
+  :venue: Robertson Gym
+  :city: Santa Barbara
+  :state: CA
+  :country: US
+  :sets: []
+1969/05/30:
+  :uuid: 077e195f-4826-40f1-9437-1e5119eaa348
+  :venue: Springer's Inn
+  :city: Portland
+  :state: OR
+  :country: US
+  :sets: []
+1969/05/31:
+  :uuid: 59c699a1-8ab4-4270-92af-c2ec15c70a7b
+  :venue: McArthur Court
+  :city: Eugene
+  :state: OR
+  :country: US
+  :sets: []
+1969/06/05:
+  :uuid: 343381e1-f359-4dac-84e9-8f3661505c6b
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/06/06:
+  :uuid: fa6d3a22-969f-4040-be20-1d81d345ee84
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 18ae874e-19e2-4c08-aadf-b3332476cefe
+    :songs:
+    - :uuid: c04e45a8-54c2-4a0d-b21b-731821e84fe6
+      :name: Smokestack Lightnin'
+      :segued: false
+    - :uuid: 460aa1b1-6da2-4c6f-a2a6-461a9b1a50d4
+      :name: Green Green Grass Of Home
+      :segued: false
+    - :uuid: 9f3fcfb7-6ce1-4cd2-980e-7f3998aa1b10
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 3895fe3b-9fcd-47eb-bde4-b96af961f0b0
+      :name: Checkin' Up
+      :segued: false
+    - :uuid: 9c800283-6bf7-455a-a0e4-0864aea230a5
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: e0840ca2-4db9-4b77-80d4-54c7487d50d4
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/06/07:
+  :uuid: 1f063938-f5e5-4459-8888-457f723db82e
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 68dc974c-6919-4689-9698-573df49c8b1b
+    :songs:
+    - :uuid: 8932201d-1d2d-471c-9d55-102d354d92aa
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 227f32a7-ff9a-4275-b63a-904877b61ca8
+      :name: Dupree's Diamond Blues
+      :segued: false
+    - :uuid: 2203f767-4355-4313-bc9f-f1f6bb111738
+      :name: Mountains Of The Moon
+      :segued: true
+    - :uuid: ef37dbbb-f342-4600-8ece-266dc3e32532
+      :name: Dark Star
+      :segued: true
+    - :uuid: b7d21365-e4f8-4228-86cd-94efac8d8008
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 6fc8963d-0874-4ed6-b773-ea155e3efd38
+      :name: The Eleven
+      :segued: true
+    - :uuid: 8f3173f1-4446-4690-854b-03fc63e7862b
+      :name: Sittin' On Top Of The World
+      :segued: true
+    - :uuid: 3523b230-d406-420c-b02f-85db040a2efc
+      :name: Cold Rain And Snow
+      :segued: true
+    - :uuid: 7e733183-cbf3-4d9a-88a4-38e4d9e1d737
+      :name: Doin' That Rag
+      :segued: false
+    - :uuid: 36b8cafd-f51a-4e42-8646-55b248578ca4
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 6d6ae870-19da-4594-be8d-65711fa15ffd
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/06/08:
+  :uuid: 979a2406-3b85-47d3-869e-544b43a21327
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/06/11:
+  :uuid: fb4e41cd-bc0a-42d6-8347-6eabd44d96df
+  :venue: California Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/06/13:
+  :uuid: 31558c36-d13d-4c2b-b690-70342508dd4f
+  :venue: Fresno Convention Center
+  :city: Fresno
+  :state: CA
+  :country: US
+  :sets: []
+1969/06/14:
+  :uuid: 972fb7f6-d49b-462d-b58b-80e2beb52851
+  :venue: Monterey Peninsula College
+  :city: Monterey
+  :state: CA
+  :country: US
+  :sets: []
+1969/06/20:
+  :uuid: d0220d9b-f3f3-499a-9045-909f6ecaed73
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1969/06/21/0:
+  :uuid: 282c4f37-c9bb-44fd-b6e0-37564846b602
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 471ebe38-3302-42e7-bef8-a6b71e3a0fea
+    :songs:
+    - :uuid: d941ea68-9827-434b-8204-f82a2b9dc8d2
+      :name: Green Green Grass Of Home
+      :segued: false
+    - :uuid: e4594fd5-a39e-4730-9027-e8e3f4fc6d51
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 7d9236d8-9f8e-4ca4-86c2-6c61f1712064
+      :name: High Time
+      :segued: false
+    - :uuid: 3d17a8ce-e0bd-4a2c-9eb0-70b4ecd38af7
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: ec528771-c782-4d1c-92b1-0eb85371766e
+      :name: Jam
+      :segued: true
+    - :uuid: d89c0d2d-c413-42b2-a732-763268e29ea2
+      :name: Morning Dew
+      :segued: true
+    - :uuid: ee41f668-efed-4c55-a209-c3231ab8b7d5
+      :name: Alligator
+      :segued: true
+    - :uuid: 1c2978e6-b955-4d08-a0eb-a9d6c70bd21e
+      :name: Drums
+      :segued: true
+    - :uuid: 4f42e182-6615-4002-981c-0f2309602396
+      :name: Jam
+      :segued: true
+    - :uuid: d9fa6d8f-7d8b-4fbe-8ca5-fb871bc826b8
+      :name: The Other One
+      :segued: true
+    - :uuid: 641f525b-1db7-4794-8843-5c73da2c102d
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: d550cb45-ab4c-4b32-968c-abc38e8ecf73
+      :name: Ol' Slewfoot
+      :segued: false
+  - :uuid: 7ba983d6-ad37-4737-a1a0-da08fc0e72a3
+    :songs:
+    - :uuid: 67b9024b-2616-4f37-bc2a-295cc75c413f
+      :name: Cosmic Charlie
+      :segued: false
+1969/06/21/1:
+  :uuid: d9252570-0cc6-4c3d-92f9-777046e9a0da
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 15fdf7c5-17ac-4617-9346-a5290013e8eb
+    :songs:
+    - :uuid: f869c15c-5bc3-4200-9ff5-2b7cdbbcbd45
+      :name: Old, Old House
+      :segued: false
+    - :uuid: 90fee55e-cab1-451a-b302-ac379bac6b97
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: 66d32f4b-ded5-43ab-ba40-5e17857b721e
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 4b1988d8-fc45-4dd6-b99b-a6c173ec9f10
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 2a4988fa-e048-4f07-97d6-0b5c4432fa12
+      :name: Mama Tried
+      :segued: false
+    - :uuid: a98b19ad-abfa-4b1c-986c-e260f94d7eb5
+      :name: High Time
+      :segued: false
+    - :uuid: d99a5ddf-8415-4145-b442-2a3ef44c02b4
+      :name: Dupree's Diamond Blues
+      :segued: false
+    - :uuid: 9d57eaf7-3e52-45d0-bc4d-1053b6dad564
+      :name: Dark Star
+      :segued: true
+    - :uuid: 2e64d3cd-9452-4244-8106-0433bdb0ec0a
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 478245aa-a7f0-489c-94af-25e565ba85c1
+      :name: The Eleven
+      :segued: true
+    - :uuid: 5f1e9cd3-2cb8-4175-a3a2-e71d84650880
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/06/22:
+  :uuid: 3161cd48-63ce-414d-bda5-b4e8577b5837
+  :venue: Central Park
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: bb0be889-0b3c-4f1c-b912-9d282805b3b0
+    :songs:
+    - :uuid: 853e13c9-2628-46da-a7ba-99f1bc3aa640
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 6b8064fb-2f64-4e4e-9758-7b815f04976c
+      :name: Jam
+      :segued: true
+    - :uuid: efb08720-653a-452a-811f-77a3d48bd5df
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 7cfabd74-0f26-44bd-a690-be383756bdc2
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 5445b3d2-5eb2-40fa-aa7c-53e14c427888
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 4274b7bf-edfd-4700-bd34-4d5af3841664
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: 22d72bb1-c052-4304-b29a-903163310711
+      :name: Silver Threads And Golden Needle
+      :segued: false
+    - :uuid: 9217c2cd-db0e-4c9f-9375-a28b7ad2bcdc
+      :name: Dark Star
+      :segued: true
+    - :uuid: 17f7e357-c692-44f4-b9d0-77dfd1c6921e
+      :name: The Other One
+      :segued: true
+    - :uuid: fb69e6d8-489f-4631-9ce1-e3d7115d3481
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 79ff3269-9036-427a-93de-10b893f54872
+      :name: It's A Sin
+      :segued: false
+    - :uuid: f2ad50e0-5321-488b-b453-13c0704cfbca
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/06/27:
+  :uuid: 03be3df7-382d-44a2-87b4-df9839eb6749
+  :venue: Veterans Auditorium
+  :city: Santa Rosa
+  :state: CA
+  :country: US
+  :sets: []
+1969/06/28:
+  :uuid: 383fadc9-6fb2-447a-b448-6d3dc44d8c97
+  :venue: Veterans Auditorium
+  :city: Santa Rosa
+  :state: CA
+  :country: US
+  :sets: []
+1969/06/29:
+  :uuid: 6d187740-e735-418e-a0a6-3f88b9118d5a
+  :venue: The Barn
+  :city: Rio Nido
+  :state: CA
+  :country: US
+  :sets: []
+1969/07/03:
+  :uuid: ee1c10b1-315b-420b-b3d9-1bf1c8852b48
+  :venue: Reed's Ranch
+  :city: Colorado Springs
+  :state: CO
+  :country: US
+  :sets: []
+1969/07/04:
+  :uuid: 4779a19e-1561-4f27-8cb6-9d919985a0f9
+  :venue: Electric Theater
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1969/07/05:
+  :uuid: edc18083-f416-42a6-8e29-29c44314c277
+  :venue: Electric Theater
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1969/07/07:
+  :uuid: 6da858fe-5eaf-4efb-9e7a-75fd6a2dbb16
+  :venue: Piedmont Park
+  :city: Atlanta
+  :state: GA
+  :country: US
+  :sets: []
+1969/07/08:
+  :uuid: 936dbfa7-37ab-410f-aea7-96b5ea148701
+  :venue: Rock Pile
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets: []
+1969/07/10:
+  :uuid: 429d552b-85d0-4516-94dd-bf7cf1137a7d
+  :venue: Gallagher Estate
+  :city: Norwalk
+  :state: CT
+  :country: US
+  :sets: []
+1969/07/11:
+  :uuid: c659b664-e687-497a-95eb-933b85009762
+  :venue: NY State Pavilion
+  :city: Queens
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: bb600a0c-290d-4378-9f1b-d01f4572e4cc
+    :songs:
+    - :uuid: 9766c1e8-3767-4115-a64e-1621cd6bd703
+      :name: The Story Of A Brick
+      :segued: false
+    - :uuid: 56904a5f-d063-4fae-bc96-df283c5250d6
+      :name: Dupree's Diamond Blues
+      :segued: false
+    - :uuid: c370d407-6f09-4552-a2f5-d631a8c8cb08
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 336540c9-1e65-4c1b-a916-a06943e2cdc8
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: fb520844-4af7-408e-9276-33a097baa73a
+      :name: Silver Threads And Golden Needle
+      :segued: false
+    - :uuid: b75d8bf0-92df-4294-93e5-7a84bf6d1383
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 5dda1eb0-a30b-4e1d-a4d9-8d48ac5fbe95
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: 9ba0e470-4b94-4359-b1f3-a698055d3a0c
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: e67278e9-ad39-4e9d-959c-f2f711a94aa0
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 62bbf454-c778-4752-8d80-2bda231b472b
+      :name: High Time
+      :segued: false
+    - :uuid: cc6b3c1e-1090-44df-8af8-d7bb397ccb84
+      :name: Drums
+      :segued: false
+    - :uuid: a28bb885-20e4-4248-b579-6614ef985fec
+      :name: Alligator
+      :segued: false
+    - :uuid: 999e0ed4-d1c2-44d9-9adc-b8b2d9a98179
+      :name: Drums
+      :segued: false
+    - :uuid: b4218114-281b-4fba-bb14-eaa4a2770f8b
+      :name: Drummers' Chant
+      :segued: false
+    - :uuid: 55756995-40e1-4867-9ebc-8fb059c2d183
+      :name: Drums
+      :segued: false
+    - :uuid: c5e71386-f954-4e0b-89c5-f42ec4879fc0
+      :name: Jam
+      :segued: false
+    - :uuid: 3794dc92-95bc-474a-a669-2d49fafb8e7a
+      :name: And We Bid You Good Night Jam
+      :segued: false
+    - :uuid: dd516fff-416a-449b-b92c-76290e9ce4f1
+      :name: Jam
+      :segued: false
+    - :uuid: 2630055b-5c23-4c88-977d-5da68dfebe4f
+      :name: The Other One
+      :segued: false
+    - :uuid: 416a96c4-a580-4a5b-9007-d9a882ade7aa
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: db6b2eb7-98f9-48a2-97a8-b1118e129f81
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/07/12:
+  :uuid: 0f1d0012-fe55-4d6c-be91-1cf5c91305d1
+  :venue: NY State Pavilion
+  :city: Queens
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: d3221300-e75d-4c37-8741-fe7c7f8007d2
+    :songs:
+    - :uuid: 32a4197d-272e-4b6c-bcf6-6463ad040877
+      :name: Green Green Grass Of Home
+      :segued: false
+    - :uuid: 138ff051-7526-417c-9f66-b7673e71e0a0
+      :name: Ol' Slewfoot
+      :segued: false
+    - :uuid: 2f5d62ef-b23c-472a-be3f-482ec854845c
+      :name: Mountains Of The Moon
+      :segued: false
+    - :uuid: 3f8a097a-8392-48a5-808f-ae7d589bcb9f
+      :name: Doin' That Rag
+      :segued: false
+    - :uuid: bc92ab46-50da-4486-ab4a-d0a637dd3d14
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: d098b240-d432-4c22-aa74-4124eecff0d7
+      :name: Jam
+      :segued: false
+    - :uuid: 4436a83f-9856-47dc-83ef-6f14adb9a928
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 6619e3ce-d140-4155-9c96-54fe27dab7bb
+      :name: High Time
+      :segued: false
+    - :uuid: 3f19277a-f036-4184-8ace-b4d849394597
+      :name: Dark Star
+      :segued: false
+    - :uuid: 7aee4fe5-8ff5-4cd0-9127-a894c8cf3c7f
+      :name: The Other One
+      :segued: false
+    - :uuid: e2c83a7e-667d-4710-bc30-ace6f8184216
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: 0aed2d95-838d-4639-b23a-bf227d3a547d
+      :name: The Eleven
+      :segued: false
+    - :uuid: 1dfa938a-f195-4493-9e21-e1bd387c46b3
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/07/16:
+  :uuid: 16feb5ea-59a1-4770-a85b-29e7a20fc909
+  :venue: Longshoreman's Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/08/02:
+  :uuid: 03d4ebc7-d72f-4cc2-933b-d158d84d45f0
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/08/03:
+  :uuid: 097b6c61-438c-4218-9bc9-63642166fa09
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/08/16:
+  :uuid: a771fc3b-6beb-4232-a5a2-bd70bcd91fd4
+  :venue: Max Yasgur's Farm
+  :city: Bethel
+  :state: NY
+  :country: US
+  :sets: []
+1969/08/21:
+  :uuid: 4f7ada03-3f91-4035-b26b-585c4cd72b92
+  :venue: Green Lake Aqua Theatre
+  :city: Seattle
+  :state: WA
+  :country: US
+  :sets: []
+1969/08/23:
+  :uuid: c4627f81-3288-41e3-a26c-7fae05888490
+  :venue: Pelletier Farm
+  :city: St. Helens
+  :state: OR
+  :country: US
+  :sets:
+  - :uuid: 3ad94e46-5c5f-4d7c-9985-04251ac5ce85
+    :songs:
+    - :uuid: 42ed44c8-250a-46f5-bd61-6863c5d8a3d3
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: fc18d695-d92f-4080-a452-a041412d3cb9
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 3229a489-d146-4e4c-8b92-6752b2c9dc68
+      :name: High Time
+      :segued: false
+    - :uuid: c7a4fe7f-ab3b-4ed0-96f3-6179457769f4
+      :name: Casey Jones
+      :segued: false
+    - :uuid: a3096403-4390-453b-81b3-20b93383f5c5
+      :name: Easy Wind
+      :segued: false
+    - :uuid: 9f14f89f-ef81-4a1e-941e-1e375633b102
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: 63e221fc-bc9e-49e6-bcba-f193ba0a0817
+      :name: Dark Star
+      :segued: false
+    - :uuid: 585a5843-bcdd-4551-a6cf-93c0094448c6
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: db4cc753-f4ee-48cc-9110-7bcabeea20cf
+      :name: The Eleven
+      :segued: false
+    - :uuid: 9017fb09-6b70-4024-b00d-d341c6d4937d
+      :name: Turn On Your Lovelight
+      :segued: false
+  - :uuid: 46c1c208-161d-43dd-b4d3-160b16e37ac9
+    :songs:
+    - :uuid: 2e6f21e5-8952-4e6d-91a3-bb39c3403759
+      :name: And We Bid You Good Night
+      :segued: false
+1969/08/24:
+  :uuid: 97aeab6e-c107-4808-be87-4b13fb67e1cf
+  :venue: Paradise Valley Resort
+  :city: B.C.
+  :state: ''
+  :country: CA
+  :sets: []
+1969/08/28:
+  :uuid: adc5d102-f236-4fae-8970-4407eae0c0e3
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/08/29:
+  :uuid: 12649b17-64e9-44c2-9c2c-8e3cda52d3b1
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/08/30:
+  :uuid: 15f6bc54-8747-4cdc-8ce3-147e460b2a18
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/09/01:
+  :uuid: b2080b77-8fe1-498f-bd9c-67d30134396c
+  :venue: Baton Rouge Int. Speedway
+  :city: Prairieville
+  :state: LA
+  :country: US
+  :sets: []
+1969/09/06:
+  :uuid: 65d6509d-2123-4bea-8924-3250afa52215
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/09/07:
+  :uuid: d583ba15-677f-4b26-830a-84ea0d827533
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/09/26:
+  :uuid: df010096-bf52-4d23-bc41-adba0156051a
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1969/09/27:
+  :uuid: d4140d8a-ef4f-4c5e-9c26-614157f07b5b
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1969/09/28:
+  :uuid: 33907232-0c11-44e0-bbd1-caccb8afad26
+  :venue: Caf' au Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: a15d2eb8-0bcf-4779-a98c-d0dbd17c8860
+    :songs:
+    - :uuid: 298672e0-99bb-4f9e-9bf4-6a248a1488a0
+      :name: Doin' That Rag
+      :segued: false
+    - :uuid: f4b8991e-2cf2-41bb-8e3f-2a52ca8faddd
+      :name: The Seven
+      :segued: false
+    - :uuid: db1e7ad2-5e89-49dd-abcf-edfecf72d3a8
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 1fdedf52-85e0-4e59-9816-08e04f5e194a
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: 5614c609-a615-4eb6-9ea2-3109056356b0
+      :name: The Eleven
+      :segued: false
+1969/09/29:
+  :uuid: 4168b183-1c60-45bf-bc53-f2e9588a1414
+  :venue: Caf' au Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: a4eb9aa9-4827-4e29-9dda-3374d0f00db9
+    :songs:
+    - :uuid: cd98b94a-caac-43a8-9825-f9c3fdf11234
+      :name: Alligator
+      :segued: false
+    - :uuid: 41f31e48-9240-418d-8b25-8a727770f7fe
+      :name: Drums
+      :segued: false
+    - :uuid: 161b78f4-a00f-4fa7-911c-de30a824d206
+      :name: The Other One
+      :segued: false
+    - :uuid: 160f5605-ca98-421c-894c-42bcfeb409fa
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 18f8fad6-792b-41bb-b2b0-b5e995a4d9d0
+      :name: I Know You Rider
+      :segued: false
+1969/09/30:
+  :uuid: 38336d02-3d0d-4f12-a5eb-d1fa2d03043e
+  :venue: Caf' au Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1969/10/01:
+  :uuid: 176c8777-2479-4ec6-8494-33294320eeb9
+  :venue: Caf' au Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1969/10/02:
+  :uuid: 7728d24a-cb5b-4e4f-98f2-e626c10b4504
+  :venue: Boston Tea Party
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1969/10/03:
+  :uuid: 299a13a5-7dfd-46ed-a68f-b24f0574d394
+  :venue: Boston Tea Party
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1969/10/04:
+  :uuid: b7aebb34-9d2e-46fc-a8d8-714a47cabc73
+  :venue: Sam Houston Coliseum
+  :city: Houston
+  :state: TX
+  :country: US
+  :sets: []
+1969/10/06:
+  :uuid: cd89814b-4488-4245-b2a3-51285f2ca26d
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/10/17:
+  :uuid: 27ee4ae3-2a81-4540-ba14-b9c60df30535
+  :venue: San Jose, Ca.
+  :city: San Jose
+  :state: CA
+  :country: US
+  :sets: []
+1969/10/23:
+  :uuid: 97bee33c-0302-4301-add8-d848a43d97b7
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 156dc2ec-33bb-483f-b054-0eea25d06513
+    :songs:
+    - :uuid: a878ac1f-d405-4bc9-a164-d2cdb21dd468
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 62ebe917-7aee-4248-a468-8e727d08ea8f
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 73f82014-fe1c-4053-8989-c7e54d24d5a2
+      :name: High Time
+      :segued: false
+    - :uuid: 5ab0572a-912e-4b19-bf23-864bd9714826
+      :name: Easy Wind
+      :segued: false
+    - :uuid: 24f118cb-d9ad-41d7-b9ca-e37935be46d1
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 36c2d5f4-b4c3-44c2-8b15-67d6e8cda603
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 4c07eebb-7314-406e-9402-ef9464ae27c4
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: e04428ec-021d-4d42-bdd6-cec346d3e37a
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: b8f18a50-121c-4cd4-9e64-4aab6857b254
+      :name: Drums
+      :segued: false
+    - :uuid: 55e90328-d96a-44e6-9331-1d93d9ede9b5
+      :name: The Other One
+      :segued: false
+    - :uuid: a4ee5e77-809b-4c42-b4c7-d9a268ab8fce
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: c50ee8a1-e5cd-4b44-86d3-24bbc5d1de76
+      :name: Cosmic Charlie
+      :segued: false
+    - :uuid: a08bbbaa-1b54-4667-8be9-137cb245a170
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 7c96e714-cdc8-46e3-beb8-e923cc17eea2
+      :name: Good Lovin'
+      :segued: false
+1969/10/25:
+  :uuid: 105725c0-d98f-497b-8959-685538a60557
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/10/26:
+  :uuid: 33efc594-4553-485e-8861-6dacd387fa3e
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/10/31:
+  :uuid: bd6a51a6-65f3-4e5c-923e-1caea151abc6
+  :venue: San Jose State University
+  :city: San Jose
+  :state: CA
+  :country: US
+  :sets: []
+1969/11/01:
+  :uuid: 28455376-751b-4b83-bfb8-9aa563994b68
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/11/02:
+  :uuid: 4fe17980-e7c0-477b-bf1b-30de9226d6a3
+  :venue: Family Dog at the Great Highway
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/11/07:
+  :uuid: bb9d78f1-9a2b-4de4-8018-cb5095c8b690
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/11/08:
+  :uuid: f1c1bae2-f57b-401e-a870-0d4caf3debed
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/11/14:
+  :uuid: 1d164eb1-fb20-4556-87a9-fc4addb14bcd
+  :venue: Lanai Theater
+  :city: Crockett
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 9faac776-73f0-40b0-8e4b-4e60136703ca
+    :songs:
+    - :uuid: 7127b14b-a1de-42bc-8e3e-337cfe56e6b2
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 5c1f05ec-440a-4394-aecc-f4f3c3cf1ef6
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 28d415d6-e0da-4994-ab08-df949e2b7b23
+      :name: Easy Wind
+      :segued: false
+    - :uuid: 2c509532-4a83-4a55-b4d8-79857aaa0641
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 6b79dc0c-5788-40d9-a864-6abf8c9e1a9c
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 5d9351fe-6233-44c6-9055-bdea8b04493b
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: bfff5016-d77b-4c6d-a562-c0285dbe24cb
+      :name: High Time
+      :segued: false
+    - :uuid: c4131cbf-4bae-4d75-9ba7-005ee435106f
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: da8876c2-cf88-478e-b5b7-75fc7cd836b1
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 84ac3efc-0309-4ce7-8daf-95da78d4eaba
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 09130b6c-ccd9-49d1-be1e-00b85c130565
+      :name: Cosmic Charlie
+      :segued: false
+    - :uuid: 5254cdd0-15db-47d5-99be-d422ad99051b
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: ddcf3c4f-8acb-4cb0-b2f0-91aed0f0b751
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 58b9efd1-4ff4-4c62-a0f8-230bd006c4bf
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 13d1ecef-0011-44b6-a255-9dbc8f5aa373
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/11/21:
+  :uuid: ae97f586-41e1-45a0-82c0-7b5a186b2538
+  :venue: Building A
+  :city: Sacramento
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/04:
+  :uuid: f1e284d4-dd23-43a5-8559-ad7577e7debb
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/05:
+  :uuid: 16d69b88-0733-4463-af66-acbf0d148b81
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/07:
+  :uuid: 06d68181-a217-4fd2-8bee-4f6fd9960e00
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/10:
+  :uuid: 2203e642-1db8-4160-a57e-117d9487de2c
+  :venue: Thelma Theater
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/11:
+  :uuid: 7f147237-1897-472b-a907-1cd8257906ab
+  :venue: Thelma Theater
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/12:
+  :uuid: aa16be94-9499-46ae-b1cf-4466b5d32452
+  :venue: Thelma Theater
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/13:
+  :uuid: 603e1d86-6c42-492b-9dc9-f0028ee3bb6e
+  :venue: Swing Auditorium
+  :city: San Bernardino
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/19:
+  :uuid: b384d4c2-ea6a-41dd-bc9b-1d16b0667f76
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/20:
+  :uuid: c16ef745-c29e-4a90-a8e2-8cd752021f04
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/21:
+  :uuid: 5d857e70-d697-48e3-90c3-a37ddb3756ba
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1969/12/26:
+  :uuid: b157a952-a984-4cb8-84cd-c9ab908a8db6
+  :venue: McFarlin Auditorium
+  :city: Dallas
+  :state: TX
+  :country: US
+  :sets: []
+1969/12/27:
+  :uuid: 092a08cb-89e3-4d1f-965a-62f85da87168
+  :venue: International Speedway
+  :city: Hollywood
+  :state: FL
+  :country: US
+  :sets:
+  - :uuid: 55347368-b24a-4a06-8059-371103c67019
+    :songs:
+    - :uuid: d394628a-9e01-4141-bb43-98cdfa3db398
+      :name: Black Peter
+      :segued: false
+    - :uuid: adab00b2-322b-4d87-a5f1-65241b5dcb84
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 1e68fb4d-4e32-49ff-ba0c-7f2b08effcea
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 80417699-e437-4613-a5b3-f1c85e2ba339
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 86b0baf8-f46e-44a1-bff7-015dfd66f43c
+      :name: High Time
+      :segued: false
+    - :uuid: cebdb35e-6bac-4ebc-9d31-0e6b000ada37
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: d1bf5369-05db-4839-ab68-ad5f1d5b26eb
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: c06107b1-2843-4bea-8000-950bef261fbf
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 7bd7bb2a-b39b-4b0b-a6aa-ccfed9b6391b
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 48182744-0cad-48d2-87a3-13ed27421ff4
+      :name: Mason's Children
+      :segued: false
+    - :uuid: 2b1869eb-0e6c-4bb8-b5fc-1880cbc90d81
+      :name: Turn On Your Lovelight
+      :segued: false
+1969/12/28:
+  :uuid: a84f53e0-e7d7-49fa-aad9-53cba6ce2529
+  :venue: Boston Tea Party
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets:
+  - :uuid: e4cc5967-ef7a-42d7-a460-a4375a2b2b34
+    :songs:
+    - :uuid: a372a132-bcd0-409c-96ae-42548aeb420d
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 55d6239d-7c04-4422-9bf9-e4fd36f9d303
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 1130c3b4-471c-4a72-bb77-72ab8ae54055
+      :name: Black Peter
+      :segued: false
+    - :uuid: 164c1e4e-89af-483d-94e3-89ee96465335
+      :name: Easy Wind
+      :segued: false
+    - :uuid: deff6309-24ba-4e7d-9a09-f05be35b180c
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: cc16635e-0788-41b4-bc12-2d049e7446fd
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 77ff897d-8a09-4c10-b8ff-6ea9908bfc0c
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 4e77af53-a1e9-42e1-a221-1f9b58a24a83
+      :name: High Time
+      :segued: false
+    - :uuid: dba0608b-8651-4dda-8d2e-757b5ecd7a3b
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: fd05bd3c-12e9-4526-8a34-e6f667009f10
+      :name: Mason's Children
+      :segued: false
+  - :uuid: 8965d1fc-d845-4fda-9a2a-aa29922bcef3
+    :songs:
+    - :uuid: b9136c10-1661-4216-b81f-ac4ce13cacac
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: b64e336b-4457-402c-8c80-f1da424f5737
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 0e9e0675-70c7-461e-9394-dd980a3aa514
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 6d68b9ab-f4e1-460a-a194-f1f5f1f30ba3
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: f793a9f0-4fe3-4789-820e-6ebbd032105e
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: c95681ab-ddc5-4beb-8b3e-b41d66df8206
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: 017dc367-2113-4220-bd31-ca9299821a0d
+      :name: Not Fade Away
+      :segued: false
+1969/12/29:
+  :uuid: c9878d88-ff94-47fb-b02a-d7d660808fe4
+  :venue: Boston Tea Party
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets:
+  - :uuid: 66a60649-58ac-4561-b7e1-5fa5415745bd
+    :songs:
+    - :uuid: f448873f-cec0-45e0-86cf-3f5aec427bd4
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 7cd2ec1a-b154-4a6a-b5a7-0b36ada15151
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 5f4d819d-6e18-4e7c-be42-572752ca5e41
+      :name: New Speedway Boogie
+      :segued: false
+    - :uuid: dcedb0d9-3d70-4acb-9566-51ba1aec0bdf
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 29af6a2c-4c07-4c8b-9bc8-faafbf1ad81c
+      :name: Black Peter
+      :segued: false
+    - :uuid: 6d347485-860d-4e1d-bf22-bc92e3929e4f
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: cdee19f2-8477-4495-9b51-21518e72ece1
+      :name: In The Midnight Hour
+      :segued: false
+    - :uuid: 9f71c7e5-89d9-49fc-b9b3-4a773ba0fb7e
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 46b436b4-a32b-436b-af2e-41a69430e38a
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: bc6977d4-c6d1-4dc6-b9d9-704f74f6d924
+      :name: Drums
+      :segued: false
+    - :uuid: 385d2790-0934-488f-b5c6-6f790f9ae8bb
+      :name: The Other One
+      :segued: false
+    - :uuid: 5ca0f659-4d10-4fb7-a4e2-cde7199d401f
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: d608d8a7-5e9b-4bc0-a02b-945e7765084a
+      :name: Cosmic Charlie
+      :segued: false
+  - :uuid: 01b16154-4a57-410e-b9d9-c5c2b092946f
+    :songs:
+    - :uuid: d6f05a34-fae3-47c2-ba17-254bedf5807a
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: 8177cd55-2e60-48b4-9b6c-0b5f8b77cd49
+      :name: Mason's Children
+      :segued: false
+    - :uuid: 0fa8c75f-9355-464b-8cf2-89e7b0f94f66
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 831c70e3-cf01-4ad3-be2c-cf2b2240dbab
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 24528f61-9f49-4d6b-914b-ed080988e408
+      :name: Dark Star
+      :segued: false
+    - :uuid: 36f9bad4-5c46-498f-bc56-9b6a4164e806
+      :name: Alligator
+      :segued: false
+    - :uuid: 694e66ca-e25f-44ff-a2e5-94d93fd2a888
+      :name: Drums
+      :segued: false
+    - :uuid: 4d11b72e-9e1b-49c0-b803-a3da1e9426fb
+      :name: The Eleven
+      :segued: false
+    - :uuid: 48ac97d5-27c2-4eb7-9a68-d49d6baee40d
+      :name: Alligator
+      :segued: false
+    - :uuid: 8b7266b0-973b-4e48-a603-0e495125b0d8
+      :name: Feedback
+      :segued: false
+    - :uuid: 82c663b8-8b8b-4a38-82f1-f33e02154b6e
+      :name: And We Bid You Good Night
+      :segued: false
+1969/12/30:
+  :uuid: d37932b2-6b92-4907-b5fe-32369160c775
+  :venue: Boston Tea Party
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets:
+  - :uuid: 48d4bcad-0e03-42ae-832d-4d059ef3a3ad
+    :songs:
+    - :uuid: 6efe6ece-1b9b-4009-bc78-7ffb3534e248
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: fa8da0d0-3b08-40f5-b31c-6b812ea1d7ee
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 926ca003-e865-437e-b9d0-86db2a119011
+      :name: Mama Tried
+      :segued: false
+    - :uuid: f0d39c27-1496-49c4-8c42-9ffdaef7f46c
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: f0be74a3-4258-430c-a605-824c8a47fd83
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: efdb92b5-6990-43f2-8c6c-8b1610b6e5b4
+      :name: Black Peter
+      :segued: false
+    - :uuid: a82d59ae-b711-4211-8fc7-486ab1336353
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 97e69415-30f9-4391-b44b-6c974b73efe7
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: aeecd40a-aa5f-424a-a102-37a402b6d765
+      :name: Mason's Children
+      :segued: false
+    - :uuid: ad4f4c05-5107-44c1-bfa9-2428f74cd858
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 8a8da7de-0b06-4f95-8f39-69fe16ecd6a6
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: d5ae8357-aa5c-481c-9f0d-37836b4982cd
+      :name: Alligator
+      :segued: false
+    - :uuid: 266ffc2a-1753-49b3-b990-a97102c0636e
+      :name: Drums
+      :segued: false
+    - :uuid: c22dc4d5-baf1-4ffe-830d-10d7ba2b5ef2
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: a9afd1c0-79a2-45c1-b61d-6ab54bf3e7ae
+      :name: The Eleven
+      :segued: false
+    - :uuid: 324a8a49-cc9f-4cb1-9e5d-733fb3513e9e
+      :name: High Time
+      :segued: false
+    - :uuid: fb6caedb-ce62-4ab9-b057-38cf1784de56
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 3d4c501e-8e77-41f7-88b1-68ff7e28d150
+      :name: Big Boy Pete
+      :segued: false
+    - :uuid: 7c141da6-ac30-410e-bc23-ae6f7375155b
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 85d18bda-7312-449d-81b5-803ee8fdd8d4
+      :name: Seasons Of My Heart
+      :segued: false
+    - :uuid: 4d7f04b2-e9e0-4d6f-8c29-448da093cbd8
+      :name: The Race Is On
+      :segued: false
+    - :uuid: 10926bb7-494f-415c-86db-5435081ffe8f
+      :name: Silver Threads And Golden Needle
+      :segued: false
+    - :uuid: aa63a65d-d5b8-4b37-8040-0b592bf2e01c
+      :name: Ol' Slewfoot
+      :segued: false
+    - :uuid: 6ddab2a2-0fd0-45cf-bbf3-8a8d42002bb0
+      :name: Dancing In The Street
+      :segued: false

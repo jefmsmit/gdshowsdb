@@ -1,0 +1,780 @@
+---
+1966/01/05:
+  :uuid: 4aafd24e-1ea2-4ff8-898e-17c44cccb4c8
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: bed16af1-0206-4f30-a988-22542d2178d8
+    :songs:
+    - :uuid: 91788f50-fcce-472e-a8f7-7f34edb61719
+      :name: It's A Sin
+      :segued: false
+    - :uuid: 986c1900-b93f-4233-b823-b44fb98e208b
+      :name: Sick And Tired
+      :segued: false
+    - :uuid: 0eb2323e-9f78-4f13-a3fe-9ffc05b17cc8
+      :name: Mindbender
+      :segued: false
+    - :uuid: b4fc660f-647d-4d36-ab0c-de9eadeea446
+      :name: On The Road Again
+      :segued: false
+    - :uuid: fc7c8f28-d438-4ba1-ac65-4d226451a629
+      :name: She Belongs To Me
+      :segued: false
+    - :uuid: 9c4c9f1d-5afc-42cb-9f60-86dbec4ad20d
+      :name: I'll Go Crazy
+      :segued: false
+    - :uuid: 66b6c7c9-c526-4a7e-9493-2570a1e0289d
+      :name: Can't Come Down
+      :segued: false
+    - :uuid: 466cdd87-6ff9-4d54-9d1d-8cf7a6418b98
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 54d43d23-3e46-4963-b0db-1201e18ae761
+      :name: Parchman Farm
+      :segued: false
+    - :uuid: 4dbac7db-76de-4a62-ad71-0256989c339b
+      :name: In The Midnight Hour
+      :segued: false
+    - :uuid: 5c980c12-80c8-4ad3-b578-d1188cde1ff1
+      :name: The Only Time Is Now
+      :segued: false
+    - :uuid: 1bcf2016-4ef6-4060-9104-f97c43dfc7f7
+      :name: Early Morning Rain
+      :segued: false
+    - :uuid: 450f8e56-7d11-4999-8262-947e69ab1e17
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+1966/01/07:
+  :uuid: ab7de6d3-c7ab-4d17-86f2-08f12004200d
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 6d8bc3d4-ec22-4134-befa-64a3d0c213cf
+    :songs:
+    - :uuid: d1511ee4-0950-467b-b05c-4cc136ef166a
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 474c1085-2065-401f-b5ee-67b1a26ac28c
+      :name: I'm A Hog For You Baby
+      :segued: false
+    - :uuid: fc0c9f18-4fc1-43f7-9514-1fc18a4543b4
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 7479ad9a-0f49-42e6-8235-460a21270fbf
+      :name: Death Don't Have No Mercy
+      :segued: false
+1966/01/13:
+  :uuid: 76f576e0-9385-4e7b-88c1-fbfb68b04848
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/01/14:
+  :uuid: cc8553a7-f163-4feb-bcba-0162565acb64
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/01/15:
+  :uuid: edb04066-47a9-4d09-aae4-c2a02332b07d
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/01/16:
+  :uuid: f4b62659-815e-4575-af91-828d62742757
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/01/22:
+  :uuid: abb0c43c-3782-42c2-a702-a79aafbec852
+  :venue: Longshoreman's Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/01/23:
+  :uuid: 9a002d10-aeaf-42a7-b33d-be4da43a77fd
+  :venue: Longshoreman's Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/01/28:
+  :uuid: 3f98582a-0ee8-4dd9-a54e-0d404def2731
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/01/29:
+  :uuid: 6150765d-d147-4444-9d9f-f2233b4ec405
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/02/06:
+  :uuid: 50cb3faf-11af-4043-8e08-97d9d66c8528
+  :venue: Northridge Unitarian Church
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1966/02/12:
+  :uuid: ef6b23a3-81bb-4c1a-a155-7fc1b7e610cb
+  :venue: Youth Opportunities Center
+  :city: Compton
+  :state: CA
+  :country: US
+  :sets: []
+1966/02/25:
+  :uuid: 116aa11d-1bc8-491e-9092-8645999400a5
+  :venue: Ivar Theater
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1966/03/03:
+  :uuid: a885dd8c-9b5f-4823-9f99-d27bffdfb84d
+  :venue: A. I. A. A. Hall
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1966/03/12:
+  :uuid: 3d48b97a-8699-4bd5-b953-6dadb20562cd
+  :venue: Danish Center
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1966/03/18:
+  :uuid: 3ad5e6f6-0e8c-457c-9223-ca6258012318
+  :venue: Carthay Studios
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: d80aff11-9abb-4785-ac0f-5e31c9799b00
+    :songs:
+    - :uuid: 0922982b-6c36-42c1-a8b4-c8cd2b116c0c
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 76ba34ee-d4d6-4f9d-84c0-ca20241148eb
+      :name: One Kind Favor
+      :segued: false
+    - :uuid: fb6c5603-921a-4ae3-bc30-504af3e69027
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 8694108f-dc6b-4e23-a252-ae284f65ab07
+      :name: You See A Broken Heart
+      :segued: false
+    - :uuid: 96071d77-1807-486b-8582-7026da6fdfbc
+      :name: It's A Sin
+      :segued: false
+    - :uuid: fadd7456-bcba-4404-a141-52807c0aaef3
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: b612ad5b-0ba9-449b-a7de-7d1df3f9add7
+      :name: Heads Up
+      :segued: false
+    - :uuid: 87cd5bd8-9f07-4ecc-bc79-8fcf4ac48cf2
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 08e35699-491b-445d-8479-40ef08f7cf8d
+      :name: Slow R and B Instrumental
+      :segued: false
+    - :uuid: b66ce493-34c8-4ef6-bdac-1b1564e311d3
+      :name: Space
+      :segued: false
+    - :uuid: 964d02ab-a5be-4a1d-a498-bc5b95e16b13
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: aa19c94a-8215-48b2-aff8-ff4369994ca9
+      :name: In The Midnight Hour
+      :segued: false
+1966/03/25:
+  :uuid: 87ba0e4c-1ac7-4242-94ac-046fd84415e4
+  :venue: Trouper's Club
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1966/04/22:
+  :uuid: ebd9d7b2-3c3c-4835-a2c3-2f16a195580d
+  :venue: Longshoreman's Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/04/23:
+  :uuid: 2ba2858f-803f-4701-a338-ea64ffbe244d
+  :venue: Longshoreman's Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/04/24:
+  :uuid: f3e56c7f-9110-462a-a757-4bdb913f479d
+  :venue: Longshoreman's Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/05/07:
+  :uuid: 4b969d4b-0596-4826-b48c-ee7a06bfa58c
+  :venue: Harmon Gym
+  :city: Berkeley
+  :state: CA
+  :country: US
+  :sets: []
+1966/05/14:
+  :uuid: aebffcc6-e71a-4d8c-9ee5-fe11692a51ed
+  :venue: Veterans Memorial Hall
+  :city: Berkeley
+  :state: CA
+  :country: US
+  :sets: []
+1966/05/19:
+  :uuid: c6ec3863-cbf4-49c6-9e68-5000f34b7699
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/05/22:
+  :uuid: 7f7d07c0-199a-4de7-b726-a720d6f14412
+  :venue: Rancho Olompali
+  :city: Novato
+  :state: CA
+  :country: US
+  :sets: []
+1966/05/25:
+  :uuid: fdd08fc7-c35a-47af-9645-323af2d5e70b
+  :venue: Unknown Location
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/05/28:
+  :uuid: d5c471f0-3f03-461a-8f96-04bf84880a36
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/05/29:
+  :uuid: f6c0f6d9-b3e0-44f0-b68c-c0f7a0db07aa
+  :venue: California Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/01:
+  :uuid: 639f74b0-875d-476f-8743-78e6ba0dee09
+  :venue: Pauley Ballroom
+  :city: Berkeley
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/04:
+  :uuid: 73f157a4-c7dd-4268-b0b7-e1b2f6967492
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/10:
+  :uuid: d37486b7-2e1d-46ad-be4c-68ecec9ebcc4
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/11:
+  :uuid: b85ad87e-2ece-44eb-b3b6-412316106a87
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/17:
+  :uuid: 1414edcb-ab34-482d-a551-d46fe319712d
+  :venue: Veterans Hall
+  :city: Santa Rosa
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/18:
+  :uuid: f953a891-75eb-4fba-b9c1-d7f887010ca9
+  :venue: Veterans Hall
+  :city: Santa Rosa
+  :state: CA
+  :country: US
+  :sets: []
+1966/07/03:
+  :uuid: 9a988f12-0331-40ef-bf01-4f3fb15b1969
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/07/08:
+  :uuid: c9ff5f14-716b-4b46-9986-a38b1f31aebf
+  :venue: Santa Venetia Armory
+  :city: San Rafael
+  :state: CA
+  :country: US
+  :sets: []
+1966/07/09:
+  :uuid: 8f3947d7-fea3-4f7c-81de-d90bf49931cd
+  :venue: Santa Venetia Armory
+  :city: San Rafael
+  :state: CA
+  :country: US
+  :sets: []
+1966/07/14:
+  :uuid: 87429e6c-35ab-4948-be89-cbe17c70f37f
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/07/15:
+  :uuid: 0939a9eb-3fc6-4b38-a380-915419834bbc
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/07/16:
+  :uuid: 99d96ef5-1a10-4155-bd78-3f596c158427
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/07/17:
+  :uuid: 8d16e002-5627-4acc-81dd-77063148713a
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/07/29:
+  :uuid: 2d791c41-7f8a-46cf-a7e3-b449cc96e866
+  :venue: P.N.E. Garden Auditorium
+  :city: B.C.
+  :state: ''
+  :country: CA
+  :sets: []
+1966/07/30:
+  :uuid: 3f462202-5460-42fc-91e9-be7018d3611c
+  :venue: P.N.E. Garden Auditorium
+  :city: B.C.
+  :state: ''
+  :country: CA
+  :sets: []
+1966/07/31:
+  :uuid: fdc76715-8f4b-4c07-b957-f9e9725cc1f5
+  :venue: P.N.E. Garden Auditorium
+  :city: B.C.
+  :state: ''
+  :country: CA
+  :sets: []
+1966/08/05:
+  :uuid: b64e1c3f-ef80-4124-8241-0b2ed9cd3cb8
+  :venue: Afterthought
+  :city: B.C.
+  :state: ''
+  :country: CA
+  :sets: []
+1966/08/06:
+  :uuid: 09ed4869-ac78-452f-8b00-cc4c6a5db462
+  :venue: Afterthought
+  :city: B.C.
+  :state: ''
+  :country: CA
+  :sets: []
+1966/08/12:
+  :uuid: 5597a11d-8593-4a4b-b4b1-4689fa2336d4
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/08/13:
+  :uuid: c65888f0-7d70-464e-995a-747abe23053b
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/08/19:
+  :uuid: 5f413019-8d52-4090-8ef5-3b409dc9f1bb
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/08/20:
+  :uuid: 893a37eb-5595-40be-a3bb-d402212bf29a
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/08/27:
+  :uuid: d25fb0c0-1ae1-4845-be27-a1228425d791
+  :venue: I.D.E.S. Hall
+  :city: Pescadero
+  :state: CA
+  :country: US
+  :sets: []
+1966/08/28:
+  :uuid: 02b4fd1d-523d-4dc4-9f85-e184a93ab6bb
+  :venue: I.D.E.S. Hall
+  :city: Pescadero
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/04:
+  :uuid: 435c2e32-cb96-4b66-885a-09ef0de193ff
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/05:
+  :uuid: 7a22af40-e7af-46f5-9a28-c55f6f9d9c2b
+  :venue: Rancho Olompali
+  :city: Novato
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/08:
+  :uuid: 0d2ed3f7-7e70-497e-8abc-c9c29c5a1530
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/11:
+  :uuid: a404d51e-58ac-4c7f-a040-6b338fe181cf
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/16:
+  :uuid: 475667e8-634f-4532-a285-78240be81cf4
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/17:
+  :uuid: f949a3ee-f573-4506-81d6-92ce13e3edc5
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/22:
+  :uuid: 13899b5d-7937-4e00-be2f-c2b37600cc32
+  :venue: La Dolphine
+  :city: Hillsborough
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/23:
+  :uuid: 7e7b794c-0d90-473b-ad6f-bff71fab09df
+  :venue: Pioneer Ballroom
+  :city: Suisun City
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/24:
+  :uuid: 67bc2fbc-dd5e-4b32-a742-be93151df626
+  :venue: Pioneer Ballroom
+  :city: Suisun City
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/02:
+  :uuid: 83c3f23c-4259-41c4-947e-ebd35c5e631c
+  :venue: Commons
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/06:
+  :uuid: 5add4e76-b95f-472c-a01b-fd05383fbe50
+  :venue: Golden Gate Park
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/07:
+  :uuid: d1ad6e38-af72-4dba-baf4-398f7de0895e
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/08:
+  :uuid: 3c4ba878-1f88-466a-ae1f-54ec856b11d9
+  :venue: Mt. Tamalpais Amphitheatre
+  :city: Marin County
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/09:
+  :uuid: 6b90cfd8-4d8a-428b-acde-fb22a43d562b
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/14:
+  :uuid: 9a23cc71-7e92-41d3-b668-21ba1ccbadf5
+  :venue: TMU Deck
+  :city: Palo Alto
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/15:
+  :uuid: 138ab740-3407-4acf-a814-6cfbab4d5c6b
+  :venue: The Heliport
+  :city: Sausalito
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/16:
+  :uuid: 372fcfef-016e-4618-83dd-7106fafb6b49
+  :venue: Golden Gate Park
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/21:
+  :uuid: a921165b-72ee-4918-b28c-f55e30443519
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/22:
+  :uuid: a15aa4c5-d8ac-4848-a5a8-ab518c24e84b
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/23:
+  :uuid: 8fd75c0e-6d6a-4caa-bd1d-c16a99c52c87
+  :venue: Las Lomas High School
+  :city: Walnut Creek
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/26:
+  :uuid: cd58c767-89b5-40b2-a96e-a1914c1c34c9
+  :venue: The North Face Ski Shop
+  :city: Berkeley
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/31:
+  :uuid: 23096a41-d98d-4c13-96ad-7215154f1562
+  :venue: California Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/04:
+  :uuid: ff6369e1-5f37-4486-9c4f-98d2f9cb1d0e
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/05:
+  :uuid: 3598df12-14d9-44a0-92fc-2f6147734182
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/09:
+  :uuid: 66dccb52-7303-4b7f-9bbe-9359747f4cf9
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/12:
+  :uuid: fc123ac0-4aee-4e1c-ae46-19ca2dd2b685
+  :venue: The Old Cheese Factory
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/13:
+  :uuid: 08d2811c-20a1-4036-822e-1f36a88ef34c
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/18:
+  :uuid: 8cd092e1-c1c3-4375-9be4-69a7d5b856c9
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/19:
+  :uuid: 30126d88-907b-4410-84a7-fe08ceaad444
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/20:
+  :uuid: 3d568951-848f-44af-9a5c-e02fcb32711c
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/27:
+  :uuid: ea8d2ee7-ecdc-4034-81bf-1b250d61f887
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/28:
+  :uuid: 0a274fe9-e589-4b96-9326-1bbf2d01884e
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/29:
+  :uuid: d5b8a3b4-8bf6-411d-aaeb-5bc11243b126
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/11/30:
+  :uuid: ee126743-3a96-4c9f-a4e9-80b14fce83cd
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/01:
+  :uuid: 49f93ee7-bcbb-4e4a-9c67-68793581959a
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/02:
+  :uuid: 10f8c2e5-2c81-44f2-82d1-be191246a0eb
+  :venue: Pauley Ballroom
+  :city: Berkeley
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/09:
+  :uuid: 88dcd99d-5d41-46fe-8962-38ed849dfeb2
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/10:
+  :uuid: 105fa909-0a03-4c0b-9e04-35b6afaa4c60
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/11:
+  :uuid: e4e6e73a-806c-43ad-ada5-055a3599231d
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/20:
+  :uuid: 0fb0ce8f-ee74-46e2-80c8-4c310111dcb5
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/21:
+  :uuid: f580f7ce-6b0d-4cff-9d38-f597b97dc468
+  :venue: Continental Ballroom
+  :city: Santa Clara
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/23:
+  :uuid: 5fe0f2af-50f2-460c-b737-fdeb9f783a2d
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/24:
+  :uuid: 44c8aec1-ae27-4c83-ae81-7c4cbb6ac403
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/28:
+  :uuid: 25dba9f3-8b87-4917-9900-f751623059ed
+  :venue: Governor's Hall
+  :city: Sacramento
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/29:
+  :uuid: 8690f2a3-f4dc-40ee-bd29-1273ac9a6053
+  :venue: Santa Venetia Armory
+  :city: San Rafael
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/30:
+  :uuid: 1251280a-1b29-4c64-a96e-c9f8f6a981b3
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/31:
+  :uuid: 5f3459d0-724b-41e5-8a73-4a877ac3df4c
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []

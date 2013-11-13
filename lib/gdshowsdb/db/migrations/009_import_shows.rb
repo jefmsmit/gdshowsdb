@@ -4,8 +4,8 @@ require 'gdshowsdb'
 
 class ImportShows < ActiveRecord::Migration
 	
-	def up		
-		@shows = YAML.load_file(Gem.datadir('gdshowsdb') + '/shows.yaml')
+	def up	
+		load_shows	
 		@shows.each do |key, value|
 			show_song_count = {}
 			show = save_show(key, value)			
@@ -36,6 +36,14 @@ class ImportShows < ActiveRecord::Migration
 	end
 
 	private
+
+	def load_shows
+		@shows = {}
+		(1965..1995).each do |year|
+			from_file = YAML.load_file(Gem.datadir('gdshowsdb') + "/#{year}.yaml")
+		  @shows.merge! from_file
+		end
+	end
 
 	def lookup_song_ref(name)
 		@ref_cache = {} if @ref_cache.nil?

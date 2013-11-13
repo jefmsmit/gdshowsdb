@@ -1,0 +1,1396 @@
+---
+1971/01/21:
+  :uuid: 39718804-c4fd-4fd2-9d38-64e0a3d036ee
+  :venue: Freeborn Hall
+  :city: Davis
+  :state: CA
+  :country: US
+  :sets: []
+1971/01/22:
+  :uuid: 1b014de0-7f3c-4926-8538-1d108eb1e756
+  :venue: Lane Community College
+  :city: Eugene
+  :state: OR
+  :country: US
+  :sets: []
+1971/01/24:
+  :uuid: 579263ac-f10e-44ec-a8e5-1c99b2a4faa3
+  :venue: Seattle Center Coliseum
+  :city: Seattle
+  :state: WA
+  :country: US
+  :sets:
+  - :uuid: 4c847fbe-a819-40ce-9d22-c05ec5c79573
+    :songs:
+    - :uuid: 1e5863cf-cdf5-44ae-95c5-a184f015acd9
+      :name: Truckin'
+      :segued: false
+    - :uuid: d91d8116-e4c0-4d27-8daa-6d06b6919b93
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: f3695d30-b4ab-43ad-a4cd-9bd636677541
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 0e555a1c-98c0-4ac8-b55c-1189f78eafc9
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 5d4e4eaa-0c98-41dd-8afa-68eb9e40d28f
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: af1f096c-0a22-4c15-b1fb-7a6a065e1033
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 27759a71-0113-433e-83dc-7c40127ee8cd
+      :name: Sugar Magnolia
+      :segued: false
+  - :uuid: 14d7947e-8d49-4a73-8e43-c6647bb3903c
+    :songs:
+    - :uuid: 89e570f4-73a8-4be7-a397-731d2a9f5cd1
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 534fb4d6-b0b7-45a8-bc56-19b5181264c2
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: d6e49856-80ca-4fe3-af5e-08d2c4be48f0
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: d6eefd8f-6cc5-4b83-83a8-5847c779ff8c
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: 475b41ee-f26e-490e-b7f1-13be1e000cb6
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 5f2c9b2e-0d50-4079-ae89-da47e26a21dd
+      :name: Drums
+      :segued: false
+    - :uuid: 4a7fcbe8-6f13-4c99-bcfc-15dec25a2501
+      :name: Good Lovin'
+      :segued: false
+1971/02/18:
+  :uuid: af801bd0-f0d0-4b3b-8f22-c327d4ba8679
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 5fce0b45-0470-487a-b18a-d2210ca6cdeb
+    :songs:
+    - :uuid: e68ba406-157f-49de-b82e-d1c4090fded0
+      :name: Bertha
+      :segued: false
+    - :uuid: b8cb113d-7f89-4dd1-8e46-f57b83fe6b96
+      :name: Truckin'
+      :segued: false
+    - :uuid: 8e2b295b-eff5-4302-842a-32a72ffc0e25
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 0a6bcdf4-21ba-4b20-ab35-6433fc6b68c5
+      :name: Loser
+      :segued: false
+    - :uuid: 3fb5659c-c7d5-4882-93b6-01b289b2ac22
+      :name: Greatest Story Ever Told
+      :segued: false
+    - :uuid: b031bd82-320c-4c5b-8a2b-b5ab22d994f6
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: 92d2c274-bfa1-40a2-ac3b-095b96382625
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 56c9a094-61d5-4cc4-ba6a-33cc7b96fbdf
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 67cd9093-2526-4b68-bb9f-caa65e2d5d2c
+      :name: Dark Star
+      :segued: false
+    - :uuid: 67bdf82c-bfc2-4ec9-aca9-2b2f5f5c482a
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: f23b1026-2343-45e6-92be-6f6131c00e66
+      :name: Dark Star
+      :segued: false
+    - :uuid: ff2a14dd-4378-4c4e-8e16-ce86bea9df2d
+      :name: Me And My Uncle
+      :segued: false
+  - :uuid: b91ae742-898f-4e28-9ab2-115c79cb61d4
+    :songs:
+    - :uuid: 6160e2c3-7704-43a5-8183-d74f2a639302
+      :name: Casey Jones
+      :segued: false
+    - :uuid: d5629af2-3a12-4df8-8226-51c56fca0d0d
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: dd7ab88b-7fdf-4d35-bd69-6be94d2f7a2a
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: cf85447b-2c25-4ec2-a80c-2562f19db956
+      :name: Candyman
+      :segued: false
+    - :uuid: 4c7d169c-8bcf-43f8-bd5d-ea774f2511d6
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: b60a2b3d-8ad4-44f9-9acd-04decdaa6fcd
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: ed50a606-ced7-4db3-92d4-562467578f0a
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: e1f09682-41f9-4bc3-97e8-e988e15c8947
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 59abf837-6012-4f13-9ccc-b802800eba0d
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: be9f6a23-8055-4097-a4ec-2ddbc1e2ca02
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: ad696346-b0c2-4766-b88c-2bbf3607da43
+      :name: Uncle John's Band
+      :segued: false
+1971/02/19:
+  :uuid: a37917a1-a5b4-4341-b4b3-86578f420aff
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets: []
+1971/02/20:
+  :uuid: 61cb8db2-5b7a-4caa-82f1-2967aa2ade60
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: ca782e87-1227-449f-a180-51153b9197f2
+    :songs:
+    - :uuid: 6a8dd6ad-2355-4686-b3ab-2f521c264bb9
+      :name: Casey Jones
+      :segued: false
+    - :uuid: e025d403-5d1a-4363-937a-8eb1aa61f5e3
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: cd7a6b1d-e993-450c-9bf9-cae8f55c6245
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 3e7d3d1f-b4c1-471f-a270-a459fb3f3897
+      :name: Bertha
+      :segued: false
+    - :uuid: 20af90bc-bc5d-45ce-a524-afe329fcbea4
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: c5b0eec3-4480-429e-8862-bc3d5a9a7f7f
+      :name: Bird Song
+      :segued: false
+    - :uuid: 2c0a5d6a-4543-4a80-834f-f3d44ab76e29
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: e78762bd-2656-4b1c-a7cd-90553a969c0c
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 61f50f5c-b324-452d-a3ff-d5e6272b0587
+      :name: Drums
+      :segued: false
+    - :uuid: a9e28f04-d090-4015-9206-b56408c3f7af
+      :name: The Other One
+      :segued: false
+    - :uuid: 7fd005d2-23b3-4ecc-b3a8-97f7d92910a0
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 638c9d63-1e25-4b9f-a195-e712c9f33607
+      :name: Sugar Magnolia
+      :segued: false
+  - :uuid: 9d20df74-4c54-48a2-9b89-8c8ecbd88035
+    :songs:
+    - :uuid: 347ec4cf-32a1-4e30-8d61-449fc4ca7d58
+      :name: Truckin'
+      :segued: false
+    - :uuid: 500fb106-f96a-494c-8bdc-41f40a611f27
+      :name: Loser
+      :segued: false
+    - :uuid: 7d1ebcb2-ce41-4336-9f1e-4e138c307405
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: df3c615c-e010-456f-960a-ec896d46375e
+      :name: Greatest Story Ever Told
+      :segued: false
+    - :uuid: a8a9f121-4581-43b0-8c65-0d6b001f0abc
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: df1bbcc5-7714-4843-a18f-80bafdda99a7
+      :name: Ripple
+      :segued: false
+    - :uuid: a79e5335-328c-4374-90ba-a8a424bb5f9d
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 9837e1d1-c6fc-46c5-a49a-362963b300ed
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: b48e1bfb-7c0b-4ee0-9cad-810dac29e657
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: a167ad3e-fea2-4a96-8e02-d552b6e0b097
+      :name: Turn On Your Lovelight
+      :segued: false
+1971/02/21:
+  :uuid: 100f5c5e-cc12-4a46-8363-76e660eda22e
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets: []
+1971/02/23:
+  :uuid: e8bc8f42-5d8b-42ab-84c7-cbdbe52f009a
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: d609bf69-ff66-493f-a1a3-a565fc244ae2
+    :songs:
+    - :uuid: 0436f90e-8785-4280-a023-267254851a56
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: a59b7f77-2022-4f0c-ba4a-5cc892efc105
+      :name: Loser
+      :segued: false
+    - :uuid: 4d3b8df1-9c37-4ecb-97d5-a5caa3e8ad5e
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 71afdeea-ef2a-4312-873a-7f32d02e071e
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 9a63d56c-efbb-430f-82ff-02215eca540c
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 2cf812cd-8708-4148-bbe6-8966c79010fa
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 87353ed6-7483-4306-9ed9-21279e65c472
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: c3b96780-0f06-4fb0-8051-1ee44a97a809
+      :name: Bertha
+      :segued: false
+    - :uuid: 6dd6a7a1-0ff7-45b6-97cd-fa2729e4026c
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 2de1de4b-b655-4db5-8ed6-b76f773d5fc2
+      :name: Around And Around
+      :segued: false
+    - :uuid: ddb430e6-7d98-47fa-a262-5f1f72eb806a
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 6b9aeee5-bce3-4566-a56e-ffbdad84ea23
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 6d461e61-a363-4c04-92db-5500542038ff
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 2907cec7-0047-4567-8630-1e31fce8172f
+    :songs:
+    - :uuid: 99e5d7c8-a612-40f5-b75e-f0aa214831d0
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 28d5f8d7-0311-47da-8494-861c01ef97eb
+      :name: Bird Song
+      :segued: false
+    - :uuid: 7d5d4340-20d3-4302-b5a8-cb1ced061180
+      :name: Truckin'
+      :segued: false
+    - :uuid: b6de5bc8-a908-4e6b-9181-8f8eb584681e
+      :name: Drums
+      :segued: false
+    - :uuid: 86bbb660-8d63-4e1d-bb8c-6f22308e3374
+      :name: The Other One
+      :segued: false
+    - :uuid: 3321ec15-030f-4a5a-bdac-a50243ef0b73
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: d0a1c232-0d92-4631-85e0-503a5fbe31ba
+      :name: Greatest Story Ever Told
+      :segued: false
+    - :uuid: ad7d4d5c-4666-4849-9c4b-01cd925ce7f6
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 93708f75-eebf-44ae-8b0a-fba4cf9352f5
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 3db7d446-11ce-4bf2-af5e-9dd37a7859a4
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: ce883d5c-87f5-47bb-919f-0e0b02a37287
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 32f3eb8d-21d2-4d54-89d7-a4d2064a4972
+      :name: Johnny B. Goode
+      :segued: false
+1971/02/24:
+  :uuid: ba5d259c-e01b-41ff-8f8b-a0799fad4aa9
+  :venue: Capitol Theater
+  :city: Port Chester
+  :state: NY
+  :country: US
+  :sets: []
+1971/03/03:
+  :uuid: 076cc2ff-bf9c-4c28-9a45-16c6432e54cb
+  :venue: The Syndrome
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1971/03/05:
+  :uuid: 24002925-3d7a-4a9b-b8b4-fe1118949643
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1971/03/13:
+  :uuid: 29dbdd19-87bc-42d1-b77d-658b3579d178
+  :venue: Jenison Field House
+  :city: East Lansing
+  :state: MI
+  :country: US
+  :sets: []
+1971/03/14:
+  :uuid: d5209e2f-da27-4cc1-869c-1dabd813040a
+  :venue: Camp Randall Field House
+  :city: Madison
+  :state: WI
+  :country: US
+  :sets: []
+1971/03/17:
+  :uuid: e1c91ba4-8ff5-4e1b-96f7-3a8de1a5902d
+  :venue: Fox Theatre
+  :city: St. Louis
+  :state: MO
+  :country: US
+  :sets: []
+1971/03/18:
+  :uuid: 893b24ee-5307-4109-a6d6-00ed4c13b978
+  :venue: Fox Theatre
+  :city: Atlanta
+  :state: GA
+  :country: US
+  :sets: []
+1971/03/20:
+  :uuid: c39cbcdc-9f46-4d0a-8529-2e78f5b5360f
+  :venue: Fieldhouse
+  :city: Iowa City
+  :state: IA
+  :country: US
+  :sets:
+  - :uuid: ec50ef07-3da7-4e40-a736-60d29f3d7ed0
+    :songs:
+    - :uuid: c906ae30-8b81-4748-b4d3-f63d7af7837b
+      :name: Truckin'
+      :segued: false
+    - :uuid: 528c665d-5899-42da-8641-5be871fe7dfa
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 737eb0eb-8f36-43e8-ad2e-af1883d611c7
+    :songs:
+    - :uuid: f0f34c86-1bfc-4589-a16c-1ec8f6402c03
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: fb1990a5-6fe2-4925-8350-6affe489d2e2
+      :name: Turn On Your Lovelight
+      :segued: false
+1971/03/21:
+  :uuid: ef1dbd6a-8a2e-4397-aa65-238543304993
+  :venue: Exposition Center
+  :city: Milwaukee
+  :state: WI
+  :country: US
+  :sets: []
+1971/03/24:
+  :uuid: 131c1cb7-efe9-4c29-a6a8-fd4621c76af8
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1971/04/04:
+  :uuid: c2709167-a713-4531-9923-517770261832
+  :venue: Manhattan Center
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/04/05:
+  :uuid: 7479a986-b19b-490e-8f16-29a3529319d2
+  :venue: Manhattan Center
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/04/06:
+  :uuid: fe80586e-f1cf-4e9e-92da-26a624d1f7eb
+  :venue: Manhattan Center
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/04/07:
+  :uuid: 8c66287a-938e-40ca-91d8-9af6e49268eb
+  :venue: Boston Music Hall
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1971/04/13:
+  :uuid: a9114beb-359d-4fca-bee2-9e5c822016d7
+  :venue: Catholic Youth Center
+  :city: Scranton
+  :state: PA
+  :country: US
+  :sets: []
+1971/04/14:
+  :uuid: be150933-7cfb-4f4b-8650-e4ca5be6bcfc
+  :venue: Bucknell University
+  :city: Lewisburg
+  :state: PA
+  :country: US
+  :sets: []
+1971/04/15:
+  :uuid: 4a9e2381-271a-4efe-8da8-0a48d5b278e0
+  :venue: Allegheny College
+  :city: Meadville
+  :state: PA
+  :country: US
+  :sets: []
+1971/04/17:
+  :uuid: e446f2c5-b8db-469f-82dd-f4d6c03e31a4
+  :venue: Dillon Gym
+  :city: Princeton
+  :state: NJ
+  :country: US
+  :sets: []
+1971/04/18:
+  :uuid: 4b791c10-65bc-447f-b094-e338a529e49c
+  :venue: Lusk Field House
+  :city: Cortland
+  :state: NY
+  :country: US
+  :sets: []
+1971/04/21:
+  :uuid: deecfd47-de34-47ba-bb77-115a84274928
+  :venue: Rhode Island Auditorium
+  :city: Providence
+  :state: RI
+  :country: US
+  :sets: []
+1971/04/22:
+  :uuid: 170148db-cb51-4652-a870-9b46a803f92d
+  :venue: Bangor Municipal Auditorium
+  :city: Bangor
+  :state: ME
+  :country: US
+  :sets: []
+1971/04/24:
+  :uuid: 6b4fdede-3d65-41f8-a9c1-c954b2808eac
+  :venue: Wallace Wade Stadium
+  :city: Durham
+  :state: NC
+  :country: US
+  :sets:
+  - :uuid: ffcf8d02-8e0a-4de6-9ff4-adc1aefaa91f
+    :songs:
+    - :uuid: 8925b304-4c9e-4930-a397-4b9b76efcf53
+      :name: Truckin'
+      :segued: false
+    - :uuid: d7fda08a-3894-4bf8-a13e-12d65eb21b39
+      :name: Deal
+      :segued: false
+    - :uuid: d89d9113-e19a-47c8-8c3e-ce82f078cd49
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: e779f7fd-9de4-4803-bf98-e12363aa0fe1
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 0cd08e9f-85e4-4c6e-90f3-48e105526bbf
+      :name: Bertha
+      :segued: false
+    - :uuid: 576b7e76-20f6-4a1e-a182-551029166079
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: fd533854-15a8-4d4a-9262-132078780b64
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: afa2bef4-7c55-452e-95a3-57565d2aecdb
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: fd819726-28df-4fdc-9e06-2e89569ca8ad
+      :name: Loser
+      :segued: false
+    - :uuid: 523bb2b6-504f-42ca-b258-03a83a934962
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: fe03d6ac-d219-4049-9cb1-567767825580
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 8124c641-155b-4b85-a459-dc1b056dba98
+    :songs:
+    - :uuid: 8cee41a4-d14d-4c2e-851b-7c5e65eba92d
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 64b6f9b0-44ae-40e6-ac45-b572c01c6fed
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: bd80f204-9b32-41e4-8852-199d3700501b
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 8f4caf42-f3c3-461d-86df-ed24deac21ef
+      :name: Greatest Story Ever Told
+      :segued: false
+    - :uuid: f8dde53b-088f-4081-96c6-c6f6f87568e4
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: 15db99e1-09fe-4d84-9955-6062bf64815b
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: f234c0ae-d949-434b-97eb-6e4b2bcdedda
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: f3ae49df-fd79-4334-a01c-94e8522217ea
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 4aeed203-bb28-40fa-85a2-c5d07694669c
+      :name: Uncle John's Band
+      :segued: false
+1971/04/25:
+  :uuid: 5fa47d28-bb12-48c0-9091-2415e5f522d1
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/04/26:
+  :uuid: 9e7bb976-f794-4174-945e-e1281ed324fb
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/04/27:
+  :uuid: 9eff09f0-f75d-4af9-93bc-b3e74c375249
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/04/28:
+  :uuid: c6df8029-8f7e-4c5e-90e1-de386e122da5
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/04/29:
+  :uuid: 5beabd8e-9e30-4bca-9580-e5c1ebcd7567
+  :venue: Fillmore East
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/05/29:
+  :uuid: 75e4b5b7-40a8-4cd3-9629-213903b7c7a4
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1971/05/30:
+  :uuid: d0a7c784-44a8-40cc-ae7c-5ec734ea28f4
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: f12f9ddd-ccd7-4526-b92c-8cbfa03907e6
+    :songs:
+    - :uuid: 1dfe7b29-cd3d-46b5-a9b7-3b92d074d1eb
+      :name: Bertha
+      :segued: false
+    - :uuid: 3e80f667-23c1-4981-8893-7a311194aec4
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 790787de-ab6e-4bef-97ef-45ee226e69e2
+      :name: The Rub
+      :segued: false
+    - :uuid: 9aea903a-00e6-43f8-ad49-69b550145033
+      :name: Loser
+      :segued: false
+    - :uuid: dc29b5bd-afe1-4dcc-97d7-ee728660422b
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 1aabaf72-703e-454b-8cf7-da095ca26169
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: fbc72041-842a-4a83-8e38-46cff02d0967
+      :name: Morning Dew
+      :segued: false
+    - :uuid: b9187dcd-0f15-4d87-9500-0c8db4ad35fe
+      :name: The Promised Land
+      :segued: false
+    - :uuid: 4a0cafdd-9320-47e4-ae06-5e4b41da1e19
+      :name: Good Lovin'
+      :segued: false
+  - :uuid: c6ed807c-36f4-48a9-96f4-d2572dcfdc94
+    :songs:
+    - :uuid: 95dda5b4-0b38-4c52-8394-38448b062cc1
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 68d53bd3-cebf-4f2d-a2f8-002c424e1495
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: b60c7643-e6e6-4ace-a6d1-201dc058f4f3
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 134e16da-4b34-4a0f-885d-ca1bd84c4d9c
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 42c92bed-4a73-4c66-9592-ddbbe0b10c4f
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 452a0d8c-7e4b-4811-8f03-03e612ff31d8
+      :name: Deal
+      :segued: false
+    - :uuid: f2f6ba4a-e766-4037-987b-c638591ee1a1
+      :name: Truckin'
+      :segued: false
+    - :uuid: a8b63d2e-9c3b-4687-8587-3afae49f2b2c
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 08379e1c-97a5-4840-9a44-59bdf89589bd
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: 9405438d-d5c9-4e2d-8b93-ec89e41a8cd7
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 1123a6f9-be2e-4c1b-b367-1e80cd013cea
+    :songs:
+    - :uuid: 6ada07be-8f40-41b7-a75e-52922151247b
+      :name: Johnny B. Goode
+      :segued: false
+1971/06/21:
+  :uuid: 53a64d74-06a7-4259-9f08-5fecee6dd86e
+  :venue: Chateau d'Herouville
+  :city: Herouville
+  :state: ''
+  :country: FR
+  :sets: []
+1971/07/02:
+  :uuid: 1c9bb6b4-2865-4f41-a98a-34ba64a680ad
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1971/07/31:
+  :uuid: 79860ca7-f3f7-40dd-9fe1-4abfd52e11ac
+  :venue: Yale Bowl
+  :city: New Haven
+  :state: CT
+  :country: US
+  :sets:
+  - :uuid: 21afc578-75f1-41ef-8b6a-5c3c363fd045
+    :songs:
+    - :uuid: f03c3ec5-2816-4cc6-b533-d3235f5a99a3
+      :name: Truckin'
+      :segued: false
+    - :uuid: cc2f6d58-f9fb-42f1-bc3f-c5066b762f4a
+      :name: Sugaree
+      :segued: false
+    - :uuid: 9a4d7ef6-4f21-4836-acac-f965722044f3
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: b2200ecd-301c-44fd-94a3-f6ba7979337d
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 4a639059-adb2-4bef-9363-45442cac1ad0
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 71540b79-4d74-4783-af5b-841d24f2b9c9
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: d2723f07-2c5f-4c6d-8ceb-b71ec31d13c7
+      :name: Dark Star
+      :segued: false
+    - :uuid: 0e5f27e7-fcf0-4768-8b45-bc10bbc55747
+      :name: Bird Song
+      :segued: false
+    - :uuid: 37907379-f5b7-4a46-b937-45b75b5c6663
+      :name: El Paso
+      :segued: false
+    - :uuid: da72a9b7-6e2d-4882-8d44-8ccfeab7d49d
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: ec34d23f-7b88-4747-82c9-d244296bd5bb
+      :name: Loser
+      :segued: false
+    - :uuid: 70f84d99-c554-4813-b1b1-6ec2a455bb6a
+      :name: Me And Bobby Mcgee
+      :segued: false
+  - :uuid: 38106afe-c5ba-4203-b3fa-e37d71d649c8
+    :songs:
+    - :uuid: 74731dc0-cf25-4e0a-8d60-7dd7aaf8879b
+      :name: Bertha
+      :segued: false
+    - :uuid: f428c3e6-83c8-4165-b93b-2b5948864826
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 11d44cde-e48b-485b-81ac-99f0ee085736
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: b6fd5aa6-a1fc-44c5-afbd-4157d07d49d5
+      :name: Deal
+      :segued: false
+    - :uuid: 20cca8f3-48ef-4ec8-b764-143e8c6c0e50
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 0cb79f36-871a-4acd-8f22-14301704ae86
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 09c01e82-30ed-4b02-acf4-f4879c154f46
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 14b63fd9-5ade-4897-a220-3a2b820bf6de
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 40c2e515-25b3-44e4-80fb-cad6c393cd6c
+      :name: Casey Jones
+      :segued: false
+    - :uuid: b56cb84f-208b-4799-8349-4d105ad38ab8
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: eaaaaef7-3177-49e4-acbf-71b0108fdcd4
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: 77960204-5bfe-4b84-8ecf-28a581a36d7f
+      :name: Jam
+      :segued: false
+    - :uuid: 502cd05d-1401-431d-9d75-ef3eb63215bc
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: b8de9538-11fa-4b12-9466-615d697214c2
+    :songs:
+    - :uuid: e8f4b4b5-125d-4ae3-b7c8-5e0cfcd7fc4c
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: 4bc99d12-0a33-4cd2-8da9-6b327a157375
+      :name: Johnny B. Goode
+      :segued: false
+1971/08/04:
+  :uuid: 6a7a87d6-773c-4140-a05b-143c50e2a2b9
+  :venue: Terminal Island Correctional Fac.
+  :city: San Pedro
+  :state: CA
+  :country: US
+  :sets: []
+1971/08/05:
+  :uuid: c1576dc6-371f-4450-a1c0-0a42f314f62c
+  :venue: Hollywood Palladium
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets: []
+1971/08/06:
+  :uuid: d6effd81-315d-4019-810c-1f06676f84f9
+  :venue: Hollywood Palladium
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 35558464-bbe6-4820-b156-b71dfbd2822d
+    :songs:
+    - :uuid: c68935c8-6392-405b-bda8-97e474b5f7b4
+      :name: Bertha
+      :segued: false
+    - :uuid: a9b975d6-7135-465b-b1e6-ab478dd4a6fe
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 66e0b0a8-a72f-4e19-b998-af260a02287d
+      :name: Loser
+      :segued: false
+    - :uuid: 72798c80-36fa-4861-ab43-2f9f1082d400
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 1503193d-d01d-4310-9175-0a98ca616280
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 6bca3491-0020-47f4-9c5f-33f9914acea8
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: f63451d9-7326-42a8-870d-d153bbbc0f09
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 7bb86485-e890-4c99-a406-a2533a962fd1
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 43a19705-1a4a-4872-8120-8fbced5b6a5a
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 3e2abc95-6e18-4581-a437-d248514e886e
+    :songs:
+    - :uuid: ce4d0dae-ff61-4c96-9786-6809c3ab5c76
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: d73caacc-5e8e-4f49-bf1e-76ec91af61d5
+      :name: Truckin'
+      :segued: false
+    - :uuid: 208bc3f1-84c5-4c71-8d33-157ea332d962
+      :name: Drums
+      :segued: false
+    - :uuid: 26e24c3c-fcc7-4648-bc26-e60276491e55
+      :name: The Other One
+      :segued: false
+    - :uuid: 2dd9a424-1469-46af-8a66-0ac017d000f6
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 6a593b1a-d4db-4629-812e-f1f54a012e5c
+      :name: The Other One
+      :segued: false
+    - :uuid: a00d9501-c6fa-4a05-ad37-d9c6a004f265
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 1dddfb41-1a8a-4966-8711-d6872f744f8f
+      :name: Morning Dew
+      :segued: false
+    - :uuid: a7247cfa-468b-43a0-ab0f-51b453bb37ed
+      :name: Turn On Your Lovelight
+      :segued: false
+1971/08/07:
+  :uuid: 8b65ee66-70b4-4c00-aa3f-735a810f69b6
+  :venue: Golden Hall
+  :city: San Diego
+  :state: CA
+  :country: US
+  :sets: []
+1971/08/14:
+  :uuid: f0e4ca8a-1000-45c1-b559-32d5b422e8e2
+  :venue: Berkeley Community Theatre
+  :city: Berkeley
+  :state: CA
+  :country: US
+  :sets: []
+1971/08/15:
+  :uuid: 63c0b9bf-6d3e-42f7-a196-11d05913c98b
+  :venue: Berkeley Community Theatre
+  :city: Berkeley
+  :state: CA
+  :country: US
+  :sets: []
+1971/08/23:
+  :uuid: 367ba014-8d24-4664-902f-ca8230a28024
+  :venue: Auditorium Theater
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets:
+  - :uuid: bf150ab3-4e08-49d1-821d-a6e4b444d661
+    :songs:
+    - :uuid: 680852d1-e44e-4774-a820-2767da43c813
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: dd2442bd-ef14-4535-95ab-6f466d9a3e63
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 6b058f2f-edca-45ce-a83e-ce85375c149f
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 211a487e-b99e-404f-835c-e4e246e4473a
+      :name: Sugaree
+      :segued: false
+    - :uuid: 95ac2f28-881d-4201-8caf-870996991b92
+      :name: El Paso
+      :segued: false
+    - :uuid: 4438417b-1276-4da3-b138-458c21f85098
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 89473091-72d6-4200-93a6-5b1707a7626f
+      :name: Bertha
+      :segued: false
+    - :uuid: a3385fe0-7053-47d8-8add-b03db924fc06
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: dff81acf-b00a-46f8-b39a-341531fb3888
+      :name: Cumberland Blues
+      :segued: false
+  - :uuid: 0b3e07d2-cfd4-48e2-af4f-4425e9cde190
+    :songs:
+    - :uuid: 602db528-463f-423f-9592-083e5717cadf
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 904386ae-4a19-4342-95e0-3b9c0ea1a624
+      :name: Loser
+      :segued: false
+    - :uuid: 7ab5869a-7d65-4cb9-9dc1-4cb8c17f4c3a
+      :name: Bird Song
+      :segued: false
+    - :uuid: fa1a8813-5db4-426d-ab4d-5f04368c07f0
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 470d1e05-93c3-4bda-9da6-acb340be664f
+      :name: Drums
+      :segued: false
+    - :uuid: cc58f2f7-bd4c-493e-8a79-2e53371d5ea4
+      :name: The Other One
+      :segued: false
+    - :uuid: 3d8d0471-d8df-4b5c-be45-c7b7f80a3680
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 0af7720e-6833-4fdc-900f-b37d0bd63faa
+      :name: The Other One
+      :segued: false
+    - :uuid: ab734638-4fc1-45d5-aff6-5b610dbe30e4
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 695849f7-8a75-45c1-8059-3668c4736500
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 59fd2e96-fd86-4269-8a2b-2df67cac863a
+      :name: Deal
+      :segued: false
+    - :uuid: 5c42093a-54cb-42ba-bd78-60798c378c4e
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: 82e2c6f1-296b-4314-b9e6-354a3a92d89d
+      :name: Empty Pages
+      :segued: false
+1971/08/24:
+  :uuid: f805a6f8-53ed-40a5-b635-48667a2fd610
+  :venue: Auditorium Theater
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1971/08/26:
+  :uuid: 7ccce888-5f58-4aaf-963d-819f5897d38d
+  :venue: Gaelic Park
+  :city: Bronx
+  :state: NY
+  :country: US
+  :sets: []
+1971/10/19:
+  :uuid: 0aecd280-6be2-4f6f-89b2-5bbbfae84d0f
+  :venue: Northrop Auditorium
+  :city: Minneapolis
+  :state: MN
+  :country: US
+  :sets: []
+1971/10/21:
+  :uuid: 0f17942e-ac97-4b7c-a549-2f9138bf0142
+  :venue: Auditorium Theater
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1971/10/22:
+  :uuid: a84822c0-b74e-42a3-b707-d0736e521729
+  :venue: Auditorium Theater
+  :city: Chicago
+  :state: IL
+  :country: US
+  :sets: []
+1971/10/23:
+  :uuid: 311120b1-ea15-4f4a-a6f6-8ae1cdc3de38
+  :venue: Easttown Theatre
+  :city: Detroit
+  :state: MI
+  :country: US
+  :sets: []
+1971/10/24:
+  :uuid: 329e448d-7386-4ff6-ac0f-ee03dc96581e
+  :venue: Easttown Theatre
+  :city: Detroit
+  :state: MI
+  :country: US
+  :sets: []
+1971/10/26:
+  :uuid: 75b47bf3-b988-4322-9a29-69b62b84df57
+  :venue: The Palestra
+  :city: Rochester
+  :state: NY
+  :country: US
+  :sets: []
+1971/10/27:
+  :uuid: 5c95c8a3-6344-4b3b-b995-b8135ca82173
+  :venue: Onondaga County War Memorial
+  :city: Syracuse
+  :state: NY
+  :country: US
+  :sets: []
+1971/10/29:
+  :uuid: 3e7d8c19-29de-4c1b-9994-32f079e24808
+  :venue: Allan Theater
+  :city: Cleveland
+  :state: OH
+  :country: US
+  :sets:
+  - :uuid: 090b89df-3d0a-4a02-88d8-2d0d917d1395
+    :songs:
+    - :uuid: edfe4068-2137-415a-b5a1-be3919982914
+      :name: Truckin'
+      :segued: false
+    - :uuid: f48f4b1c-dc26-40a9-b833-8682d94833ea
+      :name: Sugaree
+      :segued: false
+    - :uuid: db097463-e792-4d42-a263-79b697fb01a2
+      :name: El Paso
+      :segued: false
+    - :uuid: 612a6c05-135b-457b-bc3d-3ed91aa767c4
+      :name: Loser
+      :segued: false
+    - :uuid: 4d6f1f88-4be2-45b8-8288-035a3d9867aa
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: b7911ff5-ad9f-448d-89f0-766c19a890ce
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 55baf363-3063-4eef-832c-31ec7828eef3
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: ab4d065d-aaa0-40aa-95d5-34dcad6a1918
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: 870c896b-f893-4332-b861-1e36c0fde50c
+      :name: Jack Straw
+      :segued: false
+    - :uuid: e35a7a61-9a9e-4d6e-bb0d-0e0290211b46
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 13f08a3b-3aea-453a-82ae-c4729c62bff3
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: cbca3576-be45-4dcf-9996-9fee18f8e1ec
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 6d02a14a-b66c-4799-8a39-b5bc5b71fe43
+      :name: Casey Jones
+      :segued: false
+  - :uuid: af648d19-159e-46a8-a870-7170bd2f715a
+    :songs:
+    - :uuid: d27ae042-8d00-42a5-9686-f7fea82e11e5
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 6562ed64-b7f2-48c8-9cd5-eaeba2158cb6
+      :name: Drums
+      :segued: false
+    - :uuid: 6ef0f700-9f21-42d7-9ecb-bb197e57d6bd
+      :name: The Other One
+      :segued: false
+    - :uuid: 234a995a-8b42-4463-8a2d-555ef1cde405
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: e65765db-b09b-46df-8c1c-d143f559f052
+      :name: The Other One
+      :segued: false
+    - :uuid: 1bae3d9e-dff3-4aa1-8ea2-6273ebe665d9
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: e06b3a71-c97a-4c6c-844c-78afbaa9c7c9
+      :name: Deal
+      :segued: false
+    - :uuid: e81a579a-5097-41e9-95e8-96ea1946b7ce
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: b0641fca-33a2-4226-b432-9e42317fbd6b
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 6d7d1659-a19a-48dc-8055-35a69297f324
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: c9040dbc-896e-4de7-a656-beb184df85e2
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: 339bce33-b198-4b9c-bb7d-66cdcc503468
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: f2211160-66d8-44e0-a4e7-52157a441b2b
+      :name: One More Saturday Night
+      :segued: false
+1971/10/30:
+  :uuid: b8a5948f-f43a-43d6-927d-938b5e3f3c51
+  :venue: Taft Auditorium
+  :city: Cincinnati
+  :state: OH
+  :country: US
+  :sets: []
+1971/10/31:
+  :uuid: 393c366a-f3a7-4c3e-9da6-b8f297e574e9
+  :venue: Ohio Theatre
+  :city: Columbus
+  :state: OH
+  :country: US
+  :sets:
+  - :uuid: 845fc1e3-ad0c-4568-80e5-aa0e2f9a2982
+    :songs:
+    - :uuid: 71d21c8a-b714-43b4-9073-261c3fece9dc
+      :name: Bertha
+      :segued: false
+    - :uuid: 72b99e55-5806-4de1-a0a4-248d8dd18fbc
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: a7eb95ff-e179-441a-8a0a-75e44626231b
+      :name: Deal
+      :segued: false
+    - :uuid: 845bac8d-05ef-4b8e-aa54-39e98ab9c298
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: db44874f-854d-4a60-82a1-9f242f64713d
+      :name: Loser
+      :segued: false
+    - :uuid: 61f5e53a-4b47-4d26-a09e-5e353bcc8d63
+      :name: El Paso
+      :segued: false
+    - :uuid: f9911776-38f4-4e3d-8f7e-3c904f975c97
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 7b6f9531-1975-4e92-92d1-67158bc52f30
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 3365b052-a927-4a05-becf-be5f11a47a56
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 438c9ef2-7bbc-4e31-bec3-d43d6ee25504
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: aca8831d-0215-4168-ba7c-87e5f04f7b7e
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 635df460-a745-4e5c-b661-bc15e0f22f54
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 0c69406d-6452-4fcc-bc21-c15570a767e5
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 585df93c-b1d4-49b9-8d0b-b6257c9c2584
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: b092c92e-9b32-4522-8e7a-fe05266d565d
+    :songs:
+    - :uuid: c34573e1-f491-491d-861e-e4fd6f1db1d1
+      :name: Dark Star
+      :segued: false
+    - :uuid: 17439a56-47ff-4b6e-a0ed-f8394f429508
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: a68e7b32-256c-4d7d-996c-1a647e81c74e
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: 9a13a16e-f82c-4c8d-97f6-5603876ef881
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 464e4f62-f33b-4cd0-8826-cb6a5f00b738
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: d6d4ade7-e6af-460f-9393-8c98e77578c1
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 19b0e850-0b68-43e4-bc3e-121ac0c8285a
+      :name: Johnny B. Goode
+      :segued: false
+1971/11/06:
+  :uuid: 4a37ca33-70f7-49c7-b0b1-8b155e3c5b13
+  :venue: Harding Theater
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1971/11/07:
+  :uuid: 1fbfdf71-1d51-4e17-8e56-a999f675926e
+  :venue: Harding Theater
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1971/11/11:
+  :uuid: dd6aa318-204c-4f08-be37-d8db26fc1bbe
+  :venue: Atlanta Municipal Auditorium
+  :city: Atlanta
+  :state: GA
+  :country: US
+  :sets: []
+1971/11/12:
+  :uuid: 647e4a42-40a8-40b9-8791-94ed33090a17
+  :venue: San Antonio Civic Auditorium
+  :city: San Antonio
+  :state: TX
+  :country: US
+  :sets: []
+1971/11/14:
+  :uuid: d0b42a2f-92d9-40f5-ab16-f6b554fef8da
+  :venue: Texas Christian University
+  :city: Fort Worth
+  :state: TX
+  :country: US
+  :sets: []
+1971/11/15:
+  :uuid: e9315897-c876-4246-ab71-c34888a85644
+  :venue: Austin Municipal Auditorium
+  :city: Austin
+  :state: TX
+  :country: US
+  :sets: []
+1971/11/17:
+  :uuid: 26499ce8-96b2-41c2-bd43-85a1ba75c64b
+  :venue: Albuquerque Civic Auditorium
+  :city: Albuquerque
+  :state: NM
+  :country: US
+  :sets: []
+1971/11/20:
+  :uuid: 87dbfbe4-fecc-4464-88ea-3687e62b3e2b
+  :venue: Pauley Pavilion
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 13245604-326d-4fd1-836f-66e75f8bf043
+    :songs:
+    - :uuid: 6a184471-6450-4ae6-98e0-980ecff98967
+      :name: Bertha
+      :segued: false
+    - :uuid: b32f498d-9e8f-4e20-b218-55536c6b9624
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: dac8fa86-29f9-4922-a240-884c617969f4
+      :name: Sugaree
+      :segued: false
+    - :uuid: 7e7ee32e-f441-44a4-85b8-2f41bfff036f
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 2b62547d-f76c-4ea3-9b80-a10749b2853c
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: a8b23e8c-feb7-4c84-b9c4-d8fb4301d00c
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: d5008079-c436-457a-b142-4359c3b485f4
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: c1b1fe41-d690-4686-b032-6585c98fd49c
+      :name: El Paso
+      :segued: false
+    - :uuid: 37babe72-20de-47f6-a8d3-e10f09fdf19c
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 657a6ffe-2d50-4f37-be3c-80a3ddd0890e
+      :name: Jack Straw
+      :segued: false
+    - :uuid: b72c6858-bbbc-4e4d-b253-aa22a07b563f
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 12e88c2d-c146-4687-94d9-2ce7ea3c7a53
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 4da43ef5-2a18-46ce-a2fc-12c33707ec3b
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 6f52cb06-0d4d-4818-828b-885a29a6b6ea
+      :name: One More Saturday Night
+      :segued: false
+    - :uuid: 3ed1d0fe-daae-461f-932f-fab699df8a22
+      :name: Truckin'
+      :segued: false
+    - :uuid: f1a415d1-cb5e-4faf-b19b-c193278b0d76
+      :name: Drums
+      :segued: false
+    - :uuid: d44b773a-5c08-4014-a516-c83fd6a203de
+      :name: The Other One
+      :segued: false
+    - :uuid: a9931c01-4bee-4699-ab43-db935f9fe581
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 5c4036b4-9eae-403f-92e1-21ce7a1424b8
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 6ca4b733-e685-4a02-af0e-4490fe4af694
+      :name: You Win Again
+      :segued: false
+    - :uuid: 42bbd9bf-981f-4f2f-a078-aa062e15a9d0
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 5ad85c86-4dfc-4a7e-9dbd-20a5d2018db5
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: 75784b07-3b92-4059-aed3-78c163dcb82c
+      :name: Not Fade Away
+      :segued: false
+1971/12/01:
+  :uuid: ee66c389-0404-479a-907d-2afcf94cfa64
+  :venue: Boston Music Hall
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1971/12/02:
+  :uuid: d7848948-7704-4fd9-88c6-b68f2fa10954
+  :venue: Boston Music Hall
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1971/12/04:
+  :uuid: 7459401a-bef3-494f-96c7-f165712ae7ea
+  :venue: Felt Forum
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/12/05:
+  :uuid: aab5a05d-1407-4f07-aad6-8ec0e838a6f9
+  :venue: Felt Forum
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/12/06:
+  :uuid: fc7024e2-5a4e-4e8a-8ec9-9c2895149dac
+  :venue: Felt Forum
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/12/07:
+  :uuid: 82a521be-8c01-4af4-9ba5-69f8477151c2
+  :venue: Felt Forum
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1971/12/09:
+  :uuid: 611cc24f-f2f5-4b5a-89ce-78db9cd56cd8
+  :venue: Fox Theatre
+  :city: St. Louis
+  :state: MO
+  :country: US
+  :sets: []
+1971/12/10:
+  :uuid: 65f297ce-e016-4126-a2c5-ebfc96326f92
+  :venue: Fox Theatre
+  :city: St. Louis
+  :state: MO
+  :country: US
+  :sets: []
+1971/12/14:
+  :uuid: 5266f147-0c73-41ea-ab17-c53abe59a431
+  :venue: Hill Auditorium
+  :city: Ann Arbor
+  :state: MI
+  :country: US
+  :sets: []
+1971/12/15:
+  :uuid: a09b1a07-9290-44a8-874d-bbd206dec8c8
+  :venue: Hill Auditorium
+  :city: Ann Arbor
+  :state: MI
+  :country: US
+  :sets: []
+1971/12/31:
+  :uuid: 23815204-96d2-4add-b914-24bbd542f03a
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []

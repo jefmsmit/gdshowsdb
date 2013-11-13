@@ -1,0 +1,857 @@
+---
+1967/01/01:
+  :uuid: a34945db-5c22-4553-9882-38f4bd09618f
+  :venue: Panhandle
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/06:
+  :uuid: 45f5f7f6-d64c-4788-82e9-3e32a5ab38c0
+  :venue: Freeborn Hall
+  :city: Davis
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/13/0:
+  :uuid: fced92c4-5f70-4057-a190-cf23ea55cc7b
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/13/1:
+  :uuid: 5da9ef8a-f3be-487d-972e-92e9a587c3de
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/14/0:
+  :uuid: 16a89512-324d-41c4-bf78-80937c0ebc03
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: d58a3f2d-9647-404d-a852-7565bcaa5090
+    :songs:
+    - :uuid: 7b211b13-3f73-49ad-abfa-be58da74d24f
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 9c2725cf-4ea3-42d2-ac30-257e04824894
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 95465852-e9ba-4c0b-8c8d-30e7b1a5e528
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+1967/01/14/1:
+  :uuid: e2036b78-edb6-4997-a84a-d72bd2574aac
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/15:
+  :uuid: e4df6c4d-3131-435f-9f95-f6608c1e160f
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/20:
+  :uuid: e2951883-a315-457a-8b7c-57bcdd6993eb
+  :venue: Santa Monica Civic Auditorium
+  :city: Santa Monica
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/27:
+  :uuid: 24ab9965-17f6-493d-bbcd-36f0b900b0ef
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/28:
+  :uuid: 783ee9e6-98cf-460c-8a03-5b84ddd9c127
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/29:
+  :uuid: 353be50c-d17c-4b82-bc19-205f560dd2ac
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/02/10:
+  :uuid: 96f9e70a-ca9c-47f9-ade5-3e6ea4a4fe72
+  :venue: Santa Venetia Armory
+  :city: San Rafael
+  :state: CA
+  :country: US
+  :sets: []
+1967/02/12:
+  :uuid: 417c6ee4-f594-404d-8cab-e65cc3d6c896
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/02/24:
+  :uuid: 8f957904-cd3a-4cee-89ae-5410aea74c7d
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/02/25:
+  :uuid: 3ea751ad-08e9-48ef-a456-40cdc8113ea8
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/02/26:
+  :uuid: 7a8dd6d9-e336-4977-b284-2156c0b9ce93
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/03:
+  :uuid: 91c1eb4e-b337-46de-b56c-41f07787065e
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/10:
+  :uuid: ea7a406f-8ef6-4698-ac77-1df218ee845b
+  :venue: Whiskey
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/12:
+  :uuid: fbc25c7b-eb48-48f7-848a-c3a53d43a133
+  :venue: Whiskey
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/14:
+  :uuid: 6cf53348-7389-472e-8d6c-c4cceb5cb5fe
+  :venue: Whiskey
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/15:
+  :uuid: 6d94be53-44c3-4a78-88cf-85a40c3be84a
+  :venue: Whiskey
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/16:
+  :uuid: 029e6e8e-f5ac-41a4-9c97-f891ee932c73
+  :venue: Whiskey
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/17:
+  :uuid: 47bcc624-df46-44e1-b8a7-8582b28e37e4
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/18:
+  :uuid: 6ede906c-300f-4c03-afdb-d6200296a648
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/19:
+  :uuid: f80ab244-758e-44b2-9baf-699c724169e4
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/20:
+  :uuid: 292e5b94-8272-45e1-ab27-cf38210e4295
+  :venue: Fugazi Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/24:
+  :uuid: 0ae00329-c8a2-418b-ae51-2cf99edf953d
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/25:
+  :uuid: ef0cca2f-e272-4b6b-bd72-e3cc925bb7d4
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/26:
+  :uuid: 4135aebf-0bb4-41fe-9544-9d99108d296c
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/28:
+  :uuid: f2cf7300-5fab-4d55-b7ad-ef580eabe073
+  :venue: The Rock Garden
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/29:
+  :uuid: c5d6f8a4-6c8e-48e6-8086-f9217353199f
+  :venue: The Rock Garden
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/30:
+  :uuid: 3ba1f7a5-e88c-4b25-ad88-ea71647e401f
+  :venue: The Rock Garden
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/31:
+  :uuid: f4f17ec8-3636-49db-8dee-df30f59a6738
+  :venue: The Rock Garden
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/01:
+  :uuid: 304d1dcf-930a-49c8-a25f-bc6721c62321
+  :venue: The Rock Garden
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/02:
+  :uuid: b81f8410-ba95-4b9c-95a2-c40c4ac72c02
+  :venue: The Rock Garden
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/09:
+  :uuid: c176b129-9df6-4968-ba6a-e3667c57f186
+  :venue: Longshoreman's Hall
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/12:
+  :uuid: 196e0164-fa0c-4678-941a-e82e32991517
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/14:
+  :uuid: 42d82bfb-3e6d-4b45-84f5-e518ba40caf1
+  :venue: Kaleidoscope
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/15:
+  :uuid: 39fa4f80-f9d2-4d23-bf10-d0aef4f2ffb7
+  :venue: Kaleidoscope
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/16:
+  :uuid: 402a923a-abe5-4e0e-ad86-8f43e018c01c
+  :venue: Kaleidoscope
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/17:
+  :uuid: 5d791615-5a57-47ff-ad12-bac22ccc3d5c
+  :venue: Banana Grove
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/28:
+  :uuid: 4e4c342e-ad65-44d7-b3f7-f4e2b89bd505
+  :venue: Stockton Ballroom
+  :city: Stockton
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/29:
+  :uuid: c4705717-a2d8-426a-815c-6198e438ed93
+  :venue: Earl Warren Showgrounds
+  :city: Santa Barbara
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/30:
+  :uuid: 9f6b2f3b-d56d-4ee8-b426-0ee8e001aa6e
+  :venue: The Cheetah
+  :city: Santa Monica
+  :state: CA
+  :country: US
+  :sets: []
+1967/05/05:
+  :uuid: 5b411b69-b6ed-4db9-890c-7058205fe6f4
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/05/06:
+  :uuid: 0fb32f1d-0f7a-473a-8fd7-4c82f5ba1eba
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/05/11:
+  :uuid: 4dd9a002-99e4-49e1-8c21-1fcdeacce1cb
+  :venue: Marigold Ballroom
+  :city: Fresno
+  :state: CA
+  :country: US
+  :sets: []
+1967/05/18:
+  :uuid: f55e6de8-8729-4992-90c3-01be4601b23c
+  :venue: Awalt High School
+  :city: Mountain View
+  :state: CA
+  :country: US
+  :sets: []
+1967/05/20:
+  :uuid: b2eaac74-75f8-4cf4-8626-a478585d8819
+  :venue: Continental Ballroom
+  :city: Santa Clara
+  :state: CA
+  :country: US
+  :sets: []
+1967/05/29:
+  :uuid: 858a6f54-4c4e-4978-9cbf-4c20e4355a87
+  :venue: Napa County Fairgrounds
+  :city: Napa
+  :state: CA
+  :country: US
+  :sets: []
+1967/05/30:
+  :uuid: 6fd94d20-d5a7-4c0c-8c47-558f1145dbd3
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/06/01:
+  :uuid: b32d5be2-bb5f-40c5-8c36-3ffe108d0681
+  :venue: El Camino Park
+  :city: Palo Alto
+  :state: CA
+  :country: US
+  :sets: []
+1967/06/03:
+  :uuid: ecb5f0f0-6ccc-4608-b5c6-462ecff90bb2
+  :venue: Gym
+  :city: Stony Brook
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/05:
+  :uuid: 0390c743-a1c5-4497-99ea-6d02d679a788
+  :venue: Caf' au Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 6499f26e-0d2e-4fac-89b7-6800c395ee2f
+    :songs:
+    - :uuid: cb3dbb42-6c0d-4948-aeff-c8fd7a4eb886
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 443452cc-aafb-4c57-8e72-3ba3a39ba508
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 91f8eea1-4aa9-46c9-83ec-2f4877b92c9b
+      :name: The Same Thing
+      :segued: false
+    - :uuid: 8fd580d6-8d4c-44a7-badb-42da9e0a0541
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: edcea3c9-18ad-424b-93f6-d0c6382a0f63
+      :name: Alligator
+      :segued: false
+    - :uuid: ab7d7f8a-5f97-4587-8c9b-9a44668cdb0d
+      :name: In The Midnight Hour
+      :segued: false
+    - :uuid: bdb96c78-a61e-4da6-8831-4e92b9c5b113
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 63a97eab-ba64-41f7-9dd4-8e261672a6e4
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 2cedb7cb-bf07-49ab-9a68-f59fe8adff13
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: ea296857-f40e-47b5-b590-4f5633e3dd0d
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: b3a33bde-bc9e-49d0-8e2c-ab43475afc17
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: f08aeae2-ee61-4647-8868-4eb85e5854e4
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 49b532b4-21db-479b-96c7-dc36faf18feb
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+1967/06/07:
+  :uuid: 39e8d34f-126a-43b8-8e9c-a1587d4b2f54
+  :venue: Caf' au Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/08:
+  :uuid: c258483e-499d-426b-9246-6d9d7036e8a2
+  :venue: Caf' au Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/11:
+  :uuid: 851e05b1-945d-4212-b68c-b0a1a2b3c0d3
+  :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/06/12:
+  :uuid: 77b8b49a-3de4-43c6-83dd-63459ed19fe5
+  :venue: The Cheetah
+  :city: Santa Monica
+  :state: CA
+  :country: US
+  :sets: []
+1967/06/15:
+  :uuid: 828d6746-0c73-4bd8-9bee-e2fbc6dbc4f9
+  :venue: Straight Theater
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/06/18:
+  :uuid: 3856b175-abe6-41ee-a5ca-c81579c71715
+  :venue: Monterey Fairgrounds
+  :city: Monterey
+  :state: CA
+  :country: US
+  :sets: []
+1967/06/21:
+  :uuid: f4b99172-5408-4111-8a24-43a806161eda
+  :venue: Polo Field
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/06/28:
+  :uuid: 7ae408e3-94f0-49ea-985d-b2eb08743e94
+  :venue: Oakland Auditorium Arena
+  :city: Oakland
+  :state: CA
+  :country: US
+  :sets: []
+1967/07/13:
+  :uuid: f04e95a3-6632-45a6-9e37-0b47acdaf696
+  :venue: P.N.E. Agradome
+  :city: B.C.
+  :state: ''
+  :country: CA
+  :sets: []
+1967/07/16/0:
+  :uuid: 625c7db1-ce25-4346-89b7-d35f988a1245
+  :venue: Golden Gardens Beach
+  :city: Seattle
+  :state: WA
+  :country: US
+  :sets: []
+1967/07/16/1:
+  :uuid: 295063cc-59bd-4b04-863a-e082f9babe17
+  :venue: Eagles Auditorium
+  :city: Seattle
+  :state: WA
+  :country: US
+  :sets: []
+1967/07/18:
+  :uuid: 2b405ee6-82f7-4444-9613-9d0c3a1fbfe7
+  :venue: Masonic Temple
+  :city: Portland
+  :state: OR
+  :country: US
+  :sets: []
+1967/07/21:
+  :uuid: 2f719d8d-ab3e-4d49-b30e-e85fb2fcf5a8
+  :venue: Continental Ballroom
+  :city: Santa Clara
+  :state: CA
+  :country: US
+  :sets: []
+1967/07/22:
+  :uuid: 4b99a488-4ddc-4be8-a62d-22671592c7c2
+  :venue: Continental Ballroom
+  :city: Santa Clara
+  :state: CA
+  :country: US
+  :sets: []
+1967/07/23:
+  :uuid: c544f17a-0a77-418f-b2b1-c840561c0f47
+  :venue: Straight Theater
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/07/31:
+  :uuid: 49dbebbb-051f-42ac-a599-f217f4b404fb
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/01:
+  :uuid: 358f821b-a1f3-4a1c-806b-106af6a3df0c
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/02/0:
+  :uuid: 587e6ab2-79a7-4005-b95b-876ef0691b2c
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/02/1:
+  :uuid: b32546ec-246a-4f08-b53b-fc65635a18f8
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/03:
+  :uuid: e3bcea75-c9c9-4828-9a04-1e53527d2bbe
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/04:
+  :uuid: 907829d1-6a68-4641-b527-3acb8f46375b
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/05/0:
+  :uuid: c9dbe3c4-59c3-4d07-acb4-8fc6cef68ec3
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/05/1:
+  :uuid: 860cbb8d-0efe-4e48-824f-becf6f7c411e
+  :venue: O'Keefe Centre
+  :city: Toronto
+  :state: ''
+  :country: CA
+  :sets:
+  - :uuid: 7687b3bf-a94d-4b57-aa94-93d78295a5ec
+    :songs:
+    - :uuid: ae615da7-b47e-4368-9e24-873d5613ca0a
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 9f070af3-4268-40ce-85e3-ef705d7aa2ba
+      :name: Alligator
+      :segued: false
+1967/08/06/0:
+  :uuid: 342970e0-528b-4bb4-954a-0f382ae8c79c
+  :venue: Palace Ville Marie
+  :city: Montreal
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/06/1:
+  :uuid: 6a7f2fde-a782-4c7e-9e01-274a35b2814a
+  :venue: Expo '67
+  :city: Montreal
+  :state: ''
+  :country: CA
+  :sets: []
+1967/08/10:
+  :uuid: 45061ce6-6d3a-463d-bbef-75a212d984c3
+  :venue: Chelsea Hotel Roof
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/08/11:
+  :uuid: e03d0c1e-fce3-42e5-896c-19a818b54720
+  :venue: Grande Ballroom
+  :city: Detroit
+  :state: MI
+  :country: US
+  :sets: []
+1967/08/12:
+  :uuid: 0441980b-8af4-4fba-86cf-1e369eca583a
+  :venue: Grande Ballroom
+  :city: Detroit
+  :state: MI
+  :country: US
+  :sets: []
+1967/08/13:
+  :uuid: d987ad89-b80d-4697-8c0d-092fb883c6fb
+  :venue: West Park
+  :city: Ann Arbor
+  :state: MI
+  :country: US
+  :sets: []
+1967/08/18:
+  :uuid: 160559c7-8611-4e78-aecb-626453f4ccd5
+  :venue: American Legion Hall
+  :city: Lake Tahoe
+  :state: CA
+  :country: US
+  :sets: []
+1967/08/25:
+  :uuid: 6e8e4cf6-c826-49d8-8557-cba92fa0a90c
+  :venue: King's Beach Bowl
+  :city: Lake Tahoe
+  :state: CA
+  :country: US
+  :sets: []
+1967/08/28:
+  :uuid: d1872cf2-bd05-4486-ade3-6b4275b91153
+  :venue: Lindley Meadows
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/09/03:
+  :uuid: c7deedb3-4c5f-434b-9dd7-c44cf579fcdf
+  :venue: Dance Hall
+  :city: Rio Nido
+  :state: CA
+  :country: US
+  :sets: []
+1967/09/04:
+  :uuid: ad9a591b-28cc-430f-acbb-991ce1ceb021
+  :venue: Dance Hall
+  :city: Rio Nido
+  :state: CA
+  :country: US
+  :sets: []
+1967/09/08:
+  :uuid: 490a0834-c38c-43aa-b94a-d61baea3bf04
+  :venue: Eagle's Auditorium
+  :city: Seattle
+  :state: WA
+  :country: US
+  :sets: []
+1967/09/09/0:
+  :uuid: 20e0786f-6274-44dd-8702-d8f67e5dcad2
+  :venue: Volunteer Park
+  :city: Seattle
+  :state: WA
+  :country: US
+  :sets: []
+1967/09/09/1:
+  :uuid: d3f87906-5430-4d6a-a839-c4318f03d4ce
+  :venue: Eagles Auditorium
+  :city: Seattle
+  :state: WA
+  :country: US
+  :sets: []
+1967/09/15:
+  :uuid: 7ed9382a-d574-476f-9a72-7d7e13158886
+  :venue: Hollywood Bowl
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/09/16:
+  :uuid: 3fcb4376-1ed1-4c19-b828-4a100cc0c4a6
+  :venue: Griffith Park
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/09/22:
+  :uuid: c7b7d10e-ee99-4c1d-b3a0-604b43427ded
+  :venue: Family Dog
+  :city: Denver
+  :state: CO
+  :country: US
+  :sets: []
+1967/09/23:
+  :uuid: eb352f3a-59b4-4fbe-8a1f-9ccdbb870f52
+  :venue: Family Dog
+  :city: Denver
+  :state: CO
+  :country: US
+  :sets: []
+1967/09/24:
+  :uuid: aee410cc-7f8e-40b3-9309-c01e7a480ae8
+  :venue: City Park
+  :city: Denver
+  :state: CO
+  :country: US
+  :sets: []
+1967/09/28:
+  :uuid: c5f6fff8-b40d-4c56-85e0-373231f78c70
+  :venue: Straight Theater
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/09/30:
+  :uuid: dfe8282d-b4e6-4246-86b2-b982d41397d2
+  :venue: Straight Theater
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/10/01:
+  :uuid: ce69fe92-3516-4801-880a-279b4266e3d1
+  :venue: Greek Theatre
+  :city: Berkeley
+  :state: CA
+  :country: US
+  :sets: []
+1967/10/14:
+  :uuid: cd8031f1-eaf9-479f-b674-a6cb9833a586
+  :venue: Continental Ballroom
+  :city: Santa Clara
+  :state: CA
+  :country: US
+  :sets: []
+1967/10/31:
+  :uuid: 4d11de1f-10b6-4d3f-b61b-3879640d7535
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/11/10:
+  :uuid: 1929abf0-cb74-4218-b924-fe5c4f06ce92
+  :venue: Shrine Exhibition Hall
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/11/11:
+  :uuid: a7ae9ac1-b463-4269-b50a-c387a0af51a2
+  :venue: Shrine Exhibition Hall
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/11/12:
+  :uuid: a2e68a54-00db-4c70-97b7-5dc6bbf7e5e1
+  :venue: Winterland Arena
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/12/13:
+  :uuid: 480fe9eb-cc28-4ac7-868b-2ed68f5a04cf
+  :venue: Shrine Exhibition Hall
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1967/12/22:
+  :uuid: 276adc23-196b-4b31-862a-f340cbf45229
+  :venue: Palm Gardens
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/12/23:
+  :uuid: bf524646-265d-4192-8f1e-5b4f7e392f12
+  :venue: Palm Gardens
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/12/24:
+  :uuid: 083fbc8e-eb73-4f20-9317-8095b8a165e4
+  :venue: Palm Gardens
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/12/26:
+  :uuid: 26ba5c2c-d573-4010-b52c-9003fb26c5d6
+  :venue: Village Theater
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/12/27/0:
+  :uuid: f6f921c3-4a0a-4c4d-8184-b9846d6ca34c
+  :venue: Village Theater
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: b963c7e4-2e7f-4606-a10d-e0ee87a85174
+    :songs:
+    - :uuid: 7fb81f2a-9483-4c79-9fc9-d61c4a33c577
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+1967/12/27/1:
+  :uuid: f1d4582f-1533-412e-b763-d504dc3d837f
+  :venue: Village Theater
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/12/29:
+  :uuid: a4570aaa-33f2-4333-8890-5fef50b3311a
+  :venue: Psychedelic Supermarket
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
+1967/12/30:
+  :uuid: 6716945d-838b-4f3a-8f04-13612abce850
+  :venue: Psychedelic Supermarket
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets: []
