@@ -1,6 +1,6 @@
 # Gdshowsdb
 
-[![Build Status](https://secure.travis-ci.org/jefmsmit/gdshowsdb.png)](http://travis-ci.org/jefmsmit/gdshowsdb)
+[ ![Codeship Status for jefmsmit/gdshowsdb](https://www.codeship.io/projects/b1f0f820-f314-0131-9281-66e36f054ecd/status)](https://www.codeship.io/projects/27798)
 
 All Grateful Dead show information in a relational database.
 
