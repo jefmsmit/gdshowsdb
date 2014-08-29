@@ -3,18 +3,20 @@ require 'yaml'
 class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
   include Rails::Generators::Migration
 
+  @@migrations_dir = File.expand_path('../../templates', __FILE__) 
+  source_root @@migrations_dir
+
   def initialize(a, b, c)
     super
     @song_refs = YAML.load_file(Gem.datadir('gdshowsdb') + "/song_refs.yaml")
   end
 
+  def self.next_migration_number(path)
+    Time.now.utc.strftime("%Y%m%d%H%M%S")
+  end
+
   def create_update_migration_file
-    song_refs_values, song_refs_names = yaml_song_refs    
-    song_refs_db_values, song_refs_db_names = database_song_refs
-    
-    add_new_song_refs(song_refs_values, song_refs_db_values)
-    remove_deleted_song_refs(song_refs_values, song_refs_db_values)    
-    changed_song_names(song_refs_names, song_refs_db_names)
+    find_changes
     
     puts "New Songs"
     puts @new_song_refs.inspect
@@ -25,9 +27,21 @@ class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
     puts "Updated Songs"
     puts @updated_song_refs.inspect
 
+    file = @@migrations_dir + "/update_migration.rb.erb"
+    migration_template(file, "db/migrate/update_gdshowsdb_data.rb")
+
   end
 
   private
+
+  def find_changes
+    song_refs_values, song_refs_names = yaml_song_refs    
+    song_refs_db_values, song_refs_db_names = database_song_refs
+    
+    add_new_song_refs(song_refs_values, song_refs_db_values)
+    remove_deleted_song_refs(song_refs_values, song_refs_db_values)    
+    changed_song_names(song_refs_names, song_refs_db_names)
+  end
 
   def add_new_song_refs(song_refs_values, song_refs_db_values)
     song_refs_uuid_keys = @song_refs.invert

@@ -1,0 +1,22 @@
+class UpdateGdShowsDbData < ActiveRecord::Migration
+  def up
+    # add newly created songs
+
+    <% @new_song_refs.each do |key, value| %>
+    song_ref = SongRef.new
+    song_ref.uuid = "<%= key %>"
+    song_ref.name = "<%= value %>"
+    song_ref.slug = "<%= value %>".parameterize.underscore
+    song_ref.save!
+
+    <% end %>
+  end
+
+  def down
+    # remove newly created songs
+
+    <% @new_song_refs.each do |key, value| %>
+    SongRef.find_by_uuid("<%= key %>").delete
+    <% end %>
+  end
+end
