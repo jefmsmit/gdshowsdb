@@ -12,7 +12,8 @@ class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
     song_ref_diff = Gdshowsdb::SongRefDiff.new.diff
     
     (1980..1981).each do |year|
-      Gdshowsdb::ShowDiff.new(year).diff      
+      Gdshowsdb::ShowDiff.new(year).diff 
+      Gdshowsdb::SetDiff.new(year).diff     
     end
 
     # file = @@migrations_dir + "/update_migration.rb.erb"
