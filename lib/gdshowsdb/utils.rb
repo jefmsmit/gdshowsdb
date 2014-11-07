@@ -1,3 +1,5 @@
+require 'securerandom'
+
 module Gdshowsdb
   module Utils
     def encore?(sets, set)
@@ -5,5 +7,10 @@ module Gdshowsdb
       song_size = set[:songs].size          
       song_size < 3 && last
     end
+
+    def generate_uuid
+      SecureRandom.uuid
+    end
+
   end
 end
