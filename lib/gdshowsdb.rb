@@ -12,15 +12,12 @@ Dir[File.dirname(__FILE__) + '/gdshowsdb/generators/*.rb'].each {|file| require 
 
 module Gdshowsdb
 
-	def self.init
-		@@connection = ActiveRecord::Base.establish_connection(
-		  :adapter => 'sqlite3',
-		  :database => 'gdshowsdb.db'
-		)		
+	def self.init(params = { adapter: 'sqlite3', database: 'gdshowsdb.db' })
+    @@connection = ActiveRecord::Base.establish_connection(params)		
 	end
 
-	def self.load
-		ActiveRecord::Migrator.migrate File.dirname(__FILE__) + '/gdshowsdb/db/migrations', ARGV[0] ? ARGV[0].to_i : nil		
+	def self.load(level = nil)
+    ActiveRecord::Migrator.up File.dirname(__FILE__) + '/gdshowsdb/db/migrations', level		
 	end  
 end
 
