@@ -1,4 +1,7 @@
 module Gdshowsdb
+
+  include Gdshowsdb::Utils
+
   class SetDBExtractor
     def initialize(show_sets)
       @show_sets = show_sets
@@ -6,10 +9,7 @@ module Gdshowsdb
 
     def extract
       @show_sets.map do |show_set|
-        hash = show_set.attributes.inject({}) do |symboled, (k,v)| 
-          symboled[k.to_sym] = v
-          symboled
-        end
+        hash = convert_to_sym(show_set.attributes)
         hash[:show_uuid] = show_set.show.uuid
         hash
       end

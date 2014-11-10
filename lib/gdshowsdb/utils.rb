@@ -13,5 +13,12 @@ module Gdshowsdb
       SecureRandom.uuid
     end
 
+    def convert_to_sym(hash)
+      hash.inject({}) do |symboled, (k,v)| 
+        symboled[k.to_sym] = v
+        symboled
+      end
+    end
+
   end
 end

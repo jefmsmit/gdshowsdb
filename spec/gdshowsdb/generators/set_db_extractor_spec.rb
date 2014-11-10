@@ -34,7 +34,6 @@ describe 'SetDBExtractor' do
   context 'individual item' do
     subject { extracted[0] }
 
-    its(:class) { should equal Hash }
     it { should == ({ uuid: first_show_set_uuid, show_uuid: show_uuid, position: 0, encore: false }) }    
   end
 end
