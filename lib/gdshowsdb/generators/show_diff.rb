@@ -72,12 +72,11 @@ module Gdshowsdb
     end
 
     def extract_show_basics(show_hash)
-      show_hash.select do |key, value| 
-        extracted_hash = [:city, :state, :country, :venue].include?(key.to_sym)              
-      end.inject({}) do |symboled, (k,v)| 
-        symboled[k.to_sym] = v
-        symboled
-      end
+      convert_to_sym(
+        show_hash.select do |key, value| 
+          extracted_hash = [:city, :state, :country, :venue].include?(key.to_sym)              
+        end
+      )
     end
 
     def remove_shows(show_keys, show_keys_db, show_data_db)    

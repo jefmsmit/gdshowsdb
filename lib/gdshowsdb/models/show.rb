@@ -11,9 +11,9 @@ class Show < ActiveRecord::Base
 
   def self.parse_date(readable_date)
     parsed = readable_date.split('/')
-    date_hash = {year: parsed[0], month: parsed[1], day: parsed[2]}
+    date_hash = {year: parsed[0].to_i, month: parsed[1].to_i, day: parsed[2].to_i}
     if(parsed.length == 4)
-      date_hash[:position] = parsed[3]
+      date_hash[:position] = parsed[3].to_i
     end
     date_hash
   end
