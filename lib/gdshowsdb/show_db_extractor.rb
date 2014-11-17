@@ -6,7 +6,7 @@ module Gdshowsdb
 
     def extract
       @shows.map do |show|
-        convert_to_sym(show.attributes).reject do |k,v| 
+        show.attributes.convert_to_sym.reject do |k,v| 
           k == :position and show.position == nil 
         end
       end      

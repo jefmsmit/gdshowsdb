@@ -1,7 +1,5 @@
 require 'spec_helper'
 
-include Gdshowsdb::Utils
-
 describe 'SetDiff' do
 
   let(:from_yaml) { nil }

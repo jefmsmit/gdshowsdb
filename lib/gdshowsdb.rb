@@ -12,6 +12,10 @@ Dir[File.dirname(__FILE__) + '/gdshowsdb/generators/*.rb'].each {|file| require 
 
 module Gdshowsdb
 
+  def generate_uuid
+    SecureRandom.uuid
+  end
+
 	def self.init(params = { adapter: 'sqlite3', database: 'gdshowsdb.db' })
     @@connection = ActiveRecord::Base.establish_connection(params)		
 	end
@@ -21,4 +25,12 @@ module Gdshowsdb
 	end  
 end
 
+class Hash
+  def convert_to_sym
+      inject({}) do |symboled, (k,v)| 
+        symboled[k.to_sym] = v
+        symboled
+      end
+    end
+end
 

@@ -1,7 +1,5 @@
 require 'spec_helper'
 
-include Gdshowsdb::Utils
-
 describe 'SongRefDiff' do
 
   let(:from_yaml) { nil }

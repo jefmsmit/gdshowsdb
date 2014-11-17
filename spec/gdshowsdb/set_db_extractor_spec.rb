@@ -1,7 +1,5 @@
 require 'spec_helper'
 
-include Gdshowsdb::Utils
-
 describe 'SetDBExtractor' do
   let(:show_uuid) { generate_uuid }
   let(:show) { Show.create(uuid: show_uuid) }

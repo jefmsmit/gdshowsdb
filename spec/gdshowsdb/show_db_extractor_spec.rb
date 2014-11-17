@@ -1,7 +1,5 @@
 require 'spec_helper'
 
-include Gdshowsdb::Utils
-
 describe 'ShowDBExtractor' do
 
   let(:first) { {uuid: generate_uuid, venue: 'The Venue', city: 'Boulder', state: 'CO', country: 'US', year: 1981, month: 2, day: 25, position: 0} }

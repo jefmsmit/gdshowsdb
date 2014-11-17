@@ -1,6 +1,4 @@
 module Gdshowsdb
-  include Gdshowsdb::Utils
-  
   class SetYAMLParser
 
     def initialize(show_list)
@@ -15,7 +13,7 @@ module Gdshowsdb
         if sets && !sets.empty?
           sets.each_with_index do |set, i|
             parsed_sets.push(
-              {uuid: set[:uuid], show_uuid: show[:uuid], position: i, encore: encore?(sets, set)}
+              {uuid: set[:uuid], show_uuid: show[:uuid], position: i, encore: ShowSet.encore?(sets, set)}
             )
           end
         end

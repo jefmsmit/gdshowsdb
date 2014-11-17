@@ -7,6 +7,13 @@ class ShowSet < ActiveRecord::Base
 	
 	attr_accessible :uuid, :position, :encore
 
+  def self.encore?(sets, set)
+    return false unless sets
+    last = (sets.size - 1) == sets.index(set)
+    song_size = set[:songs].size          
+    song_size < 3 && last
+  end
+
   def encore?
     encore
   end

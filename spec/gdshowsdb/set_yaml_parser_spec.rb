@@ -1,7 +1,5 @@
 require 'spec_helper'
 
-include Gdshowsdb::Utils
-
 describe 'SetYAMLParser' do
 
   let(:first_show_uuid) { generate_uuid }

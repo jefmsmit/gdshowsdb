@@ -1,5 +1,4 @@
 module Gdshowsdb
-  include Gdshowsdb::Utils
   class SongRefDBExtractor
     def initialize(song_ref_list)
       @song_ref_list = song_ref_list
@@ -7,7 +6,7 @@ module Gdshowsdb
 
     def extract
       @song_ref_list.map do |song_ref|
-        convert_to_sym(song_ref.attributes).reject {|k,v| k == :slug }
+        song_ref.attributes.convert_to_sym.reject {|k,v| k == :slug }
       end
     end
   end

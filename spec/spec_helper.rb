@@ -6,6 +6,7 @@ require 'bundler/setup'
 
 require 'gdshowsdb'
 
+include Gdshowsdb
 Gdshowsdb.init({ adapter: 'sqlite3', database: ':memory:' })
 Gdshowsdb.load(8) #Magic Number warning. This will migrate the DB all the way until loading the shows 
 

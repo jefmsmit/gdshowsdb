@@ -3,8 +3,6 @@ require 'securerandom'
 require 'gdshowsdb'
 
 class ImportShows < ActiveRecord::Migration
-	include Gdshowsdb::Utils
-	
 	def up	
 		load_shows	
 		@shows.each do |key, value|
@@ -72,7 +70,7 @@ class ImportShows < ActiveRecord::Migration
 		show_set.uuid = set[:uuid]
 		show_set.show = show
 		show_set.position = index
-		show_set.encore = encore?(show[:sets], set)
+		show_set.encore = ShowSet.encore?(show[:sets], set)
 		show_set.save!
 
 		ShowSet.find_by_uuid(set[:uuid])

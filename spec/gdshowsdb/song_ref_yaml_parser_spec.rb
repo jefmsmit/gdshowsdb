@@ -1,7 +1,5 @@
 require 'spec_helper'
 
-include Gdshowsdb::Utils
-
 describe 'SongRefYamlParser' do
   
   let(:first_song_uuid) { generate_uuid }
