@@ -1,7 +1,6 @@
 require 'yaml'
 
 module Gdshowsdb
-  class ShowDiff
-    include Gdshowsdb::Diff
+  class ShowDiff < Gdshowsdb::Diff
   end
 end

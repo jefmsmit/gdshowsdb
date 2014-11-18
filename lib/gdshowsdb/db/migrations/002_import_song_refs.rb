@@ -3,7 +3,7 @@ require 'gdshowsdb'
 
 class ImportSongRefs < ActiveRecord::Migration
 	def up		
-		song_refs = YAML.load_file(Gem.datadir('gdshowsdb') + '/song_refs.yaml')
+		song_refs = Gdshowsdb.load_yaml('song_refs.yaml')
 		song_refs_yaml_parser = Gdshowsdb::SongRefYAMLParser.new(song_refs)
 		
 		song_refs_yaml_parser.parse.each do |song_ref_hash|

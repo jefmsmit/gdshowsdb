@@ -11,13 +11,7 @@ class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
   end
 
   def create_update_migration_file
-    raw_yaml = YAML.load_file(Gem.datadir('gdshowsdb') + '/song_refs.yaml')
-    song_ref_yaml_parser = Gdshowsdb::SongRefYAMLParser.new(raw_yaml) 
-
-    raw_db = SongRef.find(:all, order: :name)
-    song_ref_db_extractor = Gdshowsdb::SongRefDBExtractor.new(raw_db)    
-    
-    song_ref_diff = Gdshowsdb::SongRefDiff.new(song_ref_yaml_parser.parse, song_ref_db_extractor.extract)
+    song_ref_diff = Gdshowsdb::SongRefDiff.new
     puts "Added SongRefs"
     puts song_ref_diff.added.size
 

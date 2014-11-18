@@ -1,5 +1,5 @@
 module Gdshowsdb
-  module Diff
+  class Diff
     def initialize(from_yaml, from_db)
       @from_yaml = from_yaml
       @yaml_uuids = extract_uuids(@from_yaml)

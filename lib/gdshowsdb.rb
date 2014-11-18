@@ -22,7 +22,11 @@ module Gdshowsdb
 
 	def self.load(level = nil)
     ActiveRecord::Migrator.up File.dirname(__FILE__) + '/gdshowsdb/db/migrations', level		
-	end  
+	end 
+
+  def self.load_yaml(file_name)
+    YAML.load_file(Gem.datadir('gdshowsdb') + "/#{file_name}")
+  end 
 end
 
 class Hash

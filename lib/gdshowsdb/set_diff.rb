@@ -1,5 +1,4 @@
 module Gdshowsdb
-  class SetDiff
-    include Gdshowsdb::Diff    
+  class SetDiff < Gdshowsdb::Diff    
   end
 end
