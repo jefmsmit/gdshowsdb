@@ -14,6 +14,6 @@ describe 'SongRefYamlParser' do
   subject { Gdshowsdb::SongRefYAMLParser.new(song_ref_list).parse }
 
   its(:size) { should == 2 } 
-  it { should include ( {first_song_uuid => 'Song A'}) } 
-  it { should include ( {second_song_uuid => 'Song B'}) } 
+  it { should include ( {uuid: first_song_uuid, name: 'Song A'}) } 
+  it { should include ( {uuid: second_song_uuid, name: 'Song B'}) }
 end

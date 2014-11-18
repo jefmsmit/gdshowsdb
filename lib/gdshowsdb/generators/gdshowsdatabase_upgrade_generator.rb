@@ -1,3 +1,5 @@
+require 'yaml'
+
 class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
   include Rails::Generators::Migration
 
@@ -9,12 +11,26 @@ class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
   end
 
   def create_update_migration_file
-    song_ref_diff = Gdshowsdb::SongRefDiff.new.diff
+    raw_yaml = YAML.load_file(Gem.datadir('gdshowsdb') + '/song_refs.yaml')
+    song_ref_yaml_parser = Gdshowsdb::SongRefYAMLParser.new(raw_yaml) 
+
+    raw_db = SongRef.find(:all, order: :name)
+    song_ref_db_extractor = Gdshowsdb::SongRefDBExtractor.new(raw_db)    
     
-    (1980..1981).each do |year|
-      Gdshowsdb::ShowDiff.new(year).diff 
-      Gdshowsdb::SetDiff.new(year).diff     
-    end
+    song_ref_diff = Gdshowsdb::SongRefDiff.new(song_ref_yaml_parser.parse, song_ref_db_extractor.extract)
+    puts "Added SongRefs"
+    puts song_ref_diff.added.size
+
+    puts "Removed SongRefs"
+    puts song_ref_diff.removed.size
+
+    puts "Updated SongRefs"
+    puts song_ref_diff.updated.size
+    
+    # (1980..1981).each do |year|
+    #   Gdshowsdb::ShowDiff.new(year).diff 
+    #   Gdshowsdb::SetDiff.new(year).diff     
+    # end
 
     # file = @@migrations_dir + "/update_migration.rb.erb"
     # migration_template(file, "db/migrate/update_gdshowsdb_data.rb")

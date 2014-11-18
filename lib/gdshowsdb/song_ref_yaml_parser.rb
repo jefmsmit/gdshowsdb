@@ -6,7 +6,9 @@ module Gdshowsdb
 
     def parse
       @song_ref_list.map do |song_ref|
-        song_ref.invert
+        key = song_ref.keys.first
+        value = song_ref[key]
+        { uuid: value, name: key }
       end        
     end
   end
