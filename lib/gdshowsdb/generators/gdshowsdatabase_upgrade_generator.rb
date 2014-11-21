@@ -11,12 +11,12 @@ class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
   end
 
   def create_update_migration_file
-    diff_song_refs
+    diff(Gdshowsdb::SongRefDiff.new, "SongRefs")
     
     (1980..1981).each do |year|
-      diff_shows(year)  
-      diff_sets(year)
-      diff_songs(year)
+      diff(Gdshowsdb::ShowDiff.new(year), "Shows")
+      diff(Gdshowsdb::SetDiff.new(year), "ShowSets")
+      diff(Gdshowsdb::SongDiff.new(year), "Songs")
     end
 
     # file = @@migrations_dir + "/update_migration.rb.erb"
@@ -25,54 +25,14 @@ class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
 
   private
 
-  def diff_song_refs
-    song_ref_diff = Gdshowsdb::SongRefDiff.new
-    puts "Added SongRefs"
-    puts song_ref_diff.added.size
+  def diff(differ, name)
+    puts "Added #{name}"
+    puts differ.added.size
 
-    puts "Removed SongRefs"
-    puts song_ref_diff.removed.size
+    puts "Removed #{name}"
+    puts differ.removed.size
 
-    puts "Updated SongRefs"
-    puts song_ref_diff.updated.size
-  end
-
-  def diff_shows(year)
-    show_diff = Gdshowsdb::ShowDiff.new(year)
-
-    puts "Added Shows for #{year}"
-    puts show_diff.added.size
-
-    puts "Removed Shows for #{year}"
-    puts show_diff.removed.size
-
-    puts "Updated Shows for #{year}"
-    puts show_diff.updated.size
-  end
-
-  def diff_sets(year)
-    set_diff = Gdshowsdb::SetDiff.new(year)
-
-    puts "Added sets for #{year}"
-    puts set_diff.added.size
-
-    puts "Removed sets for #{year}"
-    puts set_diff.removed.size
-
-    puts "Updated sets for #{year}"
-    puts set_diff.updated.size
-  end
-
-  def diff_songs(year)
-    song_diff = Gdshowsdb::SongDiff.new(year)
-
-    puts "Added songs for #{year}"
-    puts song_diff.added.size
-
-    puts "Removed songs for #{year}"
-    puts song_diff.removed.size
-
-    puts "Updated songs for #{year}"
-    puts song_diff.updated.size
-  end
+    puts "Updated #{name}"
+    puts differ.updated.size
+  end  
 end
