@@ -1,5 +1,9 @@
 module Gdshowsdb
   class SongRefYAMLParser
+    def self.from_yaml
+      SongRefYAMLParser.new(Gdshowsdb.load_yaml('song_refs.yaml'))
+    end
+
     def initialize(song_ref_list)
       @song_ref_list = song_ref_list
     end

@@ -7,6 +7,10 @@ class ShowSet < ActiveRecord::Base
 	
 	attr_accessible :uuid, :position, :encore
 
+  def self.find_all_by_year(year)
+    ShowSet.joins(:show).where('shows.year = ?', year)
+  end
+
   def self.encore?(sets, set)
     return false unless sets
     last = (sets.size - 1) == sets.index(set)

@@ -1,5 +1,9 @@
 module Gdshowsdb
   class ShowYAMLParser
+    def self.from_yaml(year)
+      ShowYAMLParser.new(Gdshowsdb.load_yaml_for_year(year))
+    end
+
     def initialize(shows)
       @shows = shows
     end

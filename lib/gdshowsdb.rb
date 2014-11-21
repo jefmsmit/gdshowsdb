@@ -27,6 +27,10 @@ module Gdshowsdb
   def self.load_yaml(file_name)
     YAML.load_file(Gem.datadir('gdshowsdb') + "/#{file_name}")
   end 
+
+  def self.load_yaml_for_year(year)
+    load_yaml("#{year}.yaml")
+  end
 end
 
 class Hash

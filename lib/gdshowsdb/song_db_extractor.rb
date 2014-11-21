@@ -1,5 +1,9 @@
 module Gdshowsdb
   class SongDBExtractor
+    def self.from_db(year)      
+      SongDBExtractor.new(Song.find_all_by_year(year))
+    end    
+
     def initialize(songs)
       @songs = songs
     end

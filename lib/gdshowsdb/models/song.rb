@@ -5,4 +5,8 @@ class Song < ActiveRecord::Base
 	belongs_to :song_ref, :foreign_key => :song_ref_uuid, :primary_key => :uuid
 	
 	attr_accessible :uuid, :show_set, :position, :segued
+
+  def self.find_all_by_year(year)
+    Song.joins(:show_set => [:show]).where('shows.year = ?', year)
+  end
 end

@@ -1,5 +1,9 @@
 module Gdshowsdb
-  class SetDBExtractor
+  class SetDBExtractor    
+    def self.from_db(year)      
+      SetDBExtractor.new(ShowSet.find_all_by_year(year))
+    end
+
     def initialize(show_sets)
       @show_sets = show_sets
     end
