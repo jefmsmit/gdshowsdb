@@ -3,83 +3,40 @@ require 'securerandom'
 require 'gdshowsdb'
 
 class ImportShows < ActiveRecord::Migration
-	def up	
-		load_shows	
-		@shows.each do |key, value|
-			show_song_count = {}
-			show = save_show(key, value)			
-			
-			sets = value[:sets]
-			sets.each_with_index do |set, index|
-				show_set = save_show_set(show, set, index)
-
-				set[:songs].each_with_index do |song, song_index|
-					song_ref = lookup_song_ref(song[:name])
-					if(show_song_count.has_key?(song_ref.uuid))
-						show_song_count[song_ref.uuid] = show_song_count[song_ref.uuid] + 1
-					else
-						show_song_count[song_ref.uuid] = 0
-					end
-					save_song(show, show_set, song_ref, song, song_index, show_song_count[song_ref.uuid])
-				end				
+	include Gdshowsdb
+	
+	def up
+		(1965..1995).each do |year|
+			show_yaml_parser = ShowYAMLParser.from_yaml(year)			
+			show_yaml_parser.parse.each do |show_yaml|
+				Show.create(show_yaml)
 			end
 
-			puts "done importing #{key}"
+			set_yaml_parser = SetYAMLParser.from_yaml(year)
+			set_yaml_parser.parse.each do |set_yaml|
+				ShowSet.create(set_yaml) do |show_set|
+					show_set.show = Show.find_by_uuid(set_yaml[:show_uuid])
+				end
+			end
+
+			song_yaml_parser = SongYAMLParser.from_yaml(year)
+			song_yaml_parser.parse.each do |song_yaml|
+				created_song = Song.create(song_yaml) do |song|
+					song.show_set = ShowSet.find_by_uuid(song_yaml[:show_set_uuid])
+				end
+				song_ref = SongRef.find_by_name(song_yaml[:name])
+				song_ref.songs << Song.find_by_uuid(song_yaml[:uuid])
+				
+				song_ref.song_occurences.create(uuid: generate_uuid, position: song_yaml[:position]) do |occurence|
+					occurence.show = ShowSet.find_by_uuid(song_yaml[:show_set_uuid]).show					
+				end
+			end
 		end
-	end	
+	end
 
 	def down
 		Song.delete_all
 		ShowSet.delete_all
 		Show.delete_all
-	end
-
-	private
-
-	def load_shows
-		@shows = {}
-		(1965..1995).each do |year|
-			from_file = YAML.load_file(Gem.datadir('gdshowsdb') + "/#{year}.yaml")
-		  @shows.merge! from_file
-		end
-	end
-
-	def lookup_song_ref(name)
-		@ref_cache = {} if @ref_cache.nil?
-		@ref_cache[name] = SongRef.find_by_name(name) unless @ref_cache.has_key?(name)
-		raise "#{name} is not a valid SongRef" if @ref_cache[name].nil? 
-		@ref_cache[name]
-	end
-
-	def save_show(key, value)
-		show = Show.new
-		show.uuid = value[:uuid]
-		show.year, show.month, show.day, position = key.split("/")
-		show.venue = value[:venue]
-		show.city = value[:city]
-		show.state = value[:state]
-		show.country = value[:country]
-		show.position = position if position
-		show.save!
-
-		Show.find_by_uuid(value[:uuid])
-	end
-
-	def save_show_set(show, set, index)
-		show_set = ShowSet.new
-		show_set.uuid = set[:uuid]
-		show_set.show = show
-		show_set.position = index
-		show_set.encore = ShowSet.encore?(show[:sets], set)
-		show_set.save!
-
-		ShowSet.find_by_uuid(set[:uuid])
-	end
-
-	def save_song(show, show_set, song_ref, song, song_index, occurence_position)		
-		saved_song = show_set.songs.create(:uuid => song[:uuid], :position => song_index, :segued => song[:segued])					
-		
-		song_ref.songs << saved_song
-		song_ref.song_occurences.create(:uuid => SecureRandom.uuid, :show => show, :position => occurence_position)
-	end
+	end	
 end
