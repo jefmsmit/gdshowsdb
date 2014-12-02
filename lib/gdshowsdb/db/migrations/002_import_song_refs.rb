@@ -4,11 +4,7 @@ require 'gdshowsdb'
 class ImportSongRefs < ActiveRecord::Migration
 	def up		
 		Gdshowsdb::SongRefYAMLParser.from_yaml.parse.each do |song_ref_hash|
-			song_ref = SongRef.create(
-				uuid: song_ref_hash[:uuid],
-				name: song_ref_hash[:name],
-				slug: song_ref_hash[:name].parameterize.underscore
-			)
+			SongRef.create_from(song_ref_hash)
 		end		
 	end
 

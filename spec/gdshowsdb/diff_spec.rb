@@ -38,6 +38,14 @@ describe 'Diff' do
     subject { @diff.updated }
 
     it { should == [updated_set] }
+
+    it 'should not include updated set in added' do
+      (@diff.added.select { |item| item[:uuid] == set_uuid }).size.should == 0
+    end
+
+    it 'should not include updated set in removed' do
+      (@diff.removed.select { |item| item[:uuid] == set_uuid }).size.should == 0
+    end
   end
 
   context 'order of inputs should be irrelevant' do
