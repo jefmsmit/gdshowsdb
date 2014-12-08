@@ -9,6 +9,18 @@ class Show < ActiveRecord::Base
 
   attr_accessible :uuid, :year, :month, :day, :venue, :city, :state, :country, :position
 
+  def self.create_from(spec)
+    Show.create(spec)
+  end
+
+  def self.update_from(spec)
+    Show.update(spec[:uuid], spec)
+  end
+  
+  def self.remove_from(spec)
+    Show.find_by_uuid(spec[:uuid]).delete
+  end
+
   def self.parse_date(readable_date)
     parsed = readable_date.split('/')
     date_hash = {year: parsed[0].to_i, month: parsed[1].to_i, day: parsed[2].to_i}

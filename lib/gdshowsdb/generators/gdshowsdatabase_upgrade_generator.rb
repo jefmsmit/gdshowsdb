@@ -18,11 +18,32 @@ class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
 
     # diff(Gdshowsdb::SongRefDiff.new, "SongRefs")
     
-    # (1965..1995).each do |year|
+    @added_shows = []
+    @updated_shows = []
+    @removed_shows = []
+    @added_sets = []
+    @updated_sets = []
+    @removed_sets = []
+    (1965..1995).each do |year|
+      show_diff = Gdshowsdb::ShowDiff.new(year)
+      @added_shows.concat(show_diff.added)
+      @updated_shows.concat(show_diff.updated)
+      @removed_shows.concat(show_diff.removed)
+
+      set_diff = Gdshowsdb::SetDiff.new(year)
+      @added_sets.concat(set_diff.added)
+      @updated_sets.concat(set_diff.updated)
+      @removed_sets.concat(set_diff.removed)      
+
+      song_diff = Gdshowsdb::SongDiff.new(year)
+      @added_songs.concat(song_diff.added)
+      @updated_songs.concat(song_diff.updated)
+      @removed_songs.concat(song_diff.removed)      
+
     #   diff(Gdshowsdb::ShowDiff.new(year), "Shows")
     #   diff(Gdshowsdb::SetDiff.new(year), "ShowSets")
     #   diff(Gdshowsdb::SongDiff.new(year), "Songs")
-    # end
+    end
 
     file = @@migrations_dir + "/update_migration.rb.erb"
     migration_template(file, "db/migrate/update_gdshowsdb_data.rb")

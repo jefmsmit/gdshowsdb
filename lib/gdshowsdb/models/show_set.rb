@@ -7,6 +7,22 @@ class ShowSet < ActiveRecord::Base
 	
 	attr_accessible :uuid, :position, :encore
 
+  def self.create_from(spec)
+    ShowSet.create(set_yaml) do |show_set|
+      show_set.show = Show.find_by_uuid(spec[:show_uuid])
+    end
+  end
+
+  def self.update_from(spec)
+    ShowSet.update(spec[:uuid], spec) do |show_set|
+      show_set.show = Show.find_by_uuid(spec[:show_uuid])
+    end
+  end
+  
+  def self.remove_from(spec)
+    ShowSet.find_by_uuid(spec[:uuid]).delete
+  end
+
   def self.find_all_by_year(year)
     ShowSet.joins(:show).where('shows.year = ?', year)
   end

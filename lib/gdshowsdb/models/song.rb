@@ -6,6 +6,50 @@ class Song < ActiveRecord::Base
 	
 	attr_accessible :uuid, :show_set, :position, :segued
 
+  def self.create_from(spec)
+    Song.create(spec) do |song|
+      song.show_set = ShowSet.find_by_uuid(spec[:show_set_uuid])
+    end
+    create_song_relationships(spec)
+    Song.find_by_uuid(spec[:uuid])
+  end
+
+  def self.create_song_relationships(spec)
+    song_ref = SongRef.find_by_name(spec[:name])
+    song_ref.songs << Song.find_by_uuid(spec[:uuid])
+    
+    song_ref.song_occurences.create(uuid: generate_uuid, position: spec[:position]) do |occurence|
+      occurence.show = ShowSet.find_by_uuid(spec[:show_set_uuid]).show         
+    end
+  end
+
+  def self.update_from(spec)
+    Song.update(spec) do |song|
+      song.show_set = ShowSet.find_by_uuid(spec[:show_set_uuid])
+    end
+  end
+
+  def self.update_song_relationships(spec)
+    remove_song_relationships(spec)
+    create_song_relationships(spec)
+  end
+  
+  def self.remove_from(spec)
+    remove_song_relationships(spec)
+    Song.find_by_uuid(spec[:uuid]).delete    
+  end
+
+  def self.remove_song_relationships(spec)
+    song_ref = SongRef.find_by_name(spec[:name])
+    song_ref.songs.delete(Song.find_by_uuid(spec[:uuid]))
+    show = ShowSet.find_by_uuid(spec[:show_set_uuid]).show
+
+    song_ref.song_occurences.where('show_uuid = ? and song_ref_uuid = ?', show.uuid, song_ref.uuid).each do | occurence|
+      song_ref.song_occurences.delete(occurence)
+      occurence.delete
+    end
+  end
+
   def self.find_all_by_year(year)
     Song.joins(:show_set => [:show]).where('shows.year = ?', year)
   end
