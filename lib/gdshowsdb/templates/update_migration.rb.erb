@@ -35,5 +35,17 @@ class UpdateGdShowsDbData < ActiveRecord::Migration
     # removed sets <% @removed_sets.each do |set_spec| %>
     ShowSet.remove_from(<%= set_spec.inspect %>)
     <% end %>
+
+    # added songs <% @added_songs.each do |set_spec| %>
+    ShowSet.create_from(<%= set_spec.inspect %>)
+    <% end %>
+
+    # updated songs <% @updated_songs.each do |song_spec| %>
+    Song.update_from(<%= song_spec.inspect %>)
+    <% end %>
+
+    # removed songs <% @removed_songs.each do |song_spec| %>
+    Song.remove_from(<%= song_spec.inspect %>)
+    <% end %>
   end  
 end

@@ -24,6 +24,9 @@ class GdshowsdatabaseUpgradeGenerator < Rails::Generators::Base
     @added_sets = []
     @updated_sets = []
     @removed_sets = []
+    @added_songs = []
+    @updated_songs = []
+    @removed_songs = []
     (1965..1995).each do |year|
       show_diff = Gdshowsdb::ShowDiff.new(year)
       @added_shows.concat(show_diff.added)
