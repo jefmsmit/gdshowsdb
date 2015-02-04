@@ -4,6 +4,7 @@ require 'rubygems'
 require 'active_record'
 require 'rails/generators'
 
+require File.dirname(__FILE__) + '/gdshowsdb/diff.rb'
 Dir[File.dirname(__FILE__) + '/gdshowsdb/*.rb'].each {|file| require file }
 Dir[File.dirname(__FILE__) + '/gdshowsdb/db/migrations/*.rb'].each {|file| require file }
 Dir[File.dirname(__FILE__) + '/gdshowsdb/models/extensions/*.rb'].each {|file| require file }
