@@ -3,15 +3,9 @@ require 'gdshowsdb'
 
 class ImportSongRefs < ActiveRecord::Migration
 	def up		
-		@song_refs = YAML.load_file(Gem.datadir('gdshowsdb') + '/song_refs.yaml')
-		
-		@song_refs.each do |key, value|
-			song_ref = SongRef.new
-			song_ref.uuid = value
-			song_ref.name = key
-			song_ref.slug = key.parameterize.underscore
-			song_ref.save!
-		end
+		Gdshowsdb::SongRefYAMLParser.from_yaml.parse.each do |song_ref_hash|
+			SongRef.create_from(song_ref_hash)
+		end		
 	end
 
 	def down
