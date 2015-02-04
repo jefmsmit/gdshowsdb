@@ -15,31 +15,58 @@ describe 'Song' do
   end
   let(:song_one_uuid) { generate_uuid }  
   let(:song_spec) { {uuid: song_one_uuid, position: 0, segued: true, show_set_uuid: set_one.uuid, name: song_ref_one.name} }
+  let(:song) { Song.create_from(song_spec) }
   
-  context '#create_from' do    
-    it 'should create song with relationships' do
-      kill_it(song_spec) do
-        song = Song.create_from(song_spec)
-        song_ref_one.songs.should include song 
-        occurence = song_ref_one.song_occurences.find_by_show_uuid(show.uuid)
-        occurence.song_ref.name.should == song_ref_one_name
-      end      
+  context '#create_from' do        
+    context 'song_ref' do
+      subject { song_ref_one }
+      its(:songs) { should include song }
     end
+    
+    context 'occurences' do
+      before(:each) { song }
+      subject { song_ref_one.song_occurences.find_by_show_uuid(show.uuid) }
+      its(:song_ref) { should == song_ref_one }      
+    end    
   end
 
-  context '#remove_from' do    
-    it 'should remove song relationships' do
-      Song.create_from(song_spec)
+  context '#remove_from' do
+    before(:each) do
+      song
       Song.remove_from(song_spec)
+    end    
 
-      song_ref_one.song_occurences.find_by_show_uuid(show.uuid).should == nil
-      song_ref_one.songs.empty?.should == true
+    context 'song_ref' do
+      subject { song_ref_one }
+      its(:songs) { should == []}
+    end
+
+    context 'occurences' do
+      subject { song_ref_one.song_occurences.find_by_show_uuid(show.uuid) }
+      it { should == nil }
     end
   end
 
-end
+  context '#update_from' do
+    let(:new_set_uuid) { generate_uuid }
+    let(:new_show_set) do
+      ShowSet.create(uuid: new_set_uuid) do |s|
+        s.show = show
+        s.position = 1
+        s.encore = true
+      end 
+    end
 
-def kill_it(song_spec, &block)
-  yield block
-  Song.remove_from(song_spec)  
+    subject do
+      Song.create_from(song_spec)      
+      song_spec[:show_set_uuid] = new_show_set[:uuid]
+      song_spec[:segued] = false
+      Song.update_from(song_spec)
+    end
+
+    it { should_not == nil }
+    its(:show_set) { should == new_show_set }
+    its(:segued) { should == false }
+  end
+
 end

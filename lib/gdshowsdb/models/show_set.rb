@@ -5,10 +5,10 @@ class ShowSet < ActiveRecord::Base
 	belongs_to :show, :foreign_key => :show_uuid, :primary_key => :uuid
   accepts_nested_attributes_for :songs
 	
-	attr_accessible :uuid, :position, :encore
-
+	attr_accessible :uuid, :show_uuid, :position, :encore
+  
   def self.create_from(spec)
-    ShowSet.create(set_yaml) do |show_set|
+    ShowSet.create(spec) do |show_set|
       show_set.show = Show.find_by_uuid(spec[:show_uuid])
     end
   end

@@ -22,7 +22,7 @@ class SongRef < ActiveRecord::Base
     )
   end
 
-  def self.update_from(spec)
+  def self.update_from(spec)    
     SongRef.update(spec[:uuid], spec)
   end
 	
