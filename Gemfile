@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'protected_attributes'
+
 # Specify your gem's dependencies in gdshowsdb.gemspec
 gemspec
 
