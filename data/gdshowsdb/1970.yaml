@@ -1930,7 +1930,91 @@
   :city: Binghamton
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 58cf8a78-4035-4943-b6cb-d0fa97c5b5e8
+    :songs:
+    - :uuid: 5bea333d-9b39-46cc-a1e2-84776ffce30b
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: 5de750d3-1ece-4c8b-b406-54c30ea91daf
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: ac9a45c6-b2d1-4535-9b34-56eb535a4eb7
+      :name: Friend Of The Devil
+      :segued: false
+    - :uuid: f41f2111-b058-44dd-907a-96308d963ea9
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 5ac7a3d9-338e-4990-bacc-4059e4a7e1e3
+      :name: Beat It On Down The Line
+      :segued: true
+    - :uuid: ce8a2b08-6661-4824-91cd-4f2c091c5747
+      :name: Black Peter
+      :segued: false
+    - :uuid: 840d5302-431d-4014-9d39-cb4d52079ed0
+      :name: Candyman
+      :segued: true
+    - :uuid: 209e7808-2844-406e-ab4f-9cfb3ac8b9c9
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 5f1cf878-ea6e-47c2-9b99-8e77fce274bb
+      :name: Deep Elem Blues
+      :segued: false
+    - :uuid: 45902295-d284-4eb1-a811-e068b51f48d8
+      :name: Cold Jordan
+      :segued: false
+    - :uuid: 8ae8db5d-97ba-4444-94af-3e8d0551e871
+      :name: Uncle John's Band
+      :segued: false
+  - :uuid: cffb5751-0ab9-46a7-be69-b78ff70b6216
+    :songs:
+    - :uuid: 77af76dd-a863-4759-862f-716c12c28370
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 0701cd0e-baad-4c1e-869e-18aff35f47b0
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: f7a9a7dc-2b20-4a47-8ea6-b7804ecd6145
+      :name: Drums
+      :segued: true
+    - :uuid: d8af53e0-53d0-4d2a-86cf-e1adeed417e5
+      :name: The Other One
+      :segued: true
+    - :uuid: 31afb251-c6ad-450b-8a18-82c174ca69cb
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: e09a9432-a73f-4165-bce3-f9b411dc9ac3
+      :name: Cosmic Charlie
+      :segued: false
+    - :uuid: 2118f794-c9a7-4fe5-9483-840b4aa09f0e
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 9d9341b5-a1ec-4969-84c9-a52b0828bf69
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: c86506dd-d35a-415c-9571-bb49d3d3ea0c
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 19c8ef71-804c-49fd-b292-12746060d7d4
+      :name: It's A Man's World
+      :segued: false
+    - :uuid: 8e222c37-030f-443a-aeaf-193e1689e5cb
+      :name: Dancing In The Street
+      :segued: false
+  - :uuid: 0b0280b6-c436-434f-9179-2c97ac96c007
+    :songs:
+    - :uuid: fdf19fb7-0e06-4432-b14f-f748d134a651
+      :name: Morning Dew
+      :segued:
+    - :uuid: cae4ab72-b978-41c5-852f-51c406da7a3f
+      :name: Viola Lee Blues
+      :segued: true
+    - :uuid: 19c4abce-6b72-4976-ba46-408b987811e7
+      :name: Feedback
+      :segued: true
+    - :uuid: b19edc1c-4376-4501-86a3-8e440bb25831
+      :name: And We Bid You Good Night
+      :segued: false
 1970/05/03:
   :uuid: c7fc2826-efaa-41aa-9dfb-007dae825aeb
   :venue: Field House
