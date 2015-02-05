@@ -5897,9 +5897,39 @@
   :sets:
   - :uuid: e6b29bed-050a-433c-9568-99c99310f4e9
     :songs:
+    - :uuid: 4eb1f63f-5237-47ba-b923-8989576863d3
+      :name: Bertha
+      :segued: false
+    - :uuid: 62c2913a-a8c4-4ff5-acfc-9ad20d968f4c
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: b9cd415a-aa24-40f7-a9d3-c3148086bf50
+      :name: Jack Straw
+      :segued: false
     - :uuid: fa970870-3800-4a00-9aea-8326101cde38
       :name: Candyman
       :segued: false
+    - :uuid: f70e3570-f2f9-4a38-ae29-0cfeb5b7cd65
+      :name: Big River
+      :segued: false  
+    - :uuid: 789f47d9-eebf-4e52-aab4-f81b0125c692
+      :name: Sugaree
+      :segued: false
+    - :uuid: 58baacb6-6127-4f8b-b19a-589d028ea506
+      :name: El Paso
+      :segued: false  
+    - :uuid: e4eaeec9-4ef5-4ff4-8cf4-d4baba4c94f8
+      :name: Box Of Rain
+      :segued: false
+    - :uuid: c848492d-3646-4929-a261-6da3a448f4a4
+      :name: Deal
+      :segued: false
+    - :uuid: ab7f834a-fbee-4bfb-98d0-3bb3110163bf
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: ff4128b1-d393-4fd3-802a-b0ce289e5c45
+      :name: Around And Around
+      :segued: false      
     - :uuid: 00d4d552-feec-4a72-a904-d560c505750e
       :name: China Cat Sunflower
       :segued: false
@@ -5908,14 +5938,49 @@
       :segued: false
   - :uuid: 74581c6e-5a15-4eff-8528-179075a211bb
     :songs:
+    - :uuid: 73d929fd-609f-4092-bd9d-f1f283b81475
+      :name: The Promised Land
+      :segued: false
+    - :uuid: b7d82818-e9be-49a0-a574-8b7736660397
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: eb213b9c-6161-4553-b2db-407a3c88b943
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 6e8cfcb4-f275-418c-b5b0-9941513cc4dd
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: 91e8f228-1a44-4197-8f4e-70029ec3952e
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 1bbf312d-af65-495d-9336-f1f0aefc5f87
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: ffbd7c2b-8d41-4628-86b3-5e26d86261de
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 9a77aa2c-c3da-4619-b10d-c029ef8aa391
+      :name: Wharf Rat
+      :segued: true
+    - :uuid: 716f7d38-19ac-45c1-9e43-2307af9f9aaf
+      :name: Jam
+      :segued: true
+    - :uuid: f4f8eb0a-5ace-418a-b981-34f5a58de505
+      :name: Sugar Magnolia
+      :segued: false
     - :uuid: 2cc39c1f-c739-4f57-a55d-7d9c6505bde5
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 41098195-9864-496e-b67e-7b2c13c58722
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: afbd8b7f-4820-4ce4-b121-83b7853d4d46
       :name: Not Fade Away
+      :segued: false
+  - :uuid: 0483faef-b1d4-479b-ae26-71f4855df7ba
+    :songs:
+    - :uuid: 505e9d1e-e8be-4bb0-8170-cc92978120b9
+      :name: Johnny B. Goode
       :segued: false
 1972/11/17:
   :uuid: bd8f1219-749c-4234-93e5-93d3751155f3
