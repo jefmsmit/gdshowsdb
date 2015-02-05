@@ -27,7 +27,7 @@ end
 
 Add this to your Gemfile
 ```
-gem 'gdshowsdb', :git => 'git://github.com/jefmsmit/gdshowsdb.git'
+gem 'gdshowsdb'
 ```
 
 Generate the database migrations
