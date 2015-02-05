@@ -591,7 +591,106 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: b60ba47f-5811-4820-9f09-b8090a188328
+    :songs:
+      - :uuid: 9983dae1-1485-41f9-86f3-f3f66b42e6f9
+        :name: Truckin'
+        :segued: false
+      - :uuid: 2aa26e23-c089-48dd-a46d-5e53bbbc12c4
+        :name: Bertha
+        :segued: false
+      - :uuid: 2b0d9fec-e02f-43bc-acd2-25626043c7b6
+        :name: It Hurts Me Too
+        :segued: false
+      - :uuid: 40a361a9-3c45-47cd-b4c3-ef37486a6980
+        :name: Cumberland Blues
+        :segued: true
+      - :uuid: 6a394be3-ec4b-4f66-a1ff-4330ed6e8e33
+        :name: Me And My Uncle
+        :segued: false
+      - :uuid: 4dc03c5f-7729-43ed-8c7f-5f3f6a5b137c
+        :name: Bird Song
+        :segued: false
+      - :uuid: fd81929d-67a5-410e-8638-59c66284ca55
+        :name: Playing In The Band
+        :segued: false
+      - :uuid: eb852df8-f968-4a91-bdfe-4039b9cad2ec
+        :name: Loser
+        :segued: false
+      - :uuid: 76d12d6e-f388-43b5-87b9-7000af01bd3b
+        :name: Dark Hollow
+        :segued: false
+      - :uuid: 0a32394d-f832-436f-b0b0-0234f54bab26
+        :name: Hard To Handle
+        :segued: false
+      - :uuid: 15751c49-6a29-49fc-bf3c-f3964c158362
+        :name: Ripple
+        :segued: false
+      - :uuid: f77c3890-683d-4106-a0fc-bd72ca55f521
+        :name: Me And Bobby Mcgee
+        :segued: false
+      - :uuid: 97cf64f3-870e-4261-83e4-4fd668d69274
+        :name: Casey Jones
+        :segued: false
+  - :uuid: 998ed11b-14de-4d46-9c72-48c184a14b58
+    :songs: 
+      - :uuid: 29ae204e-8168-46ce-a2f6-640f17f1c7f9
+        :name: Morning Dew
+        :segued: false
+      - :uuid: 24eadae1-ab44-4ed8-8297-7f1431e4d17b
+        :name: New Minglewood Blues
+        :segued: false
+      - :uuid: caa5b6a1-4ae3-4728-ace0-8c8c18e9ad87
+        :name: Sugar Magnolia
+        :segued: false
+      - :uuid: 32f2b813-aabb-4e8a-801d-9a0c08f532bb
+        :name: Black Peter
+        :segued: false
+      - :uuid: 440e6935-ce1e-4f7f-8b47-d519ac5d3273
+        :name: Beat It On Down The Line
+        :segued: false
+      - :uuid: 28584b4a-922e-452a-a9c4-fa9338cd2190
+        :name: I Second That Emotion
+        :segued: false
+      - :uuid: 7226d01e-2d9d-467d-8fd6-0ce3c4d98a2e
+        :name: Alligator
+        :segued: true
+      - :uuid: bcf67482-c3aa-4e16-a1e7-df4de1abc234
+        :name: Drums
+        :segued: true
+      - :uuid: c7e01cad-e03c-43df-9162-26f919572541
+        :name: Jam
+        :segued: true
+      - :uuid: 1001608a-8c16-40ff-966d-9511f11e5dcc
+        :name: Goin' Down The Road Feeling Bad
+        :segued: true
+      - :uuid: c7ff6441-c245-49f4-b435-4b7194ed5c7c
+        :name: Cold Rain And Snow
+        :segued: false
+      - :uuid: f5e1eca5-7839-40b9-bcc0-fb3793348e9e
+        :name: China Cat Sunflower
+        :segued: true
+      - :uuid: 2ee4d042-ceb5-47e5-898f-8dda3414fe86
+        :name: I Know You Rider
+        :segued: false
+      - :uuid: e8740c32-682e-44be-bd11-026ffec360b2
+        :name: Greatest Story Ever Told
+        :segued: true
+      - :uuid: 67e67179-b7b6-4ff6-a67e-e5932435a12e
+        :name: Johnny B. Goode
+        :segued: false
+  - :uuid: c66a1af4-2251-4ac1-822b-a2c57b62fd5b
+    :songs:
+      - :uuid: 5f8afae7-c992-48a1-bab0-603dd2763cd8
+        :name: Uncle John's Band
+        :segued: false
+      - :uuid: 0db38d71-db67-48d2-b7fc-88bb4fa2f015
+        :name: In The Midnight Hour
+        :segued: true
+      - :uuid: 90e3b84a-70b5-48c5-a4ae-5dbcbbb9f904
+        :name: And We Bid You Good Night
+        :segued: false
 1971/05/29:
   :uuid: 75e4b5b7-40a8-4cd3-9629-213903b7c7a4
   :venue: Winterland Arena
