@@ -1,5 +1,6 @@
 require "gdshowsdb/version"
 
+require 'protected_attributes'
 require 'rubygems'
 require 'active_record'
 require 'rails/generators'
