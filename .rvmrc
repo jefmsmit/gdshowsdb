@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-rvm use --create --install ruby-1.9.3@gdshowsdb 
+rvm use --create --install ruby-2.4.2@gdshowsdb 
 bundle install

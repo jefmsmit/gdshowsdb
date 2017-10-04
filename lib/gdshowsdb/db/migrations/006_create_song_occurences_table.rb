@@ -1,4 +1,4 @@
-class CreateSongOccurencesTable < ActiveRecord::Migration
+class CreateSongOccurencesTable < ActiveRecord::Migration[5.0]
   
   def up
     create_table :song_occurences, :id => false do |t|

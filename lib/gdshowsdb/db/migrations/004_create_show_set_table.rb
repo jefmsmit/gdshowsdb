@@ -1,4 +1,4 @@
-class CreateShowSetTable < ActiveRecord::Migration
+class CreateShowSetTable < ActiveRecord::Migration[5.0]
 	
 	def up
 		create_table :show_sets, :id => false do |t|

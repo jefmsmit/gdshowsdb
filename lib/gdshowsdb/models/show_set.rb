@@ -5,18 +5,18 @@ class ShowSet < ActiveRecord::Base
 	belongs_to :show, :foreign_key => :show_uuid, :primary_key => :uuid
   accepts_nested_attributes_for :songs
 	
-	attr_accessible :uuid, :show_uuid, :position, :encore
-  
-  def self.create_from(spec)
-    ShowSet.create(spec) do |show_set|
-      show_set.show = Show.find_by_uuid(spec[:show_uuid])
-    end
+	def self.create_from(spec)
+    show_set = ShowSet.new
+    set_spec(show_set, spec)
+    show_set.save
+    show_set
   end
 
   def self.update_from(spec)
-    ShowSet.update(spec[:uuid], spec) do |show_set|
-      show_set.show = Show.find_by_uuid(spec[:show_uuid])
-    end
+    show_set = ShowSet.find_by_uuid(spec[:uuid])
+    set_spec(show_set, spec)
+    show_set.save
+    show_set
   end
   
   def self.remove_from(spec)
@@ -36,5 +36,15 @@ class ShowSet < ActiveRecord::Base
 
   def encore?
     encore
+  end
+
+  private
+
+  def self.set_spec(show_set, spec)
+    show_set.uuid = spec[:uuid]
+    show_set.show_uuid = spec[:show_uuid]
+    show_set.position = spec[:position]
+    show_set.encore = spec[:encore]
+    show_set.show = Show.find_by_uuid(spec[:show_uuid])
   end
 end

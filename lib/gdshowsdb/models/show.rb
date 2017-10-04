@@ -1,5 +1,3 @@
-require 'protected_attributes'
-
 class Show < ActiveRecord::Base
   include Extensions::UUID
 	
@@ -7,14 +5,18 @@ class Show < ActiveRecord::Base
   has_many :song_occurences, :foreign_key => :show_uuid, :primary_key => :uuid
   has_many :song_refs, :through => :song_occurences, :foreign_key => :show_uuid
 
-  attr_accessible :uuid, :year, :month, :day, :venue, :city, :state, :country, :position
-
   def self.create_from(spec)
-    Show.create(spec)
+    show = Show.new
+    set_spec(show, spec)
+    show.save
+    show
   end
 
   def self.update_from(spec)
-    Show.update(spec[:uuid], spec)
+    show = Show.find_by(uuid: spec[:uuid])
+    set_spec(show, spec)
+    show.save
+    show
   end
   
   def self.remove_from(spec)
@@ -51,6 +53,19 @@ class Show < ActiveRecord::Base
   end  
 
   private 
+
+  def self.set_spec(show, spec) 
+    show.uuid = spec[:uuid]
+    show.venue = spec[:venue]
+    show.city = spec[:city]
+    show.state = spec[:state]
+    show.country = spec[:country]
+    show.year = spec[:year]
+    show.month = spec[:month]
+    show.day = spec[:day]
+    show.position = spec[:position]
+    show
+  end
 
   def pad(int)
     "%02d" % int

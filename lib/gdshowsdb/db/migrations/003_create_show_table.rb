@@ -1,4 +1,4 @@
-class CreateShowTable < ActiveRecord::Migration
+class CreateShowTable < ActiveRecord::Migration[5.0]
 	
 	def up
 		create_table :shows, :id => false do |t|

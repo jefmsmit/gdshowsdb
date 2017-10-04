@@ -2,7 +2,7 @@ require 'yaml'
 require 'securerandom'
 require 'gdshowsdb'
 
-class ImportShows < ActiveRecord::Migration
+class ImportShows < ActiveRecord::Migration[5.0]
 	include Gdshowsdb
 	
 	def up

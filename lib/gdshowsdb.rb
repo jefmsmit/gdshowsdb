@@ -1,6 +1,5 @@
 require "gdshowsdb/version"
 
-require 'protected_attributes'
 require 'rubygems'
 require 'active_record'
 require 'rails/generators'
@@ -27,7 +26,7 @@ module Gdshowsdb
 	end 
 
   def self.load_yaml(file_name)
-    YAML.load_file(Gem.datadir('gdshowsdb') + "/#{file_name}")
+    YAML.load_file(Gem.loaded_specs['gdshowsdb'].full_gem_path + "/data/gdshowsdb/#{file_name}")
   end 
 
   def self.load_yaml_for_year(year)

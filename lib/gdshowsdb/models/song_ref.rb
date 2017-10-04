@@ -12,21 +12,28 @@ class SongRef < ActiveRecord::Base
 
   accepts_nested_attributes_for :song_occurences
 
-	attr_accessible :uuid, :name, :slug
-
   def self.create_from(spec)
-    SongRef.create(
-      uuid: spec[:uuid],
-      name: spec[:name],
-      slug: spec[:name].parameterize.underscore
-    )
+    song_ref = SongRef.new
+    set_spec(song_ref, spec)
+    song_ref.save    
   end
 
-  def self.update_from(spec)    
-    SongRef.update(spec[:uuid], spec)
+  def self.update_from(spec) 
+    song_ref = SongRef.find_by_uuid(spec[:uuid])
+    set_spec(song_ref, spec)
+    song_ref.save
   end
 	
   def self.remove_from(spec)
     SongRef.find_by_uuid(spec[:uuid]).delete
+  end
+
+  private
+
+  def self.set_spec(song_ref, spec)
+    song_ref.uuid = spec[:uuid]
+    song_ref.name = spec[:name]
+    song_ref.slug = spec[:name].parameterize.underscore
+    song_ref
   end
 end
