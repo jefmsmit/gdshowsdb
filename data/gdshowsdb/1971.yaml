@@ -1422,28 +1422,356 @@
   :city: Boston
   :state: MA
   :country: US
-  :sets: []
+  :sets: 
+  - :uuid: 5a4aaa49-3ee2-44d0-8724-6daede183291
+    :songs: 
+    - :uuid: abb0615f-04f5-488a-95e1-6045975c4a46
+      :name: Truckin'
+      :segued: false
+    - :uuid: 8f76a60a-f62c-44ef-b6e1-7aa85682f16b
+      :name: Sugaree
+      :segued: false
+    - :uuid: 460a3b4d-4fcc-43c3-ae5e-f0b63cf61d08
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 543f2aa4-2b77-41c5-a695-395fa36c4d67
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: ba96afa1-0dc9-4e74-b711-c3eac0cfd6d9
+      :name: Comes A Time
+      :segued: false
+    - :uuid: e814efda-85f1-401d-8788-b6bc8d4947bd
+      :name: Jack Straw
+      :segued: false
+    - :uuid: a5559e48-6902-4098-90b8-5a2d26fd86ed
+      :name: The Rub
+      :segued: false
+    - :uuid: a58098c5-4fd6-4db6-bde0-1fb13969af36
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 033493bd-dee0-4ea3-880b-5fb76471f2d9
+      :name: El Paso
+      :segued: falase
+    - :uuid: c6447285-715e-4a7f-99fb-8dadd6c1b3d7
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 141b6670-2df7-4152-964b-1cea17464886
+      :name: Casey Jones
+      :segued: false
+    - :uuid: ebcf4410-3143-4c24-8eb6-074676d4d971
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: b93615b0-3407-4007-bc24-6ad353554f73
+    :songs: 
+    - :uuid: 651db230-02f0-41d8-b287-ec36f9d2612d
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 95ecc967-ae84-40f0-8270-e188d2883bac
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: a9961f05-adc6-45c3-ac0b-d69a2458ac15
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: c99451bb-cd46-4122-84b2-9c2d8bff503c
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 936ed117-9469-46cd-a7fd-8d3c54e83769
+      :name: Drums
+      :segued: true
+    - :uuid: 8d762e47-66e2-4f0a-bba4-ec9f337cf88b
+      :name: The Other One
+      :segued: true
+    - :uuid: 52f64480-9e51-4b18-9f31-551570780e69
+      :name: Me And My Uncle
+      :segued: true
+    - :uuid: 6ed08090-c643-4f10-b6ec-10455bb27cc8
+      :name: The Other One
+      :segued: false
+    - :uuid: 41344adf-d5ef-4a3d-98a2-acea23500e60
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 6928e519-6c1d-4790-82aa-4cc741a867d4
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 728bd420-6515-4da7-b363-8fb9f9ed39b5
+      :name: Not Fade Away
+      :segued: false
 1971/12/02:
   :uuid: d7848948-7704-4fd9-88c6-b68f2fa10954
   :venue: Boston Music Hall
   :city: Boston
   :state: MA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: d152048c-16be-43c3-8f0f-abf70feb1afb 
+    :songs:
+    - :uuid: fe2b6bf6-7c9f-4d1d-b3ec-c14daf461bdc
+      :name: Bertha
+      :segued: false
+    - :uuid: 6ae51cc2-d030-4a38-abde-1d4ee683884d
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: ad8c22be-6211-47fb-9298-8ecfbd3fbb38
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 7a200009-251c-4020-a74e-ce31918f3b46
+      :name: Sugaree
+      :segued: false
+    - :uuid: 241a762c-a975-4b64-ac60-85be20410617
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 64779ee6-9a16-46b0-a9fa-74e983a91e8d
+      :name: Black Peter
+      :segued: false
+    - :uuid: bc9df385-6b32-4f4f-a7f8-9b7d71b37300
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: f6904074-5718-4d5d-8237-ac0f26ddee59
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 0307704f-559b-4444-86dc-f303cd7782f0
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 05306023-ccef-445d-b81c-4d06264cf0c0
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 71239f4d-c0ed-4150-9e1e-26915eb26f3d
+      :name: Smokestack Lightnin'
+      :segued: false
+    - :uuid: 37eb17bd-f474-4fe2-a9d2-810b256d0429
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: fba39b05-ff00-457e-a951-88cb5dc793ce
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 6d30ba8c-a861-4f1c-86b8-08b3dbea3f1a
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: ef583457-74da-4033-bcf6-0536e25a979e
+    :songs: 
+    - :uuid: bfa82be3-6050-4202-b13b-c788ab37d794
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 0b4338e0-99d2-48e0-9703-07111bbe4daf
+      :name: Deal
+      :segued: false
+    - :uuid: 80776a73-4fc0-4ac6-8d3c-c3c7f096ceca
+      :name: El Paso
+      :segued: false
+    - :uuid: 974dc5a8-5d66-41f0-b515-04d7ad0579ea
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: 9d4ce755-a9f1-4afb-ab5a-a956a38dca57
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: 4679e9cc-ad6d-43fe-9cfb-053b7dbc9aff
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 75a3efc6-fb8b-48bd-885e-d9d608fa11f6
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: cf1863e1-ae76-4c20-a554-8ef1f7304121
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: a9f63492-dc13-4c32-99a2-3ca89beafd23
+      :name: Jam
+      :segued: true
+    - :uuid: 04554b0f-b441-4ca4-b8fc-9404d5291b15
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: 18725231-97f5-40f8-9396-bceb2506ba32
+    :songs: 
+    - :uuid: 82a40159-cef9-461d-9083-c3e60f5439f2
+      :name: Johnny B. Goode
+      :segued: false
 1971/12/04:
   :uuid: 7459401a-bef3-494f-96c7-f165712ae7ea
   :venue: Felt Forum
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 0576976c-b259-40e6-b558-c91ecf84dd21
+    :songs:
+    - :uuid: c44e8d5b-948c-4910-a41c-1b5bdd4b6796
+      :name: Truckin'
+      :segued: false
+    - :uuid: 2567c1bd-0429-4eb2-af90-8dacd39b6aa2
+      :name: Sugaree
+      :segued: false
+    - :uuid: 3b5304d0-afe0-454c-b2d0-a5400fa837be
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 47d9877d-434b-4420-9d0b-3a0fcc0a679a
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: c57a7113-0a90-4c62-b606-bb723ee1f169
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: b3d25e75-8f14-4b38-808e-31fbeceb1aad
+      :name: Jack Straw
+      :segued: false
+    - :uuid: ba727e60-2742-49ec-8dcf-14cca9bacd56
+      :name: Run Rudolph Run
+      :segued: false
+    - :uuid: 180deeba-e21c-4ec1-8b79-e9b3bf56e4ba
+      :name: You Win Again
+      :segued: false
+    - :uuid: 0c0a046f-5ae6-431a-8ead-e0d73ee46468
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 4bf42dab-8cbb-46f4-a1a5-d75aa13370b4
+      :name: Comes A Time
+      :segued: false
+    - :uuid: bbd2c392-d10e-4e53-8e1c-48ab13935b9d
+      :name: El Paso
+      :segued: false
+    - :uuid: ace8df34-6076-4358-a39e-1ed34f704964
+      :name: Smokestack Lightnin'
+      :segued: false
+    - :uuid: e02baca8-6930-40c1-bff6-425926175e76
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 9cfd0a89-768f-49d6-948f-6e59d159cf91
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: c4863bc6-3ea6-4059-a954-215750ba5127
+    :songs: 
+    - :uuid: dab9e549-3412-4b2d-9e54-42e017290ec8
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: b7048f01-d296-4db3-84e4-cb38c9cf4230
+      :name: Me And My Uncle
+      :segued: true
+    - :uuid: dfd85d85-3e52-43c6-b966-f756e474de82
+      :name: The Other One
+      :segued: true
+    - :uuid: 64238e34-bb79-485b-959f-8aced93275d2
+      :name: Mexicali Blues
+      :segued: true
+    - :uuid: c4482ac4-6027-429f-b499-00e828b02607
+      :name: The Other One
+      :segued: true
+    - :uuid: a9999363-77d3-4f95-8fdc-7d04c4693f36
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: c4d65601-0096-4bca-a471-950654e403b2
+      :name: Casey Jones
+      :segued: false
+  - :uuid: e041f2f1-b609-4529-836e-fe96ccbe5de5
+    :songs: 
+    - :uuid: 6d5bf13f-f1bb-4b74-83ae-9617d42404b4
+      :name: Uncle John's Band
+      :segued: false
 1971/12/05:
   :uuid: aab5a05d-1407-4f07-aad6-8ec0e838a6f9
   :venue: Felt Forum
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: cc83d63c-1fb2-4a62-9ae9-2181ee750ae7
+    :songs:
+    - :uuid: c4fbda7a-4365-4aa2-b6f8-a39d9dbdfa8c
+      :name: Bertha
+      :segued: false
+    - :uuid: e6815d5e-560c-44dc-a2b4-890c0b88c9b2
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 818359f7-a9a4-490b-97be-1556dc0a73ee
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 14291d50-e4f5-4b5b-b868-dc4da1044931
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 83e9d09f-37a6-4df7-82bc-a8af650ee4e2
+      :name: I Washed My Hands In Muddy Water
+      :segued: false
+    - :uuid: bb2f502d-6bca-4ea5-9180-219e35c02786
+      :name: Jack Straw
+      :segued: false
+    - :uuid: b44a6f2a-41ba-4823-80f0-1cfbd88b05af
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 03673be3-4d91-459e-9bde-8ef751bbdc22
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 587d3742-913b-48bd-94a1-e92431c00823
+      :name: El Paso
+      :segued: false
+    - :uuid: 5fbb3742-bb6a-481a-99a5-05750e985470
+      :name: Deal
+      :segued: false
+    - :uuid: 39fcc70f-e0f9-4201-90e7-69c7f3e883ed
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: d2e265be-5b28-402b-bc10-87abdca615dd
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 844e2daf-a045-46a2-8507-7711660bd56c
+      :name: Comes A Time
+      :segued: false
+    - :uuid: a657f162-f257-422e-8b9d-ff4013956e05
+      :name: Casey Jones
+      :segued: true
+    - :uuid: 9a3750f0-96a0-4307-9f32-daa18afc2916
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: 69535eb4-b62b-4ead-b45b-cc271b93ce43
+    :songs:
+    - :uuid: 3a69b725-98bf-4858-816b-67cda6939f91
+      :name: Truckin'
+      :segued: false
+    - :uuid: 19d879b6-2eed-49c7-b50b-15b486fc0fb6
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 4d50451a-b3dc-4163-bbdb-bfa377071c66
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 677cc0f2-5383-46e3-8f58-8ac56480e5d8
+      :name: Sugaree
+      :segued: false
+    - :uuid: 01f74ec1-d7ba-4b8a-9b5c-1d4ee79baf1b
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: c15de7b3-9722-40d8-a57d-bd7eccddfe75
+      :name: Dark Star
+      :segued: true
+    - :uuid: '0810e06f-14e3-4df0-b0d8-2303ea97983f'
+      :name: Me And My Uncle
+      :segued: true
+    - :uuid: b7e8f282-a002-417f-9eba-015bd7f390ff
+      :name: Dark Star
+      :segued: true
+    - :uuid: 3707b911-bf66-410a-921d-8c03461ef96e
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: db94fc91-23de-43c1-9e1c-623cb649586f
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: b154e7f3-4b79-4161-b137-f386dc1ae8ff
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: bb04cc66-ec53-4580-a346-f8fe3efb5ced
+      :name: Mexicali Blues
+      :segued: true
+    - :uuid: a5426beb-2f90-40f6-8326-ee2f42c8e507
+      :name: You Win Again
+      :segued: false
+    - :uuid: 8dafda0d-59cf-4aa9-b250-a46fab583b6a
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 25c9d88d-5368-4c22-9c8e-ba270b124a0f
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 879ccd36-4171-4fff-96bd-a080de7603ba
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: 294f567f-0637-46a0-ab28-db8a71ba3fc9
+    :songs:  
+    - :uuid: 918d9615-abbc-434c-b2e3-01239c0c06ba
+      :name: Johnny B. Goode
+      :segued: false 
 1971/12/06:
   :uuid: fc7024e2-5a4e-4e8a-8ec9-9c2895149dac
   :venue: Felt Forum
@@ -1457,7 +1785,91 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets: 
+  - :uuid: 2ff31c3c-bc41-4597-b303-f8d105a9a70f
+    :songs:
+    - :uuid: 88752455-e8fb-42f2-b77f-b411f4da78e7
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: e0f20558-abff-4298-9fd7-765923be7eb8
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 6cff426c-fb6f-495b-bc30-8216110b66d9
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 64eccab5-ef9e-4552-8658-27f84448bc3f
+      :name: Sugaree
+      :segued: false
+    - :uuid: 598b6cbb-d7cc-468f-8b55-13c1004384c5
+      :name: Jack Straw
+      :segued: false
+    - :uuid: ce85ba61-a081-4b74-b159-c3bb5f7f33b4
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: c7beecc2-e611-4469-a25b-0ad54f7406ee
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: dbe18fbf-7724-49f4-b882-4c3d52dce8f2
+      :name: El Paso
+      :segued: false
+    - :uuid: da3584ed-28e6-4b53-aa1e-a095391d97c4
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: 1508e334-1892-4e2c-9749-2b243cfdc666
+      :name: Run Rudolph Run
+      :segued: false
+    - :uuid: c9989de5-cfe0-445e-a207-c41fc6da5021
+      :name: You Win Again
+      :segued: false
+    - :uuid: 02588a8f-601e-4633-851f-7a8f00309806
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: ad3b1498-b68d-41ed-86ec-34e4c168a8c0
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 5838bdf6-ab9c-4941-92fa-5d357cf3f39b
+    :songs:
+    - :uuid: 2117b3d7-c9ec-4541-956a-2124c280c318
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 64bbc847-9cd0-4044-a945-9b2e04a28092
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: a9022ba6-bc21-4ac9-9144-753ae44aa63c
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: a29d1840-9d1b-4452-a140-50be3b5aebcb
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 2b585f6c-2275-48f8-8d4d-facd4cf43057
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 877afe0a-1366-4160-9b14-e0c81d1792bf
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 830e166e-5dd2-44e7-8a6a-15f303a8e72e
+      :name: Smokestack Lightnin'
+      :segued: false
+    - :uuid: f001cc62-bff9-465b-a8e1-1daa2061f4ed
+      :name: Deal
+      :segued: false
+    - :uuid: 78803780-079b-4a4d-ac2d-a26285469159
+      :name: Truckin'
+      :segued: false
+    - :uuid: e5f3612d-9179-4946-83c5-3af51bc1b88c
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: b3f49af3-1351-4389-9fe5-75922ba5a0dc
+      :name: Goin' Down The Road Feeling Bad
+      :segued: false
+    - :uuid: b590eaf9-ec48-47e1-be8e-b42574dfeee0
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: 59009175-bbff-4774-a6a7-c62e74988eb9
+    :songs:
+     - :uuid: 210a9f78-1066-4c1b-b9db-21caee43d09c
+       :name: One More Saturday Night
+       :segued: false 
 1971/12/09:
   :uuid: 611cc24f-f2f5-4b5a-89ce-78db9cd56cd8
   :venue: Fox Theatre
