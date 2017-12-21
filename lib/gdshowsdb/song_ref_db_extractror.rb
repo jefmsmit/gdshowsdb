@@ -1,7 +1,7 @@
 module Gdshowsdb
   class SongRefDBExtractor
     def self.from_db
-      raw_db = SongRef.find(:all, order: :name)
+      raw_db = SongRef.order(:name)
       Gdshowsdb::SongRefDBExtractor.new(raw_db)
     end
 

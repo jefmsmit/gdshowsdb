@@ -1,7 +1,7 @@
 module Gdshowsdb
   class ShowDBExtractor
     def self.from_db(year)
-      ShowDBExtractor.new(Show.find_all_by_year(year))
+      ShowDBExtractor.new(Show.where(year: year))
     end
 
     def initialize(shows)

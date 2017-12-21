@@ -1,4 +1,4 @@
-class UpdateGdshowsdbData < ActiveRecord::Migration
+class UpdateGdshowsdbData < ActiveRecord::Migration[5.0]
   def up
     # added song_refs <% @added_song_refs.each do |song_ref_spec| %>
     SongRef.create_from(<%= song_ref_spec.inspect %>)
