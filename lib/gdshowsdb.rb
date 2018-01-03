@@ -23,14 +23,24 @@ module Gdshowsdb
 
 	def self.load(level = nil)
     ActiveRecord::Migrator.up File.dirname(__FILE__) + '/gdshowsdb/db/migrations', level		
-	end 
+  end 
+  
+  def self.yaml_file_location(file_name)
+    Gem.loaded_specs['gdshowsdb'].full_gem_path + "/data/gdshowsdb/#{file_name}"
+  end
 
   def self.load_yaml(file_name)
-    YAML.load_file(Gem.loaded_specs['gdshowsdb'].full_gem_path + "/data/gdshowsdb/#{file_name}")
+    YAML.load_file(yaml_file_location(file_name))
   end 
 
   def self.load_yaml_for_year(year)
     load_yaml("#{year}.yaml")
+  end
+
+  def self.write_yaml(file_name, data)
+    File.open(yaml_file_location(file_name), "w") do |file|
+      file.write data.to_yaml
+    end
   end
 end
 
