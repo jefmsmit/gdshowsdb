@@ -14,7 +14,7 @@ class Song < ActiveRecord::Base
 
   def self.create_song_relationships(spec)
     song_ref = SongRef.find_by_name(spec[:name])
-    raise "Unable to find a song ref named #{spec[:name]}" unless song_ref
+    raise "Unable to find a song ref named #{spec[:name]} #{spec.inspect}" unless song_ref
     song_ref.songs << Song.find_by_uuid(spec[:uuid])
     song_ref.song_occurences << SongOccurence.create_from(uuid: SecureRandom.uuid, position: spec[:position], show_set_uuid: spec[:show_set_uuid])
     song_ref.save
