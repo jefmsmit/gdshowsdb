@@ -3847,7 +3847,70 @@
   :city: Philadelphia
   :state: PA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 1cd7755b-88cb-4647-a3a2-2e4075120146
+    :songs:
+    - :uuid: 49b8835f-3944-45a2-81b3-49a970cd5e23
+      :name: Mississippi Half Step Uptown Toodeloo
+      :segued: false
+    - :uuid: '0996a2f0-ab20-41ca-953f-33d0d3f78d69'
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: 70aff143-dc4f-4e5f-9cc6-b7585d658179
+      :name: Peggy O
+      :segued: false
+    - :uuid: bf19882d-72bf-45b4-8c08-94ef0b398422
+      :name: If The Shoe Fits
+      :segued: false
+    - :uuid: cf8f236d-c688-4fb2-9ae3-db2563a5efee
+      :name: When I Paint My Masterpiece
+      :segued: false
+    - :uuid: 99cdcf7e-bf2a-488c-84bc-8854d80c7feb
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 13587648-98d4-45e5-93f2-f1a56996fd93
+      :name: Easy Answers
+      :segued: false
+    - :uuid: 8f0b9f9a-052e-4502-8a9e-1163a7a2e6f6
+      :name: Don't Ease Me In
+      :segued: false
+  - :uuid: 394d2433-55a3-4665-a7cb-88d331e3f7c6
+    :songs:
+    - :uuid: f5374352-656d-433f-a467-1d5acd9a0447
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 11bc7593-321c-4c76-8216-3a38bfbf3049
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 751cd763-ebc4-48b7-ace4-e58daf31e75f
+      :name: Way To Go Home
+      :segued: false
+    - :uuid: 99b10cfc-2beb-41d7-80c4-118712afecea
+      :name: New Speedway Boogie
+      :segued: true
+    - :uuid: 3d6aa7a8-7e63-41eb-bdcb-2b358a57916a
+      :name: Truckin'
+      :segued: true
+    - :uuid: e0113cac-8663-40af-8b43-a88c15921303
+      :name: Drums
+      :segued: true
+    - :uuid: 71a1beae-0461-48c4-bf87-90468f6a84c9
+      :name: Space
+      :segued: true
+    - :uuid: 0616c53e-1c07-4218-9ef6-912376d1a7e3
+      :name: The Other One
+      :segued: true
+    - :uuid: e9632a22-d39b-4343-a3ca-4d4f9fd231f5
+      :name: Wharf Rat
+      :segued: true
+    - :uuid: a13cf14a-054e-48bf-bdf4-2785d8c9ef8b
+      :name: Good Lovin'
+      :segued: false
+  - :uuid: b8f7eed9-9f5c-4306-8d65-691f987e4fcf
+    :songs:
+    - :uuid: 71bce27f-f196-4bf0-8e55-d154d2d1fd79
+      :name: Liberty
+      :segued: false
 1994/10/07:
   :uuid: a70876ed-0f0c-4ad1-ac6c-b08008e05aa6
   :venue: The Spectrum
