@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gdshowsdb (1.0.0)
+    gdshowsdb (1.0.1)
       friendly_id
       rails (~> 5.1)
 
@@ -140,4 +140,4 @@ DEPENDENCIES
   sqlite3
 
 BUNDLED WITH
-   1.15.4
+   1.16.0
