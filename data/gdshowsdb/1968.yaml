@@ -59,6 +59,13 @@
     - :uuid: 03f3ee40-c993-42a8-8d50-645fd8688c84
       :name: Good Morning Little Schoolgirl
       :segued: false
+1968/01/17:
+  :uuid: 92b5edae-d6d8-4014-909e-719ad0dfaa0e
+  :venue: Carousel Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
 1968/01/20:
   :uuid: 307814d5-509e-4115-93b7-1f5165304d00
   :venue: Eureka Municipal Auditorium
@@ -68,6 +75,13 @@
   :sets: []
 1968/01/22:
   :uuid: 364c1f00-b6c1-47e3-b2f9-ae2302d79f33
+  :venue: Eagles Auditorium
+  :city: Seattle
+  :state: WA
+  :country: US
+  :sets: []
+1968/01/23:
+  :uuid: 6570a1e1-3eea-43c8-a30c-31af5e3fc29b
   :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
@@ -109,7 +123,14 @@
   :country: US
   :sets: []
 1968/02/03:
-  :uuid: 53c06266-c58b-46b3-93dc-dcb38f61f1f9
+  :uuid: a2ed27b6-bf53-489d-ab0d-d9b956e34a8a
+  :venue: Crystal Ballroom
+  :city: Portland
+  :state: OR
+  :country: US
+  :sets: []
+1968/02/04:
+  :uuid: b6e8b6f2-2f59-4175-8729-118c95df9d31
   :venue: South Oregon College Gym
   :city: Ashland
   :state: OR
@@ -173,6 +194,13 @@
     - :uuid: c8c4bcb5-9c33-4928-aa78-4f29c8d6411f
       :name: In The Midnight Hour
       :segued: false
+1969/02/15:
+  :uuid: fae07860-6984-4729-a3b1-21752bd66c01
+  :venue: San Quentin State Prison
+  :city: San Quentin
+  :state: CA
+  :country: US
+  :sets: []
 1968/02/17:
   :uuid: f28ec4c8-5752-4e3b-b190-8ca5a954078d
   :venue: Selland Arena
@@ -350,6 +378,13 @@
     - :uuid: fd1912f9-5426-48b0-b35a-af2efa81d919
       :name: And We Bid You Good Night
       :segued: false
+1968/03/16:
+  :uuid: 0b2a9d1f-0e3f-46af-839e-9bdf9f1993ac
+  :venue: Carousel Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
 1968/03/17:
   :uuid: 7c4ef0fa-d065-4f33-a9d7-c9ee0fa2fc90
   :venue: Carousel Ballroom
@@ -408,6 +443,13 @@
     - :uuid: d1a65c61-2dac-4aec-9296-ab94ccc052b4
       :name: Born Cross Eyed
       :segued: false
+1968/03/29:
+  :uuid: abf95adf-ab59-4b9d-9fc8-a51b86a8ecc3
+  :venue: Carousel Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
 1968/03/30:
   :uuid: 07679958-7e25-4d7e-b792-928f7e93babe
   :venue: Carousel Ballroom
@@ -490,8 +532,22 @@
     - :uuid: 31bbc873-60b8-414c-a0bd-9b76045fd302
       :name: Morning Dew
       :segued: false
-1968/05/07:
-  :uuid: 57934069-3ab6-4445-ae6b-7c33abceec37
+1968/05/05:
+  :uuid: 446e3f4e-6886-4985-9366-20973ae0da08
+  :venue: Central Park
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1968/05/07/0:
+  :uuid: bd8fe189-2345-4d59-a283-49924a224b8c
+  :venue: Electric Circus
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1968/05/07/1:
+  :uuid: e5ae83f1-00c1-4cad-8db2-10b08875c812
   :venue: Electric Circus
   :city: New York
   :state: NY
@@ -594,6 +650,13 @@
       :segued: false
 1968/05/24:
   :uuid: 3d1c4fe6-dc27-4ee0-9f27-b83b5f217199
+  :venue: National Guard Armory
+  :city: St. Louis
+  :state: MO
+  :country: US
+  :sets: []
+1968/05/25:
+  :uuid: db7fbcd8-af81-4e62-be1d-3b5f75878ffd
   :venue: National Guard Armory
   :city: St. Louis
   :state: MO
@@ -728,13 +791,13 @@
   :state: CA
   :country: US
   :sets: []
-1968/06/24:
-  :uuid: 4ac5fda4-85f9-4c2a-b216-44f77aeb6826
-  :venue: National Guard Armory
-  :city: St. Louis
-  :state: MO
+1968/06/22:
+  :uuid: 03a5dfe3-0ceb-43cb-861d-86c7607a3b97
+  :venue: Phoenix Travelodge Theater
+  :city: Phoenix
+  :state: AZ
   :country: US
-  :sets: []
+  :set: []
 1968/07/11:
   :uuid: 0606bd8e-5b2a-4c11-8e1a-93e3125abb18
   :venue: Shrine Exhibition Hall
@@ -897,6 +960,13 @@
     - :uuid: 61bd51c5-2fc4-43c1-9ac3-0a629954bcc0
       :name: And We Bid You Good Night
       :segued: false
+1968/08/21:
+  :uuid: 910b09c6-4c64-41b3-941c-231fb98aa20f
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
 1968/08/23:
   :uuid: 37e6fc9e-e13a-4fe0-ae84-ce0b1b1c2237
   :venue: Shrine Exhibition Hall
@@ -1075,6 +1145,13 @@
     - :uuid: 1ead4df4-6d60-49a5-9e0e-803b24e0bc5a
       :name: Dark Star Jam
       :segued: false
+1968/10/30:
+  :uuid: 2d24feea-265e-457d-959b-4c6dd17e5ee3
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
 1968/10/31:
   :uuid: 2abd97a6-2166-44ee-8ff4-570bd5086a0a
   :venue: The Matrix
@@ -1138,8 +1215,8 @@
   :state: WA
   :country: US
   :sets: []
-1968/11/21:
-  :uuid: e7faf2bc-fc88-47a1-b516-d753086bdb48
+1968/11/22:
+  :uuid: 1fe2ac3d-6f71-4f5a-99b1-09cc7202432f
   :venue: Veterans Hall
   :city: Columbus
   :state: OH
@@ -1215,8 +1292,8 @@
   :state: CA
   :country: US
   :sets: []
-1968/12/19:
-  :uuid: 425ebdac-3a08-4f17-b4bc-753407cf4e91
+1968/12/20:
+  :uuid: 53c6d2ed-3cc9-46a0-8334-f75b6afb3a23
   :venue: Shrine Exhibition Hall
   :city: Los Angeles
   :state: CA
@@ -1226,6 +1303,20 @@
   :uuid: 7d40f8fe-2a97-4b4a-95b4-a0a17ded9131
   :venue: Shrine Exhibition Hall
   :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1968/12/23:
+  :uuid: f1f4dec9-e2b9-4323-b1fc-aadacac668e1
+  :venue: The Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1968/12/24:
+  :uuid: 1bb9229d-eaf3-4252-853d-a54db4b3a4bb
+  :venue: The Matrix
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
