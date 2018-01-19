@@ -20,7 +20,8 @@ class Show < ActiveRecord::Base
   end
   
   def self.remove_from(spec)
-    Show.find_by_uuid(spec[:uuid]).delete
+    show = Show.find_by_uuid(spec[:uuid])
+    show.delete if show
   end
 
   def self.parse_date(readable_date)

@@ -34,23 +34,21 @@ class Song < ActiveRecord::Base
   
   def self.remove_from(spec)
     remove_song_relationships(spec)
-    Song.find_by_uuid(spec[:uuid]).delete    
+    song = Song.find_by_uuid(spec[:uuid])
+    song.delete if song
   end
 
   def self.remove_song_relationships(spec)
     song_ref = SongRef.find_by_name(spec[:name])
-    song_ref.songs.delete(Song.find_by_uuid(spec[:uuid]))
+    return unless song_ref
+    
+    song = Song.find_by_uuid(spec[:uuid])
+    return unless song
+
+    song_ref.songs.delete(song) if song_ref.songs
     show_set = ShowSet.find_by_uuid(spec[:show_set_uuid])
-
-    if show_set.nil?
-      puts "%%%%%%%%%%%%%%%%%%%%%"
-      puts spec.inspect
-      puts spec[:show_set_uuid]
-    end
-
+    
     show = ShowSet.find_by_uuid(spec[:show_set_uuid]).show
-
-
 
     song_ref.song_occurences.where('show_uuid = ? and song_ref_uuid = ?', show.uuid, song_ref.uuid).each do | occurence|
       song_ref.song_occurences.delete(occurence)
