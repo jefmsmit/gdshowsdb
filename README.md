@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.svg?columns=all)](https://waffle.io/jefmsmit/gdshowsdb)
+[![Stories in Ready](https://badge.waffle.io/jefmsmit/gdshowsdb.svg?columns=all)](https://waffle.io/jefmsmit/gdshowsdb)
 # Gdshowsdb
 
 [ ![Codeship Status for jefmsmit/gdshowsdb](https://www.codeship.io/projects/b1f0f820-f314-0131-9281-66e36f054ecd/status)](https://www.codeship.io/projects/27798)
