@@ -412,12 +412,6 @@
   :sets:
   - :uuid: 95642e21-126b-4a0f-93f2-e3177e35b6d7
     :songs:
-    - :uuid: 2edbd389-ac17-4e1b-94c8-64b550dcc566
-      :name: Dupree's Diamond Blues
-      :segued: false
-    - :uuid: dd4a976a-33d6-4a0b-b425-c06a440b1386
-      :name: Mountains Of The Moon
-      :segued: false
     - :uuid: 2fff01dd-75d3-4fb0-8c0a-4bfc23defa40
       :name: Dark Star
       :segued: true
@@ -427,8 +421,20 @@
     - :uuid: 40848a1d-ed72-48f5-bff0-6da259213ea8
       :name: The Eleven
       :segued: true
+    - :uuid: c6a4c022-3b3e-4b5e-ba84-64ef02f3f9b9
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: e4dce25a-340c-49fd-8444-e051ae276ed7
+      :name: Alligator
+      :segued: true
     - :uuid: 60fa2a20-113b-4ad4-98cf-b9e76aa73950
       :name: Drums
+      :segued: true
+    - :uuid: e95d9da4-4cb5-4bbd-8f87-7a4866642c73
+      :name: Drummers' Chant
+      :segued: true
+    - :uuid: dbb26951-91a6-48dd-81b9-e3bdba7656c3
+      :name: Alligator
       :segued: true
     - :uuid: 1e4943d6-fa9d-410b-b34f-b87158d2d13d
       :name: Caution (Do Not Stop On Tracks)
@@ -438,11 +444,6 @@
       :segued: true
     - :uuid: 3e35dc13-90d5-4fee-93cc-473d74bbadf7
       :name: And We Bid You Good Night
-      :segued: false
-  - :uuid: 59042b2e-fdc2-44e6-83ab-afdde183c02b
-    :songs:
-    - :uuid: f8ed3b25-6dc0-4a5d-86f5-e0599aca2582
-      :name: Cosmic Charlie
       :segued: false
 1969/02/14:
   :uuid: 45768835-bb67-4a6b-b500-1a87f9d1c07e
