@@ -1,6 +1,6 @@
 name: CI
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:
@@ -18,9 +18,9 @@ jobs:
         with:
           ruby-version: 2.6.x
       - name: Bundle
-        run:
-          gem uninstall -aIx bundler &&
-          gem install bundler &&
+        run: |
+          gem uninstall -aIx bundler
+          gem install bundler
           bundle install
       - name: Test
         run: 
