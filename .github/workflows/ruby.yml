@@ -20,7 +20,7 @@ jobs:
       - name: Bundle
         run: 
           gem install bundler
-          bundle install --jobs 4 --retry 3
+          bundle install
       - name: Test
         run: 
           bundle exec rake spec
