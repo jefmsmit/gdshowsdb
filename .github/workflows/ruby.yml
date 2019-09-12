@@ -18,8 +18,9 @@ jobs:
         with:
           ruby-version: 2.6.x
       - name: Bundle
-        run: 
-          gem install bundler
+        run:
+          gem uninstall -aIx bundler
+          gem install bundler -v 1.17.3
           bundle install
       - name: Test
         run: 
