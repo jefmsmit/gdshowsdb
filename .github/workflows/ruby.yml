@@ -1,4 +1,4 @@
-name: Ruby
+name: CI
 
 on: [push]
 
@@ -8,14 +8,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout
     - uses: actions/checkout@v1
+    - name: Setup System
+      run:
+        sudo apt-get install libsqlite3-dev
     - name: Set up Ruby 2.6
       uses: actions/setup-ruby@v1
       with:
         ruby-version: 2.6.x
-    - name: Build and test with Rake
+    - name: Bundle
       run: 
-        sudo apt-get install libsqlite3-dev|
-        gem install bundler
+        gem install bundler -v 1.17.3
         bundle install --jobs 4 --retry 3
+    - name: Test
+      run: 
         bundle exec rake spec
