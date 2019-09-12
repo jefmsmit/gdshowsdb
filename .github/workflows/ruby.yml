@@ -19,8 +19,8 @@ jobs:
           ruby-version: 2.6.x
       - name: Bundle
         run:
-          gem uninstall -aIx bundler
-          gem install bundler
+          gem uninstall -aIx bundler &&
+          gem install bundler &&
           bundle install
       - name: Test
         run: 
