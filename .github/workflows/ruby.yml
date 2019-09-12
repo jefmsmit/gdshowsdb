@@ -20,7 +20,7 @@ jobs:
       - name: Bundle
         run:
           gem uninstall -aIx bundler
-          gem install bundler -v 1.17.3
+          gem install bundler
           bundle install
       - name: Test
         run: 
