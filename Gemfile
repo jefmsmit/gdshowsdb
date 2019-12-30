@@ -6,6 +6,5 @@ gemspec
 group :development do
   gem "rake"
   gem "rspec"
-  gem "rspec-its"
   gem "sqlite3"
 end

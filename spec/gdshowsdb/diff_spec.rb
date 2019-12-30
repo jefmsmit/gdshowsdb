@@ -8,26 +8,26 @@ describe 'Diff' do
 
   before(:each) do
     @diff = Gdshowsdb::Diff.new(from_yaml, from_db)
-  end 
+  end
 
-  context 'set added to the yaml' do    
-    let(:added_set) { {uuid: generate_uuid, show_uuid: generate_uuid, position: 2, encore: false} } 
+  context 'set added to the yaml' do
+    let(:added_set) { {uuid: generate_uuid, show_uuid: generate_uuid, position: 2, encore: false} }
     let(:from_yaml) {[common_set, added_set]}
     let(:from_db) { [common_set] }
     subject { @diff.added }
 
-    it { should == [added_set] }    
+    it { is_expected.to eq([added_set]) }
   end
 
   context 'set removed from the yaml' do
-    let(:removed_set) { {uuid: generate_uuid, show_uuid: generate_uuid, position: 2, encore: false} }     
+    let(:removed_set) { {uuid: generate_uuid, show_uuid: generate_uuid, position: 2, encore: false} }
     let(:from_yaml) { [common_set] }
     let(:from_db) {[common_set, removed_set]}
-    subject { @diff.removed } 
+    subject { @diff.removed }
 
-    it { should == [removed_set] }
+    it { is_expected.to eq([removed_set]) }
   end
-  
+
   context 'set updated in the yaml' do
     let(:set_uuid) { generate_uuid }
     let(:added_set) { {uuid: generate_uuid, show_uuid: generate_uuid, position: 2, encore: false} } 
@@ -37,14 +37,14 @@ describe 'Diff' do
     let(:from_db) { [common_set, original_set] }
     subject { @diff.updated }
 
-    it { should == [updated_set] }
+    it { is_expected.to eq([updated_set]) }
 
     it 'should not include updated set in added' do
-      (@diff.added.select { |item| item[:uuid] == set_uuid }).size.should == 0
+      expect(@diff.added.select { |item| item[:uuid] == set_uuid }.size).to eq(0)
     end
 
     it 'should not include updated set in removed' do
-      (@diff.removed.select { |item| item[:uuid] == set_uuid }).size.should == 0
+      expect(@diff.removed.select { |item| item[:uuid] == set_uuid }.size).to eq(0)
     end
   end
 
@@ -54,16 +54,15 @@ describe 'Diff' do
     let(:from_db) { [additional_set, common_set] }
 
     it 'should not find any added' do
-      @diff.updated.empty?.should == true
+      expect(@diff.updated).to be_empty
     end
 
     it 'should not find any removed' do
-      @diff.removed.empty?.should == true
+      expect(@diff.removed).to be_empty
     end
 
     it 'should not find any updated' do
-      @diff.updated.empty?.should == true
+      expect(@diff.updated).to be_empty
     end
   end
-  
 end

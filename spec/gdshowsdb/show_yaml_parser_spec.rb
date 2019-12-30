@@ -34,9 +34,12 @@ describe 'ShowYAMLParser' do
 
   subject { Gdshowsdb::ShowYAMLParser.new(shows).parse }
 
-  its(:size) { should == 3 }
-  it { should include ( {uuid: first_uuid, venue: 'The Venue', city: 'Boulder', state: 'CO', country: 'US', year: 1981, month: 2, day: 25, position: 0 } ) }
-  it { should include ( {uuid: second_uuid, venue: 'The Venue', city: 'Boulder', state: 'CO', country: 'US', year: 1981, month: 2, day: 25, position: 1 } ) }
-  it { should include ( {uuid: third_uuid, venue: 'The Other Venue', city: 'Denver', state: 'CO', country: 'US', year: 1981, month: 2, day: 26} ) }
-
+  it { expect(subject.size).to be 3 }
+  it do
+    is_expected.to include(
+      {uuid: first_uuid, venue: 'The Venue', city: 'Boulder', state: 'CO', country: 'US', year: 1981, month: 2, day: 25, position: 0 },
+      {uuid: second_uuid, venue: 'The Venue', city: 'Boulder', state: 'CO', country: 'US', year: 1981, month: 2, day: 25, position: 1 },
+      {uuid: third_uuid, venue: 'The Other Venue', city: 'Denver', state: 'CO', country: 'US', year: 1981, month: 2, day: 26}
+    )
+  end
 end

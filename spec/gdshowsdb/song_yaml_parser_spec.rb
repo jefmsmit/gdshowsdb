@@ -80,14 +80,15 @@ describe 'SongYAMLParser' do
 
   subject { Gdshowsdb::SongYAMLParser.new(shows).parse }
 
-  its(:size) { should == 6 }
-
-  it { should include ( {uuid: song_one_uuid, name: 'Song Name 1', show_set_uuid: show_one_set_two_uuid, position: 0, segued: true} ) }
-  it { should include ( {uuid: song_two_uuid, name: 'Song Name 2', show_set_uuid: show_one_set_two_uuid, position: 1, segued: true} ) }
-  it { should include ( {uuid: song_three_uuid, name: 'Song Name 3', show_set_uuid: show_one_set_two_uuid, position: 2, segued: false} ) }
-  it { should include ( {uuid: song_a_uuid, name: 'Song Name A', show_set_uuid: show_two_set_one_uuid, position: 0, segued: true} ) }
-  it { should include ( {uuid: song_b_uuid, name: 'Song Name B', show_set_uuid: show_two_set_one_uuid, position: 1, segued: true} ) }
-  it { should include ( {uuid: song_c_uuid, name: 'Song Name C', show_set_uuid: show_two_set_one_uuid, position: 2, segued: false} ) }
-
-
+  it { expect(subject.size).to be 6 }
+  it do
+    is_expected.to include(
+      {uuid: song_one_uuid, name: 'Song Name 1', show_set_uuid: show_one_set_two_uuid, position: 0, segued: true},
+      {uuid: song_two_uuid, name: 'Song Name 2', show_set_uuid: show_one_set_two_uuid, position: 1, segued: true},
+      {uuid: song_three_uuid, name: 'Song Name 3', show_set_uuid: show_one_set_two_uuid, position: 2, segued: false},
+      {uuid: song_a_uuid, name: 'Song Name A', show_set_uuid: show_two_set_one_uuid, position: 0, segued: true},
+      {uuid: song_b_uuid, name: 'Song Name B', show_set_uuid: show_two_set_one_uuid, position: 1, segued: true},
+      {uuid: song_c_uuid, name: 'Song Name C', show_set_uuid: show_two_set_one_uuid, position: 2, segued: false}
+    )
+  end
 end

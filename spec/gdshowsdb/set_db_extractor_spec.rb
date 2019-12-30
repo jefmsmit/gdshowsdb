@@ -3,7 +3,6 @@ require 'spec_helper'
 describe 'SetDBExtractor' do
   let(:show_uuid) { generate_uuid }
   let(:show) { Show.create(uuid: show_uuid) }
-  
   let(:first_show_set_uuid) { generate_uuid }
   let(:sets) do
     [
@@ -22,16 +21,14 @@ describe 'SetDBExtractor' do
         s.position = 2
         s.encore = true
       end
-    ]    
+    ]
   end
 
   subject(:extracted) { Gdshowsdb::SetDBExtractor.new(sets).extract }
-  
-  its(:size) { should equal 3 }
-  
+  it { expect(subject.size).to be 3 }
+
   context 'individual item' do
     subject { extracted[0] }
-
-    it { should == ({ uuid: first_show_set_uuid, show_uuid: show_uuid, position: 0, encore: false }) }    
+    it { is_expected.to eq({ uuid: first_show_set_uuid, show_uuid: show_uuid, position: 0, encore: false }) }
   end
 end
