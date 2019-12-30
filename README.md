@@ -1,4 +1,4 @@
-![](https://github.com/jefmsmit/gdshowsdb/workflows/CI/badge.svg)
+![https://github.com/jefmsmit/gdshowsdb/actions?query=workflow%3ACI](https://github.com/jefmsmit/gdshowsdb/workflows/CI/badge.svg)
 
 # Gdshowsdb
 All Grateful Dead show information in a relational database.
