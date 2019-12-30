@@ -17,9 +17,6 @@ describe 'ShowDBExtractor' do
 
   subject { Gdshowsdb::ShowDBExtractor.new(shows).extract }
 
-  its(:size) { should == 3 }
-  it { should include first }
-  it { should include second }
-  it { should include third }
-  
+  it { expect(subject.size).to be 3 }
+  it { is_expected.to include(first, second, third) }
 end

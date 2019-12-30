@@ -3,7 +3,6 @@ require 'spec_helper'
 describe 'SongDBExtractor' do
   let(:song_one) { SongRef.create(uuid: generate_uuid, name: "Song 1") }
   let(:song_two) { SongRef.create(uuid: generate_uuid, name: "Song 2") }
-  
   let(:show) { Show.create(uuid: generate_uuid) }
   let(:set_one_uuid) { generate_uuid }
   let(:set_two_uuid) { generate_uuid } 
@@ -12,14 +11,14 @@ describe 'SongDBExtractor' do
       s.show = show
       s.position = 0
       s.encore = false
-    end         
+    end
   end
   let(:set_two) do
     ShowSet.create(uuid: set_two_uuid) do |s|
       s.show = show
       s.position = 1
       s.encore = false
-    end         
+    end
   end
 
   let(:song_one_uuid) { generate_uuid }
@@ -39,9 +38,11 @@ describe 'SongDBExtractor' do
 
   subject { Gdshowsdb::SongDBExtractor.new(songs).extract }
 
-  its(:size) { should == 2 }
-
-  it { should include ( {uuid: song_one_uuid, name: 'Song 1', show_set_uuid: set_one_uuid, position: 0, segued: true} ) }
-  it { should include ( {uuid: song_two_uuid, name: 'Song 2', show_set_uuid: set_two_uuid, position: 1, segued: false} ) }
-
+  it { expect(subject.size).to be 2 }
+  it do
+    is_expected.to include(
+      {uuid: song_one_uuid, name: 'Song 1', show_set_uuid: set_one_uuid, position: 0, segued: true},
+      {uuid: song_two_uuid, name: 'Song 2', show_set_uuid: set_two_uuid, position: 1, segued: false}
+    )
+  end
 end
