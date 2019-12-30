@@ -1,3 +1,5 @@
+![](https://github.com/jefmsmit/gdshowsdb/workflows/CI/badge.svg)
+
 # Gdshowsdb
 All Grateful Dead show information in a relational database.
 
