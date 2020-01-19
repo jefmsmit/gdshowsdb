@@ -1309,7 +1309,63 @@
   :city: Atlanta
   :state: GA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: bb6c3828-0f89-47d0-a3f4-c110980e2b75
+    :songs:
+    - :uuid: c0246dee-5fae-4ad6-814d-a718d47371e8
+      :name: Bertha
+      :segued: false
+    - :uuid: 73e14dd3-27be-4010-9094-b88d1ac11d60
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 43e4cb07-6698-49ea-bf32-2d5e2e7c847c
+      :name: Sugaree
+      :segued: false
+    - :uuid: ebb48d57-205e-4e6d-905b-930f1d3badcf
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 4abb209c-d53f-4cff-914b-3b494bbd42b7
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 5727375f-3d50-479b-8dce-1c391fec3ef3
+      :name: Jack Straw
+      :segued: false
+    - :uuid: a44ab626-62a1-470d-89dd-e378e7ab2e41
+      :name: Casey Jones
+      :segued: false
+    - :uuid: a9766e2a-1949-4bc4-8317-2deb0c7625be
+      :name: Me And Bobby McGee
+      :segued: false
+    - :uuid: ed9ceab9-aa3a-4c9c-a869-adb142a7dcc4
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 86500ded-8954-41bf-a636-188b6ce41a3b
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: b6acc05d-4eea-4fb7-bfdd-6c1a3bd0762f
+      :name: One More Saturday Night
+      :segued: false
+    - :uuid: 8226ed8c-138e-4af5-b1e3-7c83c00f88cb
+      :name: Truckin'
+      :segued: false
+    - :uuid: 1ed53b41-4045-4895-9e96-1e3fce71dc6e
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: a4b6c41a-8cb6-4c69-9835-f0e3821c3d3a
+      :name: Sunshine Daydream
+      :segued: false
+    - :uuid: 83a4262e-0e76-4b59-866e-a77de349929c
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: f3f42473-ae97-407d-864d-0eade6b1711c
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 83a4262e-0e76-4b59-866e-a77de349929c
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 2503ca6d-f21d-47e3-99f0-dd9f318baade
+      :name: Johnny B. Goode
+      :segued: false
 1971/11/12:
   :uuid: 647e4a42-40a8-40b9-8791-94ed33090a17
   :venue: San Antonio Civic Auditorium
