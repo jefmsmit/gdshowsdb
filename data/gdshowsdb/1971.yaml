@@ -1316,7 +1316,71 @@
   :city: San Antonio
   :state: TX
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: b0f58b52-1712-4f25-8203-8c070c2cf4a9
+    :songs:
+    - :uuid: 8226ed8c-138e-4af5-b1e3-7c83c00f88cb
+      :name: Truckin'
+      :segued: false
+    - :uuid: d99f15ba-7d69-41c5-9ec0-5e1fe973ab4a
+      :name: Loser
+      :segued: false
+    - :uuid: 8144cd03-560a-4ef1-879e-070dadb5ced7
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 43e4cb07-6698-49ea-bf32-2d5e2e7c847c
+      :name: Sugaree
+      :segued: false
+    - :uuid: 5727375f-3d50-479b-8dce-1c391fec3ef3
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 4abb209c-d53f-4cff-914b-3b494bbd42b7
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: c77efe2c-7f2f-4168-acb6-18d0f40913cb
+      :name: El Paso
+      :segued: false
+    - :uuid: 4fbd2583-d872-4c63-baf2-841c659a5b3a
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 86500ded-8954-41bf-a636-188b6ce41a3b
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: dfb863a7-bbd4-4d4b-bd42-0c484bdd8134
+      :name: Black Peter
+      :segued: false
+    - :uuid: b6acc05d-4eea-4fb7-bfdd-6c1a3bd0762f
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: 60755680-431a-4091-a1cc-d263677a02aa
+    :songs:
+    - :uuid: 04f97e7f-646f-432a-b2f6-98a04f5ae7f9
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 73e14dd3-27be-4010-9094-b88d1ac11d60
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 193c9c4c-8c9a-467c-b2cc-52a4021965ac
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: b2f0f51c-579a-45aa-bb19-3b03b8c779ab
+      :name: Drums
+      :segued: true
+    - :uuid: fdd90e0d-259b-419c-9825-58211cc87940
+      :name: The Other One
+      :segued: true
+    - :uuid: ed9ceab9-aa3a-4c9c-a869-adb142a7dcc4
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 1ed53b41-4045-4895-9e96-1e3fce71dc6e
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: a44ab626-62a1-470d-89dd-e378e7ab2e41
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 2503ca6d-f21d-47e3-99f0-dd9f318baade
+      :name: Johnny B. Goode
+      :segued: false
 1971/11/14:
   :uuid: d0b42a2f-92d9-40f5-ab16-f6b554fef8da
   :venue: Texas Christian University
