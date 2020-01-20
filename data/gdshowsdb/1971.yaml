@@ -1330,7 +1330,83 @@
   :city: Austin
   :state: TX
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: da6b040c-4916-4b4e-abb8-f3d56aa16169
+    :songs:
+    - :uuid: 8226ed8c-138e-4af5-b1e3-7c83c00f88cb
+      :name: Truckin'
+      :segued: false
+    - :uuid: c0246dee-5fae-4ad6-814d-a718d47371e8
+      :name: Bertha
+      :segued: false
+    - :uuid: ebb48d57-205e-4e6d-905b-930f1d3badcf
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: b2201080-d9e7-444e-ba4e-95df64c14d57
+      :name: Deal
+      :segued: false
+    - :uuid: 5727375f-3d50-479b-8dce-1c391fec3ef3
+      :name: Jack Straw
+      :segued: false
+    - :uuid: d99f15ba-7d69-41c5-9ec0-5e1fe973ab4a
+      :name: Loser
+      :segued: false
+    - :uuid: 8144cd03-560a-4ef1-879e-070dadb5ced7
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 0ead60da-6abf-4589-98dd-e56faca0c767
+      :name: Dark Star
+      :segued: true
+    - :uuid: c77efe2c-7f2f-4168-acb6-18d0f40913cb
+      :name: El Paso
+      :segued: true
+    - :uuid: 0ead60da-6abf-4589-98dd-e56faca0c767
+      :name: Dark Star
+      :segued: true
+    - :uuid: a44ab626-62a1-470d-89dd-e378e7ab2e41
+      :name: Casey Jones
+      :segued: false
+    - :uuid: b6acc05d-4eea-4fb7-bfdd-6c1a3bd0762f
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: ffa76ec4-bb5c-4906-9dda-1dca88b674b5
+    :songs:
+    - :uuid: 73e14dd3-27be-4010-9094-b88d1ac11d60
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 04f97e7f-646f-432a-b2f6-98a04f5ae7f9
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 86500ded-8954-41bf-a636-188b6ce41a3b
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 50fe618e-804e-4fd1-a9d8-284b7e4356ba
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: a9766e2a-1949-4bc4-8317-2deb0c7625be
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: c908bcba-b39f-4e16-98e5-1b2f9f920ca0
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 1ed53b41-4045-4895-9e96-1e3fce71dc6e
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: b057504d-9e6e-4c0d-9104-2666cf9f9acd
+      :name: You Win Again
+      :segued: false
+    - :uuid: 83a4262e-0e76-4b59-866e-a77de349929c
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: f3f42473-ae97-407d-864d-0eade6b1711c
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 83a4262e-0e76-4b59-866e-a77de349929c
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: 2503ca6d-f21d-47e3-99f0-dd9f318baade
+      :name: Johnny B. Goode
+      :segued: false 
 1971/11/17:
   :uuid: 26499ce8-96b2-41c2-bd43-85a1ba75c64b
   :venue: Albuquerque Civic Auditorium
