@@ -1369,6 +1369,9 @@
     - :uuid: fdd90e0d-259b-419c-9825-58211cc87940
       :name: The Other One
       :segued: true
+    - :uuid: 193c9c4c-8c9a-467c-b2cc-52a4021965ac
+      :name: Cryptical Envelopment
+      :segued: false
     - :uuid: ed9ceab9-aa3a-4c9c-a869-adb142a7dcc4
       :name: Big Railroad Blues
       :segued: false
@@ -1378,6 +1381,8 @@
     - :uuid: a44ab626-62a1-470d-89dd-e378e7ab2e41
       :name: Casey Jones
       :segued: false
+  - :uuid: f377581d-fa3c-457d-b9f2-fa73cf6e6030
+    :songs:
     - :uuid: 2503ca6d-f21d-47e3-99f0-dd9f318baade
       :name: Johnny B. Goode
       :segued: false
