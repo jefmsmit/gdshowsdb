@@ -1631,7 +1631,85 @@
   :city: Fort Worth
   :state: TX
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: c6199dcb-8e31-48cb-86ca-63952b96ace4
+    :songs:
+    - :uuid: c0246dee-5fae-4ad6-814d-a718d47371e8
+      :name: Bertha
+      :segued: false
+    - :uuid: 8144cd03-560a-4ef1-879e-070dadb5ced7
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 1ecf0c86-3d03-4740-b708-a12bbe0a0dba
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 6c88d23b-1d1e-402d-8cb7-3e9eb12b087a
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: c77efe2c-7f2f-4168-acb6-18d0f40913cb
+      :name: El Paso
+      :segued: true
+    - :uuid: 43e4cb07-6698-49ea-bf32-2d5e2e7c847c
+      :name: Sugaree
+      :segued: false
+    - :uuid: 5727375f-3d50-479b-8dce-1c391fec3ef3
+      :name: Jack Straw
+      :segued: false
+    - :uuid: ed9ceab9-aa3a-4c9c-a869-adb142a7dcc4
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: a9766e2a-1949-4bc4-8317-2deb0c7625be
+      :name: Me And Bobby McGee
+      :segued: false
+    - :uuid: d99f15ba-7d69-41c5-9ec0-5e1fe973ab4a
+      :name: Loser
+      :segued: false
+    - :uuid: ebb48d57-205e-4e6d-905b-930f1d3badcf
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 4abb209c-d53f-4cff-914b-3b494bbd42b7
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: b057504d-9e6e-4c0d-9104-2666cf9f9acd
+      :name: You Win Again
+      :segued: false
+    - :uuid: 86500ded-8954-41bf-a636-188b6ce41a3b
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: a44ab626-62a1-470d-89dd-e378e7ab2e41
+      :name: Casey Jones
+      :segued: false
+    - :uuid: b6acc05d-4eea-4fb7-bfdd-6c1a3bd0762f
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: a5b5adad-6356-4f88-be60-ac0458c0afc6
+    :songs:
+    - :uuid: 8226ed8c-138e-4af5-b1e3-7c83c00f88cb
+      :name: Truckin'
+      :segued: true
+    - :uuid: b2f0f51c-579a-45aa-bb19-3b03b8c779ab
+      :name: Drums
+      :segued: true
+    - :uuid: fdd90e0d-259b-419c-9825-58211cc87940
+      :name: The Other One
+      :segued: true
+    - :uuid: 73e14dd3-27be-4010-9094-b88d1ac11d60
+      :name: Me And My Uncle
+      :segued: true
+    - :uuid: fdd90e0d-259b-419c-9825-58211cc87940
+      :name: The Other One
+      :segued: true
+    - :uuid: 1bc35224-f354-4081-8355-3fc24de151d7
+      :name: Wharf Rat
+      :segued: true
+    - :uuid: 1ed53b41-4045-4895-9e96-1e3fce71dc6e
+      :name: Sugar Magnolia
+      :segued: false
+  - :uuid: dad1e3b4-3fc2-4057-831c-30ba6df24a7e
+    :songs:
+    - :uuid: 2503ca6d-f21d-47e3-99f0-dd9f318baade
+      :name: Johnny B. Goode
+      :segued: false
 1971/11/15:
   :uuid: e9315897-c876-4246-ab71-c34888a85644
   :venue: Austin Municipal Auditorium
