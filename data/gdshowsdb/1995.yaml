@@ -164,6 +164,8 @@
     - :uuid: 2d32fcae-4f57-4a7e-bd25-73ecab6b7742
       :name: The Music Never Stopped
       :segued: false
+  - :uuid: ed369ce6-91a4-45e8-9dc0-8e5a0dcb47ac
+    :songs:
     - :uuid: 5540fdc5-ef62-4ce5-9141-c47533f38a7a
       :name: Foolish Heart
       :segued: false
@@ -191,6 +193,8 @@
     - :uuid: ccf8d7f8-56aa-4560-b5df-d837dd6902d0
       :name: Sugar Magnolia
       :segued: false
+  - :uuid: 7370d27a-cb44-475c-8e18-da8d29e53014
+    :songs:
     - :uuid: a8c0de59-134b-4e48-a706-704e13dcb800
       :name: Liberty
       :segued: false
