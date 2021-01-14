@@ -1214,7 +1214,82 @@
   :city: Cincinnati
   :state: OH
   :country: US
-  :sets: []
+  :sets: 
+  - :uuid: 9882db80-a40e-42fb-a5d5-feaa3fe65702
+    :songs:
+    - :uuid: 4f4864ee-9503-4325-9e33-f0ee90c7b488
+      :name: Bertha
+      :segued: false
+    - :uuid: fd442018-8f38-40d5-aa27-214c334e23ec
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 643e630b-15e1-4b70-93bd-f6f01239f16a
+      :name: Sugaree
+      :segued: false
+    - :uuid: 67e56ba4-2fad-4108-80a4-4ba6a5bf2c7c
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: a5eec77c-5d19-4270-9243-2676336637b4
+      :name: Loser
+      :segued: false
+    - :uuid: efbc5770-817e-4ddd-8832-31ac611c46e5
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: cb8b252b-2950-4ff8-9383-a30d089bedf9
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: e94d1534-8f1c-4681-a346-5f05adbf1e7c
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 6c1a54e5-a385-47ab-88c0-48e53c992828
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 0ee5ec5f-0ba7-48e1-a87e-67bdb59620f3
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 456ec730-a992-41f5-9bbd-d95aeda899b5
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: b328be51-b677-41a0-8ca0-9930e26b6f69
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: 861a4318-9661-4cb3-bbef-0f79cad72069
+    :songs:
+    - :uuid: 966a0dc9-90fc-48dd-8197-308f1a1b596e
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 5006d7fb-7d82-495e-bed2-0aa2ddca3d62
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 4a761bed-391e-4f95-bfd5-063aab5e0527
+      :name: Comes A Time
+      :segued: false
+    - :uuid: e32c85b3-e502-4e9c-bd87-e45d9367221b
+      :name: El Paso
+      :segued: false
+    - :uuid: 8d9def30-219d-4f0a-8b22-f16c711d9a64
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: b137dd10-43ef-4428-b6f5-7f2cabd4d5ac
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 7be27a26-21e9-40ea-bd46-3c1c4ead611d
+      :name: Truckin'
+      :segued: false
+    - :uuid: 9d62b2c7-9251-4063-a76c-6a82bd3ee775
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 26b7c02e-b34c-4758-9821-ec6bc9e4d2db
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: e795c275-6b1d-4b98-939a-bfd86c5105e2
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: e3607bef-377b-414a-9fd8-80f0d0e62a01
+    :songs:
+    - :uuid: 11da09cd-0163-4af4-8642-fad6600921fe
+      :name: Johnny B. Goode
+      :segued: false
 1971/10/31:
   :uuid: 393c366a-f3a7-4c3e-9da6-b8f297e574e9
   :venue: Ohio Theatre
