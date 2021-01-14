@@ -1801,7 +1801,88 @@
   :city: Albuquerque
   :state: NM
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2c39d009-c3eb-421b-88b3-b00881b129b6
+    :songs:
+    - :uuid: 3630045c-5a16-49b6-9fc5-70b4ba3159cf
+      :name: Truckin'
+      :segued: false
+    - :uuid: 9e1beff8-9cdd-491f-a9d8-5ad9b5051c89
+      :name: Sugaree
+      :segued: false
+    - :uuid: 3d6f7059-13ad-4306-94b5-80415abccc57
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: f186040b-fe53-47d3-83fe-130c1b5ecdd0
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 6c4582ec-8c51-481b-b56c-4251b77b066e
+      :name: El Paso
+      :segued: false
+    - :uuid: ff74eb81-44f4-4c99-9f30-7b59f5d4bb2e
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: ab616a9e-d86b-4677-b43f-5454c5b0ab66
+      :name: Jack Straw
+      :segued: false
+    - :uuid: bb5813b9-15bf-4419-b0d1-d9a0f0387851
+      :name: Deal
+      :segued: false
+    - :uuid: b83f9d5c-7117-47dd-9e72-7cadfa83f64f
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 605f2d15-416d-4eaa-b238-83d0171aaf25
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 63bd9a79-3d9d-4b9c-8678-e3354e8cdab1
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 4729fc06-95db-4447-86bd-9d94cd1776a3
+      :name: You Win Again
+      :segued: false
+    - :uuid: 3698ab19-c7ee-4903-8d5a-d2e717afe596
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: f6e89346-31ce-4f17-aa8d-87aa654fadb8
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 5c4aa401-b3fe-4312-97a3-7a9b77c430f9
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: 52d8188a-87a9-4c52-ac07-46dd5f349bdc
+    :songs:
+    - :uuid: b3886997-b7d6-4213-9fea-279878be4dc7
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 204421eb-8579-4868-8396-7c843bbb98f4
+      :name: Drums
+      :segued: true
+    - :uuid: 15ebe809-b8b1-409b-8a0e-48a680a68141
+      :name: The Other One
+      :segued: true
+    - :uuid: f067498e-da15-4add-9493-5f0e9f9c0650
+      :name: Me And My Uncle
+      :segued: true
+    - :uuid: 5c45a4d6-66cf-4017-a223-5f9b85291419
+      :name: The Other One
+      :segued: true
+    - :uuid: dabcb765-acea-4506-9605-929a1b21e73e
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 37b3255b-e8be-432d-b256-3ab7b5924836
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: e63340b6-712e-4262-940b-7842188f73d5
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 7f1ac884-6906-462a-b5d4-3dfc0f8231eb
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: 66a000dc-8815-463d-b519-cf3f3675b940
+    :songs:
+    - :uuid: b61aa400-af26-4090-9486-5722c8a354e9
+      :name: Ramble On Rose
+      :segued: false
 1971/11/20:
   :uuid: 87dbfbe4-fecc-4464-88ea-3687e62b3e2b
   :venue: Pauley Pavilion
