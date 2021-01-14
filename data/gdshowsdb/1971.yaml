@@ -2242,7 +2242,85 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets: 
+  - :uuid: bcd48110-b9ee-4906-a53e-57cfffd003b0
+    :songs:
+    - :uuid: f8df0dd5-aca9-4bb0-8180-16f4adb3c60d
+      :name: Truckin' 
+      :segued: false
+    - :uuid: a3cc748a-de3c-42c5-acc2-b4aebcc46594
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 48067acf-932e-40a2-9b95-d69ea611188a
+      :name: Jack Straw
+      :segued: false
+    - :uuid: dfd3d4fe-fd0b-4e00-b05f-8feae70cb7f1
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 1fe45676-d4d8-4e6e-9cfe-389ab7debfe3
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 5d57aacd-3b1a-47e2-a5ac-b8979ccda100
+      :name: Run Rudolph Run
+      :segued: false
+    - :uuid: 93bc0e37-eabb-4e72-8bbb-79a162686f97
+      :name: El Paso
+      :segued: false
+    - :uuid: 1226f00f-0886-48e3-85c1-39366b951a4b
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 5890f14f-8b1e-4308-b3b1-1060cce11164
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 4da1e155-6304-4bda-ac02-bb6e401e2237
+      :name: Black Peter
+      :segued: false
+    - :uuid: 72a9a554-88d6-449d-8245-a644675e7005
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: c33d3159-ec14-4f04-8835-ea1350b91e26
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 20a6a83c-d61f-4f21-b317-fdd6f2f00f2f
+    :songs:
+    - :uuid: 6d4e10c7-95bb-4c46-89ef-4f96d9a6066e
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 63dc9948-bd95-49ed-8ef5-36152a866d44
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 7f7170ed-a0bc-4a39-80c1-017c5357c55c
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: ce559fda-c121-4338-a5e4-7f84fd6726b3
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: c31df85f-9b7d-415e-a9fb-a21afae84d35
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 1d4f0237-a1a6-42ee-937c-1c7bf2682267
+      :name: Drums
+      :segued: true
+    - :uuid: 69f63998-b612-4967-b83b-bf9a1c8bf0a2
+      :name: The Other One
+      :segued: true
+    - :uuid: 0a86d279-fcf3-4d39-81bd-dc422cfde075
+      :name: Me And Bobby Mcgee
+      :segued: true
+    - :uuid: e0735af6-6c6b-4fa5-b374-806de3c7ba30
+      :name: The Other One
+      :segued: true
+    - :uuid: 84a9f5be-c09b-4c84-ba6d-fefcd85f8884
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 6d638a7c-6dcf-4765-a906-199e1e46789f
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: a6a9e014-9f03-4775-963d-037c29526686 
+    :songs:
+    - :uuid: 5bc752af-a8d3-4ea2-95df-c22ecdc3df3d
+      :name: Uncle John's Band
+      :segued: false
 1971/12/07:
   :uuid: 82a521be-8c01-4af4-9ba5-69f8477151c2
   :venue: Felt Forum
