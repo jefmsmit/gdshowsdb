@@ -1062,7 +1062,57 @@
   :city: Chicago
   :state: IL
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 775dc5ca-620c-4fe8-8dff-138c653a8672
+    :songs:
+    - :uuid: 9cf9009a-bc91-41bb-a8b2-d9b5df53c35e
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: c7c2a94a-4748-403e-94f3-de52c4273af8
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: f2b7cf9d-a3cd-45b4-9c1c-f868543c0a7d
+      :name: Loser
+      :segued: false
+    - :uuid: 63471a12-9432-4783-8f34-3bd2494adbb5
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 418e0b24-62cd-4c0b-953a-2c6dc029d982
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: b4ade480-dadf-4953-b966-601129250b98
+      :name: Empty Pages
+      :segued: false
+    - :uuid: 9982f79c-b050-48a2-9a22-484a9938ebad
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 045f5985-f6b4-451e-b047-b86f3055142e
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 49888ce8-2651-466e-ab23-2c03b09cf883
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: 4a8fdb9f-fd34-4753-b641-33da1e6ab849
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: d3a9e2aa-8ddd-4170-97b6-befb83635c90
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 90206491-ba8e-433a-85e9-61497ee48751
+      :name: Not Fade Away
+      :segued: false
+    - :uuid: d02833b9-6548-4f7c-b535-33b7155d88f9
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 0bd95a77-4ccc-485e-9391-61139218c7fe
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: b842727d-2fce-4123-8043-bad3a7566bb2
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: a4f13076-cd42-4499-aca4-47b7ef32ddf0
+      :name: Good Lovin'
+      :segued: false
 1971/08/26:
   :uuid: 7ccce888-5f58-4aaf-963d-819f5897d38d
   :venue: Gaelic Park
