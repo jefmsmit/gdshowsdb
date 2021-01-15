@@ -1097,7 +1097,80 @@
   :city: Detroit
   :state: MI
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 4cc9b27c-dc87-46d3-a93f-8116e7d22f15
+    :songs:
+    - :uuid: 5e3ce553-8d8e-4f18-8932-34f6fbeee860
+      :name: Bertha
+      :segued: false
+    - :uuid: 52e66036-ec33-4689-b517-92e9e35dc543
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: bf4af022-c4a2-4404-b9de-f42db1bfb49d
+      :name: Loser
+      :segued: false
+    - :uuid: 6b2fa955-89e0-4c9a-b6c6-f2ce5ef0fcea
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: ed44d057-ce1f-4751-b508-38b2f29ecf5e
+      :name: Sugaree
+      :segued: false
+    - :uuid: e1de0e62-eefc-4866-a477-79b8afca127c
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 6e7417ea-6978-487a-b5b5-33a2378d0ef5
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: bd13c31d-60b8-41bb-904c-b6870bfe84b9
+      :name: El Paso
+      :segued: false
+    - :uuid: d014b11d-de8e-40ab-b979-391c54bb7aa6
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 2abdab1d-be2b-4f3a-be21-380f01c73a63
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 619abbd2-0555-4c79-9944-9c3ccda4c902
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 3cd29bc5-8da2-4d5b-b281-e6dc2d976e4c
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: 40ab46be-3bd8-4e78-82da-a66ab232ea98
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: e051bf17-2c7b-4160-bc90-9e4fb5b0eb6b
+    :songs:
+    - :uuid: 2f8b0438-df3e-45b2-8a0a-fa11f89672b2
+      :name: Casey Jones
+      :segued: false
+    - :uuid: c606fb7b-af46-4df6-82fd-927efc360ddd
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: e698920a-eae5-4168-98d7-0a4cc0fa801f
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 46989f58-a091-4890-bc5b-399f7530a4c8
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 8afe93a8-1b77-42ca-9bb4-e6ae3cac671c
+      :name: Comes A Time
+      :segued: false
+    - :uuid: 8550cbc7-80f9-486b-a126-49385be6afe8
+      :name: Truckin'
+      :segued: false
+    - :uuid: e913a326-5f26-4f1a-9b08-58d5dec421dd
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 0985ed3d-0000-471f-867e-959ed6e9c964
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: e23e96d6-8e29-4b08-9774-fe2674507d08
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: f615ffac-3f80-414e-8947-95a426bdd55e
+      :name: Not Fade Away
+      :segued: false
 1971/10/24:
   :uuid: 329e448d-7386-4ff6-ac0f-ee03dc96581e
   :venue: Easttown Theatre
