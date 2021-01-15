@@ -1111,7 +1111,74 @@
   :city: Rochester
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2e7fb144-63b0-42a5-a653-45ff375675b3
+    :songs:
+    - :uuid: 6925d625-10c0-496b-bdac-02ea563d8c62
+      :name: Bertha
+      :segued: false
+    - :uuid: 670ac7e6-d733-433d-a7f6-ab23d0e9103c
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: eebc91c5-c257-4f10-b8df-34ffe460a8b6
+      :name: Sugaree
+      :segued: false
+    - :uuid: da3dad27-6bde-461d-ad13-3c2e4ae12db3
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 23b017aa-1262-44c5-ba41-b77e6ed77c43
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 5b19e95b-d722-48b6-a65d-33947b3eccd7
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 89d30254-796e-46c9-980e-0fb2fdad6094
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 6790cf49-5a38-401d-be5c-e349ab0bc3fd
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: c13d62e2-79c2-4709-920e-3662812a09ac
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 462b37cd-9546-4d93-9bd4-df4b2b4b5bec
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 90044648-72d2-4840-9642-aed6f79bdfc7
+      :name: Loser
+      :segued: false
+    - :uuid: bcffb38d-6193-424d-a196-654c346c1e83
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 01b62e99-940a-4eb6-a19c-3ab975794499
+      :name: El Paso
+      :segued: false
+    - :uuid: 6edcf586-413e-462c-8027-0d7f3f719d79
+      :name: Comes A Time
+      :segued: false
+    - :uuid: cea897fc-ad9e-416d-bc5a-59d93fa57ca3
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: 5926567a-fb79-419e-a6b3-286e51b5ab04
+    :songs:
+    - :uuid: b07e88e1-52a3-438d-9138-ef0f159432cf
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 17b334b0-335a-4770-a422-3c1f20af33fc
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 93923f67-8377-40c5-bedd-f887d6d5c151
+      :name: Truckin'
+      :segued: true
+    - :uuid: f1925754-21ce-467e-9db6-3841111dab04
+      :name: Drums
+      :segued: true
+    - :uuid: df95faa8-9bba-481e-948f-3a2d4b6780ed
+      :name: The Other One
+      :segued: true
+    - :uuid: 00f4c9c0-a662-4479-a852-32c9bfd1633f
+      :name: Johnny B. Goode
+      :segued: false   
 1971/10/27:
   :uuid: 5c95c8a3-6344-4b3b-b995-b8135ca82173
   :venue: Onondaga County War Memorial
