@@ -1118,7 +1118,80 @@
   :city: Syracuse
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: f33d0238-8ee2-44ed-abab-68be0a6ee8e3
+    :songs:
+    - :uuid: ea18f50e-507d-44c9-9817-8ff2d5a642ae
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 05423533-c59d-4a0c-800e-426173b8dd99
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 3e4c5237-59ab-4f9d-ac06-2bf304f62a1a
+      :name: Deal
+      :segued: false
+    - :uuid: a7fd9d76-6e0a-4f52-a33e-0d33d6033b27
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 2ef66bc2-71bc-44df-8c99-6cc1e6f3fc55
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: a1100690-2a2a-435b-abbc-034886655139
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: f65911b4-8529-482c-bd1f-c2b5c17afb42
+      :name: Sugaree
+      :segued: false
+    - :uuid: aee5ea2c-e6ad-4c86-a522-cb4d1db88503
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 7970ea43-c021-4dad-a9a9-f01dd83b505d
+      :name: Comes A Time
+      :segued: false
+    - :uuid: a1417f5d-7556-4088-9c4b-44b66e59affa
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 278a1be0-4647-4768-8ce3-f36f0ea22863
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 9d0aeb26-f477-4e0e-a621-79248c0f1058
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: ee9beb84-cc10-4a0d-ad32-58dc869d7c37
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: 854a688b-cdd7-4dd9-b836-7d1bb8a05015
+    :songs:
+    - :uuid: c19aff0d-3f10-44d6-a28a-e57981d3e0dc
+      :name: Bertha
+      :segued: false
+    - :uuid: 9273823c-9aa3-4f16-9ddb-786ed9136f6c
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: b13e2252-521f-4ae7-8bcd-a28a15ae294d
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 52c412b5-a023-436f-9c50-6c828122f1e8
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 92757d8b-efd7-4432-8279-42b0f1fd964c
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 3f4bca79-6c1b-491d-81da-cc709339a665
+      :name: Truckin'
+      :segued: false
+    - :uuid: 43b56259-a0fc-42c4-a23c-69d366a74c4e
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: e9dc4a28-fdb7-4aab-b23a-442a8764f92a
+      :name: Drums
+      :segued: true
+    - :uuid: 433f2ecc-c375-4983-a909-f9b62dfca037
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: dad24486-055b-4f3f-8e08-616ba9543ff2
+      :name: Not Fade Away
+      :segued: false
 1971/10/29:
   :uuid: 3e7d8c19-29de-4c1b-9994-32f079e24808
   :venue: Allan Theater
