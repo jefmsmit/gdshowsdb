@@ -978,7 +978,73 @@
   :city: Berkeley
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: f5bb6bfb-9656-496c-894a-389dbe5130e5
+    :songs:
+    - :uuid: 6c29d97e-82a0-408b-8604-4f94ef132df8
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 0124352f-3290-46e5-b462-51be4462b3e6
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: f218ffa8-933f-469a-9a40-5bfcdd7390a9
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: ac60fdfe-9ba2-4f94-875f-af6b1f5b237d
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 38d75476-bc40-4789-83e7-3faba44e98b8
+      :name: Sugaree
+      :segued: false
+    - :uuid: 03cc2e59-6581-41b3-a7ae-44d776321603
+      :name: The Promised Land
+      :segued: false
+    - :uuid: ee26ba29-58d5-4cb8-9b1f-a289515a8ed8
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: f8f76190-0f22-4767-843d-afb1ec9807c1
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 8254c5ee-0bb9-4399-a533-00c27e2f0929
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 86a22190-1708-4a14-9851-5fd667795124
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: c954b3b8-98eb-4c90-960d-a41c88384427
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 0022d1cd-085c-4a73-bfac-82972117e7dd
+    :songs:
+    - :uuid: da093040-07a4-46d7-b72e-ab426ef15b6f
+      :name: Truckin'
+      :segued: true
+    - :uuid: 4319d530-3789-4694-84fd-d23759f3e29d
+      :name: Drums
+      :segued: true
+    - :uuid: daf21753-1a7f-49c1-a765-d8f30c16037f
+      :name: The Other One
+      :segued: true
+    - :uuid: faa4fc1d-ba51-483f-9bb2-317a742c810a
+      :name: Me And My Uncle
+      :segued: true
+    - :uuid: 69762004-e726-40db-801e-35c00bb63f68
+      :name: The Other One
+      :segued: true
+    - :uuid: b6082b68-4c8e-42e3-88a3-4eb153f3b47b
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 340e98dc-8224-4bfa-99ec-8cd1817d24c2
+      :name: Turn On Your Lovelight
+      :segued: false
+  - :uuid: 994cb32d-9ed5-4b27-b661-1faaf4fe6fef
+    :songs:
+    - :uuid: 7188f1f4-ec9c-4b1f-a063-7eef7945039b
+      :name: Johnny B. Goode
+      :segued: true
+    - :uuid: 1faf7361-b124-4407-9ce1-46203849122a
+      :name: And We Bid You Good Night
+      :segued: false
 1971/08/23:
   :uuid: 367ba014-8d24-4664-902f-ca8230a28024
   :venue: Auditorium Theater
