@@ -1090,7 +1090,39 @@
   :city: Chicago
   :state: IL
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 67b46658-462d-4780-be97-6d4a6fb44083
+    :songs:
+    - :uuid: 6597a978-fbf0-4e94-a432-c06986406845
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 33af7cd6-23de-4a58-9758-89396ed5893b
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 688b67bc-d7e0-46c2-aa23-3382d6309441
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 408d71a7-0dda-4e96-8da4-9a866b84dc9d
+      :name: Drums
+      :segued: true
+    - :uuid: 82ba5aa9-d43d-4609-96d6-0e9103e1c1df
+      :name: The Other One
+      :segued: true
+    - :uuid: a2727622-51d1-40a7-9362-f1ddd9c87a8e
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: b1b6a509-ea45-4e69-b45d-f0ea61269f69
+      :name: Deal
+      :segued: false
+    - :uuid: aa61018f-c7a5-45ba-a55e-31f3ff086047
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 14113f98-b5a1-4ad0-a557-7a77de698871
+      :name: Casey Jones
+      :segued: true
+    - :uuid: 423ebd59-d179-40a0-a59a-f41beb4e3431
+      :name: Johnny B. Goode
+      :segued: false
 1971/10/23:
   :uuid: 311120b1-ea15-4f4a-a6f6-8ae1cdc3de38
   :venue: Easttown Theatre
