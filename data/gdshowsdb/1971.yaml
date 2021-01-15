@@ -1083,7 +1083,83 @@
   :city: Chicago
   :state: IL
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 745861f1-d1e4-4cf5-97c8-d889a74aded0
+    :songs:
+    - :uuid: 2166a5f6-2c71-420b-94b8-10f9a7a99458
+      :name: Truckin'
+      :segued: false
+    - :uuid: 7a47fd4e-bfca-476c-b406-f7d89ae8765c
+      :name: Loser
+      :segued: false
+    - :uuid: a5c12840-60ac-49f5-9401-6cd6c2159367
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 3212b628-0367-402f-ae22-a3b8754a1874
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: e2733a4f-efe2-4413-be04-be5385a9fce6
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 8fc19625-7652-42d7-afdc-48bb184a7aba
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 0b475580-a9f2-49f0-96d2-58c81951b4c5
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 7e682638-2e56-4692-8725-a461f2089ce3
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: d905c6c2-afac-4400-a280-31217581aebc
+      :name: Comes A Time
+      :segued: false
+    - :uuid: bcc1a088-130a-44fd-a4ef-ca0b3bafc317
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 198902e8-dfe9-4895-af4b-470b6bc9e76d
+      :name: The Frozen Logger
+      :segued: false
+    - :uuid: 711ec873-3286-4800-b455-cb8d17744951
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 0e7ef954-ee81-45af-a4bb-7e3296ddee6a
+      :name: One More Saturday Night
+      :segued: false
+  - :uuid: e93cf1cf-f81e-4df8-8140-f38b41a4c1b2
+    :songs:
+    - :uuid: 9d932e51-65f6-4697-b906-90cdb488a670
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 68028d3a-96c3-426d-a72e-a0b68c029940
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 39261c34-cd68-4874-a032-fd6fca2db5b7
+      :name: Dark Star
+      :segued: true
+    - :uuid: c1e97e97-2729-4625-936f-17eb4f0a5c7c
+      :name: Sittin' On Top Of The World
+      :segued: true
+    - :uuid: 69afd8db-9f0e-4582-a2bc-f894b3563144
+      :name: Dark Star
+      :segued: true
+    - :uuid: 3899bfe0-d62b-495a-bfb0-09d553310437
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 8a4764cd-c296-4c02-b309-c9bbc72df940
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 14cf1d83-8328-4430-8d3a-78fe73e5b733
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 50549949-436e-47fa-b74f-72fca5a03dd7
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 0eed3140-49be-45cc-846f-57088501f9d3
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: f2cac91b-8422-458b-a0f2-5c45b44c9bf9
+      :name: Johnny B. Goode
+      :segued: true
 1971/10/22:
   :uuid: a84822c0-b74e-42a3-b707-d0736e521729
   :venue: Auditorium Theater
