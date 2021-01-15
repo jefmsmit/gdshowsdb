@@ -1076,7 +1076,101 @@
   :city: Minneapolis
   :state: MN
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: fd066cb0-6ad2-4641-8199-07014b129bd5
+    :songs:
+    - :uuid: bbfbdbce-a98b-4181-b13f-330acff933f7
+      :name: Bertha
+      :segued: false
+    - :uuid: 5f9629bf-0211-48c8-97ed-00be297a99f5
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 15ff0c5a-568f-45d6-a4d0-79d114f1834e
+      :name: Sugaree
+      :segued: false
+    - :uuid: cc686b8f-a208-46ce-b048-592d5e85a131
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 49305011-8872-440e-a46c-3198add3beb4
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 8753962f-6ed9-4e89-9e43-848cafd101f7
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 73857aa2-3636-441c-88ed-e029e3d490fd
+      :name: Black Peter
+      :segued: false
+    - :uuid: 616e6d91-5004-47df-beeb-1a2062938683
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 1395a5f6-60ff-4a2d-9f27-f6176d0dab2e
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 8da50115-8e36-495a-978f-6e24456655cd
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 4539f448-fcac-45b0-b5c2-ba4e4a87c7f8
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 648c3784-dc14-4422-b4d6-f0b31120f32b
+      :name: Comes A Time
+      :segued: false
+    - :uuid: 40e5debe-e6b9-4738-80c4-95d67d4d29b8
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: ad953e94-5edf-4bb1-a5e0-6d8c27eaf7ce
+      :name: One More Saturday Night
+      :segued: false
+    - :uuid: c99384db-b40a-4656-88eb-13dce1b5e5a6
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 63e571f0-b7ef-4ad7-a202-2dd137eebd7b
+    :songs:
+    - :uuid: 75dc4705-ecce-4699-80b7-67660669643b
+      :name: Truckin'
+      :segued: false
+    - :uuid: ef1713ff-9953-429b-836c-f75ea8221869
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 71ab4bca-e336-42b5-8e1a-131e5daa8051
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 411d5ec1-6e69-401b-bb1a-b2d4a5146e55
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: 71201f42-0802-4a1a-af53-797476644cfc
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 8d60b39b-c8c3-4570-8675-c126fc6a8d6a
+      :name: Drums
+      :segued: true
+    - :uuid: 58160bfc-eb25-45be-a0a4-29fe0a09c938
+      :name: The Other One
+      :segued: true
+    - :uuid: 4fd2ef84-b538-413b-ae6f-5488a7a16e60
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: b1c386b0-4808-4e7d-a6f5-138ef72b2c8b
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: cdf21290-0d14-4486-85fd-d85b2bbcdcbe
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 0f14abc1-27c3-459d-9355-fbe4957320a2
+      :name: Uncle John's Band
+      :segued: true
+    - :uuid: 6a6fba0f-6d59-4941-9781-d4dbb320e605
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: d9a6791b-2ec4-42e7-a3ea-d5d792967ce1
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 7d0e4a0d-5224-498c-8a04-1cd5cb41dedb
+      :name: Jam
+      :segued: true
+    - :uuid: f887af04-8d1f-48e0-bfb6-a8c20e821d09
+      :name: Not Fade Away
+      :segued: false
 1971/10/21:
   :uuid: 0f17942e-ac97-4b7c-a549-2f9138bf0142
   :venue: Auditorium Theater
