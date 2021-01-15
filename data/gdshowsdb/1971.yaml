@@ -1104,7 +1104,74 @@
   :city: Detroit
   :state: MI
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 89487eb9-799b-43a5-83d1-9f7f8850d6a2
+    :songs:
+    - :uuid: bfcf94a5-f44a-4abc-8e4c-937bd6f6fc93
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 3f164675-1a77-4b70-b254-4dad2286890b
+      :name: Deal
+      :segued: true
+    - :uuid: d8eb55f5-ad43-43ee-831b-9d79fc2a2591
+      :name: El Paso
+      :segued: false
+    - :uuid: 3d043339-c3ce-4713-a295-1092de80c6fd
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: e7266e8d-093f-41d5-982b-042e898f7e86
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 0e03f4bd-ad55-4f5b-91c2-ada5d68fc737
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: ca350e6d-f7c9-40ec-a438-f187fd4b8285
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: ff171491-4847-4de8-bb27-748a0920d8cd
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 9588fc7f-376e-45f3-810b-f3e53cbb1575
+      :name: Black Peter
+      :segued: false
+    - :uuid: 02357ed3-b1c6-47da-aeec-62d4f7b3911d
+      :name: Candyman
+      :segued: false
+    - :uuid: 2c5a2d18-622e-48d0-a10c-3dfb11f3c9f9
+      :name: One More Saturday Night
+      :segued: false
+    - :uuid: 431a1389-8ee0-4b55-b4e6-a253522b9618
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 49aba72c-7b72-4a21-ba15-1a443b399475
+    :songs:
+    - :uuid: 63c9f5a5-1737-4420-89bc-e74ca4c331d7
+      :name: Truckin'
+      :segued: false
+    - :uuid: 4f5e787c-7d77-4724-a9c5-504ad8ac5bf0
+      :name: Truckin'
+      :segued: false
+    - :uuid: 39a31970-487c-41a1-aa5b-e864bde5567d
+      :name: Ramble On Rose
+      :segued: false
+    - :uuid: 5046b27e-8dec-42c7-ac73-dd794031341a
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 182cc7d9-e336-4082-a144-df133c4b15a9
+      :name: Dark Star
+      :segued: true
+    - :uuid: 4a590325-be0f-4727-97ae-4215330b9272
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 76f745c6-91df-4ddc-9514-b5a8077a9a78
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 2d246e83-7cf1-4b5f-97b6-2f18fcf0a30d
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 11ff89bb-4837-4d8e-897a-362d9fef174e
+      :name: Johnny B. Goode
+      :segued: false 
 1971/10/26:
   :uuid: 75b47bf3-b988-4322-9a29-69b62b84df57
   :venue: The Palestra
