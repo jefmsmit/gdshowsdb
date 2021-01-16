@@ -777,7 +777,80 @@
   :city: Herouville
   :state: ''
   :country: FR
-  :sets: []
+  :sets:
+  - :uuid: a59fb042-5d9d-4d24-aa27-83ec833ad17c
+    :songs:
+    - :uuid: bcdd32fc-bf8f-4122-9cdb-6f47415d0e06
+      :name: Truckin'
+      :segued: false
+    - :uuid: 02b389c2-5286-4ec6-a8fd-e386a01cc9a6
+      :name: Loser
+      :segued: false
+    - :uuid: 951a1773-7c08-451e-929c-4978ebce8f82
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 391a34d4-c1ad-4662-88de-2277f509bf02
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 4ad9a218-f07d-4428-b8a2-901a4b4b51d6
+      :name: Morning Dew
+      :segued: false
+    - :uuid: d73b94b0-1118-46ab-a573-bdd669133669
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 804e4e4d-ca4a-4ca0-bf50-4414c28b5ff9
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 3d983879-1658-4fb1-8010-bbf87d22c085
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 9fb6a521-110b-45a3-8805-6cc919f5f909
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 6f3b121c-25a6-47d3-b770-25a36c74220e
+      :name: The Promised Land
+      :segued: false
+    - :uuid: eff9ef90-2f04-4e3a-8d63-e13d73853c08
+      :name: Deal
+      :segued: false
+    - :uuid: e0ea1ac1-fb66-48a0-bdc5-df255327e1c0
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 29ff5d46-8b31-4265-8352-caf6edbe3aff
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 1ec67361-18cf-43b1-bf67-fab6efa7c994
+      :name: Black Peter
+      :segued: false
+    - :uuid: 1fb352a7-197f-4431-ab22-8ca0d6ab2111
+      :name: Bertha
+      :segued: false
+  - :uuid: 9e2c5ad6-7c0b-489f-9e06-8fb44fed0141
+    :songs:
+    - :uuid: 2f3d1c51-cf70-4d38-9e24-45d0f75d918e
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 72c8c424-dcae-4adf-9f42-c8ffdbdcc82c
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: ece4bc4d-c2a8-421a-81bc-883db9896be9
+      :name: Drums
+      :segued: true
+    - :uuid: 49de845d-deab-4961-bb1e-10972ebd5305
+      :name: The Other One
+      :segued: true
+    - :uuid: 99d4657f-2147-419d-b02f-a5f7d175fa3f
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 3d5cda0d-f78c-4741-8e40-e53229122522
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: f4d560dc-0179-4578-bd6c-d3833c769a2b
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: c70d0892-391a-4c1c-a8f7-831d3c518e63
+      :name: Johnny B. Goode
+      :segued: false    
 1971/07/02:
   :uuid: 1c9bb6b4-2865-4f41-a98a-34ba64a680ad
   :venue: Fillmore West
