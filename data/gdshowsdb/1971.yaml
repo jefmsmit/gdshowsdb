@@ -784,7 +784,94 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 30b25267-ab85-4df1-8392-a0f27ab9dbad
+    :songs:
+    - :uuid: eec5e7ad-fb2e-48e8-8fee-112524de7ce2
+      :name: Bertha
+      :segued: false
+    - :uuid: 0586bac5-f540-4be7-a419-ff16a1848d0f
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: a7b81f99-e99a-48b9-9bc8-1cd48b9d9136
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: b6af1ca8-37f5-4abf-a403-30f48fad086e
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 2129196e-1683-48cc-8e69-bb90e6d1f6f6
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: f67d8121-4e37-4df7-ac47-92ec077b857f
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: b061fecb-ab22-4bb6-84b0-14ef637b4494
+      :name: Loser
+      :segued: false
+    - :uuid: 0d963f38-7114-45e3-b1cc-3b81009f6b7b
+      :name: The Rub
+      :segued: false
+    - :uuid: 0b85e396-91fd-48dc-9c5a-f25cdfe8e7b0
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: c0eb7e4a-473b-4da0-9e1a-b4caec9e7421
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: ecff9ee4-782d-46a6-8244-b00679293e4a
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 84db12fb-1070-4dbb-a46d-5e80cfcb7f1a
+      :name: Deal
+      :segued: false
+    - :uuid: 068c2029-ef85-4205-9a01-265f733229c4
+      :name: The Promised Land
+      :segued: false
+    - :uuid: 15c37374-b045-423d-8e04-2181fc0262cb
+      :name: Good Lovin'
+      :segued: false
+  - :uuid: 299b8cd4-781e-4e21-aa96-c44b9c09a6d6
+    :songs:
+    - :uuid: e15a63ed-9d50-4d8d-a1f6-2a3062d25bc1
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: cc15a45c-8ad7-4916-9a41-2f0104e2bbc8
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 349f0420-fa81-44c6-9718-ebc063fcb2ef
+      :name: Mama Tried
+      :segued: false
+    - :uuid: d30d30ea-6d0c-40fd-b48f-151132a6c08f
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 30ac8997-3931-4b2e-afe2-e5264a03b38c
+      :name: Drums
+      :segued: true
+    - :uuid: 9ec8434d-692f-4f46-9c5a-1cc2a1a1d045
+      :name: The Other One
+      :segued: false
+    - :uuid: d1e349cc-8102-4050-923d-347feb905cd5
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 99100e37-1099-48ad-a239-44dc50db7feb
+      :name: Casey Jones
+      :segued: false
+    - :uuid: a5eda5c2-9719-42c9-a676-35cee4aef167
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 98d94f03-e844-4dad-ab99-6b59c4dfa524
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 7e562dc2-4cca-40e0-94d6-3c78b0498f55
+      :name: Jam
+      :segued: true
+    - :uuid: 3ec4c42e-e270-4b3b-8265-dc644b2804dd
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: e9dbbdca-e75c-49ca-b78a-e72b1d4ed7c8
+    :songs:
+    - :uuid: e01b125c-f480-4782-a31b-749a41da37b2
+      :name: Johnny B. Goode
+      :segued: false        
 1971/07/31:
   :uuid: 79860ca7-f3f7-40dd-9fe1-4abfd52e11ac
   :venue: Yale Bowl
