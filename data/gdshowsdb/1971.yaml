@@ -885,7 +885,69 @@
   :city: San Pedro
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 738c0129-ca04-4de6-ba85-c350f1e352c2
+    :songs:
+    - :uuid: 3c2e29b4-c925-4112-bb9b-31dd30369adb
+      :name: Truckin'
+      :segued: false
+    - :uuid: e7754937-3403-4545-8133-4c406e9e1528
+      :name: Yellow Dog Story
+      :segued: false
+    - :uuid: dc1294d3-0f78-433d-8832-1640f5a5bc6b
+      :name: Bertha
+      :segued: false
+    - :uuid: 18d34dbf-000e-4d5f-8774-5248043112f7
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 397f7675-8930-4406-b51c-339d93ad25fb
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: c14082ee-11e2-47fe-9405-d0dae6a7b5d9
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: c65f4267-cc47-4b30-a75e-9e5f9c5d6605
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 7be3e559-84a1-454b-a2be-0da500c9e2a6
+      :name: Loser
+      :segued: false
+    - :uuid: 5e73b952-100e-45fe-8481-acc79bb2ddb5
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: f61b6aa2-2398-43df-9855-1fdc5c4ebde7
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: fc9b0ff1-f6a6-4c93-b7c3-d75453822471
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 3fff417e-c2a3-443b-903a-b9d9ca8d8bf1
+      :name: Casey Jones
+      :segued: false
+    - :uuid: f668e189-6201-4739-ad8d-a474bd51401d
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 9c89bf8f-640e-43e6-b057-afd24a7748f5
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: b87cb32b-2077-4130-b987-f968d49f0ecd
+      :name: Sugaree
+      :segued: false
+    - :uuid: 06816ef7-b4b7-4e36-947c-f3077827df12
+      :name: El Paso
+      :segued: false
+    - :uuid: 658bb59a-515e-4f9c-a02a-881cc5cf43b6
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: fc8d5f50-e916-4b6e-a842-14b42b9168d5
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: d9e9e4dd-36fd-4475-a483-346442269e99
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: bcfa6a2d-9ab9-45ca-87b1-173501ae8284
+      :name: Turn On Your Lovelight
+      :segued: false
 1971/08/05:
   :uuid: c1576dc6-371f-4450-a1c0-0a42f314f62c
   :venue: Hollywood Palladium
