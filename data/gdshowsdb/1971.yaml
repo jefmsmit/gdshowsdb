@@ -964,7 +964,78 @@
   :city: San Diego
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 5d1ee139-c720-4eb5-b038-4784e3ef4212
+    :songs:
+    - :uuid: eda067d3-b112-4ea7-a770-26a4c3316250
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 36781cd1-ffb8-414c-93ee-10d591d74c1c
+      :name: El Paso
+      :segued: false
+    - :uuid: c63c6e34-4ce5-4ca6-bb56-e50819d9c724
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 29cacea6-1eb1-46a2-95be-e151106a1ef5
+      :name: Sugaree
+      :segued: false
+    - :uuid: 5613449d-9728-4de1-bc8b-ea26720d854e
+      :name: Mama Tried
+      :segued: false
+    - :uuid: d39e6408-d72f-49b4-9aac-90bc1872d10e
+      :name: Bertha
+      :segued: false
+    - :uuid: 3d1106b7-93b2-4b73-8c35-fe0325413e13
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 4dab0221-eaf8-481c-bf7f-cd11ad24d25a
+      :name: The Promised Land
+      :segued: false
+    - :uuid: ddd541d4-6e5b-4c9c-b5f0-adf5ff06fb49
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 296d744a-f3f0-4dfb-8507-0254a55a3900
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: ab649979-10c5-4b52-b3d6-2cd5476f1837
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 8b865c30-77ee-44d7-bc57-50a283dd63c7
+    :songs:
+    - :uuid: 6043e1ed-d997-4d5e-b264-ff1f3ac67b1d
+      :name: Truckin'
+      :segued: false
+    - :uuid: 1b0f5984-be5f-4b18-a680-2ef76d98e0c4
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 6a636fb1-23ca-4131-8b5e-cb871f681176
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 57aab9eb-cd82-4519-8448-53fd4a28694d
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 2304703b-584f-40e2-beb3-dc0b31e1186e
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 8c0fc00c-61f8-4342-bb3a-96724fa02309
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 7e90278a-b669-4c74-87e3-788be1596ec6
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 47c5b8a8-2a5a-437b-8ddf-1720dfc94cbf
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 410d1202-3b4e-4035-a6ff-9f1f91348e02
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 1708d459-a55c-4ac9-8175-69de0b98cf9f
+      :name: Jam
+      :segued: true
+    - :uuid: 238b2977-41db-49f1-95f5-358b2536f0aa
+      :name: Johnny B. Goode
+      :segued: false
+    
 1971/08/14:
   :uuid: f0e4ca8a-1000-45c1-b559-32d5b422e8e2
   :venue: Berkeley Community Theatre
