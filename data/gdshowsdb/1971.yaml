@@ -563,28 +563,338 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 15005a50-ca17-4050-bed6-838ade30bd34
+    :songs:
+    - :uuid: cde9df21-6a9a-4ea0-9a5e-02068f098b52
+      :name: Truckin'
+      :segued: false
+    - :uuid: 332ea8a4-0665-42b4-89c7-9644749ac97b
+      :name: Loser
+      :segued: false
+    - :uuid: 679dfcb2-6222-4cfe-9215-962aac107712
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: b0980b9f-459a-4965-bbc2-5c17bbc164d1
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 8e9bcf09-131c-49ec-885b-3b8dbc128e1e
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 85dfb522-d548-4c51-ae14-5bdddc2ff421
+      :name: The Rub
+      :segued: false
+    - :uuid: a1e096f1-cdbb-4701-bf5d-cccacf2109cb
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 621460dc-48cd-48e0-9309-ea4bd2c5acfd
+      :name: Friend Of The Devil
+      :segued: false
+    - :uuid: a609bff8-04d3-4f9e-a5d0-2d5dc69c22ad
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 65419270-a962-4012-b987-aa1c6b830de7
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 03078be4-fd0c-45ce-a9e1-484760158641
+      :name: Casey Jones
+      :segued: false
+  - :uuid: a89c5699-4b15-4191-bf61-3523668b9ff7
+    :songs:
+    - :uuid: 50bd3f36-a0d0-43c7-bb96-e3b5f79b71ad
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 4163031e-9445-48cf-9210-b0be3b6ed384
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 34fdb464-e2a7-4e89-80c2-8ef9263ff278
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 0921d7ff-0214-4961-9e18-9cb022786913
+      :name: Bertha
+      :segued: false
+    - :uuid: bc38d4b8-5a9d-4026-8097-8cf897adf6d8
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 7b91480b-ef29-4cde-9620-b320df176b4d
+      :name: I Second That Emotion
+      :segued: false
+    - :uuid: 0b3e0d77-d5bb-42c6-940c-4002937cc6d2
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: b656b1e6-1f75-465f-8300-833a152d1755
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 114c55bd-e570-4dbf-83f2-6db3554badb7
+      :name: Spanish Jam
+      :segued: true
+    - :uuid: 07abaa20-224d-4a1f-ba93-6347afa6e21c
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 88093f4d-0c5d-4adf-85a9-b31c7110c9e3
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: bfb2d659-507e-4f57-a012-ae86fbb0059e
+      :name: Not Fade Away
+      :segued: false 
 1971/04/26:
   :uuid: 9e7bb976-f794-4174-945e-e1281ed324fb
   :venue: Fillmore East
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 187e42d5-b83b-4832-9d84-52a11e5ad096
+    :songs:
+    - :uuid: a96a9660-2f20-46ea-9738-e75f72748de1
+      :name: Bertha
+      :segued: true
+    - :uuid: 3654b394-245c-490a-a26e-e642b6d491cf
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: b45e0963-4cc1-4faa-8b67-e42d9bc1cab8
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: be77cf32-b188-4bd5-a795-d2bed157a247
+      :name: Loser
+      :segued: false
+    - :uuid: 317918aa-8d52-473b-ad90-7614359ef8b8
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: d7b92287-429f-460d-9e0b-5146b0bf9eb5
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 961a2f17-3bd2-43e1-89bd-8b200693cf92
+      :name: Dark Star
+      :segued: true
+    - :uuid: 516776c0-d307-4a96-a32f-d9eeeabc838d
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: d8e35d89-4e60-4950-a10e-689920f93fad
+      :name: Casey Jones
+      :segued: false
+  - :uuid: b23406bd-f1c5-4113-9eb6-e4636baa06e7
+    :songs:
+    - :uuid: bbe05305-94d7-41e5-a717-7f71097c419c
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 079b3b18-f960-4c5c-899e-a6b6ff5d3e18
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: c8238d7f-db0b-43c3-9a04-65a4c9c43084
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 72eeac67-f499-49d2-999c-5e0c7c7d3afa
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: ae7f3101-4a50-4a82-ba70-44eba70d77b6
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 6d18d4c4-5b92-4498-a354-74e8eb83c44b
+      :name: Deal
+      :segued: false
+    - :uuid: 2419dc4f-52e4-48cc-a793-ad3a8136fc28
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 000697c5-2122-47c8-b0b2-0a07d7f076d3
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: 1f7b3b5a-7268-4484-b115-d2aaf409f3ac
+      :name: Drums
+      :segued: true
+    - :uuid: 67b4db4e-4d0c-44f0-8c53-3f6c38bb19a4
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 726e9ce8-63ad-4d31-8578-a8cee93862af
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 392d7d41-fb4e-48da-a1b5-bd0d6a0df790
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 3e39d391-7346-4eb5-9585-405946370992
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: e9f192d2-abf1-433c-a278-01909b1abd5c
+      :name: Not Fade Away
+      :segued: false
 1971/04/27:
   :uuid: 9eff09f0-f75d-4af9-93bc-b3e74c375249
   :venue: Fillmore East
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 07e564e5-70c9-4a49-81a5-7358f9f35ae6
+    :songs:
+    - :uuid: 750172e0-f1e9-4547-b643-9711c3961207
+      :name: Truckin'
+      :segued: false
+    - :uuid: 8d4097d9-9f61-4302-b3a8-1d61c3fb2b9c
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 8ae68688-5c25-4dcf-9387-f97534d64a43
+      :name: Bertha
+      :segued: false
+    - :uuid: 08eb63d1-8aef-4710-9dd4-63c1aeb29870
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: e66096b7-5a9a-463c-930b-47caf4c4f40a
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 94dffec3-e33a-42d0-9878-a30669cc423d
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: e230ddac-c97a-4274-b659-3e1d429733ff
+      :name: Loser
+      :segued: false
+    - :uuid: a50aca07-859c-48d1-8b4b-ec9a0af4f52f
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: d7c09e8d-290b-4015-9a10-a63ce9f42212
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: fdeabfd9-7478-44f3-a659-99bf2f8d507c
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 8fafa5b6-a1dc-4dad-89d6-53c3b262e539
+      :name: Casey Jones
+      :segued: false
+  - :uuid: b95e29d2-5224-4275-964b-d24a74b5cfcf
+    :songs:
+    - :uuid: 3d3301ff-5420-44c1-a2fc-ad19a518889e
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 5e764558-e85b-4700-923e-43710fa2df4b
+      :name: Deal
+      :segued: false
+    - :uuid: d577cd49-a913-42d0-a5ac-b6b62577dbde
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: a953fcaf-a75a-499f-995a-ccb0c3baa93d
+      :name: Bird Song
+      :segued: false
+    - :uuid: 4bd739c0-40c4-4492-82c9-ae7cbaba1547
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 43706770-b34d-452e-8326-f15b31710f33
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 40c558d0-46f0-4778-b959-bb82efcc66b2
+      :name: Searchin'
+      :segued: false
+    - :uuid: eb563ec5-7455-42ac-86b9-bd370e14ce5e
+      :name: Riot In Cell Block
+      :segued: false
+    - :uuid: 97ba53fa-9e66-4d64-8c9b-a3a80e066e42
+      :name: Good Vibrations
+      :segued: false
+    - :uuid: 35c0a1e8-ce63-4254-b795-d32f8cd4d1cd
+      :name: I Get Around
+      :segued: false
+    - :uuid: 96b4cd93-fa8e-4f34-ba37-d40d6d3a6e88
+      :name: Help Me Ronda
+      :segued: false
+    - :uuid: f525bd08-7c87-4f5d-b952-40144dc60adf
+      :name: Okie From Muskogee
+      :segued: false
+    - :uuid: 6b1ba4ac-b1b0-493b-8a1c-a5f07b83bf9f
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: dd550de9-3701-4dbe-81b0-9846004dee94
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 3adcd7b3-6e3e-4cc0-a58c-098b312c43af
+      :name: Uncle John's Band
+      :segued: false
+    - :uuid: fe44e1b3-ed02-4581-8632-f50a6700bbb0
+      :name: Turn On Your Lovelight
+      :segued: false    
 1971/04/28:
   :uuid: c6df8029-8f7e-4c5e-90e1-de386e122da5
   :venue: Fillmore East
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 321f0551-07f3-474e-aa35-22b7a81ca6d9
+    :songs:
+    - :uuid: fe0be517-2e70-41e1-bd2e-e0d8e71d07cf
+      :name: Truckin'
+      :segued: false
+    - :uuid: d6277033-7bb1-4ad6-8878-f0bd908c59a7
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: b28782d2-3582-41fe-b674-9991adf6f0de
+      :name: Loser
+      :segued: false
+    - :uuid: af6595ac-390c-4bbe-a11b-cbc92b349c72
+      :name: El Paso
+      :segued: false
+    - :uuid: fdae273e-f5cb-453c-ac27-127de91313f5
+      :name: The Rub
+      :segued: false
+    - :uuid: 10566a8f-e003-4e97-8326-d444c423eb0f
+      :name: Bird Song
+      :segued: false
+    - :uuid: 39255e17-9cc6-4505-af0a-02ac0278d121
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 4c6d266e-8e66-48d0-991a-0a0cd0b15d81
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 0364afdf-b79f-461c-8d45-97193147ffb2
+      :name: Ripple
+      :segued: false
+    - :uuid: 9b5937ba-892f-4552-8678-b3a963c64109
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 42779410-fd43-42df-80a6-b344dfe68811
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 151fb5de-189b-45f1-8bba-4da38bfc0577
+      :name: Bertha
+      :segued: false
+  - :uuid: da533137-8855-48e8-b748-1ba450ebc507
+    :songs:
+    - :uuid: adf569b1-01ad-4191-8f10-40e1145ef11c
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 72dd2a75-0971-4dd7-99ef-a5ad52fd84c7
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 1691e38f-1aa4-42cf-9c65-fde0a9f38f6e
+      :name: Deal
+      :segued: false
+    - :uuid: a81cc2ff-5997-478b-800c-58517b3bf880
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 43f6f3a9-5e73-4837-8c03-6b1c71282aea
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 6eb7995b-e703-4cfd-b83a-a05592f71230
+      :name: Drums
+      :segued: true
+    - :uuid: 15e6e591-dcef-4539-a9e1-9fbdba53fd0e
+      :name: The Other One
+      :segued: false
+    - :uuid: 2bf6816f-c4a6-4db8-8c30-71dccb75e1ad
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 85fbd56f-31f7-43f9-acd1-c3a9695cc400
+      :name: Dark Star
+      :segued: true
+    - :uuid: 1fe1efa5-ceac-43db-9b18-dd5bf731cdac
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 840dc96f-787c-46d4-95a1-79cba74e527f
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 7e56ff5a-ef07-4f82-aba8-c2d3a11c4862
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 7146d6b0-b651-45ec-a42e-f7e47503dd33
+      :name: Not Fade Away
+      :segued: false    
 1971/04/29:
   :uuid: 5beabd8e-9e30-4bca-9580-e5c1ebcd7567
   :venue: Fillmore East
