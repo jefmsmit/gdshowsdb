@@ -422,7 +422,83 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 1e276dfa-e0e1-4a8d-a3a8-941a14724221
+    :songs:
+    - :uuid: dd3808b3-3ca6-472d-8a5e-53a3c14db5ac
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: c86144bc-ff46-4383-b223-be585052d3b3
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: fa4864fb-25e6-4e68-8986-67158513a179
+      :name: The Rub
+      :segued: false
+    - :uuid: f437b810-ad51-4653-88f7-6a4598e08be3
+      :name: Loser
+      :segued: false
+    - :uuid: c274268a-ade3-4ce1-9404-0bd806fe1fb7
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 8005dbde-caf6-41c6-848e-e57b00060309
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 962816e3-43e8-42a9-98f0-1caea586177d
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 7c487c87-b53e-401e-a3b3-85be0da3eab1
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: e94cbd62-98df-4078-b3dd-79d729e8b27f
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 90e9fddd-6ae1-466d-9c4b-fc818e5036d5
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 6e2ba35d-6b11-4f92-a443-7f74bc12ff41
+      :name: Casey Jones
+      :segued: false
+  - :uuid: f907b0c4-6c60-4a9f-8d26-e3e36d0e96fc
+    :songs:
+    - :uuid: 5c2d8f97-7ce1-4fc6-a85f-5c8b5c320276
+      :name: Truckin'
+      :segued: true
+    - :uuid: 30d46d45-16a4-4db9-a508-b0c67f237d15
+      :name: Drums
+      :segued: true
+    - :uuid: 6ff79350-e064-4534-b947-0c30815a8355
+      :name: The Other One
+      :segued: true
+    - :uuid: cdc84f98-4170-440e-bee5-dfae46c43f54
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 953e705d-9564-4e7d-8e8c-286c656d9ee4
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 3551c7f4-43aa-4680-b32c-3402ca29cecd
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: b9536f11-1ddb-43ac-8340-d57f0b5132c6
+      :name: Bertha
+      :segued: false
+    - :uuid: c10a8e47-c937-498d-9559-5d28087b32cc
+      :name: Deal
+      :segued: false
+    - :uuid: fb8f5429-c73d-4725-8a6b-03b8160c271b
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 8bd5fa25-0b98-4212-a7b0-a6ceefe10fec
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 04976845-3074-4d6b-8200-6e735f84c27e
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 2ec03767-785f-4bc6-ad41-e5b82ffd980e
+      :name: Jam
+      :segued: true
+    - :uuid: 76f6b131-195f-4be0-8cf5-722e3e53aa80
+      :name: Turn On Your Lovelight
+      :segued: false    
 1971/04/06:
   :uuid: fe80586e-f1cf-4e9e-92da-26a624d1f7eb
   :venue: Manhattan Center
