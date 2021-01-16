@@ -485,7 +485,68 @@
   :city: Bangor
   :state: ME
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: a94e3e9b-bfef-4a4d-bee5-160f5702c3cb
+    :songs:
+    - :uuid: e9d75e60-7ce3-4042-849c-f119bb912971
+      :name: Bertha
+      :segued: false
+    - :uuid: 4df648a4-5e67-4238-bd1c-59fc375e23ca
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 4fa98e5c-fb85-42a0-b7cb-fa437e0ec7f9
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: abb36557-efa4-4c3c-83be-fe1645154ba0
+      :name: Loser
+      :segued: false
+    - :uuid: 600f4def-1ff2-4329-83db-27fa5754db31
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 6a4376f6-8912-411b-86dc-554202fc907b
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: d7d2be8d-bcac-4ade-a7b7-261123f365e4
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 6fa1d5f9-65e9-44c9-b2b4-7b60715a472c
+      :name: Deal
+      :segued: false
+    - :uuid: d4117f30-81e5-4c0e-aed3-29e83edd9ebd
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 3a8077f2-c27a-41f1-97c0-aee885422deb
+      :name: Casey Jones
+      :segued: false
+  - :uuid: e28d5065-2804-45fd-9b79-8afb37321540
+    :songs:
+    - :uuid: b6853ca8-b96a-4ae0-8dbe-e127a72386c2
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: f4b04d2b-c8f4-43d5-bd0e-20adb8a2a6dc
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 33fa6dbd-1c2f-479a-adcd-a80e490310b3
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: 74b2b4a7-5ef3-4b60-b15c-f00be44be230
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: cb62ff98-f9e0-4abb-adbd-2d9b1d2e0b84
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 47aad0bd-7919-467e-8f05-687e820d421b
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: 6f74893e-2728-419a-a79d-9dbfcd0416c2
+      :name: Drums
+      :segued: true
+    - :uuid: 3d46cf97-4389-4dbd-ad50-4713d1ce127e
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: b986b5b2-e6d5-4526-920d-e41d2f9661d4
+      :name: Johnny B. Goode
+      :segued: false    
 1971/04/24:
   :uuid: 6b4fdede-3d65-41f8-a9c1-c954b2808eac
   :venue: Wallace Wade Stadium
