@@ -415,7 +415,71 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 27858271-6747-4fe7-b342-a94e95fc1827
+    :songs:
+    - :uuid: e15d364a-9adc-4c62-8696-c2a1e12c04ca
+      :name: Bertha
+      :segued: false
+    - :uuid: 8a2c51fe-d0df-4184-a324-19ce727fe3cb
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: ebeef947-6183-4db5-9f4c-51c505e7c959
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 2243122e-d2bd-4bdb-93a0-4871ff601f96
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 5d5e13cf-3109-48d2-a51a-585aad718b1a
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: b19b5884-2e89-43c5-b23a-5f6ad47c7612
+      :name: Loser
+      :segued: false
+    - :uuid: c433ef22-a091-4851-a921-1e80ecfef547
+      :name: Easy Wind
+      :segued: false
+    - :uuid: 05252645-0391-4dfc-ad90-76c30aef6473
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 2c1b11c3-0f55-44b6-a99e-dae13f35c8bf
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: a746c05b-9b73-4365-b3ce-9c0415068038
+      :name: Johnny B. Goode
+      :segued: false
+  - :uuid: 98d35e37-f786-4543-92e4-4804b132ea4f
+    :songs:
+    - :uuid: 8032cb99-10b6-4029-963a-fcaa106ed358
+      :name: Truckin'
+      :segued: false
+    - :uuid: f82a4175-6f1d-4faa-ba01-9151a2bd5269
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 585836c4-8326-455b-9ccc-403e1a8fa995
+      :name: Deal
+      :segued: false
+    - :uuid: e68dd078-a20e-448e-be6b-55e1633fb5fd
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: c155d071-dcf5-4621-9bb8-3656d7d36bb2
+      :name: Casey Jones
+      :segued: false
+    - :uuid: bbe92095-cc2b-4400-ab0c-dfad433362aa
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: a9fd373a-da84-4b7b-8303-8fe62b32d822
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 6d740c19-cd53-4405-8559-4e446c29a960
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: d6697772-e15f-49fc-be0c-b7eccefbbb3b
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: f9ab7489-5544-4fb7-b258-0156850ebc4a
+      :name: Uncle John's Band
+      :segued: false
 1971/04/05:
   :uuid: 7479a986-b19b-490e-8f16-29a3529319d2
   :venue: Manhattan Center
