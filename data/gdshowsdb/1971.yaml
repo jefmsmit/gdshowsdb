@@ -436,7 +436,65 @@
   :city: Boston
   :state: MA
   :country: US
-  :sets: []
+  :sets: 
+  - :uuid: bb9ef71c-82f6-4f11-b426-af7581464dc6
+    :songs:
+    - :uuid: c5e12591-1d98-47b7-897a-aa0c2c4e216d
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 6d13bded-3dbf-40ef-bb02-79b9514802e3
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: a6162952-5cd5-4457-98e5-82c22015cd41
+      :name: Casey Jones
+      :segued: false
+    - :uuid: bc9d95e0-4d77-4ac5-abae-fa4d0ee5c6a0
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: f3797708-667e-4cd1-aa66-9d70648e38bf
+      :name: Loser
+      :segued: false
+    - :uuid: 097c5715-d990-4126-bfd1-83ccfa9ca71d
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: e8d38f3e-3eef-4289-b494-3a9e0a2b24d3
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 7aaaacf4-e0ed-4e64-8a56-7f011ec46654
+      :name: Sugar Magnolia
+      :segued: false
+  - :uuid: 8183d725-2178-4c0e-8b58-ac4becd86278
+    :songs:
+    - :uuid: 693c75fc-809a-450c-b155-29fa6fcfd5aa
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 2922c000-1c80-4a73-b25f-7bd75e1c7e06
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 2a4e0aa1-c2a5-41f2-833f-0b755325a32d
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 404a3d1f-b602-45f7-821f-6bd195a70fd9
+      :name: Drums
+      :segued: true
+    - :uuid: 1a3a0aad-2940-4d27-91af-1c9266f75b66
+      :name: Jam
+      :segued: true
+    - :uuid: f47fa41b-6ee0-453f-b5d9-889ac3a069e7
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 0d51cb54-1d0b-4e5a-b300-c6451ea01800
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: daf75246-c052-4098-8d93-383032f09ba7
+      :name: Jam
+      :segued: true
+    - :uuid: 99b0a2ac-09bc-455f-b40e-10a7acf3f2ef
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 3c0b7f85-77be-4959-a111-fead38083acc
+      :name: Johnny B. Goode
+      :segued: false    
 1971/04/13:
   :uuid: a9114beb-359d-4fca-bee2-9e5c822016d7
   :venue: Catholic Youth Center
