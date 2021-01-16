@@ -478,7 +478,73 @@
   :city: Providence
   :state: RI
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 64b9d95c-2747-4da4-bf77-8dbedd08563a
+    :songs:
+    - :uuid: 35b411f2-1bdf-45d3-b453-5ec217fcd6a5
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 0736f07e-8545-41fc-95d2-dee275dbee85
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 3c7ce8d0-1952-4e23-9c0b-2a725634e5d0
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 5071c38a-a183-4a9e-8338-82c9e2fc363e
+      :name: Loser
+      :segued: false
+    - :uuid: a2fabcee-392f-4307-8665-8a1f2445033d
+      :name: Truckin'
+      :segued: true
+    - :uuid: 782f7ebb-dba4-470f-ab00-78dcc8746718
+      :name: Drums
+      :segued: true
+    - :uuid: b666e3e6-91f9-44e5-a741-5fa47f2d24df
+      :name: The Other One
+      :segued: true
+    - :uuid: d6e6b909-169d-4683-a5ae-68370d916663
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: d1440a54-0782-4360-8b01-81a34e373c63
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: ab96d31c-4770-4ce7-af8f-662b7d9535c0
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: c9f06d36-6be1-4b58-92cc-ae4770b6994a
+      :name: Bird Song
+      :segued: false
+    - :uuid: f3077569-2b90-4c24-b479-d024a65155ae
+      :name: Me And Bobby Mcgee
+      :segued: false
+  - :uuid: 2673996e-2a71-4f0b-906a-025101785618
+    :songs:
+    - :uuid: 98e8b1d4-b9d5-47ba-9279-4a4d2f838f1b
+      :name: Bertha
+      :segued: false
+    - :uuid: bd069141-0328-4cd4-a0a0-7624b06f6d2a
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 2eef5cd9-eaea-485f-b14f-7e676c9dea20
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: 4a5ed0e6-9b5a-4a62-8fcb-dfa6a491f805
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 7849ac98-3342-43fa-b9f8-a9a59f9337d9
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: d7e623fe-fe20-414d-9ef8-92f195564f28
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: 4c21910a-d65d-4115-ab41-809d3c5d8ed1
+    :songs:
+    - :uuid: e6f64a54-d7e2-4386-a6df-17787689e6fd
+      :name: Uncle John's Band
+      :segued: true
+    - :uuid: 93fd0bca-81e7-41ac-8718-6f773f27da3d
+      :name: Johnny B. Goode
+      :segued: false    
 1971/04/22:
   :uuid: 170148db-cb51-4652-a870-9b46a803f92d
   :venue: Bangor Municipal Auditorium
