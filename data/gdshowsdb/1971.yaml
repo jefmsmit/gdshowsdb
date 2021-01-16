@@ -697,7 +697,63 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 6020d6f8-cfc6-4e39-a2f7-a250ade1d8a0
+    :songs:
+    - :uuid: f1adb4a2-286b-4a41-9a07-12cc56ccf9b7
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 7b1fbf06-96e0-4716-85e0-f6b77b985774
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: cdd88c92-de9e-4b7d-bd75-8a668456f2bd
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 6589c38f-888b-42fd-a4f4-8099f3460f3f
+      :name: The Promised Land
+      :segued: false
+    - :uuid: 33d9c7fe-db70-4ccf-9405-7728c8551728
+      :name: Loser
+      :segued: false
+    - :uuid: 2a63db22-cdf3-4e14-96e2-ec1cae41d0dc
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: f8c522e7-a22f-4b66-bbef-d5dcc5922f1d
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 157030e1-35d1-4142-867b-8682416b5ee3
+      :name: Truckin'
+      :segued: true
+    - :uuid: 58e030c7-2a84-46bc-bbdd-b98da7606a62
+      :name: Drums
+      :segued: true
+    - :uuid: c6043bab-9624-4369-856f-428e14c64dec
+      :name: The Other One
+      :segued: true
+    - :uuid: 60a603c7-014e-4655-a73e-4220470c226e
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 80e9c47b-6dc1-4183-b9db-6daf359b7174
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 9a43d3be-da3a-4ea4-bbcb-308507ffd59c
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: c8233d5e-7f01-4d83-b3f1-d7b4dcfaba61
+      :name: Sugar Magnolia
+      :segued: true
+    - :uuid: b4cb8bc6-f2ae-454e-8c53-08a9e80d8d4f
+      :name: Deal
+      :segued: false
+    - :uuid: 06ecb2d3-0a2a-46f3-ab98-c05235d28db1
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 5722c3be-f582-4c7a-b5d0-09da6912175a
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 5588a42b-4bc6-4e01-9512-61b33e9c0807
+      :name: Not Fade Away
+      :segued: false
 1971/05/30:
   :uuid: d0a7c784-44a8-40cc-ae7c-5ec734ea28f4
   :venue: Winterland Arena
