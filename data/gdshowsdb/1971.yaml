@@ -471,7 +471,62 @@
   :city: Cortland
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: c31cd50d-332a-4dd4-9292-d0d7591440cb
+    :songs:
+    - :uuid: a4437ceb-58af-4ebb-a09a-a9cc2d3360f7
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 5ddaffcc-ee01-42b8-a104-89a60800a32a
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 38525af0-c75e-4c22-afbd-53a93548997e
+      :name: Bertha
+      :segued: false
+    - :uuid: 893f652d-fae4-4e6c-832d-7a9564fc9981
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 07add9e6-827a-4541-879a-f82258f1429e
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 4a9f72dc-5609-484f-9b1c-9568dc9b61ba
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: d98ab81b-09cc-4b0c-bdbf-3d7a1b5db398
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 4d7b6c4a-920f-42d8-b0c8-4bdccebc6f5e
+      :name: Casey Jones
+      :segued: false
+  - :uuid: ac19b8c3-d0a0-4ebb-8cbc-8a509e224e9e
+    :songs:
+    - :uuid: 9f4c00cc-7c8d-4396-a061-04f5b2a6465c
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 8d5557f4-678e-4b59-b6f3-6ca7deb5a8d9
+      :name: I Second That Emotion
+      :segued: false
+    - :uuid: ee302cc8-8535-4594-baf2-583afb128c06
+      :name: Truckin'
+      :segued: false
+    - :uuid: 19c49f5d-1298-4b7e-9c5f-db36de210e60
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 50831818-f25b-491c-b1dc-3968808c7e92
+      :name: Loser
+      :segued: false
+    - :uuid: 4c87ca5c-586a-4276-8962-0f30041a76a1
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 4a312123-5f0a-4616-990f-b9223724d2bf
+      :name: Around And Around
+      :segued: false
+    - :uuid: 7a8ac7e1-7a8f-4e79-b97b-116b4b5cfcf6
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 0322004f-8b5f-46f3-a03d-0be2e859a873
+      :name: Uncle John's Band
+      :segued: false 
 1971/04/21:
   :uuid: deecfd47-de34-47ba-bb77-115a84274928
   :venue: Rhode Island Auditorium
