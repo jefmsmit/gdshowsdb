@@ -443,7 +443,65 @@
   :city: Scranton
   :state: PA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 70441b1c-9ada-4eb5-b1e8-470b1995751f
+    :songs:
+    - :uuid: 5aff240b-939c-4a6d-b088-62246ed5f398
+      :name: Casey Jones
+      :segued: false
+    - :uuid: a8339818-d01b-4d99-ad2f-2b1b8daa2a8c
+      :name: Mama Tried
+      :segued: false
+    - :uuid: b5d9a88d-ddc5-4fad-a3ff-9d73efd8d6d8
+      :name: Loser
+      :segued: false
+    - :uuid: bc4bf631-ab14-45e6-940a-cb3edbd2719f
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: c37609fd-3d57-4de0-9b5a-52924e969545
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 3dfc5a1c-7b9a-4825-a266-efdce06a5bf0
+      :name: Bertha
+      :segued: false
+    - :uuid: c77e8e96-7a3d-4b2f-a70b-db8b291cfc2f
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 3d4e20c5-741c-4752-9ea5-8fe9e77f024a
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 0aa57e58-f616-429a-95fd-5b930d3ecb63
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 7914de8c-ad48-4f97-999c-c17cd1b6f96c
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: be409e60-bd8f-4672-890a-0065ca74a8b8
+      :name: Sugar Magnolia
+      :segued: false
+  - :uuid: 7bdbe064-fa2c-4a80-9c13-7fa4f63e9a67
+    :songs:
+    - :uuid: bffe4e6b-1555-4bb8-9132-a81704749e41
+      :name: Truckin'
+      :segued: true
+    - :uuid: a767aeb5-7f92-4064-adf4-b36ac0d62449
+      :name: Drums
+      :segued: true
+    - :uuid: 8d77852b-5d6e-48ec-9a96-bfdcf5e64ffa
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 367267f9-7f51-4445-a17e-d2ca531365f5
+      :name: I Second That Emotion
+      :segued: false
+    - :uuid: 7a98e705-5bcf-4d10-bb61-a1240e43beec
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: 5985663e-55b9-40a3-945d-75f277adb4ae
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: 26758e99-c563-4d6e-9309-b7892c0c3ef3
+      :name: Uncle John's Band
+      :segued: false          
 1971/04/14:
   :uuid: be150933-7cfb-4f4b-8650-e4ca5be6bcfc
   :venue: Bucknell University
