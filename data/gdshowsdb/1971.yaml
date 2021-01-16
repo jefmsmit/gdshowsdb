@@ -971,7 +971,85 @@
   :city: Berkeley
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 851c2651-4eb3-45de-b1b7-e8a169803fcf
+    :songs:
+    - :uuid: 83e77d1f-09d3-41e0-a5bb-0ca18346c541
+      :name: Bertha
+      :segued: false
+    - :uuid: d79fc194-fbb6-4e07-be85-d54943fa5040
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 38cad959-94d0-4872-b17e-9dd0aac0c949
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: 6f59805d-41b8-4db8-89b0-7072e3a18a0d
+      :name: Sugaree
+      :segued: false
+    - :uuid: 823b8dd6-5744-4505-8d19-cb1bb9a045aa
+      :name: El Paso
+      :segued: false
+    - :uuid: 6b46d2a0-22ba-476c-8f14-14ecfa82d439
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 5b225e7c-94fb-41a8-bd7a-c2231b696e01
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 4dbcb4a9-cda4-41b9-872e-402f3a34064c
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: d9d721d2-0905-466c-b4e1-1a64a70414b6
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 74012068-0de8-4e64-a93d-d96feb87fed7
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: edc46d7f-c653-4f1c-8509-781528bb6067
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: a0cd745c-f078-4383-a745-9e3451f61f46
+      :name: Loser
+      :segued: false
+    - :uuid: 2cce0f4b-81ba-44a4-a578-c87a2cc7e9b6
+      :name: Loser
+      :segued: false
+    - :uuid: e845fa5a-678d-4bb7-8a7b-3f450febb8da
+      :name: The Promised Land
+      :segued: false
+  - :uuid: 59d5adaa-87e9-43c4-aed7-a0a792cfc9f2
+    :songs:
+    - :uuid: 4f92f82c-22d8-414f-814e-7a637608bfab
+      :name: Truckin'
+      :segued: true
+    - :uuid: 273ba106-75dd-470d-aeed-5d4f8e1fa3c3
+      :name: Drums
+      :segued: true
+    - :uuid: fb9d713c-49be-4e87-b564-d6309fd09cbe
+      :name: The Other One
+      :segued: false
+    - :uuid: 35923adb-4c16-419c-bc61-0c8de07bda96
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 4aca31c3-64fc-48c3-96fb-2c12cd343908
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: cece4470-f9c5-4be9-92a8-cdd4adc134b5
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 28ea746e-9f5d-4e22-b6f6-efc120ad809d
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: a58731f8-5f2a-4b15-acc4-94357ff9659f
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: c0301084-e6e5-47c6-a91f-62ef9076f266
+    :songs:
+    - :uuid: eb00ee65-befb-4ff9-8e1a-bcbabc07a371
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: 892edbda-a4d3-49e6-bb6d-4e31dde4ba13
+      :name: Uncle John's Band
+      :segued: false
 1971/08/15:
   :uuid: 63c0b9bf-6d3e-42f7-a196-11d05913c98b
   :venue: Berkeley Community Theatre
