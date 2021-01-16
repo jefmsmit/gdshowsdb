@@ -408,7 +408,67 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 6ebba431-4495-401e-b007-7425938195ef
+    :songs:
+    - :uuid: d320f534-5cc5-40b3-99ad-2add7c0cb18d
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: 2feca1cf-0e61-4f91-8daf-189a0fe2467c
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: 7f0c0057-687d-4337-a9b6-33565524eec6
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 629ed78a-ed21-443a-a83c-047b8a317a5f
+      :name: Loser
+      :segued: false
+    - :uuid: 90d3ff2f-5c55-43cd-92b4-ff0e3fa30086
+      :name: Truckin'
+      :segued: true
+    - :uuid: d54ebc5e-e537-4e00-a302-d35207a3180d
+      :name: Drums
+      :segued: true
+    - :uuid: 3c4de5a0-cb64-4e48-8d2c-bf8cf1174b77
+      :name: The Other One
+      :segued: false
+    - :uuid: 2acc8fb4-76e6-4006-b5fe-38c70b623dba
+      :name: Bertha
+      :segued: false
+    - :uuid: 22305e3a-1091-4122-9e2b-94661dbb5028
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: cf1babf1-f055-4367-b706-40c77587a365
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: e2fac90a-3333-4fa8-9046-033047990d43
+      :name: Beat It On Down The Line
+      :segued: false
+  - :uuid: 9ad7d9b8-3358-4f6b-a77b-7e661f86bd4b
+    :songs:
+    - :uuid: c7c58269-a805-47d4-9a92-b9a8d708f0ba
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 43e10f78-8c8a-48fe-abdf-a45bb0b62d15
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: bfaf0c85-5469-4382-8f4d-8274281c3a53
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 52470b7d-7044-4bda-bea5-5b40ff57e688
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 04d68c8e-8e0d-4be4-8c85-030a9573dd9c
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 227ae776-01cc-48a7-b45f-eab91a303710
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: 4024cee5-23c0-4632-be44-9e6d2ae32e03
+    :songs:
+    - :uuid: 97a7c4d3-9f9f-41ec-9b83-7d09b9d794cc
+      :name: Uncle John's Band
+      :segued: false    
 1971/04/04:
   :uuid: c2709167-a713-4531-9923-517770261832
   :venue: Manhattan Center
