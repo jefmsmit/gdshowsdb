@@ -450,7 +450,85 @@
   :city: Lewisburg
   :state: PA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 5430a35e-6386-431b-91a2-6e71363d2e0c
+    :songs:
+    - :uuid: 396e426e-648b-4d48-871b-4a10f31d15c3
+      :name: Truckin'
+      :segued: false
+    - :uuid: f9e0b39c-bc8a-47ae-b87a-320280d24c70
+      :name: Deal
+      :segued: false
+    - :uuid: 33d8cd42-cdb3-4417-83a8-c0d0f80a5b02
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: b378d56f-1762-4263-be59-5fb00f004f05
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: de3c423d-c53e-4704-a2fc-45e64029d908
+      :name: Bertha
+      :segued: false
+    - :uuid: cfd0c836-ff42-4680-bedb-579e9a386da2
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 1ec9794d-f5cd-4a26-85f2-7f63d867600d
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: fa131543-fe95-4ef5-b843-08bf88971d69
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: a080db3b-12a6-4ee3-97ad-1d4d17311b1a
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 4c126b6a-8ff7-4fdf-ad2d-fe1f5267d46f
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: efaf591a-2534-4026-a93a-c73170d6297c
+      :name: I Second That Emotion
+      :segued: false
+    - :uuid: 91b2510c-2601-452b-abc1-0c548154c513
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 42a77064-b61d-4906-a644-a491e4f89667
+    :songs:
+    - :uuid: 9e3d9885-4ee2-4de2-b5cb-a99cbdcb0aea
+      :name: Bird Song
+      :segued: false
+    - :uuid: 8f4209ca-1dab-4546-99ad-daff5e944685
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 70d49854-9c7e-4335-b256-6ed827cb9a70
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 6fd0551f-795f-4eb4-9166-b811166ec42f
+      :name: Drums
+      :segued: true
+    - :uuid: b66107f0-67b8-4b77-9642-7ae37abb468c
+      :name: The Other One
+      :segued: true
+    - :uuid: 19c251a1-2f80-48c7-92ca-6be87b95aff7
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: c707e19c-07af-44ac-a1a0-6917adf1111a
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 555076ac-eab4-46bb-b88c-dbbe9c6e30a2
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: a15e8114-f357-4a68-9c2a-2142b93c1d96
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 565226be-3e65-43e9-83b5-cffbbd2c970d
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 7ae43160-459d-4ac8-85d2-7687d29c9d76
+      :name: Johnny B. Goode
+      :segued: false
+  - :uuid: 229e87b1-a2bf-4855-98b2-bb2c51383702
+    :songs:
+    - :uuid: faeb2039-968c-4915-a32a-a160dca8fede
+      :name: Uncle John's Band
+      :segued: false
 1971/04/15:
   :uuid: 4a9e2381-271a-4efe-8da8-0a48d5b278e0
   :venue: Allegheny College
