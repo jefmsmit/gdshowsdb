@@ -429,7 +429,80 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets: 
+  - :uuid: 8c467f58-79e8-495f-a314-44d5fcb51955
+    :songs:
+    - :uuid: 5d8df1a9-8f37-487b-972b-1c2aaaddf034
+      :name: Bertha
+      :segued: false
+    - :uuid: 4f12413e-8d1d-40c2-96eb-02964da5da33
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 21a2fff0-00e8-4408-a479-17da49c4cbf6
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 923506fa-4e1c-46cc-988a-6441f3bd8c5e
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 4a8e4e56-2c5c-4c0a-b536-3de2994f1ea9
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 8bc20e11-4ccd-4a94-ab4b-8d608600bc52
+      :name: Oh Boy
+      :segued: false
+    - :uuid: d0c6854d-62e3-43be-9250-9e4cc9b60976
+      :name: I'm A Hog For You Baby
+      :segued: false
+    - :uuid: 5d2a88d9-986e-41a0-9b15-e853357ec1c7
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 9d5f3977-25b3-4d11-8ce6-09419fb64e04
+      :name: In The Midnight Hour
+      :segued: false
+    - :uuid: 9a62cb80-94f1-4cc4-8df3-3dcf079b070b
+      :name: Mama Tried
+      :segued: false
+    - :uuid: 6c8bdf04-aedc-464b-8824-4bf9fad68ec7
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 02e4cbfb-da70-4690-bdee-a952e5a9f64d
+      :name: Casey Jones
+      :segued: false
+  - :uuid: ccaaf901-4357-4c25-ad04-f4f418c1037b
+    :songs:
+    - :uuid: 8467801a-c0fc-4a78-a7a6-05694b96d922
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: 0b6e28bd-47b8-482a-8e8e-4da56d586b5e
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: e5a3e2dd-22e9-42bb-b29d-f95011e6aeb0
+      :name: Loser
+      :segued: false
+    - :uuid: 3c0233b3-36a5-4719-a247-bdaa7746b3c5
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: f60bed80-6217-4906-a847-3932eff55bd1
+      :name: Drums
+      :segued: true
+    - :uuid: f6e08e6c-1e70-44bb-b0e1-1295fdd126be
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 834f5e6f-b7c3-4909-acc2-bd03da2b241f
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 1796cce8-30aa-49ba-a937-615623c9f519
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 396e105f-1abe-47df-8a1d-7d09c94d16d7
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: fadc0fcf-3957-437f-8994-d350a4392e66
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: c69e82a7-56cf-4afa-8113-a4c75111b0d9
+      :name: Truckin'
+      :segued: false    
 1971/04/07:
   :uuid: 8c66287a-938e-40ca-91d8-9af6e49268eb
   :venue: Boston Music Hall
