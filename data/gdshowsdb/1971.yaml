@@ -892,7 +892,73 @@
   :city: Hollywood
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 9527a22d-fe4c-492e-a78a-4051a873ec6d
+    :songs:
+    - :uuid: c31604ef-0aab-4540-a037-5b976544d1c1
+      :name: Bertha
+      :segued: false
+    - :uuid: 234cf57b-889d-44bd-9687-f66ba9036460
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: e3c8d9f6-94be-4c85-8cb3-290271d9a623
+      :name: Mr. Charlie
+      :segued: false
+    - :uuid: da49869d-5cbb-4aa8-bf98-380fa66a42b5
+      :name: Sugaree
+      :segued: false
+    - :uuid: eeaff403-dcbe-4664-8126-f2c6e08a67fb
+      :name: El Paso
+      :segued: false
+    - :uuid: 0d33d7f0-7d35-420b-950f-36a467605610
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 84f1edf2-67f2-483c-8dde-646d361ef2cf
+      :name: Drums
+      :segued: true
+    - :uuid: a2bf6e98-7557-4474-a197-12be7a1415eb
+      :name: The Other One
+      :segued: true
+    - :uuid: 40923143-591b-4116-b68b-dd5228197128
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 07ac009e-1d77-40d6-855a-dd9a49729501
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 56002926-8853-4910-bb18-00e4fc6b3277
+      :name: Casey Jones
+      :segued: false
+  - :uuid: a6be08cd-845b-4640-abef-2abf9e570793
+    :songs:
+    - :uuid: 04a9eae4-3e91-494a-9e15-6caeeed1f51c
+      :name: Truckin'
+      :segued: false
+    - :uuid: 7f63bf5e-d909-45c6-aa3b-96809ab26b2c
+      :name: Loser
+      :segued: false
+    - :uuid: 6690d1b1-c808-4e43-82a3-e681cf8c9a2c
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 57526fc9-6ad6-4f95-8f63-66abe96c618a
+      :name: Bird Song
+      :segued: false
+    - :uuid: 5368fac3-d0fb-44c5-b11b-d9eb8ad39101
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: af499165-ac2e-42b6-bea9-8b33eb7e6481
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 79a1d124-9692-4339-911c-8ad34523dfbb
+      :name: Jam
+      :segued: true
+    - :uuid: b38fa488-7548-4f4a-b9c2-194092f375ea
+      :name: Not Fade Away
+      :segued: false
+  - :uuid: e04048a8-5756-4f07-b639-5f5bb7aebe5e
+    :songs:
+    - :uuid: 2338bcaa-927f-43d2-9a95-8017491431e1
+      :name: Johnny B. Goode
+      :segued: false    
 1971/08/06:
   :uuid: d6effd81-315d-4019-810c-1f06676f84f9
   :venue: Hollywood Palladium
