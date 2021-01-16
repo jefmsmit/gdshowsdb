@@ -464,7 +464,77 @@
   :city: Princeton
   :state: NJ
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: c2a2e9ee-fae4-45d3-8dae-d3050c16b808
+    :songs:
+    - :uuid: 681ae22a-f7c1-4969-9fa9-433e1f1087d5
+      :name: Truckin'
+      :segued: false
+    - :uuid: 0325523d-dd40-41e2-90a1-ea1c0dfa91f0
+      :name: Big Railroad Blues
+      :segued: false
+    - :uuid: 5d6025d9-dc11-4409-8faf-edd67169c0e6
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: f4d14369-c305-431a-b5b9-27e4d01233eb
+      :name: Bird Song
+      :segued: false
+    - :uuid: 71172e4c-b5c3-4d11-ac70-e3c00e4e8dbd
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 14a1b958-96b6-41e9-b771-699ea9f69ba6
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: b13315ab-26ce-4fba-8530-5a6ee4482981
+      :name: Loser
+      :segued: false
+    - :uuid: 2d73dbf4-e89d-4d91-a2a5-9a967b4e3b77
+      :name: Mama Tried
+      :segued: false
+    - :uuid: ad1d001a-5801-4650-a022-e60d9e0ba048
+      :name: Casey Jones
+      :segued: false
+    - :uuid: b1b60b94-38dc-40b1-b3f6-99fc0a05cde9
+      :name: Sugar Magnolia
+      :segued: false
+  - :uuid: f060eece-9027-4c63-b456-51a6957ee4a0
+    :songs:
+    - :uuid: 5cfbc550-c30c-42d6-8b1f-0d5322cbe4e5
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: 470ae059-c5b4-47cf-a08e-915bd5c427a6
+      :name: Drums
+      :segued: true
+    - :uuid: 6826ff13-5bc7-4255-ae3a-8c1d43acc1c6
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 16e994a2-6c0c-4beb-b8c9-63a83e13a751
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 7119bdcd-ba09-4a3a-aac9-1993215eb4da
+      :name: Deal
+      :segued: false
+    - :uuid: e5b9ebeb-4e18-4cb1-b9b2-662e7c0a0cb6
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 55a4f595-fe4c-4f0a-ae39-9273c80300ef
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: a70227ae-1cc5-436e-b4d2-38273ec2a361
+      :name: Bertha
+      :segued: false
+    - :uuid: d0c0de73-ef4e-420f-b8cc-1cd12cd31799
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 18850825-d1f3-46f0-8122-c0d526aef9a3
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 171fb09c-230f-49e0-a5c9-0b882268bdca
+      :name: Jam
+      :segued: true
+    - :uuid: 32760eb4-15b3-4ecc-9f9c-5aa5a31ae493
+      :name: Turn On Your Lovelight
+      :segued: false
 1971/04/18:
   :uuid: 4b791c10-65bc-447f-b094-e338a529e49c
   :venue: Lusk Field House
