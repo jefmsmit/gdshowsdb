@@ -457,7 +457,77 @@
   :city: Meadville
   :state: PA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 124899b5-76ca-443d-b9a9-36fd4e8ef55c
+    :songs:
+    - :uuid: 8ace5303-f82d-48f7-b795-833524371de3
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: dafa0e02-6253-4359-b8a4-89eb3c2fba53
+      :name: Loser
+      :segued: false
+    - :uuid: cd8b2f55-184b-473c-9969-32b7ef8b575f
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 4584cb63-cc14-4614-b6eb-1136ddd0c55c
+      :name: El Paso
+      :segued: false
+    - :uuid: 01958bb6-9dcb-4264-beb3-c04af86ba5ee
+      :name: Deal
+      :segued: false
+    - :uuid: e9eee252-9028-4114-b769-71b69ee3a414
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: eac822cc-1452-45fc-ba84-a9c871ca2e85
+      :name: Bertha
+      :segued: false
+    - :uuid: 00a9c5cb-6a29-44c7-b70e-61c5b74660c2
+      :name: Good Lovin'
+      :segued: false
+  - :uuid: 7500f84a-b06b-4144-b800-673424260659
+    :songs:
+    - :uuid: 089d0dbe-d65b-4213-8503-43ac2a6dca63
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 13f09095-7051-44d3-9bb1-4684ce20b9af
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: d937a8e0-6993-4945-b7c1-25d6590f6c5e
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: ace8e298-a290-4e4c-8d00-0935130943b1
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 45fec149-641d-4db4-ab2d-93fd6261f065
+      :name: Sing Me Back Home
+      :segued: false
+    - :uuid: 05774ba7-8ddb-4f39-a30f-e19810b56e39
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: f51e524c-0a69-439e-86a6-22e74e096acd
+      :name: I Second That Emotion
+      :segued: false
+    - :uuid: e4f95daa-b305-401e-9729-274f3827b371
+      :name: Truckin'
+      :segued: true
+    - :uuid: 9ae1a2d2-3c70-4602-ab81-98b93276908d
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: c9dfa7d2-33c0-410f-bbc2-3aed70aa6796
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 97efa988-ed8d-432e-864d-755b932d8a00
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: d74cc7a2-bd11-4e84-b475-19320db6da75
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 3934c156-c1ca-4b62-990c-fa2eb438466f
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: d2b0df93-7455-4234-87e9-b2053dc523de
+      :name: Johnny B. Goode
+      :segued: false    
 1971/04/17:
   :uuid: e446f2c5-b8db-469f-82dd-f4d6c03e31a4
   :venue: Dillon Gym
