@@ -152,7 +152,74 @@
   :city: Port Chester
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 509d1ce5-c2e4-4855-834f-b6d8c0c44c23
+    :songs:
+    - :uuid: 1f7a35bb-9b0f-4317-a6aa-d20e89f32ea8
+      :name: Truckin'
+      :segued: false
+    - :uuid: dcc1baad-c4b5-4630-8ec2-be2a69165616
+      :name: Loser
+      :segued: false
+    - :uuid: be713e9b-da94-4ce4-9d6b-9962093c75ce
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: bcafe251-e4cb-41fa-a693-d77b24c2600d
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 3324dcf4-ed72-457d-b40b-17d2b98d1cb5
+      :name: Bertha
+      :segued: false
+    - :uuid: 04bfbd8e-6813-4de9-b23c-2a98308187e8
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 4c1efabb-6191-4ff4-8d15-05d842402921
+      :name: Dark Hollow
+      :segued: false
+    - :uuid: 5d8c4ed5-affb-47e1-a1af-0b2e3c2e9c35
+      :name: Smokestack Lightnin'
+      :segued: false
+    - :uuid: 1893105a-c6aa-492e-8339-b1c20ee35ac9
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 018115df-68dc-4a25-be96-8f65ad94c34f
+      :name: I Know You Rider
+      :segued: false
+  - :uuid: 53546209-c02f-4675-af3f-d4dfd3dc41fc
+    :songs:
+    - :uuid: f7010a15-34e6-4877-b9e7-7b0c424041e8
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: c582072c-e44b-448d-a11c-c78d63a6e9c3
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: 8dfa2203-c2e6-4382-86b3-48d45a99a7bb
+      :name: Bird Song
+      :segued: false
+    - :uuid: 03d3cf45-2dd9-41ea-a0bd-92afbf9efa46
+      :name: Easy Wind
+      :segued: false
+    - :uuid: ba75d1ea-6c1a-4bcb-8667-93a315e4d5bd
+      :name: Deal
+      :segued: false
+    - :uuid: 41686fc1-d4c5-4373-9d0d-0f1cbf36a32e
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: b67f72ed-bfb7-485a-89e2-fe87d7c471a6
+      :name: Drums
+      :segued: true
+    - :uuid: 88383a9f-1172-4599-9b6b-bfd5f42eb14c
+      :name: The Other One
+      :segued: true
+    - :uuid: 77ae3033-b147-4bfe-b459-51fbe6b56fb0
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: d63a2bc6-b524-4ae7-b1eb-319421601d2f
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: 9b7b47d9-8c2e-45cf-9ca0-fa775f8102b5
+      :name: Casey Jones
+      :segued: false    
 1971/02/20:
   :uuid: 61cb8db2-5b7a-4caa-82f1-2967aa2ade60
   :venue: Capitol Theater
