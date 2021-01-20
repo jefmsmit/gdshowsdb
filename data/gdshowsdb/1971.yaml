@@ -401,7 +401,33 @@
   :city: Milwaukee
   :state: WI
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: bdc7c3b8-96fd-4754-a118-befc788e4b8f
+    :songs:
+    - :uuid: 5188734d-3a91-4539-8be6-3ff743ea4223
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: bea7a8d2-1bd0-42d4-bd7e-0cf6686dafb8
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: e9665074-da70-473c-81c3-3682ea928ca9
+      :name: Loser
+      :segued: false
+    - :uuid: fd600bb7-4c30-4baf-ae3f-6d5831a1d431
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 918f5016-a7f5-4e67-8e2b-b454eb78f41d
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: b94629fe-cc66-4c13-b21a-e9fd123c2c84
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 63d91f7b-f1a9-49ae-b5ee-12ece9a9bfbb
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 42f93b1f-28dc-42f0-8fc5-35863438c1e9
+      :name: Truckin'
+      :segued: true    
 1971/03/24:
   :uuid: 131c1cb7-efe9-4c29-a6a8-fd4621c76af8
   :venue: Winterland Arena
