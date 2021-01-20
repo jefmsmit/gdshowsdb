@@ -336,7 +336,67 @@
   :city: Chicago
   :state: IL
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: a85a2f96-5b0d-4acb-9f9d-b8ca192b9e73
+    :songs:
+    - :uuid: dbd0cc4a-e132-43f1-a3c0-6576f1fddf5e
+      :name: Casey Jones
+      :segued: false
+    - :uuid: d5c9e902-7fdb-4a91-9f05-bff45b696e31
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 33e79b81-0392-4ff8-9564-24ec7f972362
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 8be5303c-95b8-48f6-b4fc-4908350dbf20
+      :name: Loser
+      :segued: false
+    - :uuid: e919e16d-793a-4687-9d87-64d2c8057d0f
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 9f3d694b-28ae-4609-b0ab-d989b9a14a2a
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: c3286f07-181b-44c4-834d-8746199c4c0a
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 2d6f1f06-ca8a-4905-974f-8491972ab088
+      :name: Bertha
+      :segued: false
+  - :uuid: 550f7d3b-b6f5-4805-bd64-c58ad2e4b836
+    :songs:
+    - :uuid: 0b03e2b5-ffec-4cf9-8cfd-9f8b91162f7d
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: b2d227eb-774a-4665-8b9d-f354f5bed12b
+      :name: Truckin'
+      :segued: true
+    - :uuid: 5c1e5c4b-8a9c-4b68-94a4-9b5385328c84
+      :name: Drums
+      :segued: true
+    - :uuid: 8a74249c-215b-414d-8c96-0c5c97b39de7
+      :name: The Other One
+      :segued: true
+    - :uuid: 929a59d3-3e24-4409-9677-0d9575b75f70
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 2a84077f-77a4-457f-81ff-237c1ea38ac2
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 650cb278-8480-4b03-8d17-4fdc65ccf3d3
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: d72d6f56-cb12-4fe0-ae23-22f730994a8e
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: 71e6f16b-eb42-4bc7-b96e-900b2b2de6c9
+      :name: Johnny B. Goode
+      :segued: false
+  - :uuid: 046732dd-e4e7-4fa2-8150-33bcbd0af0b8
+    :songs:
+    - :uuid: 585b9926-3664-4f8f-a657-8e1a1d8cece2
+      :name: Good Lovin'
+      :segued: false    
 1971/03/05:
   :uuid: 24002925-3d7a-4a9b-b8b4-fe1118949643
   :venue: Fillmore West
