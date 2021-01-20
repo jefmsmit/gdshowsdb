@@ -12,7 +12,33 @@
   :city: Eugene
   :state: OR
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: cfcdbdd8-d760-4f96-820f-9982a98d1be6
+    :songs:
+    - :uuid: 4f864ae5-8a60-4e4c-8a13-42147be69978
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 552e161c-3840-4679-b3b2-2015cd40e918
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: a7bfed3f-6b40-4c1a-b8ca-c009632b5f8b
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 4fdc63ee-8b84-492a-8085-935f5d1a1242
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 006c3fef-aba4-4e67-bf39-8585c038f709
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 0f44b382-347e-40da-85da-3e65ea7b48f2
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 2f1d8a8e-44b5-4381-90ac-9e4d03a55000
+      :name: Brokedown Palace
+      :segued: false
+    - :uuid: ff977c2a-6348-4433-b381-449285ce5bcc
+      :name: Johnny B. Goode
+      :segued: false    
 1971/01/24:
   :uuid: 579263ac-f10e-44ec-a8e5-1c99b2a4faa3
   :venue: Seattle Center Coliseum
