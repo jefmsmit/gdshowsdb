@@ -364,7 +364,21 @@
   :city: St. Louis
   :state: MO
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 4e04ea3e-b0dc-4f06-97d9-5f1050c0a97a
+    :songs:
+    - :uuid: 5ae269d2-1f7b-41bf-a6ab-7e97b95e1301
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 7743859b-35c8-4d80-baa9-c66b90fb2cff
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: d7ed6c42-7066-48a3-8973-2b8c7216a7f5
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: fa533eed-70d4-4af1-a758-fd95f2bdb375
+      :name: The Other One
+      :segued: false    
 1971/03/18:
   :uuid: 893b24ee-5307-4109-a6d6-00ed4c13b978
   :venue: Fox Theatre
