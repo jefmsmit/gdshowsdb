@@ -329,7 +329,86 @@
   :city: Port Chester
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: e4a90d9a-f1b9-40ec-ab8e-1613e3ba4b2f
+    :songs:
+    - :uuid: 740eaf4d-4324-4428-a1e2-062b107bdf1d
+      :name: Casey Jones
+      :segued: false
+    - :uuid: ace7c40b-c706-455e-b85b-0ced33e4d2ee
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 6e61b7d5-621f-4ff7-b9ea-d10ba7443b5a
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 407ba1c4-4533-4c08-a343-663642bc3d0c
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 97c79cb2-a0f3-4ed0-8b3f-b2d2c3e7742b
+      :name: Bird Song
+      :segued: false
+    - :uuid: eeb870cd-eb1c-4775-af9a-a957cdb27143
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 095348b1-b45b-4f64-a1fa-d6a878ba1ae4
+      :name: Bertha
+      :segued: false
+    - :uuid: 6d16effd-7400-452f-88a3-7f7143236116
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: cba5cded-e16a-4780-a758-b6cceff6a387
+      :name: Loser
+      :segued: false
+    - :uuid: 7385e1a2-e1f9-477b-88ab-abdf73edbfa1
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 957c181e-1453-4e37-942c-025928a35680
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: c0c82abf-0f15-455c-b6d7-3451ec26e9eb
+      :name: Drums
+      :segued: true
+    - :uuid: 00be7307-8036-414f-8846-6fc9c64e4041
+      :name: Good Lovin'
+      :segued: false
+  - :uuid: dbbae6bc-9bc7-43f3-a36c-bb84193f746e
+    :songs:
+    - :uuid: bc02d8c6-52a9-423c-b1dd-6a1994a67a31
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 6217932b-1863-4e1f-8590-8030d5a56279
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: d5ac2a3e-b551-4a7b-9882-c0a74b5841ca
+      :name: Greatest Story Ever Told
+      :segued: false
+    - :uuid: 39e830cc-0847-4fb9-9488-5d7b365a35d8
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: 691a0391-7bd8-43c5-82da-908a529efc38
+      :name: Deal 
+      :segued: false
+    - :uuid: 5f49bbf6-8b14-4a8f-b7b2-cfa45c38e087
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: 857052b9-26e9-42fe-9f64-678bba0b9f66
+      :name: Truckin'
+      :segued: false
+    - :uuid: d9e422dd-96b4-4b71-8f15-cc85004ab6b2
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: d50672d5-f5f5-4e02-ab87-3637a24288ef
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 890f54aa-818e-4e54-b87b-a313f59833a2
+      :name: Jam
+      :segued: true
+    - :uuid: 59ace564-b462-4af2-b7d6-4acfb1a0e88e
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 7e8470df-049e-4cf0-bdd1-afb336f6ad14
+      :name: Turn On Your Lovelight
+      :segued: false    
 1971/03/03:
   :uuid: 076cc2ff-bf9c-4c28-9a45-16c6432e54cb
   :venue: The Syndrome
