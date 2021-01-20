@@ -357,7 +357,53 @@
   :city: Madison
   :state: WI
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 7a18b8b8-ba6b-44dd-b3c4-b1dc2f967046
+    :songs:
+    - :uuid: ef632db3-e4c1-4756-a93d-9d36fc7718c6
+      :name: Truckin'
+      :segued: false
+    - :uuid: 579073a3-fe93-4e4c-b216-a45f282a7a7d
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 65ec5726-3945-4bfd-937c-7df8ba9ff517
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: d6c3cda2-3ad4-43cd-8e63-dd9b0ae91d9b
+      :name: Bertha
+      :segued: false
+    - :uuid: e443655e-48d5-4ba9-a776-1e13d3ce9ef2
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 685bd755-0bcb-439f-b159-03c31d4687b5
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: d3723a1d-78dd-45e0-9278-15a326bf55ae
+      :name: Loser
+      :segued: false
+    - :uuid: ab1589b3-3cc3-49aa-b7c2-ce1f1df9b727
+      :name: Good Lovin'
+      :segued: false
+  - :uuid: 8636cc58-fc4c-4751-bb16-42f11168e5e1
+    :songs:
+    - :uuid: 51766b04-e6e6-4e53-8755-01cfddc81ff8
+      :name: Casey Jones
+      :segued: false
+    - :uuid: 82980472-fc97-4c36-8eec-fe2d5ec564b5
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 897e167f-8f99-4590-99ce-d5687dac62bc
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 839865b0-849d-4763-b64f-19c35eb894ba
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: 961769b1-6f1f-43cd-b66d-14bd01c5ae8a
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: e879d8f6-0402-4644-b1e4-18306ccd6346
+      :name: Uncle John's Band
+      :segued: false    
 1971/03/17:
   :uuid: e1c91ba4-8ff5-4e1b-96f7-3a8de1a5902d
   :venue: Fox Theatre
