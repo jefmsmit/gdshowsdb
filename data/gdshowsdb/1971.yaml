@@ -371,7 +371,80 @@
   :city: Atlanta
   :state: GA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: b0b06957-1a9d-4cd7-9b58-65dbe1998e5d
+    :songs:
+    - :uuid: 347fda83-a103-498e-a710-98cacac5227d
+      :name: Casey Jones
+      :segued: false
+    - :uuid: c6d6f17c-f4ab-493b-9e9a-aa05200fe456
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 2acd2b39-f046-4dd1-ae60-b360e3d8be49
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: b14f5b26-2b6e-4455-b227-82dfec0e1be4
+      :name: Bertha
+      :segued: false
+    - :uuid: 4dd0921c-a6f8-414e-9059-8717289186eb
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 157f6c12-596e-4358-9332-f1f05fcefbac
+      :name: Loser
+      :segued: false
+    - :uuid: bf7494bd-919a-4479-8d2a-bfd27aa6ca62
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 2b6e59b7-74ee-435c-b23a-cda330f788be
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 2f8e91b1-e844-4306-8f39-72e7ecbb9e17
+      :name: The Rub
+      :segued: false
+    - :uuid: 2d745ae4-dfbe-4649-88e0-765d5cc92f9c
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: 6f660c95-d8fa-430a-89f7-cd22063a7cc9
+      :name: Cumberland Blues
+      :segued: false
+  - :uuid: 4fefd5c5-6dab-4941-ab83-4158bbb38f1e
+    :songs:
+    - :uuid: 19a9a518-868d-4189-8437-82047725a490
+      :name: Truckin'
+      :segued: true
+    - :uuid: f3d161bf-a574-4b15-bd21-091707ce78ad
+      :name: The Other One
+      :segued: true
+    - :uuid: 415e736d-a116-4d12-872e-47686d5c1ffd
+      :name: Drums
+      :segued: true
+    - :uuid: 09c48bc1-27da-4d18-8c14-387ca06603af
+      :name: The Other One
+      :segued: true
+    - :uuid: 4394c364-86a8-4648-b7c0-61a30edf55b6
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: d3dd88de-18d7-496b-bf3d-5a948bd04801
+      :name: Sugar Magnolia
+      :segued: true
+    - :uuid: f082ccf3-2929-4d74-babe-363b13e0be22
+      :name: Johnny B. Goode
+      :segued: false
+    - :uuid: 44ab127b-c85f-4bcb-b94c-b5054f12a65f
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 9eab9e9c-c3d2-47c4-97b9-3b83c1b8eedc
+      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: 383859ef-c2ce-45d2-8bb9-9910653cca57
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 27ca4001-f3aa-4904-abe2-6d4a78111d93
+      :name: Feedback
+      :segued: false
+    - :uuid: f20d8eb0-99aa-4a97-b7bd-094a15931241
+      :name: Uncle John's Band
+      :segued: false        
 1971/03/20:
   :uuid: c39cbcdc-9f46-4d0a-8529-2e78f5b5360f
   :venue: Fieldhouse
