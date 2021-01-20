@@ -236,7 +236,86 @@
   :city: Port Chester
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 65c6bce6-14f6-4c9b-afa4-b6fe04279341
+    :songs:
+    - :uuid: 240a43df-ab5d-43b3-be55-9e710cced5f2
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 412dea9c-7072-4120-ab65-a7633b2f717a
+      :name: Me And Bobby Mcgee
+      :segued: false
+    - :uuid: 5b6ffcd1-7b1b-44a3-b5dc-1aecbec9e057
+      :name: Loser
+      :segued: false
+    - :uuid: a78e88fb-15fa-44f0-b19f-9df4ee372b22
+      :name: Easy Wind
+      :segued: false
+    - :uuid: 3ffb3bac-0113-4f62-b683-ebbb6e6342ba
+      :name: Playing In The Band
+      :segued: false
+    - :uuid: d2fca4c5-73b4-4644-9399-5c7d09a4d67e
+      :name: Bertha
+      :segued: false
+    - :uuid: b9943b33-c4d4-4bfe-9d98-0f4133c0d925
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 86e77878-f285-4940-9f58-b0aed4918751
+      :name: Ripple
+      :segued: false
+    - :uuid: 4806c86f-dca6-401b-aeed-d9c2567f6442
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 2094d5ca-a533-454a-ad80-2df4c64a172c
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: dffa4f94-bf3f-4cd1-ac4a-5577914c925b
+      :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: 5c207845-096f-4038-a38c-8e1a34ef2e3c
+      :name: Johnny B. Goode
+      :segued: false
+  - :uuid: 8d7fab70-fe5e-498c-a6ad-c69eefaf27eb
+    :songs:
+    - :uuid: 33f5e22a-114c-4884-a539-d03deff6f9f5
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: c24ff82c-94ed-4248-b9af-0557018c1269
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 033d1b45-868e-4f4e-9606-a3b6daf9a3b3
+      :name: Bird Song
+      :segued: false
+    - :uuid: c4f2572c-ebf7-456a-adfb-2c06b5b47aac
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 8a1fdaea-9ee6-4589-a6d9-e158b40438be
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: ef39da23-3658-4336-805d-4e336f04a689
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 4f4b33dd-fa34-47b9-9ffc-e65bf3a4e8ec
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 1226aa93-1737-4de6-9822-58d929c45b90
+      :name: Truckin'
+      :segued: false
+    - :uuid: f77314a7-f94a-45b2-94aa-7624da3ecdf5
+      :name: Casey Jones
+      :segued: false
+    - :uuid: b854c2eb-8592-4ba6-ad00-088508230837
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: 4d16f66b-261c-4e2c-9e2f-15ed402930b1
+      :name: Drums
+      :segued: true
+    - :uuid: b3e1d61e-dd52-425d-bfbf-4826450c7a8c
+      :name: Good Lovin'
+      :segued: true
+    - :uuid: 1114b782-922b-4e6e-b8e9-abd668b91e63
+      :name: Uncle John's Band
+      :segued: false    
 1971/02/23:
   :uuid: e8bc8f42-5d8b-42ab-84c7-cbdbe52f009a
   :venue: Capitol Theater
