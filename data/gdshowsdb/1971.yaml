@@ -5,7 +5,59 @@
   :city: Davis
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 333a0428-b6a1-48ce-9393-1873777599ac
+    :songs:
+    - :uuid: 5a3c920f-7aa0-4afc-88b8-2fad0d8791dd
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: c1e435bd-b575-4e72-96b8-daa9b53bcde3
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 51bf99a4-d67d-43a4-b960-07a8af5b4e55
+      :name: Smokestack Lightnin'
+      :segued: true
+    - :uuid: 9ac49b75-0649-4c38-89ac-85c4a0e2cc9e
+      :name: Truckin'
+      :segued: false
+    - :uuid: 292dd399-1061-414e-9cec-ee5af9931e4e
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: 187a1595-02fa-409d-b0a4-d947faa6672d
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 4a91c39d-75e5-43b8-9908-68090a0621f8
+      :name: Sugar Magnolia
+      :segued: false
+    - :uuid: 6d7f8095-767d-4027-9bda-b287d6577e12
+      :name: Black Peter
+      :segued: false
+    - :uuid: 033f980d-fe90-4bd4-8c8d-7293f1997594
+      :name: Around And Around
+      :segued: false
+    - :uuid: 33ce5e4e-c8d9-49f4-9a6d-8c8b8e71988d
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 271ef56f-94c3-47a0-8dbd-b2ed0cc86b33
+      :name: Casey Jones
+      :segued: false
+  - :uuid: a7c36378-f23b-42ef-8011-195a131746bc
+    :songs:
+    - :uuid: 87f5c30b-902a-4295-bb60-1bde847cb4e4
+      :name: The Other One
+      :segued: true
+    - :uuid: 5a9918a5-aedf-4fc7-94c3-b3eafd82a795
+      :name: Cosmic Charlie
+      :segued: false
+    - :uuid: 3a35d873-fefe-44d9-b705-29b7134a65de
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 821994ee-1c0c-4a44-b94d-58c0e23b8773
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: e1e6f2bd-b777-4ec6-89b8-9676305430b6
+      :name: Uncle John's Band
+      :segued: false    
 1971/01/22:
   :uuid: 1b014de0-7f3c-4926-8538-1d108eb1e756
   :venue: Lane Community College
