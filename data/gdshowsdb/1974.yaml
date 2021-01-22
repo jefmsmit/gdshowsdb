@@ -1062,7 +1062,7 @@
       :segued: false
     - :uuid: 3e7d5976-3a12-410a-b540-89538f10d384
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: cb3d7cc9-4a6a-4b82-bb66-6f57237b69f2
       :name: I Know You Rider
       :segued: false
@@ -1079,7 +1079,7 @@
       :segued: false
     - :uuid: c69bc459-8154-4e67-9a7c-18c7785002bb
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 5e6597c3-7678-4c8f-afd9-8aeff952aa33
       :name: Big River
       :segued: false
@@ -1105,13 +1105,13 @@
       :segued: false
     - :uuid: 32a1472b-b4d6-4009-880d-ebea1f41460e
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 53516f0c-afb2-4185-aff6-d00d7bd6ccb7
       :name: Nobody's Fault But Mine Jam
-      :segued: false
+      :segued: true
     - :uuid: 2f975b5c-cb75-4cc6-8140-98d4f51bb855
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: ae4d676b-d75b-422e-99c7-83fa85159a76
       :name: Goin' Down The Road Feeling Bad
       :segued: false
