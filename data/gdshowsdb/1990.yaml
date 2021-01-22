@@ -575,10 +575,10 @@
       :segued: false
     - :uuid: 8460b3af-39f0-4ad7-8e6d-9a99f2ad0fd4
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: ac6f156a-8e14-46fe-a169-ba232842ec0b
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: ecf41a0a-81b1-4fb0-b25c-813d3813ec49
       :name: The Promised Land
       :segued: false
@@ -589,28 +589,31 @@
       :segued: false
     - :uuid: 76ba7017-7ced-4532-9548-0fb29b77044e
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 26e1542e-05f6-453d-a09a-b9f541777013
       :name: Cumberland Blues
       :segued: false
     - :uuid: b9894a8b-b872-46a7-9f61-6bfb1f0ef29d
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 24405c0b-5401-4b99-a01e-6698a842ebea
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 8a630c1f-642a-4447-ad40-3266298ad977
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2761d103-393b-4c9d-b071-67da8ccbe805
+      :name: Space
+      :segued: true    
     - :uuid: 172a7af4-496b-4a9e-ade3-aec8c4dc7afa
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: d4c57f6c-c5a6-4e59-919f-e4d3f8e126bd
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: db079e3b-9a4c-4b22-8d61-d1fc077bb095
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 3519a4ab-2a01-40a2-9c4b-2e4d3de6789f
       :name: Turn On Your Lovelight
       :segued: false
