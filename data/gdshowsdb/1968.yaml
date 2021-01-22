@@ -221,7 +221,39 @@
   :city: Lake Tahoe
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2e26d2ce-16df-4efb-b9dc-110caf2e69a4
+    :songs:
+    - :uuid: f2185d0e-ce0e-4413-96f5-340522ade39f
+      :name: Viola Lee Blues
+      :segued: true
+    - :uuid: 2d03b8bf-4290-4936-a037-4fc2016c9294
+      :name: Drums
+      :segued: true
+    - :uuid: 05f7137e-9e13-4f15-a959-4211a4f52fbc
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: b89ddc9b-913c-44ba-8b65-4c7c90ad8e29
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 00494290-f33f-4c31-bf45-9f9f4cf33d0b
+      :name: Dark Star
+      :segued: true
+    - :uuid: c5a86697-28d7-43ea-9fb4-33ebf3fe925c
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 7f351cc2-b078-4cf9-84e1-5d8ab0bcdf4c
+      :name: The Eleven
+      :segued: true
+    - :uuid: ba6bda52-c099-44cc-8ae0-db6b71bbc76d
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 5cd33aaf-75a2-4fa1-9c47-02c9cdfb6bd8
+      :name: Born Cross Eyed
+      :segued: true
+    - :uuid: a635e8bb-829a-47cb-9e5d-85bd9bca60e7
+      :name: Spanish Jam
+      :segued: false    
 1968/02/24:
   :uuid: 2cd7099f-f448-4e9b-8579-52504fa520ee
   :venue: King's Beach Bowl
@@ -231,9 +263,6 @@
   :sets:
   - :uuid: bc96e302-58fc-4a7e-9ff0-0dd01b5d02eb
     :songs:
-    - :uuid: bff4d983-a721-4475-9d4d-db0072bfa7fd
-      :name: Dark Star
-      :segued: false
     - :uuid: 4dadaaf9-f415-4e17-99e5-805acfe9eae8
       :name: Morning Dew
       :segued: false
