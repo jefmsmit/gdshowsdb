@@ -280,7 +280,7 @@
     :songs:
     - :uuid: fdf2062f-ccf6-4716-8c47-7f557bc4f848
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: d78994cc-d5bb-4b7d-8c51-817f6fe1ce54
       :name: Sugaree
       :segued: false
@@ -301,7 +301,7 @@
       :segued: false
     - :uuid: d7775a0d-44f9-4837-afd4-aa52c946ed02
       :name: Cassidy
-      :segued: false
+      :segued: true
     - :uuid: 4e024eaa-74a2-4bcb-9aa4-b69d54a0aed7
       :name: Don't Ease Me In
       :segued: false
@@ -309,28 +309,31 @@
     :songs:
     - :uuid: 84c8dcfe-297c-45dd-800e-a8aaac4785de
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 13b94e35-61ff-49ac-976c-b34b07cc1623
       :name: I Know You Rider
       :segued: false
     - :uuid: 5b0ac069-c22e-4957-9add-13e5f2f7daf8
       :name: Samson And Delilah
-      :segued: false
+      :segued: true
     - :uuid: 59aaa0da-1eb2-47a0-9ddd-58fa159e0158
       :name: Terrapin Station
       :segued: false
     - :uuid: ef10948f-cd6e-4ddf-927c-581175166288
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 3641c2a0-d9b9-4da6-ac0d-27a94f547484
+      :name: Space
+      :segued: true    
     - :uuid: 2d54422c-db7e-439c-85bc-703fe3a49343
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: b5592b6e-84da-47b3-b0c9-e3aa8a4a3be6
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 385a84d5-0624-48e0-aee7-730f074b4d9a
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 065161b6-eb56-4fd2-a6de-9f40fc593132
       :name: Not Fade Away
       :segued: false
