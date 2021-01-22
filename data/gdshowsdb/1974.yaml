@@ -898,7 +898,7 @@
       :segued: false
     - :uuid: 854d276b-72ac-4694-a486-305cd6a7a276
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 18a72817-d139-4903-958f-8e016fbad5ea
       :name: I Know You Rider
       :segued: false
@@ -921,19 +921,19 @@
       :segued: false
     - :uuid: 02c9f5d3-41d2-457f-bee9-fc5fd3cf6f73
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: d1d7b3d2-c0e6-4894-bef4-3b76b2b3c713
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 54c2bc79-d18c-4f1b-a7fc-4d32c86155dd
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 2a184a8c-469a-417d-9bd0-5c6159a13688
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 05cfef3f-e258-4cf8-961f-8f3ab171f596
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 51d32877-e2fd-42eb-97cd-aec52f6b168f
       :name: One More Saturday Night
       :segued: false
