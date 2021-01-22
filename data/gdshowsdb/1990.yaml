@@ -656,7 +656,7 @@
     :songs:
     - :uuid: 22fa1b55-63fb-4e4d-93e2-06a5306c843b
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 48ed33e3-acbe-4e27-8f81-f335369d15d3
       :name: Fire On The Mountain
       :segued: false
@@ -668,22 +668,22 @@
       :segued: false
     - :uuid: cbf7ec93-4258-490c-96b7-bc9e36b9c427
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 044b54ca-3448-40b1-9bfd-114eb6b8d64b
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 0afca2d6-8c24-4cd0-9b4b-2cd2e889620b
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 34797f8a-af8d-429c-b2cf-8958af087157
       :name: Hey Jude
-      :segued: false
+      :segued: true
     - :uuid: 33607d71-80ad-46f5-bd38-83d92650ed7c
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: e0c7ae2d-b0b4-4b98-b3e2-b898d182a16e
       :name: Hey Jude
-      :segued: false
+      :segued: true
     - :uuid: a14a3b9a-6bec-49e8-8483-bb7209ec7ad6
       :name: Sugar Magnolia
       :segued: false
