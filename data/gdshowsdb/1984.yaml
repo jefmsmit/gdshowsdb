@@ -1057,10 +1057,10 @@
       :segued: false
     - :uuid: 75025b45-c214-4cfd-8da7-9ea588553dcb
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: d58e394a-ee41-496d-bac8-6c14df965868
       :name: Supplication
-      :segued: false
+      :segued: true
     - :uuid: fde9e06f-e8e3-4238-a6a2-1069697942dc
       :name: Deal
       :segued: false
@@ -1068,28 +1068,31 @@
     :songs:
     - :uuid: 3251f787-f79f-467d-ac13-2954ee14978d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a23caa57-1f45-45f8-a3d6-607d768ef69e
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 200314a2-d876-4ff2-875a-cd9aa151c9dc
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 6cdc6e37-9c9d-4497-8356-1b6b27023f22
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 4646c1f2-52e4-49e9-bd75-bd730da169fa
       :name: Never Trust A Woman
-      :segued: false
+      :segued: true
     - :uuid: b9667658-3ff0-402d-8760-876909a51160
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e2f3bcc4-675c-44a1-81a7-6ca6f3597e18
+      :name: Space
+      :segued: true    
     - :uuid: cc92fcb6-1c1e-4abe-8fdc-b2ab7a9c04a9
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: c3e06d80-a8c5-4aff-bba3-ffda3008258a
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 0f8b594b-5073-4033-aecf-e9ae364e05ec
       :name: Not Fade Away
       :segued: false
