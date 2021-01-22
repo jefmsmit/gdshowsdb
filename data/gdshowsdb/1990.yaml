@@ -207,7 +207,7 @@
     :songs:
     - :uuid: 18198493-45b4-4e89-aaa1-fe757abce35b
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: 34b6b327-159e-44b8-9c17-6c6a9f433238
       :name: Feel Like A Stranger
       :segued: false
@@ -216,7 +216,7 @@
       :segued: false
     - :uuid: 1a82d24c-33af-4b51-ba29-12bb7942bdf9
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 56908c8d-4774-488d-9761-81438490ebdd
       :name: Big River
       :segued: false
@@ -236,28 +236,31 @@
     :songs:
     - :uuid: e12ba80c-d3ce-478a-b3ce-b8d7e7d7dd64
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 36ae8141-97e1-42fd-be0f-dabb435a9e4d
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: d23f9f9d-bdc7-4ce5-9ab0-e73306576d84
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: f2642e19-82b6-4db7-a739-04c436540a0b
       :name: Jam
-      :segued: false
+      :segued: true
     - :uuid: 4bd8336f-a62a-46ab-a4f8-04e45ae192a7
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 59f9490f-6193-4696-a689-dd49a2073057
+      :name: Space
+      :segued: true    
     - :uuid: 55211431-0492-429d-b802-a9d02270da74
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: 1e4aa49f-6b44-44da-a474-edcd46b3b52f
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 7763bbc5-77db-4fe5-9877-2af3c02daab3
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 53c3922c-a0f7-4b39-9644-14acef86d8ad
       :name: Turn On Your Lovelight
       :segued: false
