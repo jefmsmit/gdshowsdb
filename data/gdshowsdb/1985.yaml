@@ -219,25 +219,28 @@
     :songs:
     - :uuid: e46a0687-7029-40ab-80f1-a5ea480a2fad
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 7a4e9148-c10a-42c1-88fd-6d87b1bc55a6
       :name: Cumberland Blues
-      :segued: false
+      :segued: true
     - :uuid: db02b9d2-d555-47b7-921c-e7b24b708308
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 535e47a3-c2b8-488b-803e-0cef54333258
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: fa41ee35-d989-4a10-981f-35f45d7317a2
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 6da9e2a8-ee96-47c2-87c8-7827f541c675
+      :name: Space
+      :segued: true
     - :uuid: b1ce6ac6-75d5-495a-b235-927f6f7e9703
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 97fc7bc5-2de1-470d-bc97-badf73fab568
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: e200db64-a9b4-4442-989f-aa104cd6f4c0
       :name: Sugar Magnolia
       :segued: false
