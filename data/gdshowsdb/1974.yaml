@@ -713,7 +713,7 @@
       :segued: false
     - :uuid: 7fdf92ee-77df-48c7-be5d-c47826ad2749
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 02fa4241-11e2-4851-9725-beb26582dbde
       :name: I Know You Rider
       :segued: false
@@ -721,10 +721,10 @@
     :songs:
     - :uuid: 0639b7e3-610e-477e-97d6-17518a0c97b1
       :name: The Promised Land
-      :segued: false
+      :segued: true
     - :uuid: 9e105f39-b85a-4c44-8104-786b1a64a814
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 07cc54f6-7a0f-4ac5-8106-e334994a24bc
       :name: Greatest Story Ever Told
       :segued: false
@@ -733,13 +733,13 @@
       :segued: false
     - :uuid: e79c3814-b760-455a-83ce-14ebfb9f7e6d
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 28252b3d-69ac-4387-af9f-f615764467f4
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 0ca9a2f9-abbb-464a-b750-e13c8a747f9a
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 620be3bd-bc8c-4696-b61f-552a1e0bfcd9
       :name: Wharf Rat
       :segued: false
@@ -751,16 +751,16 @@
       :segued: false
     - :uuid: 62d45e35-d238-425d-b9a5-813f227f4d3c
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 4c29dcd9-8f1e-4023-83d0-2eadc63aa2f3
       :name: Mind Left Body Jam
-      :segued: false
+      :segued: true
     - :uuid: 39b93b29-cc3a-432f-aef9-b2cbfc3e1209
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: e781ee78-04e4-4df9-94c2-972c5336f300
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 4833433e-3f9c-4923-8482-e078d481e66e
       :name: One More Saturday Night
       :segued: false
