@@ -4162,7 +4162,7 @@
     :songs:
     - :uuid: 97a52de3-35ab-414a-a39d-a6b88183b9f3
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: d081df4e-fad0-460c-b03d-948c471b478d
       :name: Greatest Story Ever Told
       :segued: false
@@ -4171,7 +4171,7 @@
       :segued: false
     - :uuid: 762ece97-71b0-4e79-bae4-eb88ff5f7e5e
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 80f6102f-45f8-4136-a589-725f904d0f2d
       :name: Mexicali Blues
       :segued: false
@@ -4189,34 +4189,36 @@
       :segued: false
     - :uuid: c9bf766c-3c78-4586-8816-8842821af183
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 3a561181-2cb2-4f1a-9a8e-c8682e4e81d0
       :name: I Know You Rider
       :segued: false
+  - :uuid: 2a171738-bef0-42a4-a2ca-3d9a68e7d17c
+    :songs:    
     - :uuid: a0b13597-a8b8-4610-b605-4dc706d2ce61
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: c5a996f6-b455-4a26-b435-ebd9f4479bfd
       :name: Comes A Time
-      :segued: false
+      :segued: true
     - :uuid: 82411f3b-a906-4da9-84e0-a873940622ed
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: d4a8ab1b-aeaf-41c5-9ac3-6bb332581045
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 63dff08b-fd3a-4a7f-bbfc-4ddbd99e7dc3
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: feb89769-fa38-4f4b-b141-f3ec136a46cb
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 72ce52c2-7e53-4162-a1ac-fb74a759d7fc
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 31a68efe-91b5-4a0d-882a-df0eecd66465
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: ee4f0d50-0101-4679-a5d0-f2017cc02b7a
       :name: Sugar Magnolia
       :segued: false
