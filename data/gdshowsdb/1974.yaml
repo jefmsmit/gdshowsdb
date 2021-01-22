@@ -983,7 +983,7 @@
       :segued: false
     - :uuid: afa99d24-f50d-4c7f-b708-5291b536b844
       :name: I Know You Rider
-      :segued: false
+      :segued: true
     - :uuid: 8aaadb56-927e-4d3a-afc1-414c9e2d406a
       :name: Around And Around
       :segued: false
@@ -1000,10 +1000,10 @@
       :segued: false
     - :uuid: 8e0ff915-717f-4089-90ef-8632e7b593e7
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 67c73827-6fb5-4855-ae86-ad9145ad2f9b
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 48b3e7f5-c222-4b62-a9e2-a1d6bc448c39
       :name: Playing In The Band
       :segued: false
@@ -1017,7 +1017,7 @@
     :songs:
     - :uuid: c51a7ce9-a503-4635-9e45-f29840359b3f
       :name: Casey Jones
-      :segued: false
+      :segued: true
     - :uuid: e43dac52-2170-46f4-9c57-2f1775b2b0cb
       :name: One More Saturday Night
       :segued: false
