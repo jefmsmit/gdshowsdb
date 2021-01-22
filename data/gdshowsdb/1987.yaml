@@ -5203,7 +5203,70 @@
   :city: Mountain View
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: bfb63f2e-96c0-466f-acb5-8e298b5e4b5f
+    :songs:
+    - :uuid: 23daa99f-e10c-49d3-8491-a01c45567a96
+      :name: Hey Pocky Way
+      :segued: false
+    - :uuid: 014242bc-7d8b-49ac-b587-3477570d6dfe
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: b6c7a581-8cdc-4a75-858b-98d0db036544
+      :name: Candyman
+      :segued: false
+    - :uuid: 32f02b3d-2b39-4a11-8a20-79a0afbd0830
+      :name: When I Paint My Masterpiece
+      :segued: false
+    - :uuid: 8733c09c-bf1a-493d-b756-47f2e17480c3
+      :name: West L.A. Fadeaway
+      :segued: false
+    - :uuid: 68e3c0f2-f760-4dfe-9d6d-85e519ee104b
+      :name: My Brother Esau
+      :segued: false
+    - :uuid: 2dc78436-f414-478a-b919-ca2fe8e4a6e2
+      :name: Bird Song
+      :segued: false
+    - :uuid: d72e5ebb-3531-4200-adb7-09533ffb46e7
+      :name: The Music Never Stopped
+      :segued: false
+  - :uuid: 44216ba7-27fa-4ac0-856d-392c6faf5c4f
+    :songs:
+    - :uuid: 65ba4dc3-d799-456a-9a5e-c21272a5b779
+      :name: Maggie's Farm
+      :segued: true
+    - :uuid: 874db7c3-9f61-461b-a03e-3a3c94b2c88d
+      :name: Cumberland Blues
+      :segued: true
+    - :uuid: a57e3830-ef44-455c-af7d-dbf522857a19
+      :name: Looks Like Rain
+      :segued: true
+    - :uuid: 0e64193c-6b3f-41cd-a71f-227f41948992
+      :name: Terrapin Station
+      :segued: true
+    - :uuid: 0c4b10ac-09c5-43a4-b48d-57da39999790
+      :name: Drums
+      :segued: true
+    - :uuid: e44afd1f-1691-48ef-981f-d71cafff3b1a
+      :name: Space
+      :segued: true
+    - :uuid: 60ff50b8-f1ed-466e-8b81-2eda5b4e33f0
+      :name: The Other One
+      :segued: true
+    - :uuid: 1384268e-f0ed-46b1-a951-10d9e07fb2be
+      :name: Stella Blue
+      :segued: true
+    - :uuid: fc643837-c9aa-460c-8157-bee432547089
+      :name: Throwing Stones
+      :segued: true
+    - :uuid: bf2a3aca-ca7e-4ed3-a97a-8bd316ff24a6
+      :name: Turn On Your Lovelight
+      :segued: false
+  - :uuid: da4c67b6-a94d-44b6-8f16-adf5324b594a
+    :songs:
+    - :uuid: 0257a0ea-f856-489b-b1b2-ee01e66e59ed
+      :name: The Mighty Quinn (Quinn The Eskimo)
+      :segued: false    
 1987/10/04:
   :uuid: 06d0ae5e-803b-4811-938a-dd643a33e7f8
   :venue: Shoreline Amphitheatre
