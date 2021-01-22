@@ -4512,10 +4512,10 @@
     :songs:
     - :uuid: dc472798-0aee-4a19-9137-a24354ad8e63
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 80d478d3-02e7-41d8-b6d2-ba8f92fdf21b
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 54bc85c2-5a5b-4a05-ab93-d174afd816cd
       :name: Franklin's Tower
       :segued: false
@@ -4541,34 +4541,34 @@
     :songs:
     - :uuid: de69abfd-b5a3-4540-a231-a374fffa075e
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: 28f08f25-49d1-4a00-a631-5031801333d1
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 8a0e06dd-b723-442f-9516-2a6eb294daab
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: bceb73a0-5aea-4832-8b22-3a1fa38d14f0
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 15d571a8-dfcc-40b0-8715-57f688d20ce9
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 0eddd926-2645-4008-b0bb-7726cab70a33
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 366c878f-df03-4a7c-bb79-7ee585732b39
       :name: That Would Be Something
-      :segued: false
+      :segued: true
     - :uuid: c4fa8f6c-0f21-4e53-873c-b82effbc4754
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 72fa3ced-15b1-4660-aad2-bf75a9bc4f35
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: 64d90ebb-f4e4-45e5-b7ea-541c377a154d
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 4df15309-3865-4bc0-b92e-3ccff3903470
       :name: Not Fade Away
       :segued: false
