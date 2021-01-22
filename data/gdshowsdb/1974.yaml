@@ -816,13 +816,13 @@
       :segued: false
     - :uuid: a39b3fe4-79e4-43bc-803a-876363ed4872
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 1c5c0ce7-734e-4317-87d0-cc23e917b3e5
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: a02cda8d-cbe9-42b2-871d-2e10b3a1101f
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 9068deef-928b-4747-9e57-5e623f5c96fa
       :name: China Doll
       :segued: false
@@ -845,10 +845,10 @@
       :segued: false
     - :uuid: 5514080d-a299-457b-8a78-0bc69d9b1246
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 3778ad18-1087-4a08-aa6b-48b20102d6d3
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 68404df6-cf1b-4bb9-8254-0119a36e9970
       :name: Sugar Magnolia
       :segued: false
