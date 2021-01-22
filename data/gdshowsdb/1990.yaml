@@ -1260,7 +1260,7 @@
       :segued: false
     - :uuid: 3f91b815-b4ab-43e1-b823-7112727dc675
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: b934e777-44c8-4270-84b4-f727391b6996
       :name: Sugaree
       :segued: false
@@ -1275,10 +1275,10 @@
       :segued: false
     - :uuid: dde70a2c-8c41-4322-b835-dbea0d0b4bc8
       :name: Picasso Moon
-      :segued: false
+      :segued: true
     - :uuid: 9d98980b-82e2-477b-a791-5f0b36da7217
       :name: Tennessee Jed
-      :segued: false
+      :segued: true
     - :uuid: f1f375ab-4666-469d-9d78-ae2a3806396f
       :name: The Promised Land
       :segued: false
@@ -1286,28 +1286,31 @@
     :songs:
     - :uuid: 1b32b3c7-93e9-4396-a5b3-0e7631b335a1
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 837cf958-d467-4f16-9d50-62299ba34c4f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a70a54e5-585c-47e8-b75c-74914b3c6cb3
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 191905ca-023d-4c48-b44c-68293a12f565
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 56bd1df3-6e11-4b51-9e5d-00f55a753ee4
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e7af93a1-6ebb-46bf-a8c5-d7ed2ee26b3c
+      :name: Space
+      :segued: true    
     - :uuid: 6f590d6b-8c33-4ab5-9740-eeddce28eedd
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: e1d45f28-96cc-483e-96c6-dc691dc2360e
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 3d30761b-112b-41a5-8387-b3f1a47ab91f
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: d9b74f0d-f010-40a4-9ddb-53b8c9627cb8
       :name: Not Fade Away
       :segued: false
