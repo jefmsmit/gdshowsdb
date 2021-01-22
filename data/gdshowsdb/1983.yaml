@@ -591,7 +591,7 @@
     :songs:
     - :uuid: 4f4d8ace-5049-4eba-b7aa-1209c4024aca
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 9400d18f-ce75-4e6d-ae14-e51fd6e15bea
       :name: Greatest Story Ever Told
       :segued: false
@@ -623,36 +623,42 @@
     :songs:
     - :uuid: e3c811fa-5565-4030-bbcd-491d6f12e52e
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 73e669ec-af64-41eb-8dd4-15e97489195e
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 0bbf4e7c-d657-41b8-8bc2-fbdc6967e332
       :name: Franklin's Tower
       :segued: false
     - :uuid: 98cd7d05-f1de-483d-b572-5f07d9c8851f
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 5be56aa4-da00-467c-ac64-ae43b0ad010d
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 371a6011-1485-46cf-9e33-647c2f1345b4
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 5e08ceb6-fb21-4a40-a64a-b7767639ba94
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 19efd602-89d3-4df1-9cbb-96c3b382769c
+      :name: Space
+      :segued: true    
     - :uuid: 583c3ebb-c447-4442-81ec-65a6dc509e9a
       :name: The Other One
       :segued: false
     - :uuid: 239ba120-82f6-4fa3-b173-45f865abd1c3
       :name: Wharf Rat
       :segued: false
+    - :uuid: d05f76b7-6ae0-4791-968c-148f5f7e3337
+      :name: Not Fade Away
+      :segued: false    
   - :uuid: e599c24f-468b-43d4-baa2-202dd413e76d
     :songs:
     - :uuid: 134a910a-d009-4180-8713-f2240879a8c5
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 46db697c-80f9-47d4-8d16-25259790bb32
       :name: It's All Over Now, Baby Blue
       :segued: false
