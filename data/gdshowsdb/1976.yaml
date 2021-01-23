@@ -25,7 +25,7 @@
       :segued: false
     - :uuid: 1bff2ff2-9452-4b53-9091-a6a51bd8934f
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: baa2314e-dc7e-4827-8ef4-b22d567c4fa6
       :name: Supplication
       :segued: false
@@ -48,16 +48,16 @@
       :segued: false
     - :uuid: aa9c42a0-fed3-481c-a388-384d4c29780f
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 9d2dfda7-6547-4216-b93f-07c958134ff5
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 2e2397f5-39f2-4af5-a497-3638dd3da7f1
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 801053be-d693-4baa-9e76-794075171d5d
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 3bf088ed-de22-447d-b511-8dfc87f777ff
       :name: It Must Have Been The Roses
       :segued: false
@@ -66,10 +66,10 @@
       :segued: false
     - :uuid: 95a22619-d040-4129-919a-cb5182186638
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: e45a2307-218b-4cbb-a402-30e0c5fa0fd5
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 0d1227a0-0cb3-44ef-b68e-0e64ba8ffeab
       :name: Franklin's Tower
       :segued: false
