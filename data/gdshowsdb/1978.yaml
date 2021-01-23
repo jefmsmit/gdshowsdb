@@ -5537,7 +5537,7 @@
       :segued: false
     - :uuid: bb0b8302-7173-4b1b-a857-223cc3985125
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: e12e41e0-aa8e-4908-813b-d3216679e85c
       :name: Mexicali Blues
       :segued: false
@@ -5569,43 +5569,43 @@
     :songs:
     - :uuid: 29ed828b-6e4c-4e06-9e33-7ad4233e3398
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: d08e1708-426b-4279-a03c-c997bfe86910
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: d344ccf2-4b50-4b31-bd05-400db73eb655
       :name: Good Lovin'
       :segued: false
     - :uuid: 41a68eb1-f7b0-4c6e-81d1-3742dafd6831
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 43d0cfcd-d2c7-4592-a059-12b0221d03e1
       :name: Fire On The Mountain
       :segued: false
     - :uuid: d9a46580-3b59-4cc3-9a27-97089f08c993
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 90153c7a-a731-4b3b-a707-beecd824f68a
       :name: Shakedown Street
-      :segued: false
+      :segued: true
     - :uuid: 2731b6db-1ba8-475e-b61a-f1652059a7af
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 9d70b13d-a7a1-4007-bc53-7a9a702f1c08
       :name: Ollin Arrageed
-      :segued: false
+      :segued: true
     - :uuid: 12c5e77e-6411-412b-9881-c04f49a60907
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 11b9fe50-9ec4-4d83-8dc4-6845afa5e61a
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 46f47833-38fb-42a6-aa82-53c7d6e26478
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 4af2cb2c-f681-48d6-8836-2c6b2f03dcba
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: b802d324-9986-4fc7-8109-9dc066684692
       :name: Around And Around
       :segued: false
