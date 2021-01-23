@@ -2358,7 +2358,7 @@
       :segued: false
     - :uuid: d881de7a-26f8-4901-bd70-634ee35cc615
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: f2f3d301-b50d-49e0-bdcb-a40dc48a3c71
       :name: I Know You Rider
       :segued: false
@@ -2369,7 +2369,7 @@
     :songs:
     - :uuid: 0b3baa7b-cf19-4323-b84a-70a13d96552e
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 1391c8e8-d262-4448-8040-309b5141f953
       :name: It Must Have Been The Roses
       :segued: false
@@ -2387,10 +2387,10 @@
       :segued: false
     - :uuid: e4f49dc3-a33c-4d15-972c-1d781e1ec538
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: d4862b49-ae02-4455-8ea0-25fe6f36bd8a
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: d3481158-f81b-4469-bd19-3efa6240a3e6
       :name: Stella Blue
       :segued: false
