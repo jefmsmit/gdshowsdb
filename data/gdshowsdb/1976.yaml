@@ -1681,10 +1681,10 @@
       :segued: false
     - :uuid: a4236b40-e2c6-4be3-85f0-661f2f6e9cb7
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 7069a68b-74a8-4871-ba42-1b0c671f7b77
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 14f48963-d7fe-45b3-9700-39358daf9f60
       :name: Playing In The Band
       :segued: false
@@ -1692,7 +1692,7 @@
     :songs:
     - :uuid: f57b6234-1c13-4bf9-819d-78756f4eb659
       :name: Brown Eyed Women
-      :segued: false
+      :segued: true
     - :uuid: a53e171b-9f4b-4d16-bc0f-837b260d3120
       :name: Samson And Delilah
       :segued: false
@@ -1701,16 +1701,16 @@
       :segued: false
     - :uuid: 71a11290-2d17-49f0-bc6f-ccd25209027a
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 5af89e5b-8cbc-4fdb-9f44-83ab1e1c938d
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 5138afff-44a9-4dbd-ac30-cef0e055c4a8
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 3a64a37c-5b33-4417-b155-6ff6391085fb
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 6468e848-f522-4732-a81d-917a51a27fa7
       :name: The Music Never Stopped
       :segued: false
