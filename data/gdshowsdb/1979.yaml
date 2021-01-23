@@ -1136,7 +1136,7 @@
       :segued: false
     - :uuid: a6bfa0ec-1cde-4b55-b065-9c98457093ca
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: bb1aaf92-419a-414b-a0ba-5086be765a96
       :name: Mexicali Blues
       :segued: false
@@ -1155,46 +1155,32 @@
     - :uuid: b764c285-7a39-4ae1-a4b3-d7fea2736d29
       :name: Stagger Lee
       :segued: false
-    - :uuid: 06ec6083-e9e1-47e5-9540-d5aab72447ed
-      :name: Cassidy
-      :segued: false
-    - :uuid: 3421df2b-c31a-4490-aa45-2acb46176e7d
-      :name: Peggy O
-      :segued: false
-    - :uuid: 06e68174-b244-4377-894a-e8863a51b1d4
-      :name: The Music Never Stopped
+    - :uuid: 0a790287-2e49-4aa2-bfd7-405d96bfc15a
+      :name: I Need A Miracle
+      :segued: true
+    - :uuid: 524e4b2f-1df2-445d-92f1-2c58db4f3d89
+      :name: Bertha
       :segued: false
   - :uuid: 7f8c092e-8c3b-4bb3-a91e-84475ad2ab59
     :songs:
     - :uuid: 0a3600ea-c97a-429a-99a5-d2494b5961f5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: cf523ac3-d1af-4a15-8e36-9ef384a9eb62
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 91dfa905-ea2c-4cc3-b57a-b5eb23da6b3a
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 963e5038-6389-4eab-ab87-e7d34faec3ab
       :name: Drums
       :segued: false
     - :uuid: 82ff2163-0306-4454-9209-57183e028bd7
       :name: Black Peter
       :segued: false
-    - :uuid: e9f87154-e250-45d7-b22b-38a3ebae1ded
-      :name: I Need A Miracle
-      :segued: false
-    - :uuid: 87095d74-6a72-4767-a078-0f2a2e4621cf
-      :name: Bertha
-      :segued: false
     - :uuid: 783f4f5f-c24b-4d79-8510-d9654aa09979
       :name: Good Lovin'
-      :segued: false
-  - :uuid: 74600b93-0c2c-451d-aa97-d2cd97b40db7
-    :songs:
-    - :uuid: 69aaae97-32b0-4bb3-8bf2-742963f711e8
-      :name: U.S. Blues
-      :segued: false
+      :segued: false  
 1979/02/09:
   :uuid: b47ba542-79bc-408a-a68d-edf78bd6161b
   :venue: Soldiers & Sailors Memorial Hall
