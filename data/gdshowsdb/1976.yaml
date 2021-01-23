@@ -621,7 +621,7 @@
       :segued: false
     - :uuid: f6860c3e-aee4-4352-b0ec-b3e9cdf820b5
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 5ca9f91e-0657-469a-a82d-58dbd7deca32
       :name: Might As Well
       :segued: false
@@ -629,10 +629,10 @@
     :songs:
     - :uuid: f20f42fa-ea9e-4f52-a1f7-63ecd9a18e94
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 4105276e-adb6-4a70-aacc-72340e1698c3
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 69ad6262-54eb-4ad2-b8b6-76515e8caa46
       :name: Stella Blue
       :segued: false
@@ -644,16 +644,16 @@
       :segued: false
     - :uuid: 74deea7b-fa36-4f96-abb1-90a735a584b3
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: dba432a9-d222-4461-ba46-419c2b5535bd
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 6781c917-802e-462d-8f2e-d4baf4fcfd8d
       :name: Sugar Magnolia
       :segued: false
     - :uuid: b514d1d0-8f39-4199-a605-ca3cbc03d2a0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ff29771c-a867-4f13-8c1b-88bdb21d91e3
       :name: Sunshine Daydream
       :segued: false
