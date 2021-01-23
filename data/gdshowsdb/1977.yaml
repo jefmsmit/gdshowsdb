@@ -176,7 +176,7 @@
       :segued: false
     - :uuid: 74bd3912-d9d8-4c4a-a3be-f2b2ee337ad0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1e4efb5d-fd3f-46c7-8bc2-ba74769d57e2
       :name: Fire On The Mountain
       :segued: false
@@ -199,19 +199,19 @@
       :segued: false
     - :uuid: 40c33b8b-6ba6-48db-b92c-066bafadaab4
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: f9974667-5de9-4c20-8c78-a4058f7a9bb3
       :name: L'alhambra
-      :segued: false
+      :segued: true
     - :uuid: 0851f337-1ee4-42fc-a196-2932311d9f18
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 7bd11b9c-f11c-42a8-9faf-efe54d8540b6
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: bffe6f46-2325-4b07-9c8e-2b74e54811a0
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 066c113e-a24d-403c-8062-5c0dc72abb35
       :name: Around And Around
       :segued: false
