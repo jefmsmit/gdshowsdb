@@ -598,7 +598,7 @@
       :segued: false
     - :uuid: 7b1f541e-d1b5-4aa5-b90a-756cad23e8a7
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 8b9cf92f-50a3-4a0d-9db4-fa173217af0b
       :name: Big River
       :segued: false
@@ -627,28 +627,31 @@
     :songs:
     - :uuid: c53d5165-c60e-4adb-808a-66ce96ca23d3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6801f513-1029-4bb5-aca8-892b625b0575
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 740a82fa-6478-4632-99ee-2d3cbfdb5be4
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 110db999-1ead-4fb3-96b9-09d5d9de9703
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 509cec3c-b0f6-49bc-a868-ed9f865b8a0f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 173119bd-6511-4d1b-a9db-ad0c69f274d6
+      :name: Space
+      :segued: true    
     - :uuid: dd8d4a17-654e-473c-a1b5-02a20a27c3c5
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: fec85ce7-8428-497d-ac72-c05967abed01
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: d845184f-d0a7-45f7-948c-375aab55e01c
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: fb934507-718c-4cb0-b63a-a52c2ad3862e
       :name: Good Lovin'
       :segued: false
