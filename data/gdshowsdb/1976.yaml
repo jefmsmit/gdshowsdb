@@ -363,7 +363,7 @@
       :segued: false
     - :uuid: d3ee0d3d-d3c6-419c-abef-bfd4fda506f6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e8261c96-2043-46a0-820e-c0c13b1b6305
       :name: Looks Like Rain
       :segued: false
@@ -372,7 +372,7 @@
       :segued: false
     - :uuid: 6901bc72-5b82-4654-b29c-3ea2880ee64e
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 6e722de8-bd8c-426a-ba90-14f75c6e8a72
       :name: Supplication
       :segued: false
@@ -386,10 +386,10 @@
     :songs:
     - :uuid: 1af028fa-d178-4beb-945c-3e9922e6ebfa
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: aff1de95-6504-49d6-9c36-a54affe37f09
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: b80ab340-fce3-4caa-9131-fffbcd0f53d5
       :name: The Music Never Stopped
       :segued: false
@@ -404,7 +404,7 @@
       :segued: false
     - :uuid: a0800350-f859-46d4-8270-1e6f19b041bb
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: b64025d2-1a16-4c7e-b07f-3930821652bb
       :name: Eyes Of The World
       :segued: false
