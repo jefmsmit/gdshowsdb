@@ -3274,24 +3274,21 @@
       :segued: false
     - :uuid: 6db5ca00-81db-4b45-a3e9-9311ff7d1a57
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: cedc0aec-310a-49c3-9c8a-15027caddc9f
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 0ceaf0fe-2ecf-49ad-940a-8b3ae3373c8b
       :name: Let It Grow
       :segued: false
   - :uuid: 243e6241-82d3-4d17-a4f7-12a97a664c63
     :songs:
+    - :uuid: 7946bdae-1e47-4aff-8909-acf9f6477402
+      :name: Seastones
+      :segued: true    
     - :uuid: e2e8873e-eafa-46a3-ad6a-877d50e8cd63
       :name: Dark Star
-      :segued: false
-    - :uuid: 17f12515-8ec7-4e89-9023-73071bc840c0
-      :name: Drums
-      :segued: false
-    - :uuid: 04f1b0fc-d8b4-44fa-9ebf-de48992cbb5e
-      :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: f2f7156f-019e-444c-9da6-3400647c489f
       :name: Morning Dew
       :segued: false
@@ -3299,10 +3296,10 @@
     :songs:
     - :uuid: f7170aa4-63ac-4392-a9c8-538c4e6da16a
       :name: The Promised Land
-      :segued: false
+      :segued: true
     - :uuid: c72c0939-cc53-4334-81eb-0a9814be9a85
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: b3658f0a-4695-4f57-a2c1-26be99ea5663
       :name: Greatest Story Ever Told
       :segued: false
@@ -3311,10 +3308,10 @@
       :segued: false
     - :uuid: c2187617-5c25-419d-9b1b-057614ef1108
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 545cc6fb-b5dd-4b3f-9208-a4a5ce10f051
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 84a7cfac-41ff-47c8-8db0-4df56e7d63aa
       :name: One More Saturday Night
       :segued: false
