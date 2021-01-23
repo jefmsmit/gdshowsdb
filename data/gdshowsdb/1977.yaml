@@ -682,10 +682,10 @@
       :segued: false
     - :uuid: 87675814-1ea6-468f-b022-4ffed8e5a0f8
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: d3af814f-3a64-4e64-ac67-ce952dc36d34
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 9d897160-54d2-4243-a6b9-3aeb12e70c6e
       :name: Good Lovin'
       :segued: false
@@ -697,7 +697,7 @@
       :segued: false
     - :uuid: 8dc87912-5ece-4020-b2dc-abee0e13f07d
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: bd7bd8d9-3fe8-4fd5-8c3e-7009adf3b906
       :name: Morning Dew
       :segued: false
