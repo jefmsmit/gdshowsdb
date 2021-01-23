@@ -1083,7 +1083,7 @@
     :songs:
     - :uuid: b93dabb0-8fef-452d-b05a-7591609f9c14
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 44dcdcbe-09ac-44da-83d4-64d037ee60d5
       :name: Good Lovin'
       :segued: false
@@ -1113,33 +1113,27 @@
       :segued: false
   - :uuid: 43f9ecf1-af13-404f-8721-f6ccaeb7308d
     :songs:
-    - :uuid: a98e482a-f189-447d-b445-e6984c7ca89e
-      :name: Scarlet Begonias
-      :segued: false
-    - :uuid: ed2d756f-db2f-4f1f-a8d5-e262d7866904
-      :name: Fire On The Mountain
-      :segued: false
     - :uuid: 0dca3c01-bf0a-4f2a-a6ee-267bedc0c6ae
       :name: Samson And Delilah
       :segued: false
     - :uuid: f1372163-b357-4ae9-be2c-6095b07b7ae5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a5fb23d4-a074-4114-bb81-ee2cb135f4d6
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 3917fe0e-6629-40f9-b0b9-decb6b82fee1
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: d147e847-7e0b-484c-8873-e4c9fbeade9e
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: ce3a941d-d011-45f5-964e-d6cf6d3e3ffc
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: dfd7c151-5faf-40c8-8dac-4f18c4d17e70
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e258e434-f639-4024-9a26-223abcf8f077
       :name: Around And Around
       :segued: false
