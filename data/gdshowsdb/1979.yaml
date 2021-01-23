@@ -2238,7 +2238,7 @@
       :segued: false
     - :uuid: 29589588-54a8-44bb-bc79-f6ba60b5fd35
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 78dc3437-2b49-4dcd-b23d-ed27add71b3d
       :name: Mexicali Blues
       :segued: false
@@ -2264,7 +2264,7 @@
     :songs:
     - :uuid: b3da50e8-fec9-4f2f-9ab0-a4fe882f1383
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: aa2cff2d-26e5-4b1e-bd3a-161edbbe9a48
       :name: Fire On The Mountain
       :segued: false
@@ -2276,19 +2276,19 @@
       :segued: false
     - :uuid: 2dd82e66-1220-4b4c-8726-7fc70a00dd10
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 64959a11-c104-4eda-a3bc-c166d770a829
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: c7266fac-3017-4df9-a8e7-3431463244b2
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 401b6bf8-340f-49fc-81ea-940498912569
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: f58d15af-cefc-44b6-bde0-e945ca202bf2
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: ecc39088-f93a-4cca-bc37-72f4c9372e4c
       :name: Around And Around
       :segued: false
