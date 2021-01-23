@@ -3104,9 +3104,12 @@
       :segued: false
   - :uuid: 62dd0876-3128-4ec6-8b34-cb1dbc4b191f
     :songs:
+    - :uuid: 5335eef9-6e84-476c-9fb9-73c1193a81be
+      :name: Seastones
+      :segued: true    
     - :uuid: ff2fb5d2-6f27-42d5-adbf-c37c3ba152d4
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 01d694b2-ef6a-4b01-b97f-27531379f98c
       :name: Eyes Of The World
       :segued: false
@@ -3118,10 +3121,10 @@
       :segued: false
     - :uuid: ed08d1eb-be73-4fa8-b386-51cafad892d7
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 371ff05f-5125-4b40-a777-e39c0bc35524
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 4b0b36e9-781e-46d5-9f47-149faa4293a0
       :name: Uncle John's Band
       :segued: false
