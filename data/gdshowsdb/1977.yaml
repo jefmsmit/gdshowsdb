@@ -1110,7 +1110,7 @@
       :segued: false
     - :uuid: defb5dec-4c18-41d8-a7d8-1a6c1298c9a5
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: cee1e95b-3fa3-43f3-8ff1-718d139e757a
       :name: Supplication
       :segued: false
@@ -1130,16 +1130,16 @@
       :segued: false
     - :uuid: d340cd53-ce19-4ec6-9973-a29085bc8dde
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: af734111-d4ef-44dd-9a92-460c0e22d099
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: ab85b44f-cb80-484a-813a-0dc4c242f8af
       :name: Good Lovin'
       :segued: false
     - :uuid: 1b23c833-abe2-454a-955a-d0cfd172e35f
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 73459c39-e9a6-405a-855c-0d87d3a482f9
       :name: Sugar Magnolia
       :segued: false
