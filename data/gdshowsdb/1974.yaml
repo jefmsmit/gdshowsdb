@@ -1913,13 +1913,13 @@
       :segued: false
     - :uuid: 7638aa5a-4f9a-4efc-81b0-95808d4b1858
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: ef036f70-e087-4dfa-b5d5-9cb3d69b1ddb
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 1da72f8f-56a4-4505-a255-34d7d220cff4
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 5e1e6881-64c3-454b-a15c-09ce292d17f8
       :name: Around And Around
       :segued: false
@@ -1939,7 +1939,7 @@
       :segued: false
     - :uuid: 0db2d82f-a056-44a9-9f80-8fe9d7c7c91f
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: d25c6c13-b0e8-44d9-b72b-d5724935017a
       :name: Stella Blue
       :segued: false
@@ -1948,7 +1948,7 @@
       :segued: false
     - :uuid: f5ef4d76-fd5c-45f0-b1f7-9b4da6df8d2e
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 5e5067e9-20c6-4b86-bb7a-7ad41511e6da
       :name: U.S. Blues
       :segued: false
