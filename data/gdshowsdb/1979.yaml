@@ -905,7 +905,7 @@
       :segued: false
     - :uuid: 783e2c6a-f758-49fc-84a0-c1b32379b73e
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 702deaf1-a531-4af3-bdb3-51d210bee1e1
       :name: Mexicali Blues
       :segued: false
@@ -914,7 +914,7 @@
       :segued: false
     - :uuid: c6446b70-6185-4e54-b86e-3af40ebf3376
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 357003b4-f75c-4ce1-a083-7f578dc93555
       :name: I Know You Rider
       :segued: false
@@ -934,7 +934,7 @@
     :songs:
     - :uuid: 8f1f546f-6edb-4c05-8cf7-a66f5fe6d8c1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: b05f856c-edc1-4d44-b24f-6fd7a738c6e9
       :name: Fire On The Mountain
       :segued: false
@@ -943,22 +943,25 @@
       :segued: false
     - :uuid: 08777eee-6f0b-4bb7-9dbd-e09dcf0c6d4f
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: ac7164b2-b4d0-4cb2-a4bc-cd02882a511e
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 9921e6ec-57e3-433b-a363-f34ce9dd4932
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e3948498-b020-44eb-9ae7-952fe8d247cb
+      :name: Space
+      :segued: true    
     - :uuid: 6916943f-10f7-48ee-b322-540b48058c33
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 468dc0b1-c1f3-4088-abd8-23ea0df7d564
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 1a78fa22-0dfd-491d-b7cd-e683abe15543
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 1393400a-992a-4fb6-af97-2640223c3095
       :name: Casey Jones
       :segued: false
