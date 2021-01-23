@@ -1250,7 +1250,7 @@
       :segued: false
     - :uuid: adeae1f9-1533-413f-9645-c4a3bb97b013
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 7b069fdc-ffa8-41c0-9972-966dc071888d
       :name: Supplication
       :segued: false
@@ -1270,7 +1270,7 @@
     :songs:
     - :uuid: 66ecb9e1-7faf-44a3-9777-8082f44ae7f4
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1b4242b9-f3e3-42d4-a0f3-b227542c9eef
       :name: Fire On The Mountain
       :segued: false
@@ -1279,13 +1279,13 @@
       :segued: false
     - :uuid: 64ab6c1b-d097-48f4-bd23-cc27d24e8956
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 8754445a-eeff-491f-a265-71dc70ea8512
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: d40b60d9-4fbb-4ec1-adb3-5c15faea98af
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: a070026d-a6eb-4f53-8655-f67140f22572
       :name: Morning Dew
       :segued: false
