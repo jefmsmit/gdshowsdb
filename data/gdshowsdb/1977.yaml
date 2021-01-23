@@ -3883,7 +3883,7 @@
       :segued: false
     - :uuid: 5e6b8fd3-ae2f-4768-9b9b-07769d66288b
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: fe3e966f-dd4f-45e4-a04f-0d5c2d11da1d
       :name: Big River
       :segued: false
@@ -3898,7 +3898,7 @@
       :segued: false
     - :uuid: 829b590b-1664-4ecf-ac12-2ec92d8298ac
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: b5cb28b9-404e-4aea-b0ea-f69575035249
       :name: Supplication
       :segued: false
@@ -3921,19 +3921,19 @@
       :segued: false
     - :uuid: a87cc09c-ca42-4ed7-aa3a-e4d71757d044
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e2abbafe-8c2c-4188-9fb0-23823cd766fc
       :name: Fire On The Mountain
       :segued: false
     - :uuid: a12558be-f0b2-4e7b-80f5-00f72776e3cf
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: b9a96878-36fd-4a8b-be13-f12fa193ee86
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 355e223b-c2fb-4ac8-999b-094514682aaf
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 76b0b279-2ef9-4101-88d6-25d8c0d3e555
       :name: Around And Around
       :segued: false
