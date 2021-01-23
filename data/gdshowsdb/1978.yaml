@@ -3733,7 +3733,7 @@
       :segued: false
     - :uuid: 9f66e6c7-2844-4188-a8b2-df9506aed4e0
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: db8b4f88-7e07-4298-8f0b-b15ede08e7d5
       :name: Mexicali Blues
       :segued: false
@@ -3753,22 +3753,25 @@
     :songs:
     - :uuid: b7f08b61-94ed-435b-af08-37eaee5f8ade
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 367cbbdb-b140-495c-8b9c-327a66c2253c
       :name: Fire On The Mountain
       :segued: false
     - :uuid: e2bfb8ed-da43-4603-9508-44139cdb789f
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: b5146160-7e93-4cb9-8edf-2e16223dc4ca
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 18d16fe3-b78b-40a4-bb91-524ff9841e49
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 338e85a8-4fa2-4d7f-a8c5-000ba8316e61
+      :name: Space
+      :segued: true    
     - :uuid: 929bf89f-5aaf-44ca-9f73-ce9a8f2b73a0
       :name: If I Had The World To Give
-      :segued: false
+      :segued: true
     - :uuid: bb86dccf-ff56-4946-904a-179ee14f331d
       :name: Around And Around
       :segued: false
