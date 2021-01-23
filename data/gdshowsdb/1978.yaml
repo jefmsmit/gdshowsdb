@@ -5625,16 +5625,16 @@
     :songs:
     - :uuid: e77cd25f-b510-4671-bb7c-dc56038f277a
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 6f29d538-a17e-4d21-a7e0-4a396683ca01
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 75ef7d1a-4d6b-4177-a4c8-c12438637550
       :name: Fire On The Mountain
       :segued: false
     - :uuid: da6c045f-78b4-494e-96a2-f57839971fbc
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 3b4f377b-035e-4700-93ff-4d65806d3d22
       :name: Big River
       :segued: false
@@ -5649,7 +5649,7 @@
       :segued: false
     - :uuid: 164bc1c9-81b3-4cb9-b460-8c2b757a3138
       :name: From The Heart Of Me
-      :segued: false
+      :segued: true
     - :uuid: 48a32af5-b3f0-4615-9720-97438d02c557
       :name: Sunshine Daydream
       :segued: false
@@ -5663,19 +5663,19 @@
       :segued: false
     - :uuid: a2f1dd5a-aadf-42aa-98c7-f5dd73e6c6ce
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 8fce8b49-0a1e-45ff-a696-2b03c15e9fcc
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: f12e4566-6bdb-40e2-acf4-7a4e910dc9be
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 43b2ae1c-d191-4bbd-a43c-6bf04ec76caa
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: cbda4ded-9e65-42f7-8ddb-34ede2c20309
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 808bba7c-ca3d-4513-b568-a5b1851d56b3
       :name: Around And Around
       :segued: false
@@ -5683,19 +5683,19 @@
     :songs:
     - :uuid: 3e74bca6-4e76-4433-8ca7-f27804ef905b
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 89e9721f-4a1e-451b-a89f-8d39ae8ac007
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 519944f2-5fcc-4686-a2a5-e1dd89162a20
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: f191dcbe-7853-4e4b-aaf0-1fd2e4aacfe9
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 8d699b8b-35e6-4a12-9b19-3122ccc6dfe6
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 8b880ad4-7aaa-4517-9240-c5f19f2dd4b4
       :name: Good Lovin'
       :segued: false
@@ -5703,12 +5703,10 @@
     :songs:
     - :uuid: 274b68e9-8d59-44e1-b3ed-949bbcdd4223
       :name: Casey Jones
-      :segued: false
+      :segued: true
     - :uuid: 5fb593de-4af7-4b20-b588-da99e4b060ba
       :name: Johnny B. Goode
       :segued: false
-  - :uuid: fe143ddc-f31f-4610-b9da-8d9f7aa78907
-    :songs:
     - :uuid: c69d418a-a9dc-4c49-b6ca-0f65218f2a53
       :name: And We Bid You Good Night
       :segued: false
