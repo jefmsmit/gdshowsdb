@@ -2504,7 +2504,7 @@
       :segued: false
     - :uuid: 85d95d37-3fd8-44e1-afa5-caa14bfcc55d
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: 82eea087-21cd-4aa0-8f50-24112db4fd59
       :name: Mama Tried
       :segued: false
@@ -2519,7 +2519,7 @@
       :segued: false
     - :uuid: c76162df-8f25-4aa8-baac-3a5c4428f82d
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 5ec63ac9-37a0-4fb6-91be-c9b8323abf67
       :name: Supplication
       :segued: false
@@ -2527,22 +2527,22 @@
     :songs:
     - :uuid: 416e102b-f136-43de-a048-5660816a08dc
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 62779129-a96a-494c-be46-6e5245b80a1e
       :name: Fire On The Mountain
       :segued: false
     - :uuid: eee2397f-67cb-4ed8-bc67-812f860dab35
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: e61de959-cd37-46bd-b912-3d0b4ddd47a7
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 4ee56a89-b3aa-4a21-a035-90779aa747db
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: fa04438e-924c-42d7-bb27-b1cb4a6cdd97
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: d9f34255-8de2-4527-a8bd-d09ba745461e
       :name: Around And Around
       :segued: false
