@@ -1761,7 +1761,7 @@
     :songs:
     - :uuid: 09cda9ef-3d97-4dfa-aa6b-fb5f4963edad
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: dca0e5bb-e870-4515-a6e0-e115b0313d42
       :name: Fire On The Mountain
       :segued: false
@@ -1770,16 +1770,19 @@
       :segued: false
     - :uuid: bf1dd0ff-867d-4f7e-9ab6-f5e521665a45
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 23618f2e-bc16-4ea2-b323-7ec72ba54176
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: a989f9c7-0046-4fa1-b571-a1923120d283
+      :name: Space
+      :segued: true    
     - :uuid: 66c3ba9b-6b75-4c13-808b-217eac6c3d97
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1f531463-2bb3-4269-838c-f0803151e17f
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: edc9152c-6c22-4955-ac34-532e6f267579
       :name: Sugar Magnolia
       :segued: false
