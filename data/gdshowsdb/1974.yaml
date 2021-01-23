@@ -2764,10 +2764,10 @@
       :segued: false
     - :uuid: 91ee1fa0-13ae-4af9-a20c-fa8f11c5a631
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 87558ce0-83d1-4140-a239-6528a0d83507
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 1e997ae8-da97-4b7e-a14c-341d0d4c27bc
       :name: Let It Grow
       :segued: false
@@ -2796,16 +2796,16 @@
       :segued: false
     - :uuid: af3cc65b-9845-4fb9-a17e-fa1214855ad9
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: ae724e55-a5e2-4a30-bbcc-48665cd78730
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: a3bf2016-d486-4eca-bc2f-c94312f78c10
       :name: Sugar Magnolia
       :segued: false
     - :uuid: bfea89cd-3b0d-47d5-8ff9-316641dafa94
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: f7792dfb-fb42-4602-952c-295fc7aff64d
       :name: One More Saturday Night
       :segued: false
