@@ -3178,7 +3178,7 @@
       :segued: false
     - :uuid: 41c2cb18-0e31-43c2-b345-50161719fd3c
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: cd9a909b-228d-44c2-8036-2f086c98d78b
       :name: Big River
       :segued: false
@@ -3210,28 +3210,25 @@
       :segued: false
     - :uuid: b89b8308-dde3-432d-8b0f-6a97f22935b7
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 432f145d-a77e-4270-bf48-ccea52b1b22c
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2b45b215-17d4-4729-90f8-4c243ca42429
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 820ff400-e950-46d4-87a9-2995b8959748
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 9fc73e00-7bde-49a6-b115-2bda16cbaf14
+      :name: Space
+      :segued: true    
     - :uuid: a62748ff-709f-41dc-b0a5-8900490a48fe
       :name: Not Fade Away
-      :segued: false
-    - :uuid: 4de6cd63-ada4-4a30-a661-8384a3a99f7a
-      :name: Nobody's Fault But Mine Jam
-      :segued: false
-    - :uuid: 37451b19-0f44-4455-8a43-51f53adfc642
-      :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 69d85fdd-37d6-4c2a-a3a1-4ba6b6650a74
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: d8a05da0-239f-4b19-b292-38e18a1b601f
       :name: Around And Around
       :segued: false
