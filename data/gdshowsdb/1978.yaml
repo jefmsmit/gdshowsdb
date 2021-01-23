@@ -4004,13 +4004,13 @@
     :songs:
     - :uuid: 068874d5-bef7-4de8-b5c5-a1d1dc573043
       :name: Ollin Arrageed
-      :segued: false
+      :segued: true
     - :uuid: e6a2e4db-81c7-4896-8ca8-3a05cceec939
       :name: Deal
       :segued: false
     - :uuid: 4d5e7235-825a-48fc-9b8d-16fe9817184e
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: ae2fa17f-aa43-4a04-8a00-3e4c59a1227d
       :name: Big River
       :segued: false
@@ -4030,7 +4030,7 @@
     :songs:
     - :uuid: 4ee5fced-77d0-4f9c-9bdc-3131c8a5ecde
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f2f821bb-1772-475a-ba76-8e79f09c93db
       :name: Fire On The Mountain
       :segued: false
@@ -4042,16 +4042,16 @@
       :segued: false
     - :uuid: 236758e2-025e-4409-88be-c97c2395cb02
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 304650b8-f8df-409b-ba2b-cd2d3512ce27
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 4262b958-5e8c-4201-8b2b-d84179b95030
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: a4a1130d-cf92-438b-83c7-3659bf720c6c
       :name: Caution (Do Not Stop On Tracks) Jam
-      :segued: false
+      :segued: true
     - :uuid: 75480309-0e2a-42de-b4af-7d7244fd5759
       :name: Goin' Down The Road Feeling Bad
       :segued: false
