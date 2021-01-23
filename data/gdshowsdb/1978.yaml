@@ -4240,7 +4240,7 @@
       :segued: false
     - :uuid: 6dcf22b0-f4ae-4a34-8860-5a1c03051e50
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 5f5e8ad4-f35f-4248-b535-6ba036200a34
       :name: Big River
       :segued: false
@@ -4261,7 +4261,7 @@
       :segued: false
     - :uuid: 185bc370-4514-4561-9cf1-cd0c1e6a0c5f
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 8f2add6b-3a78-4a0d-83c8-d47cbfe0c2c3
       :name: Deal
       :segued: false
@@ -4269,7 +4269,7 @@
     :songs:
     - :uuid: bd068094-1955-4446-81a1-0bf9d66fe896
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3af6dbad-b8ca-4bbd-9d63-85cf5e836351
       :name: Fire On The Mountain
       :segued: false
@@ -4278,13 +4278,16 @@
       :segued: false
     - :uuid: 60924326-2044-451a-95d5-1cd29644c3b5
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: c65ee53d-4d0b-4fe0-93fd-b281d9f58ced
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ea4688c8-8d46-40d5-81f9-94e2720a1c7b
+      :name: Space
+      :segued: true    
     - :uuid: 881f134c-cf7c-41a9-aacc-cf4fc6fe3b5a
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: f935934d-d156-4a8c-8328-9e1fa1a95e85
       :name: Truckin'
       :segued: false
