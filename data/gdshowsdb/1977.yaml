@@ -4432,7 +4432,7 @@
       :segued: false
     - :uuid: 8678f2de-2a0f-43f2-9b88-bdd2efc6ce68
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 48bf452b-8edc-43fb-8dca-d2eb69d4d957
       :name: Supplication
       :segued: false
@@ -4440,25 +4440,25 @@
     :songs:
     - :uuid: 9c803288-23b5-4b4c-9054-146bfe44ef86
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 839ac79d-05ff-4c9d-9911-d8710624fc7e
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 4005b04a-b289-4fa3-aed0-e14fe42ec194
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 154c8642-c867-4cd3-8b8b-1d8577cb6793
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 9bcfe3ac-88ef-4508-96b0-9ed745a6f68b
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e8db30b6-93f9-4c3b-9c20-f2483d8e3181
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 769bad9a-b865-4d5c-923e-5a8770db46ee
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 41a8a225-9a8e-4af7-baba-0922b7d6f133
       :name: Around And Around
       :segued: false
@@ -4466,7 +4466,7 @@
     :songs:
     - :uuid: 9d08151e-8c83-466b-8103-728582f686fd
       :name: One More Saturday Night
-      :segued: false
+      :segued: true
     - :uuid: 40cec2df-5a51-4882-866f-c075f849bc55
       :name: Casey Jones
       :segued: false
