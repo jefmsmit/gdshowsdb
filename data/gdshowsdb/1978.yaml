@@ -2705,7 +2705,7 @@
       :segued: false
     - :uuid: 370d1e6a-afd1-4c3c-a4f4-795704ee7eba
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: 1db24a23-96f3-4b55-95e4-10bc77da0bbc
       :name: Mama Tried
       :segued: false
@@ -2728,7 +2728,7 @@
     :songs:
     - :uuid: 7d3f0f68-18c3-4d76-9839-cf9fa30754de
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f897f467-80a6-472f-a6c2-22d0f176b7a5
       :name: Fire On The Mountain
       :segued: false
@@ -2740,16 +2740,19 @@
       :segued: false
     - :uuid: 8f8d1c0f-3e36-4019-a4e0-7fbe442e7b77
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: e94a7226-6251-497c-b00b-1e602f6d0297
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 7b5c9eba-7ac1-4065-aa90-0330fae39474
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 93a24afd-ed37-4af5-b404-79bbaae67a96
+      :name: Space
+      :segued: false    
     - :uuid: de928b8b-f52b-4e97-8b22-dc22d04f576e
       :name: Comes A Time
-      :segued: false
+      :segued: true
     - :uuid: 601f3a92-85c1-43e8-96ee-1ef1d0acc218
       :name: Sugar Magnolia
       :segued: false
