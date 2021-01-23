@@ -848,7 +848,7 @@
     :songs:
     - :uuid: 49a22eda-ab23-439a-9217-6074fd6aae38
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 7ef5e28d-d784-4477-93ea-3c018768256b
       :name: Fire On The Mountain
       :segued: false
@@ -857,16 +857,22 @@
       :segued: false
     - :uuid: d3a119f9-cf45-4ebd-9967-389648123ade
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 95da64a6-e4df-4734-9783-8ea6f552fcb6
       :name: Playing In The Band
-      :segued: false
+      :segued: true
+    - :uuid: 66dbec24-9486-4507-88ea-16a03b617eda
+      :name: Drums
+      :segued: true
+    - :uuid: 2a591eb4-8d80-4213-bfed-25f2f9f88a9d
+      :name: Space
+      :segued: true    
     - :uuid: de9def76-cd50-4b44-9fe3-7157980507aa
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 4e078ed0-6835-4e40-a165-0c93e8ae4c47
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: f172a56d-bb50-493f-9090-bb11cdb75965
       :name: Good Lovin'
       :segued: false
