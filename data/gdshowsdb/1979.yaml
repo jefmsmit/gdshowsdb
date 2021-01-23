@@ -1878,7 +1878,7 @@
       :segued: false
     - :uuid: 015c1d99-3817-4873-aa53-db42456219ce
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: cacc3ec4-17f7-445f-878b-cf58f11b308a
       :name: Mexicali Blues
       :segued: false
@@ -1910,7 +1910,7 @@
     :songs:
     - :uuid: aef6e18e-0c88-478b-b51e-83f45996aa25
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 4b0fd2cc-217b-400d-b03c-d4e38a0381d4
       :name: Fire On The Mountain
       :segued: false
@@ -1919,22 +1919,25 @@
       :segued: false
     - :uuid: 076e840d-c163-4655-a2b1-2251ca8333d3
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: cf980584-3bc7-477a-8846-8e68594b320b
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: cc1b7f08-c0a1-4ed1-9b73-4ae3bda3be2b
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 0fad2831-4f38-4060-ad33-e31b5ee6ced5
+      :name: Space
+      :segued: true    
     - :uuid: e0652797-9a08-4716-98b1-aa7cd5ee21f6
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 7be61dca-00a1-4ae0-8ac6-01c49f8c4098
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: 5e4c2402-ace8-4875-90f3-30a46e78990c
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 67aadae4-c10a-4ee4-8038-a3f51d6ba909
       :name: Good Lovin'
       :segued: false
