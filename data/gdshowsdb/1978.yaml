@@ -3534,7 +3534,7 @@
     :songs:
     - :uuid: e9e81228-0223-49e9-af87-319b1ef5dac6
       :name: Ollin Arrageed
-      :segued: false
+      :segued: true
     - :uuid: 539029b0-5aaa-4787-96fb-e48f266c24ca
       :name: Not Fade Away
       :segued: false
@@ -3566,22 +3566,25 @@
       :segued: false
     - :uuid: 706aa313-d251-45c8-b366-d10912c674a0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 751650b9-c16b-410e-ac0f-d39f3cda0a94
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 10230f0d-486a-432a-bdf8-99378f77aac4
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 908706d4-5372-4584-9ad8-39663b05a652
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: ca82ffcc-6c70-4c4f-9fee-2b37b8119c11
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 8790238d-1662-4a3f-a9a3-277336757410
+      :name: Space
+      :segued: true    
     - :uuid: 3df9b01f-51cd-4e09-9237-2ebf6f40bbac
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: a3eae723-a958-4767-bd7e-dd58c6092d12
       :name: Around And Around
       :segued: false
