@@ -1481,13 +1481,13 @@
       :segued: false
     - :uuid: f1802760-1e47-405b-8d6f-35b3ca4fac67
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: e509bd8e-7ee5-4088-8b09-eaadd7813ff5
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: bda2c1f7-b963-4e2b-90d1-c9271d64bd7f
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 2ffbf1c9-9caa-4e08-bc69-4c8dc0030447
       :name: It Must Have Been The Roses
       :segued: false
@@ -1501,22 +1501,22 @@
       :segued: false
     - :uuid: 8474d055-1759-46f3-b9c1-f05ffdec9411
       :name: Jam
-      :segued: false
+      :segued: true
     - :uuid: 66896efa-6c9b-4a89-9dd6-413e1df0c645
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: ad3f5ab5-7621-4794-b7da-bcf4e5cd1c1f
       :name: I Know You Rider
       :segued: false
     - :uuid: ec816a19-2ab1-47bc-a695-8080ba170bb3
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 1d6ab132-d8db-4889-8796-7ee8a11b1a35
       :name: The Other One Jam
-      :segued: false
+      :segued: true
     - :uuid: a8b789ff-3f12-4269-bf47-5877db5aa415
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 0590570f-642d-4539-9e8e-45cab3fa5cca
       :name: Wharf Rat
       :segued: false
