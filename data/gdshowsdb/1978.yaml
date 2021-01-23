@@ -3049,7 +3049,7 @@
       :segued: false
     - :uuid: a574c44d-08e7-44bd-bd01-4bc5b92f34a5
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: 5cbee23e-38c7-4db6-967a-14945295f6cd
       :name: Mama Tried
       :segued: false
@@ -3061,7 +3061,7 @@
       :segued: false
     - :uuid: 8edfca63-5468-415e-b85c-129f6e32a70c
       :name: Deal
-      :segued: false
+      :segued: true
     - :uuid: 6fc6e9b6-0e75-4b68-a409-78839ff692a5
       :name: The Music Never Stopped
       :segued: false
@@ -3069,22 +3069,22 @@
     :songs:
     - :uuid: 37cda6c1-fbcf-498a-b54f-5f31fee3527d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bd17ee78-24f3-4dbb-9763-053e82b018c6
       :name: Fire On The Mountain
       :segued: false
     - :uuid: a8e23208-8be1-4fcf-9f6c-65eff7909543
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 4544a187-ee18-46c1-aa97-f37ee2ab327c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 9feee2bf-ad67-4682-897f-65fa77903887
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 0b4de35d-490a-4f71-9e1f-ce12b651b0f1
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 9ffe52fe-818c-47c0-8708-54784eabc9fc
       :name: Sugar Magnolia
       :segued: false
