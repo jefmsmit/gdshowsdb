@@ -5150,7 +5150,7 @@
     :songs:
     - :uuid: 2ae058fb-6589-4dab-afe4-44c6f87a77cc
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 43b334aa-a222-4042-9845-4fd0a5717758
       :name: Franklin's Tower
       :segued: false
@@ -5162,7 +5162,7 @@
       :segued: false
     - :uuid: 7e60d824-f8d9-4ba1-9b96-a5c8ce521c1e
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: fa14d2d3-3bca-4d98-bff8-64c72cf9f26e
       :name: Big River
       :segued: false
@@ -5177,7 +5177,7 @@
       :segued: false
     - :uuid: 7749de68-a7e4-4ccd-b8d7-75dd652f93e3
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 9298ecc9-9d7e-4a22-be83-9fa08c404261
       :name: Supplication
       :segued: false
@@ -5185,7 +5185,7 @@
     :songs:
     - :uuid: c18a40c1-ead7-44d8-99a2-a410ee54fa8b
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 0d679976-6cde-4eba-865b-440d28b615b7
       :name: Fire On The Mountain
       :segued: false
@@ -5197,19 +5197,22 @@
       :segued: false
     - :uuid: d1f17bb1-a586-44d9-a0ba-72508c8bc872
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: c37badf9-6087-4818-973a-a1a729dddf7a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: bb170285-4430-4652-90f4-aa883175705c
+      :name: Space
+      :segued: true    
     - :uuid: f2a3be86-7bdc-4e9b-890c-3ae477a63af4
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 2a2bf454-efe7-4c98-975a-4fd1fb565a2c
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 1b3d4440-7cf3-468f-baa0-83242e0cef19
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 58a2fa15-b9cd-4f5d-8caa-9739312c46e0
       :name: Around And Around
       :segued: false
