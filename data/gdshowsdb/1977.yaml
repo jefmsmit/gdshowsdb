@@ -531,7 +531,7 @@
       :segued: false
     - :uuid: 5100becd-d683-4f0d-a228-94ae0ac6d84c
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 11b868d7-fdd4-46a4-9604-e4c12f07300a
       :name: Supplication
       :segued: false
@@ -551,7 +551,7 @@
     :songs:
     - :uuid: 524f1d56-7f3e-4361-9b59-65b510653dc3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 0cc23eb1-8465-4581-a59b-348042208e30
       :name: Fire On The Mountain
       :segued: false
@@ -560,16 +560,16 @@
       :segued: false
     - :uuid: da3b8638-3483-4069-966f-cc79a1d5fd65
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 8e9d299f-12b8-49b2-8420-f63e775fd3d9
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: f6126a30-0c84-4e5a-b80a-75e5e02246f4
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 0bd0ecc8-5b11-4a7a-a3ae-c467988af09e
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 582bad68-b11e-4b8a-97ad-107763d7ce8f
       :name: Playing In The Band
       :segued: false
