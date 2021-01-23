@@ -1299,7 +1299,7 @@
       :segued: false
     - :uuid: 32bab96c-d09e-4aee-9acf-95586a106872
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 5c05f611-3c9f-4032-bc98-4005de3591f9
       :name: Big River
       :segued: false
@@ -1320,7 +1320,7 @@
       :segued: false
     - :uuid: 74332f1e-8323-411d-8c32-19d7d3907856
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: bafd60db-fbe4-41cb-8391-9b9ac5e666e4
       :name: Supplication
       :segued: false
@@ -1331,19 +1331,22 @@
       :segued: false
     - :uuid: b9ad4eb2-27a2-4ed3-a3ed-3470ed02e2d4
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 177b4202-3227-4935-abf4-0588fb5a768e
       :name: Fire On The Mountain
       :segued: false
     - :uuid: aefc258a-2a6f-4db7-bbcb-063f483efb29
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 1cd2970e-956d-49d4-9938-7d8690f0a963
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: f4078d7c-f317-40a9-b529-77e9392b89a6
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e51abf77-2da3-4605-a332-59fccc25fc70
+      :name: Space
+      :segued: true    
     - :uuid: 26fc706b-6ce6-494a-b298-e763d510f889
       :name: Sugar Magnolia
       :segued: false
