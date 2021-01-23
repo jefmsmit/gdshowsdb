@@ -717,10 +717,10 @@
     :songs:
     - :uuid: 8bb2c1bd-b06d-4e0e-9a07-d28e879c3902
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 7093a059-7d02-4d55-b313-c6e4a41d1960
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 14cb2563-cedc-4b98-a9ef-3795e9f37c23
       :name: Franklin's Tower
       :segued: false
@@ -752,7 +752,7 @@
       :segued: false
     - :uuid: 400b1194-c497-4cf2-941e-81f9eec15876
       :name: Sugaree
-      :segued: false
+      :segued: true
     - :uuid: d31f6c01-910f-477b-b8de-67780e81def9
       :name: El Paso
       :segued: false
@@ -764,19 +764,22 @@
       :segued: false
     - :uuid: dc6a88bd-95f1-45e2-9663-0b9b6336b590
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 60cbd748-fb3c-40d0-beeb-19fe0e90ca23
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
+    - :uuid: 3db8c21d-3bc2-4033-afb8-956a73c2f1c3
+      :name: Not Fade Away
+      :segued: true    
     - :uuid: 7934bda9-6889-4bfd-b871-29586ef4217b
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 0e1976dd-7b52-489b-af79-b6c2c124dd6d
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 1ce44f2d-5407-4356-aec5-2a48554e9f83
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 76f58f23-1ef8-4e1e-97fa-39ffa81fccb7
       :name: Around And Around
       :segued: false
