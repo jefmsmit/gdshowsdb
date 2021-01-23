@@ -1027,7 +1027,7 @@
     :songs:
     - :uuid: d49c3d7d-d278-4dc0-9510-22433f8e60f3
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: d08c276c-62f3-4ee1-a7e7-5fe266ad79de
       :name: Big River
       :segued: false
@@ -1062,19 +1062,19 @@
       :segued: false
     - :uuid: a5a5d777-745c-4842-bde4-073d2f7a336f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c04f8e4a-b757-4ebe-a5c3-97f24b7823c7
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 571dfae0-d989-441a-aef5-d410e8df78a6
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: c47f0068-94f0-4bfc-8b88-968b99798d05
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: cbb453e8-d1aa-4259-99b8-853e566f76ff
       :name: Comes A Time
-      :segued: false
+      :segued: true
     - :uuid: 375e1904-9113-48fc-bc98-e40b2050e92c
       :name: Playing In The Band
       :segued: false
