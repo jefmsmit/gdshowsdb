@@ -1436,7 +1436,7 @@
     :songs:
     - :uuid: 3f62f3df-f63c-49f9-95a9-6b73d41790fd
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 2423db39-2c15-4130-a364-6e61f46f3822
       :name: Good Lovin'
       :segued: false
@@ -1445,7 +1445,7 @@
       :segued: false
     - :uuid: 6eea2358-8452-459f-864a-c3efad7216d2
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 3d6f1db3-6a64-4fce-9e41-9c2d2df35cc6
       :name: Big River
       :segued: false
@@ -1471,7 +1471,7 @@
       :segued: false
     - :uuid: ec92d9e1-ef6f-487e-bdd5-3e161bb665a0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: fec596d7-7200-4d87-b493-85d7beb86178
       :name: Fire On The Mountain
       :segued: false
@@ -1480,13 +1480,16 @@
       :segued: false
     - :uuid: 0323794c-5f7c-4370-8612-b865eb3a386f
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 756e1fa5-7ecf-4f2b-8f30-5d654abbb859
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 93f1a7b4-c58c-486f-b04e-275d98911fa3
+      :name: Space
+      :segued: true    
     - :uuid: 0669ae66-fcbe-405a-b3ff-534c58c6e006
       :name: Iko Iko
-      :segued: false
+      :segued: true
     - :uuid: 1c0b5194-268e-4cdd-92ce-c0d0bb628fd2
       :name: Sugar Magnolia
       :segued: false
