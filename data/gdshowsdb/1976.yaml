@@ -212,22 +212,22 @@
     :songs:
     - :uuid: 07da2966-efa8-4ec7-9a91-edb0978e6b75
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 1ae53002-638b-4725-ad1b-837e86d92a31
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 22e478c9-c8db-440d-b0bf-99f410a098b2
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 1fa20b29-8de5-4f80-b248-42529b29e521
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 1960e6cf-b6be-4cf7-a104-b670a89c4a6f
       :name: Brown Eyed Women
       :segued: false
     - :uuid: 2e305f46-ff69-4c2a-bbad-810088c4f8d3
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 99bc365d-37c5-488d-a584-1ebdf7bbbf25
       :name: Supplication
       :segued: false
@@ -242,10 +242,10 @@
       :segued: false
     - :uuid: fd45cfef-2424-40fc-8971-4ef0c42e87be
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: c55e0118-c70e-4dcd-93d5-7abace2bf648
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 779315dd-7cd6-4d73-ae5a-7383c7c0e60d
       :name: Around And Around
       :segued: false
