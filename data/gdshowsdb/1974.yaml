@@ -2144,7 +2144,7 @@
       :segued: false
     - :uuid: 4d2e5830-9ffe-4677-b8d6-1ce1de25eb69
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 160adb24-8817-4522-a291-33481fb267b5
       :name: It Must Have Been The Roses
       :segued: false
@@ -2159,7 +2159,7 @@
       :segued: false
     - :uuid: d813000e-11b7-40ac-a424-03a9034bf8c5
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: c0a3218a-a1ce-46e7-90e3-0ec039711fcb
       :name: I Know You Rider
       :segued: false
@@ -2176,7 +2176,7 @@
       :segued: false
     - :uuid: ac213f14-7112-488c-935c-0988f28d212a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: fe7df64a-3a49-4ae8-9536-697deb4a003c
       :name: China Doll
       :segued: false
@@ -2188,10 +2188,10 @@
       :segued: false
     - :uuid: 31a03f09-b075-4a89-ab9e-9ea21916200c
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: b83c5e66-6723-4abf-8599-80304cbe9873
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: da74cd49-3abc-4497-9f4d-69172687c8e8
       :name: Let It Grow
       :segued: false
@@ -2211,13 +2211,13 @@
       :segued: false
     - :uuid: ee06024c-9e90-4e29-ae35-661a4b39efac
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: d9d67ea4-764e-42fb-992e-80c60a6e0e3c
       :name: Mind Left Body Jam
-      :segued: false
+      :segued: true
     - :uuid: 2ab07ed3-4c2f-4320-b203-299b2b20a26f
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 56924000-413c-4ad9-8492-9dc02cc4966b
       :name: Wharf Rat
       :segued: false
