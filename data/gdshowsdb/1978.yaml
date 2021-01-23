@@ -5007,7 +5007,7 @@
       :segued: false
     - :uuid: d7334888-7774-4ed8-9b44-7cfcf1e23aa7
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: b9f541fe-eabe-4d2b-91f5-16f02a065dd5
       :name: Big River
       :segued: false
@@ -5022,7 +5022,7 @@
       :segued: false
     - :uuid: 0ff6a7dc-e0fe-4ece-9359-e3e7c5cfed64
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 12fec0f6-1845-4212-9683-a1d66684f676
       :name: Supplication
       :segued: false
@@ -5030,7 +5030,7 @@
     :songs:
     - :uuid: e3cb928b-a65d-42f4-82af-afa4beed6d33
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c64f9ad7-3b8a-4ffc-94f1-458910b49192
       :name: Fire On The Mountain
       :segued: false
@@ -5042,16 +5042,19 @@
       :segued: false
     - :uuid: 59615913-ebe5-4e0c-ac06-3037b5c31971
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 9b126af7-73dd-4b82-a47b-ee28f1e2b26d
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 5ce6c908-6f55-464d-ac13-34a26725c8b7
+      :name: Space
+      :segued: true    
     - :uuid: 6851c5e8-516c-4bd2-9c3b-b70645291e6a
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: f30d4b72-d902-4b72-9e67-c5cbdeca66fd
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 5c8d3d11-9a88-4968-96e4-36e147651524
       :name: Around And Around
       :segued: false
