@@ -2521,13 +2521,13 @@
     :songs:
     - :uuid: b58670e2-9ba7-4ff5-beb9-54acc811197b
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 151c6a96-f1ee-4b0e-a9a1-d5a2de3fbd4c
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 491a4950-c5d7-4182-a5f4-0fbfbcb0b442
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: cf27b857-e6c3-4b79-9848-bbad26cde01f
       :name: Big River
       :segued: false
@@ -2542,7 +2542,7 @@
       :segued: false
     - :uuid: b4524429-7919-4619-85a0-57a382554255
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: e567cdcc-f863-4060-9757-9e69748ccb76
       :name: Althea
       :segued: false
@@ -2553,28 +2553,31 @@
     :songs:
     - :uuid: a71ddb47-4a87-48bb-97d3-c00737760cd1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: fc07373a-a4fb-416f-9851-66974ff10cf8
       :name: Fire On The Mountain
       :segued: false
     - :uuid: bb53662e-8548-4364-8b06-46bc4e35b173
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 5b97167b-6857-4083-989c-f33840546d0a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 63fdd6ab-d189-44c4-a57e-346605fa7b57
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 22778ba8-5202-42d7-ad15-e8f57ced47c4
       :name: Ollin Arrageed
-      :segued: false
+      :segued: true
+    - :uuid: 46b89caf-a570-42b0-b330-aaa0d3426e2d
+      :name: Space
+      :segued: true    
     - :uuid: 08814acb-0da5-4e54-9ff0-90da3e4a7dda
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 7a99ba32-c900-418b-858b-3c27f6284ffa
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e8b57d5b-b0a4-4e5f-81e8-642d7c7b4763
       :name: Around And Around
       :segued: false
@@ -2582,7 +2585,7 @@
     :songs:
     - :uuid: a744df36-076a-41f5-b1b0-265c2807e9e0
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 1427657e-49d9-47f2-8b11-5859e679e23d
       :name: Good Lovin'
       :segued: false
