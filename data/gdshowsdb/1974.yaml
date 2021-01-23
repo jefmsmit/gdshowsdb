@@ -1539,13 +1539,13 @@
     :songs:
     - :uuid: ac2a3950-c818-4179-863a-91e0c50ef92a
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: ac2df9df-d568-457e-a30e-efe6f58865a5
       :name: It Must Have Been The Roses
       :segued: false
     - :uuid: 832b62c7-de05-4a8c-990a-91acc8ff7061
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: 84064331-49f4-4153-b3d1-e8e35c91b52d
       :name: Beat It On Down The Line
       :segued: false
@@ -1582,7 +1582,7 @@
     :songs:
     - :uuid: 869905e1-db90-4cac-af70-283a05fb0c8c
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 6fa7cb9c-654f-4242-83b5-3f81fd7b61b1
       :name: Scarlet Begonias
       :segued: false
@@ -1600,31 +1600,31 @@
       :segued: false
     - :uuid: 0e11143b-61e2-4494-9308-d439e7547129
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: de2a8070-4e82-47d1-b2f6-2e1745b98b88
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 09596bfc-bfa3-4ccb-974f-efc7d8a151f6
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 7aac2a4d-3c8d-44bd-83da-022a43b6e851
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: a1f1f32c-2b8d-4ad5-b9bc-d9a987c58620
       :name: Mind Left Body Jam
-      :segued: false
+      :segued: true
     - :uuid: 837ad3c6-c103-4949-b9e6-0b9b47184b3f
       :name: Jam
-      :segued: false
+      :segued: true
     - :uuid: 43d44025-4532-43be-a968-4ec2b40c613e
       :name: U.S. Blues
       :segued: false
     - :uuid: 5ba50904-4ac0-46a6-b66b-a5ea4eee8e78
       :name: The Promised Land
-      :segued: false
+      :segued: true
     - :uuid: fb27aeb1-f417-44e9-8f88-295dadf1b63f
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 6cfe15fa-4fc7-4f75-a668-f56848edd459
       :name: Sunshine Daydream
       :segued: false
