@@ -1281,7 +1281,7 @@
     :songs:
     - :uuid: 1aa49bbb-3ede-4f8e-9f6c-d4a4773225ab
       :name: The Promised Land
-      :segued: false
+      :segued: true
     - :uuid: 108d96ab-4924-4dc9-aa2f-f2447313bab8
       :name: Bertha
       :segued: false
@@ -1322,7 +1322,7 @@
     :songs:
     - :uuid: a08dda07-c531-4182-8fc6-b8f22e7ac220
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 47a238ce-8892-4cdd-b30b-1b86e31ae461
       :name: I Know You Rider
       :segued: false
@@ -1337,10 +1337,10 @@
       :segued: false
     - :uuid: d7f220f0-0523-4a75-9e92-b61b9ecb70c7
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: c34f79ec-e42d-4635-9159-c9b9e753b68a
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: c67f1794-dcfb-451a-b8ef-68550e2dad36
       :name: Sugar Magnolia
       :segued: false
