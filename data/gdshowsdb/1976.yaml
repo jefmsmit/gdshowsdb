@@ -3180,19 +3180,19 @@
     :songs:
     - :uuid: 1a325a38-eb9d-43c4-8ba3-3b6ea6366f82
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: b54c28e7-fcf0-4a09-8d71-afab77b884fb
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 29e8f7ec-a9ba-492e-8b74-be2876105f72
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 6b6ec55d-3214-46b2-b254-face97d6d7c9
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 4422bbd5-391a-48eb-bf15-e17d64f65ad9
       :name: Good Lovin'
-      :segued: false
+      :segued: true
     - :uuid: b23932ba-6b9d-4111-a9e1-75958f202e50
       :name: Samson And Delilah
       :segued: false
@@ -3204,13 +3204,13 @@
       :segued: false
     - :uuid: b9ba9a45-0052-4511-a5e0-d3ab15d98546
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 7f7bc8e7-cfa4-40b9-a1ea-f30abf3a4928
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: e24ad017-6a07-41bf-8960-6bfe1a5f8280
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 444efc99-c4f9-4790-be3b-7339ec3d34af
       :name: Morning Dew
       :segued: false
@@ -3219,11 +3219,9 @@
     - :uuid: be99de0e-fd9d-45d1-85bf-275a3d93c5b3
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 91d41d93-b161-4d27-8072-ba6bf81d0e1f
-    :songs:
     - :uuid: 41b64e25-ec14-427b-9679-e66f14b47f34
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 9af3e6a5-552f-4672-b76a-cc7f8d12fc6a
       :name: And We Bid You Good Night
       :segued: false
