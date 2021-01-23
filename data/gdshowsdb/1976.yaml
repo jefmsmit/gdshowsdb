@@ -926,7 +926,7 @@
       :segued: false
     - :uuid: 062944c5-7486-48f7-90d1-76e83ae7a9bc
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: a58a29c5-a9a6-4dde-a785-dbcaeddb4533
       :name: Supplication
       :segued: false
@@ -946,10 +946,10 @@
       :segued: false
     - :uuid: d2ee85a8-bf13-4d2a-9cf4-01121b4c5939
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 5ef531d9-5710-436b-857a-98a966676edf
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 77301fc2-264f-4884-bec9-778d3c680d29
       :name: Franklin's Tower
       :segued: false
@@ -961,10 +961,13 @@
       :segued: false
     - :uuid: 5a7a59ec-1682-4d18-9a48-250ee6ddd3c1
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: f7ba3bf1-f56b-4972-a904-d558b232f53d
       :name: Around And Around
       :segued: false
+    - :uuid: 7d513f74-9076-45ac-80d9-b4695668b3d0
+      :name: It Must Have Been The Roses
+      :segued: false    
   - :uuid: c51ff143-cbe5-49bb-87cc-c74ec7c0fc00
     :songs:
     - :uuid: 2e12d81a-2557-4404-8fcf-8ed8e95e7dbd
