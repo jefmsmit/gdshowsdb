@@ -811,7 +811,7 @@
       :segued: false
     - :uuid: 0610b9b1-a4ea-40d5-9fc7-cfd5ed3fa110
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 4d467e9c-6f5d-4e6d-90ca-1770a0151421
       :name: Me And My Uncle
       :segued: false
@@ -831,10 +831,10 @@
     :songs:
     - :uuid: 735ced24-b69d-4d58-9cad-36a9fd89625b
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a560232f-b32a-4aa8-9e27-730429d8a51d
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 1234111a-e01e-4219-84b3-c601f391ca87
       :name: Good Lovin'
       :segued: false
@@ -846,16 +846,16 @@
       :segued: false
     - :uuid: 050655be-d5a3-423b-a789-c9f0af1c79ba
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 3919e6ca-d9c3-4f13-af6e-46061d02ce28
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 351fc682-73ed-4d4a-81b3-9b5899709d6b
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: dbb7d3cb-51cf-409f-a00c-3d4b86a4afc5
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 9c8f28e8-60a9-4985-b7e2-176114e9977c
       :name: One More Saturday Night
       :segued: false
