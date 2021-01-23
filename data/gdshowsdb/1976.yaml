@@ -2100,19 +2100,19 @@
     :songs:
     - :uuid: 74cd3ca3-a862-4f22-985f-1952476a0670
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: db692dac-6b12-451b-8ab5-59949856c851
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: c50a5b6e-7d29-44e5-a477-248841ad26d1
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 1af4b3d8-f333-4248-bd4e-947e4ff2d1a5
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: b08d8491-80c5-4a53-95b0-4c4e94352756
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: be7166a2-55c0-4218-9a75-6b1be838e48a
       :name: Samson And Delilah
       :segued: false
@@ -2121,13 +2121,13 @@
       :segued: false
     - :uuid: 13174910-daab-46fb-b666-0a1f4d920c9d
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 74949d79-d2ff-4086-9438-95e1baaac1d3
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 8bb01ac1-3d31-435b-a45a-2e866ad07a1b
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 232a7dcf-073b-4b1c-a440-0bbe66dde020
       :name: Ship Of Fools
       :segued: false
