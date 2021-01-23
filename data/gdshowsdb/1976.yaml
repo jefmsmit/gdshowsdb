@@ -2346,7 +2346,7 @@
     :songs:
     - :uuid: 5b5cbd29-df25-4e25-955c-2f6a31fc8535
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 0804d26d-3f23-48a7-87e3-5c6aea633358
       :name: Supplication
       :segued: false
@@ -2355,7 +2355,7 @@
       :segued: false
     - :uuid: 363af6f7-a54c-4549-a58f-7096ae17a701
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 236fb0cf-8b8f-4172-b9ae-9addecd81075
       :name: Cosmic Charlie
       :segued: false
@@ -2364,16 +2364,16 @@
       :segued: false
     - :uuid: dde33715-d1da-4032-a83b-51b3c84b4949
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 1554e9c4-8f79-4657-b325-3e0880ac0b65
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 8b355123-9ab1-4e4c-95e0-522bc435615f
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 7c144a1e-24a3-4e01-9424-fd11f57f3b22
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 3702222c-c086-4989-9df4-5073ed9a5629
       :name: Sugar Magnolia
       :segued: false
