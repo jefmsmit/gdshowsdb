@@ -5312,7 +5312,7 @@
       :segued: false
     - :uuid: 7b3d007f-9bf1-4425-9002-2fb0c56c18dc
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 9f2e0fa4-dfd6-4d01-9670-ac49a0f97b70
       :name: Big River
       :segued: false
@@ -5333,7 +5333,7 @@
       :segued: false
     - :uuid: e209f6d2-e721-48ed-b95b-20d77eeb9105
       :name: New Minglewood Blues
-      :segued: false
+      :segued: true
     - :uuid: 8dddb20d-ed7a-47e5-b12a-8328aeba113a
       :name: Deal
       :segued: false
@@ -5341,7 +5341,7 @@
     :songs:
     - :uuid: bddff46c-84d4-4628-b113-572a540d4755
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bb22ade1-9085-4486-88da-fea478fac85b
       :name: Fire On The Mountain
       :segued: false
@@ -5350,19 +5350,22 @@
       :segued: false
     - :uuid: db306436-5b8e-45ca-a906-fbf67deae37f
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: a8b0fa59-faff-4a18-8b4e-b7045abe9dfb
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 0a42c367-9693-4cc4-9638-f9d864ef5461
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: e6c9d984-f83e-4b6c-bc4d-059e6b49ae35
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: c3ad8941-32ce-446c-961a-8f159addb30b
       :name: Wharf Rat
       :segued: false
+    - :uuid: 762cadd9-92cb-437e-956c-30ac801ed551
+      :name: Around And Around
+      :segued: false    
 1978/12/27:
   :uuid: 6119651e-cd88-4d3d-8050-0d05c7871905
   :venue: Golden Hall
