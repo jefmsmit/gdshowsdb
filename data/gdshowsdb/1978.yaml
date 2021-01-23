@@ -2288,7 +2288,7 @@
       :segued: false
     - :uuid: 8a43b86f-5030-49f5-b54e-4b2ef26c24bb
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: d72f6a37-c015-4783-b94b-fd1a5efe4ba0
       :name: Mama Tried
       :segued: false
@@ -2314,25 +2314,25 @@
     :songs:
     - :uuid: 257b259f-9b11-4062-af07-da55fff71f1e
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c59ba3d7-8baa-4ebf-90c0-b00971443a99
       :name: Fire On The Mountain
       :segued: false
     - :uuid: d831ff68-258a-4315-876f-008e6cfea61e
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 7b8dbd16-f35e-4d12-9ad8-f189ee70ba9b
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: a5f23a00-96fe-47dd-b938-c80c04715196
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 2f3bdf14-42b9-43e8-b2b0-569a92349964
       :name: Iko Iko
-      :segued: false
+      :segued: true
     - :uuid: c2357ff5-15bb-4e1e-943a-551e60f15016
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 3c27a08a-7498-4ee8-91c7-d052615093b7
       :name: Black Peter
       :segued: false
