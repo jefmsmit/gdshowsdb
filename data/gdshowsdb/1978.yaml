@@ -3488,7 +3488,7 @@
       :segued: false
     - :uuid: c22452f5-0c68-4773-a457-f544c178c916
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: ec913c29-cf71-4ea0-8630-cd2437554636
       :name: Supplication
       :segued: false
@@ -3499,19 +3499,22 @@
       :segued: false
     - :uuid: d1ccc23d-fac8-45d2-a868-544ffc53bb09
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2aba005b-667d-4ead-a99a-dd3a1d5ab34e
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 4afec07b-5cd3-486f-b7b6-1621e5d31fcb
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 647e28ba-c800-4e51-b195-840de27ec693
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 874e2326-b491-4017-95f6-5d9a6a8d95d1
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: cf2c727e-84b8-418f-8a2e-55243bf2dbb0
+      :name: Space
+      :segued: true    
     - :uuid: 74c372d2-d1b0-4133-a75c-7a450b3f06ba
       :name: Sugar Magnolia
       :segued: false
