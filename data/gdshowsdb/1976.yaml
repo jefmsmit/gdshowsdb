@@ -2562,7 +2562,7 @@
       :segued: false
     - :uuid: ca84936c-692a-4c14-8004-25c9026abbf3
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 06cd8c13-bce9-4b14-8d5f-21a9ec3f1917
       :name: It's All Over Now
       :segued: false
@@ -2573,7 +2573,7 @@
     :songs:
     - :uuid: f24dbfe5-5985-4e85-9894-9a37045b4fbd
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 496560ec-0dd9-4c3c-803b-7c4f5d77a1fe
       :name: Supplication
       :segued: false
@@ -2585,25 +2585,25 @@
       :segued: false
     - :uuid: a1a2e886-0bb4-4649-aa5f-d531bcebb6cc
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 20509e69-1d60-4b39-80d4-08127f53aa63
       :name: Jam
       :segued: false
     - :uuid: 0a787507-c18f-420c-a7e7-462a74991d7e
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 63502232-53ee-44ef-99f7-ba94baaaf8d7
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: a52776f9-e068-44b3-9dce-95ae746c8735
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: d9a8675b-69a0-4e24-bb46-047b4420cf95
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 631bc69a-3654-4727-b71c-5624fad31a40
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: dd68908e-03a8-4b79-b372-b48f0f3954b2
       :name: Around And Around
       :segued: false
