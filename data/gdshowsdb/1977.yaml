@@ -404,7 +404,7 @@
     :songs:
     - :uuid: 49eaab02-b005-4c8b-b1a6-7b5272610f56
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f505a40a-cca2-4562-9b6c-6357d9f6502f
       :name: Fire On The Mountain
       :segued: false
@@ -416,16 +416,16 @@
       :segued: false
     - :uuid: 0f63d25f-0e67-4640-bedc-ef89e3802d3c
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: cfc445bd-7110-451b-9541-d472b666de1a
       :name: Got My Mojo Workin
-      :segued: false
+      :segued: true
     - :uuid: bb90006a-4377-47fd-a401-8b25a02fa63a
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 588ebc20-6084-44a3-a696-eb411b234aa0
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: b04dccb8-c2f9-4e96-8eb2-0c587eb43bc0
       :name: Terrapin Station
       :segued: false
