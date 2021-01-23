@@ -464,7 +464,7 @@
       :segued: false
     - :uuid: 740bae23-932a-4664-ad9f-3f612198000a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 556203f1-2d21-461c-aae4-5e5aa66e30d4
       :name: Fire On The Mountain
       :segued: false
@@ -481,19 +481,19 @@
       :segued: false
     - :uuid: cce92007-912b-486b-aeba-073a3e1007ab
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 236250c6-3dcc-4388-8040-66af545b2a14
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 5b9c1ea8-9157-4910-aa46-5c307dfb96d4
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: bce837ed-732c-4b91-8219-5aa6332ebeea
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 959ac3df-25c2-4a39-a039-f109bc0573b1
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 02e97028-2c62-448d-9462-d8e0969dc708
       :name: Not Fade Away
       :segued: false
