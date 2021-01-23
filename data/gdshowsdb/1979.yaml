@@ -2162,7 +2162,7 @@
       :segued: false
     - :uuid: db947c71-13e0-42ac-a3f6-f38a669d9e44
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d741859c-c9a6-4063-8bb2-e0bb0e95adc3
       :name: Mexicali Blues
       :segued: false
@@ -2188,25 +2188,28 @@
     :songs:
     - :uuid: cd8c8e5a-8db3-499d-b636-4a3dc417da2a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a9f29e67-3886-4c7c-941e-c2a6cc17fc2e
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2ffcc468-b69a-46e4-aca5-cc7322dcbede
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 79fcbf97-c226-4c16-bd0d-005e5c271763
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: f4e6e3dd-82a0-4eb5-aa96-3752d377239f
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: a6c5e42b-d125-4c1f-af91-2193b3cb04be
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 0e302999-0558-4a96-98ff-d2047b33f514
+      :name: Space
+      :segued: true    
     - :uuid: 1282b360-7e5e-499d-a0d6-60e312be8219
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 22f9ddd4-c82d-4bf3-85c6-76d03e24c87e
       :name: Around And Around
       :segued: false
