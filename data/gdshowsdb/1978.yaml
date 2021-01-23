@@ -1813,7 +1813,7 @@
       :segued: false
     - :uuid: 3d630103-917f-40c1-88de-e66e137ce9bb
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: ec4529cc-8937-4a4a-838d-e01ec915962d
       :name: Supplication
       :segued: false
@@ -1821,19 +1821,19 @@
     :songs:
     - :uuid: 89e43d41-791f-4859-9d9b-23d6acb521b9
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ab247eff-1cd7-4dce-b7e7-e80e3df5b60f
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 9ce10120-e735-4721-b6f7-71aeb2881551
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 76930104-f99b-47a5-b4ab-16145f9e773a
       :name: Samson And Delilah
       :segued: false
     - :uuid: 043eee5f-d1d8-4a42-a24d-e59b64d9fc2a
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 088660fc-283a-4182-9497-1d6f3825d5d2
       :name: Around And Around
       :segued: false
