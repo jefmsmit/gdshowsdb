@@ -2077,10 +2077,10 @@
       :segued: false
     - :uuid: ac2549d3-b19b-476c-921c-20b011adae7a
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 22409d7b-cbc0-4583-9452-a8d39f39b896
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 3e28a464-7ddb-4c38-9602-638eb6277bd3
       :name: Let It Grow
       :segued: false
@@ -2088,21 +2088,21 @@
     :songs:
     - :uuid: 434eabfb-f54e-41de-8173-f7c4f983798f
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: e6af52fc-95bd-4189-a971-9c3a7360dc55
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: e0aef634-f0d7-41e5-af30-7acab6db2ef5
       :name: Nobody's Fault But Mine
-      :segued: false
+      :segued: true
     - :uuid: 9f21101d-0496-4254-b28a-f0c9b8f14196
       :name: The Other One
-      :segued: false
-    - :uuid: 4809b2db-bdc4-4ee9-bf20-90982291db79
-      :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: d7f71da1-15d6-43b2-91e6-014e90c33d52
       :name: Spanish Jam
+      :segued: true    
+    - :uuid: 4809b2db-bdc4-4ee9-bf20-90982291db79
+      :name: Wharf Rat
       :segued: false
     - :uuid: f1232be1-d42f-4ad3-8791-9f4473d08f41
       :name: Around And Around
