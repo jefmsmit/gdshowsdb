@@ -2687,35 +2687,40 @@
     - :uuid: d60631e4-918c-4543-952b-6deedfd597c1
       :name: Tennessee Jed
       :segued: false
+    - :uuid: 72cdd6c4-3c07-4dc8-976d-722fd053dbde
+      :name: Big River
+      :segued: false
     - :uuid: 7f0cc18f-39e3-474f-999b-092ab1f02fc3
       :name: It Must Have Been The Roses
       :segued: false
     - :uuid: 3c5b08ef-76bd-47a7-ad14-4ee78b56d2f2
       :name: Playing In The Band
       :segued: false
-  - :uuid: 9efacaf0-f79a-4b16-b0d5-d3bf76fb8fbb
+  - :uuid: c3894eb2-31a1-481c-a699-d3c725dc8596
     :songs:
-    - :uuid: 72cdd6c4-3c07-4dc8-976d-722fd053dbde
-      :name: Big River
+    - :uuid: 67d50dd0-1eaa-4ede-8f66-395a17983098
+      :name: Seastones
+      :segued: true
+    - :uuid: d2f860e9-39c5-451a-bac0-7023891da764
+      :name: Eyes Of The World
+      :segued: true
+    - :uuid: 81b0eccd-93ee-4f50-a9d8-f69cec6f58e3
+      :name: Wharf Rat
+      :segued: false    
+  - :uuid: 9efacaf0-f79a-4b16-b0d5-d3bf76fb8fbb
+    :songs:    
+    - :uuid: cadd7a89-8eb3-45ba-97e8-26b5efe2006e
+      :name: Around And Around
       :segued: false
     - :uuid: 74b62c18-16fc-4c75-b129-f3b5837ffbbe
       :name: Ship Of Fools
       :segued: false
-    - :uuid: cadd7a89-8eb3-45ba-97e8-26b5efe2006e
-      :name: Around And Around
-      :segued: false
-    - :uuid: d2f860e9-39c5-451a-bac0-7023891da764
-      :name: Eyes Of The World
-      :segued: false
-    - :uuid: 81b0eccd-93ee-4f50-a9d8-f69cec6f58e3
-      :name: Wharf Rat
-      :segued: false
     - :uuid: f3f673f0-374d-42ca-9124-462a8920e4ec
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 0f37c75e-6ac9-4140-9aac-31d8cd78f144
       :name: Sugar Magnolia
-      :segued: false
+      :segued: false            
   - :uuid: 936c4960-7e31-4a3e-9e15-5970e4b9fb55
     :songs:
     - :uuid: 2674c9e9-fc5d-478f-9a53-0e1af926c8e7
