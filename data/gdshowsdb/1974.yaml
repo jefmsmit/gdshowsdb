@@ -1668,10 +1668,10 @@
       :segued: false
     - :uuid: 23cac9f9-c1c9-4fe1-8def-b72faae0bc8f
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: dce81b7a-a50f-403e-a20f-127df92d34c1
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 3e95cce5-688a-4ace-b3f5-f8e27f10b161
       :name: Playing In The Band
       :segued: false
@@ -1679,7 +1679,7 @@
     :songs:
     - :uuid: 2271e701-b3a5-4d77-9d2d-ff410141f406
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 092c5ce0-8fbf-4887-8cf1-7826a87cf967
       :name: I Know You Rider
       :segued: false
@@ -1694,22 +1694,22 @@
       :segued: false
     - :uuid: c36f6cfe-d130-4566-92bf-e0dfcf49f99c
       :name: U.S. Blues
-      :segued: false
+      :segued: true
     - :uuid: 93c109b3-ff25-4f2d-9c12-4cd520fd21ce
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: cc087e6a-4657-4189-80a5-997e9ca5dae2
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 6b505857-e604-4b9e-aec7-039910a5cd6e
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 22097a62-cad3-4f26-bf64-87596542fea8
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: ea0edaae-6d16-4b70-a18f-6641a1ddf1e2
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: a9469b0e-28e7-4417-a11f-a163b1d99031
       :name: One More Saturday Night
       :segued: false
