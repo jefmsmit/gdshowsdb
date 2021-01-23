@@ -1518,7 +1518,7 @@
       :segued: false
     - :uuid: 299a8958-6e1e-4f77-8276-91aec81e25be
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: f39e12c3-5da6-49c0-8328-4f8eaa13b1fc
       :name: Mexicali Blues
       :segued: false
@@ -1547,34 +1547,34 @@
     :songs:
     - :uuid: aeaa393d-adce-47c0-8698-d6e103d9b727
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 2339621d-249b-479d-9a76-7dfc5f98e15b
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 64624304-dcde-4061-99a4-1312b5c05b82
       :name: Good Lovin'
       :segued: false
     - :uuid: dbdda0ad-86ce-410e-aac3-232248e28fda
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5eacc797-648d-45b9-af7c-c0a37d5f13fc
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 92e1f3db-ff04-49aa-81ca-560ebead3aad
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: ff86d01b-a840-4b59-b30f-826b208e3829
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 3a927ba8-b231-433f-ac52-83189460cf66
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 20558be1-3aba-467b-a177-7bc633f3d558
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 28357685-2789-4745-bd98-c2a6c51f715b
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 0453856f-9676-4e43-b807-dccc7456ee95
       :name: Around And Around
       :segued: false
@@ -1583,8 +1583,6 @@
     - :uuid: f613e7cc-158b-403d-8f9b-07f4499e70aa
       :name: U.S. Blues
       :segued: false
-  - :uuid: 9fd6a85b-dd1b-472d-b771-0d8f356bdf45
-    :songs:
     - :uuid: 4c45223f-b538-403a-b134-30c3d68eb098
       :name: Shakedown Street
       :segued: false
