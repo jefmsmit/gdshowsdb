@@ -156,7 +156,7 @@
     :songs:
     - :uuid: 6d1a17f8-7c68-42e9-a1e9-026a8cfe289f
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 0051ee01-db62-4110-8e16-7e50b1a75c86
       :name: Franklin's Tower
       :segued: false
@@ -168,7 +168,7 @@
       :segued: false
     - :uuid: 5ae0f0a0-a448-43f1-9786-59adda4e26f3
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: b826be4b-86bf-4105-adaf-d0c823d7468b
       :name: Big River
       :segued: false
@@ -183,7 +183,7 @@
       :segued: false
     - :uuid: f5bce0bb-861c-4778-8c82-8aea09e2cf2c
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 7db693d3-c579-4883-9561-d6f3abed1252
       :name: Supplication
       :segued: false
@@ -191,7 +191,7 @@
     :songs:
     - :uuid: 7841430c-e459-43fa-925f-1fc312cd381d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5330f9a4-7ff6-4883-abd8-f28f8203ff2f
       :name: Fire On The Mountain
       :segued: false
@@ -200,19 +200,19 @@
       :segued: false
     - :uuid: 17580f2a-e85a-4e75-aa2d-bf0db5f8bef8
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 59f7e18f-3fb4-44b9-a590-be1e22a76cb1
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 806f504b-13ed-4186-a624-9b162345e362
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 11feb553-2140-43c4-b466-ad5475fc2937
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: af3f40a5-18bb-4541-90f4-227e95f3bba3
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 95b5b45c-6c38-47ad-abc0-577a655e68be
       :name: Good Lovin'
       :segued: false
