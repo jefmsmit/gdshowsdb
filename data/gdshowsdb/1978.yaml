@@ -1731,7 +1731,7 @@
       :segued: false
     - :uuid: 18058d8e-ce84-4f23-9d9d-0392c21d9729
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: b021a789-e716-4483-89d6-22fc5a1e195b
       :name: Mama Tried
       :segued: false
@@ -1743,7 +1743,7 @@
       :segued: false
     - :uuid: d000af28-cbbe-4aa4-88c3-40193e2c3926
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f1ae70e3-0d2c-4a01-845d-7841ddb89c5f
       :name: Fire On The Mountain
       :segued: false
@@ -1757,16 +1757,19 @@
       :segued: false
     - :uuid: 4e0dd95c-f26a-4b85-8ec7-4352a3c72257
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 3adc1116-a452-4026-bcc9-8cae45bda0cb
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 896e4988-aab6-4190-b353-113f61eec5a4
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2e40762e-62ff-48f8-845c-2dfe0e604f1d
+      :name: Space
+      :segued: true    
     - :uuid: 5d2f5c35-73aa-4acd-a6e0-6346d9fdda13
       :name: Iko Iko
-      :segued: false
+      :segued: true
     - :uuid: 3195945c-72d7-48b2-91f1-80eec3e13d5b
       :name: Sugar Magnolia
       :segued: false
