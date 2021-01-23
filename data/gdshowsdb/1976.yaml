@@ -1376,7 +1376,7 @@
       :segued: false
     - :uuid: 40d42191-6456-4959-ac90-ed4fb769a666
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: b02ac177-516a-4566-a331-59abf5d983d7
       :name: Supplication
       :segued: false
@@ -1390,19 +1390,19 @@
     :songs:
     - :uuid: 03249b2a-7af6-4646-b81d-a2c84226c5da
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 92cc4bca-8752-4ef0-a4c4-a4e3c8fbd981
       :name: Drums
       :segued: false
     - :uuid: e8593605-089b-424b-8672-d1b134d59c0f
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 688ad9c0-0b94-48db-a547-4b80d0e2dc7f
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 1c263798-4ec5-45e7-ad7c-1082d48ea50d
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: e8b12e9b-1d95-4511-85f8-d22f3e201927
       :name: Around And Around
       :segued: false
