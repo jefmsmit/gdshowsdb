@@ -1819,7 +1819,7 @@
       :segued: false
     - :uuid: f1815e07-6336-4f57-bf41-094d360c6624
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: e363d657-0067-4cd9-8703-7c6a4803cc8b
       :name: It Must Have Been The Roses
       :segued: false
@@ -1836,7 +1836,7 @@
     :songs:
     - :uuid: 9cb7933b-d0e1-457d-b56b-5d9c99a5cbf8
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 0212e7b4-d762-4c9b-b50b-d5a341e0b6b4
       :name: I Know You Rider
       :segued: false
@@ -1848,16 +1848,16 @@
       :segued: false
     - :uuid: a11642d8-1e66-4afe-b321-47127d6f64db
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: eacfb3ad-a2fa-4fc4-b26e-4b7b734d1eae
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: dc82a931-cff0-456d-b1f4-a0c27c984bbe
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 9ff13afc-a4a7-4e36-af7f-5fd1de81ff38
       :name: Nobody's Fault But Mine Jam
-      :segued: false
+      :segued: true
     - :uuid: 10c07330-7b37-49d9-bb0d-9c1bd29fa52d
       :name: Playing In The Band
       :segued: false
