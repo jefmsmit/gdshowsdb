@@ -4178,7 +4178,7 @@
     :songs:
     - :uuid: bd9e1d19-0664-4b6e-916e-7dbb0829cd58
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: d01836a0-a8e0-4cf4-b8f0-426f47fd4cfc
       :name: Good Lovin'
       :segued: false
@@ -4219,28 +4219,28 @@
       :segued: false
     - :uuid: d5491261-2258-44e3-a565-eae59cebcc7c
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 87d8deb1-7842-459c-9e6e-4c927e2ac36e
       :name: Supplication
       :segued: false
     - :uuid: 8171059d-e19d-4aca-a8c0-d57cc4275279
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ae3521c4-3d80-4f86-ba7a-3013e1036f9b
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 06868fb0-b7c1-49b0-831d-89bd834c44f9
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 8ce37487-2798-42fd-b94a-6cc8825429ea
       :name: He's Gone
       :segued: false
     - :uuid: 963bf336-12ed-43de-844b-637f496a770c
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: bc015466-c629-4a59-9fd5-19e2a2b86ef4
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 39bbd01f-7013-4ee1-bb9a-34e2de70a42c
       :name: Around And Around
       :segued: false
