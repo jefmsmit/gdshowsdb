@@ -2072,7 +2072,7 @@
       :segued: false
     - :uuid: 1323530a-2bf1-428f-a4af-1abe4164488f
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 2ec1dd95-99cc-45d4-86ef-536fed983366
       :name: Big River
       :segued: false
@@ -2098,25 +2098,28 @@
     :songs:
     - :uuid: dc2419a7-a0b5-48ea-8256-404a8f5bcfd1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5da9f62b-0a12-47ac-8b00-06d32625ebff
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 6f1890ee-3204-49d1-8de5-28744ce9a71c
       :name: Good Lovin'
       :segued: false
     - :uuid: 806dc9b0-5285-4bd9-a206-b6b98c37ee33
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 54861838-c397-4c92-9f53-32794955abf8
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7ea84a7e-2640-451c-8d51-99d9c602d159
+      :name: Space
+      :segued: true    
     - :uuid: b650d091-f047-4527-aaa9-48bef22dfba0
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: d413f737-2e83-4ea4-8a02-2c87897336d3
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 3d3b5c7a-ca48-4d3d-8de1-5ad9facd6b17
       :name: Around And Around
       :segued: false
