@@ -1156,7 +1156,7 @@
       :segued: false
     - :uuid: be8a39f3-db18-434e-86ea-4213c96f6ea9
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: adb90655-23cd-4a54-bda3-40f3b5b9e096
       :name: Supplication
       :segued: false
@@ -1176,10 +1176,10 @@
     :songs:
     - :uuid: 157c9231-b18e-4a2e-ab08-583c10c7807e
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: b0defda8-398f-4cff-8a7c-c155d28a1825
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: f243091f-0b4a-4910-89f3-26be56535661
       :name: Franklin's Tower
       :segued: false
@@ -1188,7 +1188,7 @@
       :segued: false
     - :uuid: a15264a7-64bb-48ac-a63e-4d85315928d0
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: f413a8e1-1959-40bc-8054-a9925ab6169d
       :name: Dancing In The Street
       :segued: false
