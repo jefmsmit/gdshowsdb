@@ -1274,7 +1274,7 @@
       :segued: false
     - :uuid: b67c43e1-52ad-487a-b2fe-2690704a982b
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: bb7efb9f-42be-4ac5-bed7-bbe3a31e2c0b
       :name: Big River
       :segued: false
@@ -1300,7 +1300,7 @@
     :songs:
     - :uuid: ac62066f-e04e-4c0b-88c4-0b2f34720c4f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 63921049-6de7-43b2-b66c-03856092bb08
       :name: Fire On The Mountain
       :segued: false
@@ -1309,19 +1309,22 @@
       :segued: false
     - :uuid: a18af5a4-0e40-4017-abbd-aaf1dd8ad989
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 6fa0e43c-83f4-42b0-a25c-e9ce8687e539
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: e3c16374-012f-4bcd-8312-a114cf76d424
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 60a09e28-55a3-483e-ab0b-2821926021f1
+      :name: Space
+      :segued: true    
     - :uuid: ff63b4e5-4a77-4d27-b4d4-5cae6f7db220
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: e3994611-6574-4d66-988a-5c54377afd41
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 4aac07f1-ae05-496b-9b53-d4cfe90716ec
       :name: Sugar Magnolia
       :segued: false
@@ -1330,6 +1333,10 @@
     - :uuid: e4350b4c-d7b8-423e-b394-25c7072b319b
       :name: One More Saturday Night
       :segued: false
+    - :uuid: bdc9624d-806c-4dc2-bb99-f265493e52c6
+      :name: I Need A Miracle
+      :segued: false
+    
 1979/02/11:
   :uuid: 8b7286b2-79a7-450b-88bf-e40cc4642be2
   :venue: Kiel Auditorium
