@@ -1757,7 +1757,7 @@
       :segued: false
     - :uuid: af8b9cb1-7cff-4952-bcf4-79bbd895a92d
       :name: The Music Never Stopped
-      :segued: false
+      :segued: true
     - :uuid: 052415cc-7280-463d-9aed-c5cf15ebca56
       :name: Scarlet Begonias
       :segued: false
@@ -1765,28 +1765,28 @@
     :songs:
     - :uuid: f13d280a-5540-4980-a313-a4726faa1b6e
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 690980f5-6376-403c-a7d0-5719a0a87266
       :name: Stronger Than Dirt Or Milkin' The Turkey
-      :segued: false
+      :segued: true
     - :uuid: 93d1f8b8-ff0a-44d6-b424-5d9a039c30df
       :name: Cosmic Charlie
       :segued: false
     - :uuid: c4c9d707-9f0d-4f36-a1d4-5d0266c92e7b
       :name: Samson And Delilah
       :segued: false
-    - :uuid: d4aba2ae-3880-4085-9fe8-d7cd938d6b8d
-      :name: Drums
-      :segued: false
-    - :uuid: e59180b7-a9e0-4aef-99a4-f845a7d399a0
-      :name: The Wheel
-      :segued: false
     - :uuid: e0a56e4d-db05-434c-a90e-8bcbe06fd576
       :name: Spanish Jam
       :segued: false
+    - :uuid: d4aba2ae-3880-4085-9fe8-d7cd938d6b8d
+      :name: Drums
+      :segued: true
+    - :uuid: e59180b7-a9e0-4aef-99a4-f845a7d399a0
+      :name: The Wheel
+      :segued: true    
     - :uuid: af0fd723-f1a5-4921-aa4e-14094e763c04
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 9bdcc017-2e32-4007-bb2f-682104906d52
       :name: Around And Around
       :segued: false
