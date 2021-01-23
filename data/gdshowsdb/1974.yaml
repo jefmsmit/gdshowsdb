@@ -2940,13 +2940,13 @@
       :segued: false
     - :uuid: 17f9302a-ce78-49f8-89a1-db75f912acf2
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 30ca5d3a-137c-4e6f-917f-5f6fb46c9891
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: a48faa72-e6da-468f-ac19-713bddf83f53
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 8a53c459-768b-44bc-bce9-304c228e4d0d
       :name: Stella Blue
       :segued: false
@@ -2957,7 +2957,7 @@
     :songs:
     - :uuid: 78de0349-8f39-4136-bf8d-341b4fe4325b
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 0e4e9f99-8a85-48c4-8fd2-393765496574
       :name: I Know You Rider
       :segued: false
@@ -2975,16 +2975,16 @@
       :segued: false
     - :uuid: d4210bce-a51d-47a8-865f-3e3b859d0888
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 513246dd-1eaa-4453-9082-93ea9fae94f1
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 68971614-32bf-4bcc-8d4a-30a0e7a5feef
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 9b15fbfc-6459-4ee7-97ea-1dce25ba1467
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: ee533bfc-e4b5-4b55-8594-51da75c605f0
       :name: One More Saturday Night
       :segued: false
