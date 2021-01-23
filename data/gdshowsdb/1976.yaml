@@ -1230,7 +1230,7 @@
       :segued: false
     - :uuid: acfeb765-65e5-47a8-9ba6-71eee33a1ecb
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 9605664f-a95f-4815-a87e-b86021167a7b
       :name: Supplication
       :segued: false
@@ -1244,13 +1244,13 @@
     :songs:
     - :uuid: 94ac7638-77c1-413a-a3cb-13b5fce01cca
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 26e46e24-46c1-47a5-ba4e-a2f29f30f4e0
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: d6f4ebbd-c361-4c85-a09a-5260f8018d6b
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 2a1d917f-0e7a-4e70-bbc5-7fbf99f4b323
       :name: Playing In The Band
       :segued: false
@@ -1259,13 +1259,13 @@
       :segued: false
     - :uuid: 3c7349a9-dd60-46f8-bb06-aeae4e1e8649
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 53e16a9a-e795-4b32-b1c7-09c16fd0ace5
       :name: Stella Blue
       :segued: false
     - :uuid: 47f09728-09f9-41ee-9ad5-c12d7d5d7196
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 2e6d6657-08b8-4fdd-9a1e-30a80b9f6819
       :name: One More Saturday Night
       :segued: false
