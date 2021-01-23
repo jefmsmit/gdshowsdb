@@ -2296,16 +2296,19 @@
       :segued: false
     - :uuid: dc9d844c-d0d0-4cd3-8e19-13feecfa1333
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 417c7cc8-a795-46cd-8c4f-e1e19046e27e
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 8911fc02-9698-4c87-96db-8fc820ca6295
       :name: Let It Grow
-      :segued: false
+      :segued: true
+    - :uuid: 0684ebf4-3579-44ec-bd9e-b0378ea4c419
+      :name: Space
+      :segued: true    
     - :uuid: e1dd20f1-dde5-4710-8854-ef1cc09d6aca
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 003c06a0-6900-48c8-868a-f389fe15973c
       :name: U.S. Blues
       :segued: false
