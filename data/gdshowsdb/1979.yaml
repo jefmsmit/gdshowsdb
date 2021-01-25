@@ -4618,7 +4618,7 @@
     :songs:
     - :uuid: 6f35a760-3424-4d36-91c3-6b619b44fc27
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: ef4976e4-8281-4e72-9dc6-352cbc204b81
       :name: The Promised Land
       :segued: false
@@ -4639,7 +4639,7 @@
       :segued: false
     - :uuid: 191b7ff6-42b3-4747-b1c8-ad27a1c55e7d
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 9ce0691b-c16c-4610-8ae9-6b345ae04b5c
       :name: Supplication
       :segued: false
@@ -4653,7 +4653,7 @@
     :songs:
     - :uuid: bfacdc91-c0ef-4b12-9d87-6fd01261ef6f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e3a5346b-320c-4c74-874d-c080357ba50e
       :name: Fire On The Mountain
       :segued: false
@@ -4662,22 +4662,25 @@
       :segued: false
     - :uuid: e020bb74-30fa-4617-a6d4-c8048a0531ee
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: ea834969-275f-4f6f-b3ae-d10ce7921e2e
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 264f2cf5-ae04-437a-b631-f933dba6dbf4
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ffcc33f9-29a4-45dd-ba99-ca34465c17da
+      :name: Space
+      :segued: true    
     - :uuid: cf3a3791-e472-4a07-87c5-c3fb45f6fa44
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 8c3b3db7-56fd-491d-85da-ddcad1045005
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 0e50c82b-86a7-44e0-88a7-d0b9f36934d7
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 9d978451-fc20-4c19-98c0-81c43a71c2d0
       :name: Truckin'
       :segued: false
