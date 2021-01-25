@@ -5381,7 +5381,7 @@
       :segued: false
     - :uuid: 7db9dccf-65aa-4b39-a8c9-8e1ada8cac58
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 7e2b4f50-50ae-461a-9b38-e6b913ae9ace
       :name: Big River
       :segued: false
@@ -5390,7 +5390,7 @@
       :segued: false
     - :uuid: 54e2ae62-f7fa-4197-96ad-fd38847d1dfe
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 04f4c53c-c887-4e0e-bc1f-18cb27bdad84
       :name: Supplication
       :segued: false
@@ -5401,25 +5401,28 @@
     :songs:
     - :uuid: f52edfbb-acf9-4ed1-823f-bc82ac2f157a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e8899120-b564-40c0-8a53-d42ef0a83b80
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 8222d018-b7c0-411b-9ffe-ca465334308f
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: a9ed1df8-0f7e-4f94-b3b2-9747e461a7a9
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 898f18a9-d25f-4ff8-b559-1a3af9635db7
+      :name: Space
+      :segued: true    
     - :uuid: f172b4c6-a6f1-4df4-891a-bc01e3bc8a24
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 9cc20942-b133-4ef6-b4bf-4352f3d155f2
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 1a5751e3-068b-42b8-aaf4-9864ce079114
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: d00a44ce-1811-4c44-a0e3-f9fda8226ef0
       :name: Johnny B. Goode
       :segued: false
