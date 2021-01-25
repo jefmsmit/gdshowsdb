@@ -2899,13 +2899,13 @@
     :songs:
     - :uuid: 20b67476-8efb-461b-a08c-a8d051e57cc7
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 93e0eacf-81d2-47d9-8df6-0b603640c461
       :name: Franklin's Tower
       :segued: false
     - :uuid: e036ba93-4e0b-4c24-b66d-e49d76d47140
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 21c168d4-df0f-4a17-92f7-665c5482c641
       :name: Big River
       :segued: false
@@ -2920,7 +2920,7 @@
       :segued: false
     - :uuid: 2ab4199d-2c07-43ed-bcde-60b619110d0b
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 866e7b26-0040-48f3-a27f-464a37301247
       :name: Saint Of Circumstance
       :segued: false
@@ -2928,22 +2928,25 @@
     :songs:
     - :uuid: 0a53508e-2e98-49ba-b7fa-bfddf7e115ce
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ff54b56a-2d0d-49c4-b304-53381d6acaf3
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 00924ad5-85da-4ab9-86c0-cbe0f308b125
       :name: Drums
       :segued: false
+    - :uuid: 6c63ddde-4cbd-4582-836b-894834430d7b
+      :name: Space
+      :segued: true    
     - :uuid: 93cc3d1c-be34-4ae1-be89-a3144472f5b1
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 900b640a-12e0-453e-8903-39e4a5852bac
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 3622026c-6ec5-4a90-b1f5-ac9c9490a4d2
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 85a81245-14e8-4f2c-8a7c-57a88ea852c9
       :name: Good Lovin'
       :segued: false
