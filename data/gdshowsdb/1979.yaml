@@ -3103,13 +3103,13 @@
     :songs:
     - :uuid: 7b7b032b-fa94-4420-9294-19400efd3a38
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 7a21a63e-ad11-4451-b6ec-de2f12684aad
       :name: Franklin's Tower
       :segued: false
     - :uuid: 6bf94cff-ef6e-488c-beeb-74e5d775cc43
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 06a4da62-e700-49dd-89c5-ff65ccc3029d
       :name: Mexicali Blues
       :segued: false
@@ -3129,28 +3129,31 @@
     :songs:
     - :uuid: b60fb1c5-9cd0-4de8-8623-2fa57445337f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 01913f9d-0746-4b32-b841-42f117429249
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2f136a6d-2291-488f-8363-5958e3dad7d0
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: fa2b1b7e-b7ec-419e-bec3-7525412d4be4
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: c62db680-a33e-42c3-b967-73661db47368
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 6d76189f-9862-4d77-855c-7b4e689f9c72
+      :name: Space
+      :segued: true    
     - :uuid: 4518e1d7-86f7-4773-8182-103cb51f1384
       :name: Black Peter
       :segued: false
     - :uuid: 067aea58-b732-4523-8486-69474dcf8c18
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 91db9dff-701e-4087-ae6a-042b8fe3a02b
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 8589ad78-2d6d-4ae1-b611-61c6cbdb7e48
       :name: Good Lovin'
       :segued: false
