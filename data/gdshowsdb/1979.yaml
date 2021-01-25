@@ -3255,7 +3255,7 @@
       :segued: false
     - :uuid: 32cf0614-e19a-463b-9839-cdb689c8cf0d
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d3cf34d2-af76-40dd-a1f8-804246ca2de7
       :name: Mexicali Blues
       :segued: false
@@ -3273,7 +3273,7 @@
       :segued: false
     - :uuid: b83683d8-8144-48cd-a8da-d65cce885841
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: b4b0e5bf-b1e8-4fc5-95c1-4b276c1eca2b
       :name: Saint Of Circumstance
       :segued: false
@@ -3281,7 +3281,7 @@
     :songs:
     - :uuid: 30c6f215-9bd5-49f6-a07f-40d92d8875b7
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ae010adf-3f88-45f2-aecc-78e9a07eed53
       :name: Fire On The Mountain
       :segued: false
@@ -3290,16 +3290,19 @@
       :segued: false
     - :uuid: 772db1a4-c023-4e38-ad98-f4f09aa15bbd
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 7432acd4-c580-4928-8729-d1a4f612f2bc
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 5eb0ecaa-f758-40a2-b3cc-f62a3bd8e9b0
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: f70bf6bc-ef62-4b50-b0ba-c67005acc0ff
+      :name: Space
+      :segued: true    
     - :uuid: 2628b893-be89-4e57-87fe-71e7ba29a15b
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e2933985-9f8e-4323-b4a5-dbf70bf00ffe
       :name: Playing In The Band
       :segued: false
