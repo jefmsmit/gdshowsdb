@@ -4469,7 +4469,7 @@
     :songs:
     - :uuid: 3e35dd94-8113-48ca-ac9b-3929e29521e4
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 9127e678-b4d9-4fc7-ba22-5b731d8362d7
       :name: Greatest Story Ever Told
       :segued: false
@@ -4484,7 +4484,7 @@
       :segued: false
     - :uuid: 8aeee280-2f6a-4f78-a528-cd26c0e2c580
       :name: Easy To Love You
-      :segued: false
+      :segued: true
     - :uuid: 7ecacd92-2bd4-495c-970d-e8e7f3feffbe
       :name: El Paso
       :segued: false
@@ -4493,7 +4493,7 @@
       :segued: false
     - :uuid: 1fd12a06-34e8-4162-9bba-017c32f83241
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 177d07c9-866c-424b-9b3e-6f80b932bc6e
       :name: Deal
       :segued: false
@@ -4501,7 +4501,7 @@
     :songs:
     - :uuid: 50fe10ac-90b8-4c99-9678-b835c3042517
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 80e580be-1cf4-4906-9ef5-701e45e79499
       :name: Fire On The Mountain
       :segued: false
@@ -4510,22 +4510,25 @@
       :segued: false
     - :uuid: fbc10d60-744b-4d38-9236-5719b0365d1c
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 389aeb36-0b28-4170-8b6d-0349dfcc8a45
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 9ee19859-1573-4116-a913-69d5cb841bca
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: c074d056-ec02-4b61-8fce-d6d8a8f1bde2
+      :name: Space
+      :segued: true    
     - :uuid: 027c8460-1ece-4a35-8494-5592ef72a37f
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: fd40272a-d69e-4ca6-bc58-e6b320997589
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 84ddc8ca-4349-49e7-8ed0-3fc4f4219608
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 5591a53d-bfa9-4dc7-9f05-9b573ddc29c0
       :name: Good Lovin'
       :segued: false
