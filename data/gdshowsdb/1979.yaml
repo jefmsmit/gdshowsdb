@@ -5007,7 +5007,7 @@
     :songs:
     - :uuid: c671050d-3bd4-4b97-a8c8-a78a11837963
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: 9ce925ce-67c0-4c00-8c12-6d93c47b2a47
       :name: Greatest Story Ever Told
       :segued: false
@@ -5016,7 +5016,7 @@
       :segued: false
     - :uuid: 30d59e45-d6b2-4f12-9c8b-b8b16e73e16b
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 9c3f8b46-795f-423f-b855-4b7a7c5ff21d
       :name: Mexicali Blues
       :segued: false
@@ -5025,13 +5025,13 @@
       :segued: false
     - :uuid: 481061b6-9de0-4366-8d6d-9a4b59e92bad
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: aa9e28ad-f45d-4106-bf86-b3c50013fc62
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 4739c8ec-65b4-4417-9ce9-ce94f90e8076
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 918994d5-91b7-439a-882d-d2fac3b83256
       :name: Deal
       :segued: false
@@ -5039,28 +5039,31 @@
     :songs:
     - :uuid: ce3dde6e-989d-40b0-8c62-92c15ec567de
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2801690c-e1ad-4405-a171-4b3afd9e60c0
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 37f9b0b1-cdd9-4e5a-a190-590e2007984f
       :name: Easy To Love You
-      :segued: false
+      :segued: true
     - :uuid: 0ea38e25-9347-48ed-9220-52c99e89396b
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 7075fca7-1dc1-4e88-9ab2-788374478389
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: ce472771-7b2d-4a0f-9c4c-2a70a36cacdf
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 2e3fcb2d-e75c-403c-bb8e-6c129b305efe
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e8fcc544-30cc-4275-b98b-e031de93965c
+      :name: Space
+      :segued: true    
     - :uuid: 1ea75923-f96a-49c5-9a01-d2477dd222a7
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 04811a3d-5488-4548-a68f-082ef2417690
       :name: Johnny B. Goode
       :segued: false
