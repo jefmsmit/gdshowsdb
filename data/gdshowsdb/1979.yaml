@@ -3949,13 +3949,13 @@
       :segued: false
     - :uuid: f221546b-a071-4e48-9bfe-3c8d8de0f165
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d10de141-1eb6-46de-b166-df4024260741
       :name: Mexicali Blues
       :segued: false
     - :uuid: 1f436594-5b92-474c-b84f-bd37721ed3b5
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 9c7cfb1a-c45d-4e2b-b86b-c08bb4e15915
       :name: I Know You Rider
       :segued: false
@@ -3967,7 +3967,7 @@
       :segued: false
     - :uuid: 8a738ba9-c78c-41a0-9db7-82dc24259162
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 412f6333-b7f5-47ff-8b9c-c18358add461
       :name: Deal
       :segued: false
@@ -3975,22 +3975,25 @@
     :songs:
     - :uuid: 637ccb06-e5a6-4840-9029-b7a0039762d6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1156586c-0ddf-494e-829b-c7952fbb7f51
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 6f6dc4f8-3cb7-405e-8e5e-4c440eaa8ac3
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: ab4ed94c-d3ee-4b78-bb8c-334727811a2b
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 3a317846-c528-491f-ade0-33844e4f93bd
       :name: Drums
       :segued: false
+    - :uuid: 2b85854a-bdcd-445c-9b08-a77604297019
+      :name: Space
+      :segued: true    
     - :uuid: a0144c8e-0737-4a7c-9d6b-af49ac415c40
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 65b60b77-1420-45f9-a8d9-f8747bbb7ef7
       :name: Morning Dew
       :segued: false
