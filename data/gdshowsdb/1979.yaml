@@ -3602,7 +3602,7 @@
       :segued: false
     - :uuid: 80dce865-2acb-4983-955c-b505ad4b6e77
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 90ed486a-033e-49a1-a32e-e13eaaea1e74
       :name: Mexicali Blues
       :segued: false
@@ -3631,7 +3631,7 @@
     :songs:
     - :uuid: 7e2f2b51-c191-4b91-9088-2c969dbca460
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8cfd0e17-eb02-413a-8668-9d3335d652da
       :name: Fire On The Mountain
       :segued: false
@@ -3640,16 +3640,19 @@
       :segued: false
     - :uuid: b295ee06-bdc3-4f58-8306-5f9d4f7fee76
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: bacb8021-c29b-4bc5-bb98-19975e9ad09b
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: b4424fe2-40e2-4470-8566-6da9f060d0ac
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: fb9c8f15-19d4-439d-a8e2-5a58fa72d3ce
+      :name: Space
+      :segued: true    
     - :uuid: 54240782-579d-4471-a42d-99ae6f8b1451
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: d05425e6-81b8-4e00-b09d-a52ecd7bd326
       :name: Good Lovin'
       :segued: false
