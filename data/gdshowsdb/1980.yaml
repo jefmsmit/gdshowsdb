@@ -4823,13 +4823,13 @@
     :songs:
     - :uuid: 3d3b00d7-b500-44bb-9110-633fbfe5aafd
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: cdd0b54d-8fec-4f63-8022-647334fe08e9
       :name: Franklin's Tower
       :segued: false
     - :uuid: 64372414-96a4-4db3-9cc8-f9c0ea5aab34
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 16139e92-6a65-4112-ab17-a1296d2e642f
       :name: Big River
       :segued: false
@@ -4847,7 +4847,7 @@
       :segued: false
     - :uuid: ca045fed-76ee-4201-8ef9-ae78186519d4
       :name: Althea
-      :segued: false
+      :segued: true
     - :uuid: b817ea1c-b550-418e-9ea3-22d770d17ce7
       :name: Jack Straw
       :segued: false
@@ -4855,7 +4855,7 @@
     :songs:
     - :uuid: 0c25a0a6-fd37-4637-a269-fd2af9c668a6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: afeff720-3c7f-43dd-a1fd-0a1f80ae3fd0
       :name: Fire On The Mountain
       :segued: false
@@ -4867,25 +4867,25 @@
       :segued: false
     - :uuid: 2670b39c-5eef-4d50-9f39-0fd762990f06
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 0cd147a9-cd3a-4a22-a568-16bb195454d7
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: fd76fe33-954f-430c-882e-f01f3ac6a4ea
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 1fd42900-d5d7-4a77-bc57-197709d18e49
+      :name: Space
+      :segued: true    
     - :uuid: d10d1189-382b-4054-8f8e-ed40c699e239
       :name: Truckin'
-      :segued: false
-    - :uuid: 6d2a530c-a511-4c6e-9604-d637a62397a0
-      :name: Nobody's Fault But Mine Jam
-      :segued: false
+      :segued: true
     - :uuid: 02a84b59-9e59-4de1-80eb-c446d1357c18
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 545c2686-be93-42d8-a282-9b0aacc19cfa
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 72cabe1f-82e4-4f4f-851c-61fa802a138f
       :name: The Promised Land
       :segued: false
