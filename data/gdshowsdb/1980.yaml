@@ -2470,13 +2470,13 @@
     :songs:
     - :uuid: 4da49675-9394-43b4-9476-313037ee6934
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: 99f1cc81-8684-4ecc-b43e-78411c151518
       :name: Sugaree
       :segued: false
     - :uuid: 98ddd33c-e365-41d0-bec5-ad5799da03e3
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 7bc5b4f2-bb17-42d5-890c-e70a7c59632a
       :name: Mexicali Blues
       :segued: false
@@ -2491,10 +2491,10 @@
       :segued: false
     - :uuid: c1e9dcd8-6032-4205-ab3a-81ed36d38e8c
       :name: Far From Me
-      :segued: false
+      :segued: true
     - :uuid: 9b932155-fdee-4a6f-8b64-7e1558cc5360
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: b3068d1e-e6a6-4819-82c2-f938d5032046
       :name: Saint Of Circumstance
       :segued: false
@@ -2508,22 +2508,25 @@
       :segued: false
     - :uuid: 6b8313d1-58bf-4822-ad5c-a0ec2e056fae
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ba401ace-de64-429c-8a53-1e58de7af3ff
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 65503254-fa06-441e-892a-7552e03b584e
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 8fc8c00d-c752-4fd3-94b8-9c323cd47c92
+      :name: Space
+      :segued: true    
     - :uuid: 5fe00fca-2313-4211-9925-1e8ce9773a9e
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 18d625aa-6db5-4cdd-9573-a32729c3795d
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: ea1c1294-921d-465f-b88b-89a0da5e3a84
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 16a59ec0-f156-4a66-baff-f6e929e25789
       :name: Good Lovin'
       :segued: false
