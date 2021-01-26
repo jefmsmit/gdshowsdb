@@ -5850,7 +5850,7 @@
       :segued: false
     - :uuid: eaf427a1-748d-4657-aef8-bbd0e20736f5
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: a982b551-2bda-4f0a-9a99-d964c5d17b43
       :name: Ripple
       :segued: false
@@ -5858,7 +5858,7 @@
     :songs:
     - :uuid: 512e0c68-9d64-45eb-b94c-19bd9a54d4b5
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 0ddbbb59-6863-4670-acea-1b80e2ac6597
       :name: Greatest Story Ever Told
       :segued: false
@@ -5879,10 +5879,10 @@
       :segued: false
     - :uuid: 08a5898e-867b-4f5a-b2f1-a58d54f55957
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 7d08054a-ee57-4f22-844c-bd5cdf223f97
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 949708f0-3ed4-4612-b000-5778a486ad0d
       :name: Deal
       :segued: false
@@ -5890,25 +5890,28 @@
     :songs:
     - :uuid: fea1733a-b0d8-4135-ab13-61c6e5553b2c
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: bf8a2c7f-8981-4ed3-8984-85ef1a6324d0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 00cd13ba-af82-4e50-9ad7-1f013e1dde3c
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 4bf8337e-347b-4674-b80b-c8c2608ef634
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2ac17f42-deb9-463c-89d2-1fe2431466ca
+      :name: Space
+      :segued: true    
     - :uuid: dfe0f270-e1b5-42ce-b69d-4e669a8e9294
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: eba368c5-2deb-4231-81b8-61b68f92922e
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 73a4b82a-8b68-4d3b-894c-a4a1ea792d55
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 1966e543-4c50-420d-ab51-14e573f00a9f
       :name: Johnny B. Goode
       :segued: false
