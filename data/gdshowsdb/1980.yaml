@@ -5463,7 +5463,7 @@
       :segued: false
     - :uuid: 11c755bc-b37e-4d49-8c8d-930464c655c1
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: bcc5281f-4f66-4376-ac20-00c05f25df93
       :name: Ripple
       :segued: false
@@ -5471,7 +5471,7 @@
     :songs:
     - :uuid: 800961a4-cbf4-411a-8739-dafac23d45aa
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 9103beb5-5a02-45d8-af6e-1b9c38b1583f
       :name: Greatest Story Ever Told
       :segued: false
@@ -5480,7 +5480,7 @@
       :segued: false
     - :uuid: ff34ebd9-3f64-41b9-972a-7647c10391bc
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 0c536855-8ecf-4cfb-b29c-df8cadc70c7f
       :name: Big River
       :segued: false
@@ -5492,7 +5492,7 @@
       :segued: false
     - :uuid: 4c5af85d-75b1-4301-b849-46e88ded73c5
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 92cc6ca6-6870-4ebe-a707-9ba6a845fd8d
       :name: I Know You Rider
       :segued: false
@@ -5500,25 +5500,28 @@
     :songs:
     - :uuid: b06dc8a1-15c8-4ab4-90d8-e2829210da93
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 86f83bc3-5d91-424f-9faf-6b5eac8c0211
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 324e2253-b6a3-4916-9f8d-c7bfebaf2043
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 363f6493-eb3f-4c8a-85da-d27485d29f65
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: ac5a5b85-d6bd-4bca-bbd4-b75a299a9096
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7bf034ce-8403-4f69-94ec-b8f3b8b1eb93
+      :name: Space
+      :segued: true    
     - :uuid: febda898-d599-476b-b656-402f84857812
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 263ee301-da72-4daa-87f5-e40aeb8b34c1
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: fb9bb023-241f-43ba-8e74-1808c5eeb242
       :name: Good Lovin'
       :segued: false
