@@ -2230,7 +2230,7 @@
     :songs:
     - :uuid: d77d4fc7-31b8-4f3e-92b1-d729ac6dd38a
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: cf6154b3-27ca-40b0-be91-f7c66f518802
       :name: The Promised Land
       :segued: false
@@ -2251,13 +2251,13 @@
       :segued: false
     - :uuid: f5894a78-d1b9-4525-91a9-f11fe36aec11
       :name: Big Railroad Blues
-      :segued: false
+      :segued: true
     - :uuid: e401c1e1-20c9-4f04-9b9e-8804b643b2bb
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 534d30c6-4d6b-4ded-a104-498f075b3c13
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 25e07a74-8f97-4706-922f-ca22373a0124
       :name: Deal
       :segued: false
@@ -2271,22 +2271,22 @@
       :segued: false
     - :uuid: 3dae2eef-78b3-4a1a-92bf-10023c0c1b21
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 885f5dcd-aab8-47bf-a017-367076eafb9e
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2d885a7a-4300-4808-962e-f56862214ec1
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: f6dc76f5-7306-4334-bc2f-012b6ca89684
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 600ca0a0-f902-4079-9cfd-e48fd1d9fd3c
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1321f330-cc2a-4ca0-a4a6-11714392e820
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 11518b24-bd58-4af2-9479-8645aab9a0c7
       :name: Sugar Magnolia
       :segued: false
