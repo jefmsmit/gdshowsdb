@@ -5375,7 +5375,7 @@
       :segued: false
     - :uuid: 1a3994f3-7fcd-4dd6-85e8-b59514f5ef67
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 197a5747-8d4c-4b08-96b4-52b235e53783
       :name: Mexicali Blues
       :segued: false
@@ -5401,7 +5401,7 @@
     :songs:
     - :uuid: 5ddb8ba2-4e52-45fe-9e31-08e01f4a1d3b
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 259bc95d-a287-46af-bc28-600ee9e84bb5
       :name: Fire On The Mountain
       :segued: false
@@ -5410,16 +5410,19 @@
       :segued: false
     - :uuid: 26b62d43-e557-4685-b6f4-82838557799e
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 7dc44f9b-4c84-49da-a772-0c8a354774a8
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: a24610ac-9b5c-4ff7-b3bd-d461b4f3fa90
+      :name: Space
+      :segued: true    
     - :uuid: 24672f4b-9511-415f-8900-e446dd0dc209
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: a9d4b6f9-d14b-41c5-b010-c961556cc16e
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e64abd01-535c-47e5-ac1e-428833c8387a
       :name: Sugar Magnolia
       :segued: false
