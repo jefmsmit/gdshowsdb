@@ -54,7 +54,7 @@
     :songs:
     - :uuid: 1d19889e-e1f5-4e38-833e-f9501616beb2
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: b5f78cb5-97e1-4ba5-9cbe-2000fe9c8222
       :name: The Promised Land
       :segued: false
@@ -84,7 +84,7 @@
       :segued: false
     - :uuid: f96ac0f7-eb4b-4609-9f30-0024d1f12301
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 522aab8c-cd77-4be9-bf5b-135d84c97c34
       :name: Saint Of Circumstance
       :segued: false
@@ -92,22 +92,22 @@
     :songs:
     - :uuid: d215a1ac-5057-4c1d-9ac6-b4b600ba6846
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: b70307dd-e47d-4c02-87c5-95a695cf1325
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 3717b69e-8b85-4116-ac90-d5e02a6486c9
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: f07944da-c1c5-4e49-b29a-bae886832a20
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 7b12c094-7f84-4180-b159-99e982b11ae2
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: da7fe4cd-716f-45a2-ae15-9ee59562bb8a
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 78124cd9-97f2-4740-954a-9f8b7476950a
       :name: Sugar Magnolia
       :segued: false
