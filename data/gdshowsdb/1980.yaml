@@ -4281,7 +4281,7 @@
       :segued: false
     - :uuid: 2945bdec-fb37-455d-8a15-584e702b1e90
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: 2b8f24cf-9e90-4d4f-9edf-667caccf0010
       :name: Ripple
       :segued: false
@@ -4295,7 +4295,7 @@
       :segued: false
     - :uuid: ea4c4ea8-c4fa-4524-a20a-9afe96066c5b
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: c2183302-11fd-4a82-bb1d-8736ba406170
       :name: Big River
       :segued: false
@@ -4315,7 +4315,7 @@
     :songs:
     - :uuid: 5c28be37-042b-4c50-8ade-e3f2e50c33e5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 38d63b98-a7c0-4790-be22-f74702720409
       :name: Fire On The Mountain
       :segued: false
@@ -4327,19 +4327,22 @@
       :segued: false
     - :uuid: 7c1a3690-b873-445f-a9f7-1b2643faab19
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: d6004867-73c6-4394-adee-69bcb55bd5b6
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 531b2726-79fc-48bb-8273-2034a4b43350
+      :name: Space
+      :segued: true    
     - :uuid: ef5baa2d-8e69-48bd-808f-ef80dfb21083
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 5f42f9b8-0570-4218-90eb-ceefabc8a565
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 60e6f0be-b41a-4981-a8d1-06186a720798
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: b5dc4550-4632-497b-b7ef-e41f94d88da0
       :name: Good Lovin'
       :segued: false
