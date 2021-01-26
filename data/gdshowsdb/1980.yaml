@@ -1780,13 +1780,13 @@
     :songs:
     - :uuid: 5b826ee1-fe85-4e82-9e0b-cdbbed3e78a6
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: c224c0d8-556b-405a-9b9a-ea132a0aa2ad
       :name: The Promised Land
       :segued: false
     - :uuid: b9d47347-7371-4f3e-9952-cd37262e7de3
       :name: Peggy O
-      :segued: false
+      :segued: true
     - :uuid: 6bce3036-95df-4ea6-805e-2b22bf23be20
       :name: El Paso
       :segued: false
@@ -1801,13 +1801,13 @@
       :segued: false
     - :uuid: c2fadd70-22bd-45eb-ae98-d4d570927b50
       :name: Althea
-      :segued: false
+      :segued: true
     - :uuid: 1b9ae80b-7b68-4c1b-98d9-693a7b02bbc6
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: e80867d6-2f9c-496a-aa3e-22695906cecf
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: f74db60b-f9c7-46db-a5cf-301334aaa396
       :name: Deal
       :segued: false
@@ -1815,28 +1815,31 @@
     :songs:
     - :uuid: 7383c93e-b14e-449f-8937-368a46726064
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 447c25ef-685f-4f94-bc1e-2be2db46a2bc
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ac676f75-8d13-46af-872a-cce394c0be6d
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 9c3c74e1-2017-4f1a-b90e-a24e46c0e57e
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 14751ff7-100a-49ed-9957-c9c029e185bd
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 281852d6-f192-4f47-80c3-c4f4da8177aa
+      :name: Space
+      :segued: true    
     - :uuid: 3ab396be-8c58-42b2-81d8-2b68269ab2c4
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 69f261d8-c528-4cb7-89b0-b404ce6a8aee
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 748bd8ee-288e-45b6-b846-c5baf5e760f0
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 2f2798a4-6d5a-44a0-a218-4445e2c4869a
       :name: Good Lovin'
       :segued: false
