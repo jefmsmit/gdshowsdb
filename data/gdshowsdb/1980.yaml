@@ -3755,7 +3755,7 @@
       :segued: false
     - :uuid: d7dc269e-718a-4688-b6a7-132cb9983a29
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: bfc5506c-dee8-4358-be93-825953df69b6
       :name: Ripple
       :segued: false
@@ -3769,7 +3769,7 @@
       :segued: false
     - :uuid: 95d06f70-6f2d-4dfe-b41d-d4c48f317095
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: d3734ae1-6fb8-46dd-a96a-0aeea0c2e871
       :name: Big River
       :segued: false
@@ -3787,10 +3787,10 @@
       :segued: false
     - :uuid: 052b7403-c53d-4d40-90df-bed6ed78eb7d
       :name: Tennessee Jed
-      :segued: false
+      :segued: true
     - :uuid: 3b2cddb8-9350-4c3c-8e9f-030d1656b1c2
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 0ea3332e-0a56-4ca2-a4cf-45ac76c41ecf
       :name: Saint Of Circumstance
       :segued: false
@@ -3798,25 +3798,28 @@
     :songs:
     - :uuid: d91d9ce8-fece-4383-8019-d8764886b2a5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 29c248cb-eb7a-4d7a-9cab-d84a9fd831f2
       :name: Fire On The Mountain
       :segued: false
     - :uuid: ab785200-afd4-45d0-9298-4c5035846596
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: b7a7b08b-a6d3-4d62-99ca-1ac64ce02616
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 9632f0bb-31de-4c3f-b0b8-7860019b7001
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 52358446-4d63-4921-b0dd-c51148cb64ad
+      :name: Space
+      :segued: true    
     - :uuid: d6db7d67-5e06-4c4b-93b1-69ffefe94634
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: ac8ed193-d54f-4374-a988-49561993282e
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 2c0f4785-5151-4196-b0a1-4ce7bad77ddb
       :name: Sugar Magnolia
       :segued: false
