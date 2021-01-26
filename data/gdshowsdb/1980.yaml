@@ -553,10 +553,10 @@
     :songs:
     - :uuid: 205e7aeb-b21b-4b4d-836d-e9288e679d65
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 73d10fca-6842-42ca-b307-528badbf0af6
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 39df0713-4240-47e0-a3c4-6f29f402c7fc
       :name: Feel Like A Stranger
       :segued: false
@@ -585,7 +585,7 @@
     :songs:
     - :uuid: 87bf8f7d-6ae7-4d01-bc29-1b7d2179e49e
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ecedd4b3-bd41-4a5d-8ab3-281f9a8b23f1
       :name: Fire On The Mountain
       :segued: false
@@ -597,13 +597,16 @@
       :segued: false
     - :uuid: b147f8f8-8ab1-4369-ae50-55d53cc9b740
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: df4a96ae-2328-4ad4-94f7-c8e46e27606e
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 51f2b7cb-4569-4bd2-a81e-501b1d9e21b1
+      :name: Space
+      :segued: true    
     - :uuid: 089ea5e2-4589-434a-99f3-ac32ec232131
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: dbd4aca1-6f85-4739-85ac-f8fe35722522
       :name: Sugar Magnolia
       :segued: false
