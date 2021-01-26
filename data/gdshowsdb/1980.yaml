@@ -929,7 +929,7 @@
     :songs:
     - :uuid: d601915c-a7b4-43c6-aa5f-702475520754
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 740164df-6c09-48a5-aab5-9d8d6c8129ef
       :name: The Promised Land
       :segued: false
@@ -956,7 +956,7 @@
       :segued: false
     - :uuid: 7b15ad81-8d5d-41ba-91d6-a813c04f40de
       :name: Don't Ease Me In
-      :segued: false
+      :segued: true
     - :uuid: acc4650c-b19c-4057-b601-95bba01499f8
       :name: The Music Never Stopped
       :segued: false
@@ -964,31 +964,34 @@
     :songs:
     - :uuid: 259de1f6-7cbb-4295-b427-989b15cdf7b2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 27c0e8eb-d838-437a-b89a-22bfbb0c3ee8
       :name: Fire On The Mountain
       :segued: false
     - :uuid: fde8c201-35d0-4a84-b102-7e1ab4ad7137
       :name: Feel Like A Stranger
-      :segued: false
+      :segued: true
     - :uuid: d58fbbb3-8060-408a-b863-28c7bd856272
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 4e65f3dc-09b7-4463-9fbc-6002cd8d9442
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 46eb3f1d-fa52-4bfd-a407-a672910832c6
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 87c08564-47d6-444a-831c-d1065f5d0a25
+      :name: Space
+      :segued: true    
     - :uuid: 5b101400-483f-44f9-aed3-53f178b45f68
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: c70e811f-ae5f-4022-b2dd-71db1bc7d041
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 08dc8a39-7f78-4202-a122-456c905de965
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 601ef50c-af34-4030-b860-2495d31445a5
       :name: Johnny B. Goode
       :segued: false
