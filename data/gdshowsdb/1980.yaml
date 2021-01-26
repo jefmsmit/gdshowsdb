@@ -3163,7 +3163,7 @@
       :segued: false
     - :uuid: 56077342-1c8c-4fac-8a91-e1d465c7756a
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: b6d1f78c-8a57-4c64-8853-0780cc7725e3
       :name: Looks Like Rain
       :segued: false
@@ -3180,10 +3180,10 @@
     :songs:
     - :uuid: f83c54c3-734e-4cca-ab1f-cce1b5985891
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 518a6a12-7543-4d78-a28a-134874f66b92
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: a5722664-4abc-439c-b14d-63edb1b59a83
       :name: C.C. Rider
       :segued: false
@@ -3192,19 +3192,22 @@
       :segued: false
     - :uuid: 5bc8a51d-eab3-4c3e-b16f-bbe851e6b1b4
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 01db88e3-a603-448d-9118-b34fe34aeab8
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 90ffb26b-1ad3-4fc2-8772-c90cd2531d43
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 0b599c3c-90f0-446c-a32e-35ff1e988f56
+      :name: Space
+      :segued: true    
     - :uuid: 1af0daa0-14ab-41b7-8bb3-6f7e379c9992
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 9bbf4de1-2a0e-413c-a7e5-813f1329e177
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 9738acfe-3e4b-4b3c-9f47-fe78f8c41a0c
       :name: Sugar Magnolia
       :segued: false
