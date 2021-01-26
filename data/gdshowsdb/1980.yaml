@@ -1391,13 +1391,13 @@
     :songs:
     - :uuid: 8eb057fe-5728-4018-9c4e-d608635ea94b
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: 75d7ae74-e996-452d-969c-33eb4bc0fcc4
       :name: Franklin's Tower
       :segued: false
     - :uuid: ecd58baf-37c7-434b-bc67-539410a974db
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: a3af3904-61fe-4327-9b10-0973ac363d7e
       :name: Big River
       :segued: false
@@ -1420,25 +1420,28 @@
     :songs:
     - :uuid: db994bf2-ba74-41c4-9432-f9d8f99e308b
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ef18d6b2-9711-405d-a1aa-03334f5f3a63
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 7a16bc77-fa05-4675-bc2b-a476e7ba7854
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 5356b243-6a44-4d83-8021-cd371a21fa01
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 9a4374fb-ba8a-4c5a-8440-3d5caf727f93
+      :name: Space
+      :segued: true    
     - :uuid: 30a7e1fa-dac6-43b3-aa80-643209907145
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 332a635d-e046-44eb-b907-50da1e6475f0
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: cd7ff760-5a6d-4bf9-ac27-4d8d53ed9eee
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 490f1be8-7fba-4c2b-9ce5-bdc549be17ae
       :name: Good Lovin'
       :segued: false
