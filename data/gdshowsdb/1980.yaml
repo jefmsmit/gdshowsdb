@@ -7100,7 +7100,7 @@
       :segued: false
     - :uuid: 6f17c840-1622-4d64-8546-67b589be1940
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: f2e09e56-ad9d-4ec3-8767-cb357dc09799
       :name: Ripple
       :segued: false
@@ -7108,7 +7108,7 @@
     :songs:
     - :uuid: 6a500afd-9d3a-4ef4-a546-f69c8e04e02d
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: ae7d52ea-48f1-4c02-8c0b-94ea6cede90f
       :name: Greatest Story Ever Told
       :segued: false
@@ -7120,7 +7120,7 @@
       :segued: false
     - :uuid: 93c37049-d374-4f04-a0e0-157368fdc900
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: b95a7dd5-cde4-40f9-a4d5-016ec11f2dc1
       :name: I Know You Rider
       :segued: false
@@ -7132,7 +7132,7 @@
       :segued: false
     - :uuid: dc1ca7a8-e4df-4a3b-915a-2a9b0c565e11
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 217fe767-fe1a-4efe-800d-34df079ad186
       :name: Saint Of Circumstance
       :segued: false
@@ -7146,25 +7146,28 @@
       :segued: false
     - :uuid: 9553c270-b0b5-4c47-9599-0594fd7688e0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c114cd65-76a3-4872-a65f-2566fa879ded
       :name: Fire On The Mountain
       :segued: false
     - :uuid: a7ad12e9-1e53-4b48-b835-370daaf99387
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 63910ea1-c6b1-4e2b-85f2-fd832d358df2
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 94e2a454-d655-470d-a5d0-0155a1f59a5a
+      :name: Space
+      :segued: true    
     - :uuid: c3a3ec18-810c-4090-963a-4058b8131301
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: d7419139-cba6-421e-a877-c49432ad5ff4
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 9c9b1ab5-75b0-43e1-9a1a-a01475d69f0b
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 4e5cb49d-9f76-49f6-85bf-4a1fb8980eb5
       :name: Sunshine Daydream
       :segued: false
@@ -7172,7 +7175,7 @@
     :songs:
     - :uuid: c732cc55-85d1-45a5-8481-3abf8fa1aaaa
       :name: (I Can't Get No) Satisfaction
-      :segued: false
+      :segued: true
     - :uuid: 2aa71022-661d-4341-97e7-9e1c4d4ee340
       :name: Brokedown Palace
       :segued: false
