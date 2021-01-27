@@ -6462,7 +6462,7 @@
       :segued: false
     - :uuid: 935bf182-5d03-4707-b09c-02b03baf427a
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 8d838a6e-fa7c-4234-a2ab-23c9e6fd24ad
       :name: Big River
       :segued: false
@@ -6471,10 +6471,10 @@
       :segued: false
     - :uuid: 1b60c071-7dbb-4e4d-8d33-fcd5c1587e2d
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 975babe1-704b-4807-8453-f5864dd74478
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 93803913-7986-4531-9059-4eb7c33e5d6b
       :name: Deal
       :segued: false
@@ -6482,7 +6482,7 @@
     :songs:
     - :uuid: 80cc0eb6-6e2f-40d8-b3f9-bd0a92ae08de
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 7392c647-fe26-439a-b311-d7b3a2f04a3c
       :name: Fire On The Mountain
       :segued: false
@@ -6494,19 +6494,22 @@
       :segued: false
     - :uuid: a736fe53-fdc3-49f5-93b0-1afc85be8e11
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 13ef4760-c460-4f9a-b6db-46cbd2bc24cf
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b52000ac-c271-47be-bc97-bc41934f3345
+      :name: Space
+      :segued: true    
     - :uuid: bc5b3714-2c83-4965-b96a-c077ce00ef9c
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: b79c1af7-21c3-4962-9d25-804a64132499
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: c52c5c9e-4f27-4a6f-b0ec-65da31f764e4
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 60de6ba2-8258-48fb-b4d7-e4f23ed5712d
       :name: Johnny B. Goode
       :segued: false
@@ -6638,10 +6641,10 @@
     :songs:
     - :uuid: 8367a826-9ad0-41f4-a6e8-5648f9c9c6d3
       :name: Feel Like A Stranger
-      :segued: false
+      :segued: true
     - :uuid: 692325b4-3160-470c-a3fb-4bd6165583f2
       :name: Sugaree
-      :segued: false
+      :segued: true
     - :uuid: 421a7542-84de-4690-b1b3-1d04da0ff1fb
       :name: C.C. Rider
       :segued: false
@@ -6656,10 +6659,10 @@
       :segued: false
     - :uuid: 5b43781c-5a1f-453b-b040-c12f3fe34db6
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 257b1a5f-8f8d-4355-89ce-d8f455bc4784
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 8a7f20e9-9eda-4b81-bc47-f3c06df75e91
       :name: Deal
       :segued: false
@@ -6667,22 +6670,25 @@
     :songs:
     - :uuid: 12911281-055e-4c61-93b0-9fdbcc6b0402
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 79a6b554-3844-485f-bbd5-812456e6bfc4
       :name: Fire On The Mountain
       :segued: false
     - :uuid: ee32e167-8b37-482a-a465-18411a86fb98
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 098fd667-a613-4c65-a2bc-9a8366b20b52
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 268776d5-a732-417e-bfa1-9c75943b4db8
+      :name: Space
+      :segued: true    
     - :uuid: a0da1442-b376-4834-b001-4dd11acfb98c
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: e9a49091-7dd7-4a11-a546-a9c530a463d5
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 6825f240-2989-4fdf-937b-4ec5615acc6d
       :name: Sugar Magnolia
       :segued: false
