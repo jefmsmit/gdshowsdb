@@ -1993,10 +1993,10 @@
     :songs:
     - :uuid: a244f645-7dd2-4043-be19-d352e7aa42ae
       :name: New Minglewood Blues
-      :segued: false
+      :segued: true
     - :uuid: 53978d0e-1b03-4833-8469-46838d88ae96
       :name: Sugaree
-      :segued: false
+      :segued: true
     - :uuid: a9d6f39a-17df-4b2c-8e6f-d30cf82892b3
       :name: El Paso
       :segued: false
@@ -2017,7 +2017,7 @@
       :segued: false
     - :uuid: 3808f482-caca-4738-9154-3d474140ac8d
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 66edeb12-f35c-44c0-9d32-dbe587ecdd36
       :name: Supplication
       :segued: false
@@ -2028,10 +2028,10 @@
     :songs:
     - :uuid: 011a210e-fc07-42ac-b36e-504fde63471d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2015012b-2b27-43b0-a132-f29e8b183a79
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: bf955400-e169-44e2-b87e-0738705b9844
       :name: C.C. Rider
       :segued: false
@@ -2040,22 +2040,25 @@
       :segued: false
     - :uuid: f824462d-2e99-4964-b777-53f25faeaae8
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 507013a0-dfbf-451e-9cae-bbeb402d76c9
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e34007d3-42c7-4145-a073-1371782d82cd
+      :name: Space
+      :segued: true    
     - :uuid: 076c4e40-1331-4700-9007-e278b7e86f23
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 1ddbb905-a391-4915-9e9d-0d78f2c713f4
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 4623c0ec-abb4-4682-87bd-185b73a02242
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: 513d3d1f-3901-497e-9506-6cc17b789193
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 1ecfc8b8-7fab-4f12-8ce4-a13e3294316b
       :name: Good Lovin'
       :segued: false
