@@ -673,16 +673,16 @@
     :songs:
     - :uuid: 4a640903-0844-4c78-b791-98fa37e6bb7f
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 10cbe445-1176-4888-8ca0-bc404eaa7202
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: ebcff695-5fad-4c61-9121-18fb935632b3
       :name: Me And My Uncle
       :segued: false
     - :uuid: a1f7691f-3249-4f02-9b63-8390f565e9c7
       :name: It Must Have Been The Roses
-      :segued: false
+      :segued: true
     - :uuid: 2dd0003d-b311-4c22-8c81-04ed59d5454d
       :name: Little Red Rooster
       :segued: false
@@ -691,16 +691,16 @@
       :segued: false
     - :uuid: 23c532d0-93da-426f-8fc1-bcdc6a6d82ac
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 81cbcf43-6c97-4c48-b2fc-c80795bb15e4
       :name: Supplication
       :segued: false
     - :uuid: a7d4b757-43ad-40ea-9580-0d07b7069a92
       :name: Brown Eyed Women
-      :segued: false
+      :segued: true
     - :uuid: 31b813ab-ba13-4d97-8cfc-33bf73bb7589
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: a7d97eb7-792c-4320-a240-2c0b43a711dd
       :name: Deal
       :segued: false
@@ -708,28 +708,31 @@
     :songs:
     - :uuid: 907a3080-cb64-4d03-8dfa-989d36e3a55f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a44fd206-d13a-4e38-9725-bc90222a04e0
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: fd4f2522-ce80-417e-92d2-651e4978cbd6
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: cf478250-e7a1-42ee-87e6-52b341e252c9
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 0944f23c-fdc1-40b3-88c5-b487863d703d
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 30ad8320-6855-40fb-b1cc-31accd9ea1cf
+      :name: Space
+      :segued: true    
     - :uuid: 2853d964-22fb-47ac-98d3-c6a7d58ff374
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: d21d0309-bc87-4488-8d4e-72f4df059437
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: 6ff9e19c-3415-43d4-9abf-e25d77c4949f
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: e71b85f0-8b12-42ca-a0d8-5694999e2bcc
       :name: Sugar Magnolia
       :segued: false
@@ -737,7 +740,7 @@
     :songs:
     - :uuid: 537ebc0e-1151-475d-b0b7-bf07ea7ec60c
       :name: (I Can't Get No) Satisfaction
-      :segued: false
+      :segued: true
     - :uuid: b165ae7f-089d-4c7e-b3ef-a773dc498484
       :name: Brokedown Palace
       :segued: false
