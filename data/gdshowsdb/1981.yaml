@@ -1509,10 +1509,10 @@
     :songs:
     - :uuid: f375e607-9624-44ed-938f-5bfad97654cb
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: a5d03b47-94a0-4acb-b955-deaee52ad30e
       :name: Sugaree
-      :segued: false
+      :segued: true
     - :uuid: 27d6aec8-2da4-4dee-8dcd-2599582e6a35
       :name: El Paso
       :segued: false
@@ -1524,7 +1524,7 @@
       :segued: false
     - :uuid: 5d861f08-f374-40a0-9bab-cbc0669289da
       :name: Candyman
-      :segued: false
+      :segued: true
     - :uuid: c3c57f58-c577-4b89-b62e-bd5dd5fea147
       :name: New Minglewood Blues
       :segued: false
@@ -1538,28 +1538,31 @@
     :songs:
     - :uuid: c968ac80-d197-4a97-801f-b9c62c8e6760
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ffe22a98-1ba3-47e5-ab1f-0138aea79448
       :name: Fire On The Mountain
       :segued: false
     - :uuid: ad057231-e874-46fa-9967-43d58a1d43ef
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 1dab6987-3b80-4681-904e-454339f5eb4e
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 9191417d-9338-4a81-89f5-17b05f03eb20
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 50796c8c-8fa8-4933-b1ed-6f8a258aad56
+      :name: Space
+      :segued: true    
     - :uuid: 2f8fef1a-c694-4e2c-86aa-efe49d5fbb60
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 4b8c1ec6-334a-43ad-8fe0-f415a37b4c43
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 94acbf32-c330-410c-ba5b-23aa5f29bead
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 73250a93-2721-4bab-b3f8-363e22ece84e
       :name: Good Lovin'
       :segued: false
