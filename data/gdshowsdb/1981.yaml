@@ -83,7 +83,7 @@
     :songs:
     - :uuid: 56024dab-452a-4907-97a6-521785ecbff4
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: b1b1a02c-0c2f-4a35-8faa-24b3bdb50694
       :name: The Promised Land
       :segued: false
@@ -109,25 +109,28 @@
     :songs:
     - :uuid: f7a99b8c-22c7-4cb7-bc8d-56f69008a182
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6b596c3e-7d33-4d53-8b4c-7ebfa16aa4d2
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 62c46c4d-204c-40d3-89db-efd61e3cd996
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 0a313e0a-25eb-495f-9fe5-91a2979ed94e
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 0669f2d6-a0f1-4e94-bf6f-eb206a144a31
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 29f7a349-2109-4ff0-86d0-2261d530291a
+      :name: Space
+      :segued: true    
     - :uuid: 24d92b62-5274-4274-8ebf-be68c46cb34c
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 1b749c90-4822-4df3-8a6b-d4cfbe775701
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e2a17e5e-0b43-4228-9609-374f4d13b793
       :name: Sugar Magnolia
       :segued: false
