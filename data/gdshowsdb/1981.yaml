@@ -372,7 +372,7 @@
     :songs:
     - :uuid: d5863555-e1f7-41ed-9303-185247244d20
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 1bbbd3bf-046e-4e1b-9d38-428032d90757
       :name: Greatest Story Ever Told
       :segued: false
@@ -387,19 +387,19 @@
       :segued: false
     - :uuid: c067403e-33b3-4d2b-b4ec-f77d4b93d41e
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: bec843ee-1001-49e8-a602-d3e58150275a
       :name: Mexicali Blues
       :segued: false
     - :uuid: 52bc2f83-4293-47ce-80db-650b0cec96e1
       :name: To Lay Me Down
-      :segued: false
+      :segued: true
     - :uuid: 2e2e5c70-2721-4cd3-9977-072595572dcf
       :name: New Minglewood Blues
       :segued: false
     - :uuid: ddab03f1-03e2-42b2-977c-dbd8983ef47a
       :name: Tennessee Jed
-      :segued: false
+      :segued: true
     - :uuid: 62cca68a-70f5-4842-9712-1550a392f294
       :name: The Music Never Stopped
       :segued: false
@@ -407,31 +407,34 @@
     :songs:
     - :uuid: a9e2b90c-010c-4a7f-a6c2-a2dfd664d25b
       :name: Jam
-      :segued: false
+      :segued: true
     - :uuid: ce2246de-2afe-4b76-8dfd-4a9fb906baa5
       :name: Passenger
       :segued: false
     - :uuid: a69f9765-abd7-4dce-8e6b-06b166335cd8
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5d502b1c-c80c-495c-b3af-b86a9ffdf528
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 4892e9d0-4f9c-41c7-83dd-1699cc0b97b6
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 11d64b02-d6cd-4ba7-9168-82afea2bec24
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 6f8e41fe-da9f-40fa-a41d-c124be4b3a8e
+      :name: Space
+      :segued: true    
     - :uuid: f5623903-b804-452f-9ed9-0f8e2f912708
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 5d9b8c3e-1607-4e36-a5bb-17de8097527b
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 666e7aa0-617a-42a5-a2fa-ce2451fb981a
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: a9764da5-faad-494a-8e47-da5d59398467
       :name: Johnny B. Goode
       :segued: false
