@@ -2515,13 +2515,13 @@
     :songs:
     - :uuid: ec834a58-a36f-409e-8f60-40ae362a7237
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 796bf407-9c8b-483a-976e-8e59db90f878
       :name: Greatest Story Ever Told
       :segued: false
     - :uuid: ec6fed19-d1f0-4790-83ff-4ad9022bf890
       :name: Friend Of The Devil
-      :segued: false
+      :segued: true
     - :uuid: c52f21ec-5c54-408b-aec5-6d4728f1c8ff
       :name: C.C. Rider
       :segued: false
@@ -2542,7 +2542,7 @@
       :segued: false
     - :uuid: b95f78e4-954c-446d-be8a-b818f7d75ed4
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: afc0aeaa-6520-426c-9c0c-d20f60fa17f5
       :name: Saint Of Circumstance
       :segued: false
@@ -2550,7 +2550,7 @@
     :songs:
     - :uuid: 93ccaf9a-6abc-4ddc-b675-66f8d16b0201
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a05aba65-48fd-40e9-af6f-091d27aec5ef
       :name: Fire On The Mountain
       :segued: false
@@ -2562,25 +2562,28 @@
       :segued: false
     - :uuid: 28c706f6-1912-42a6-9fdd-7fea97e3ed19
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 4406606d-5e19-4b56-8356-8a83747091c2
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 109322b5-863a-40c2-a49a-4a223cbac451
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 985d87bc-f600-4b92-b2e4-9298d02e51e4
+      :name: Space
+      :segued: true    
     - :uuid: c568ea57-4dfe-4597-b8e6-e3418d6a2e6d
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 18223d44-ac8d-4c15-b0ea-3c04c4b05354
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 188648b0-dd82-4012-bc50-aa2b281ab62f
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 79d21cdd-9ea4-46cc-8324-5399d64f5628
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 8754d933-306e-46f8-aa40-e2e42dbbbc82
       :name: Good Lovin'
       :segued: false
