@@ -2224,10 +2224,10 @@
     :songs:
     - :uuid: f9be001e-4f91-4565-85b6-470e8ad876a7
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 31b4f7ec-dcd2-4054-9814-2b0468fa5e5f
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 05a1332e-8216-4b66-8f23-3fa44bbb60cb
       :name: New Minglewood Blues
       :segued: false
@@ -2239,7 +2239,7 @@
       :segued: false
     - :uuid: 0a9a5a84-5de1-492f-aacd-3c3a90357fd5
       :name: Candyman
-      :segued: false
+      :segued: true
     - :uuid: fb311846-e2f6-4cf7-b9bd-d016db97e155
       :name: Little Red Rooster
       :segued: false
@@ -2251,10 +2251,10 @@
       :segued: false
     - :uuid: 19118883-a8a9-4ba7-83e2-9b10f29500e4
       :name: Ramble On Rose
-      :segued: false
+      :segued: true
     - :uuid: 2b6125c6-a863-4277-98b8-1cb09d2699cb
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 4940745b-45e1-4943-b650-10e6946ffd19
       :name: Don't Ease Me In
       :segued: false
@@ -2262,25 +2262,28 @@
     :songs:
     - :uuid: 139bd7d3-368b-450b-bbce-3fb69dafb6c2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f17b8724-4a3e-41df-8b79-b780142bfeae
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 8cd60dc3-ec32-40bb-b7dc-c748fd4b7964
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: ef2922e9-deab-422e-ab1b-5eb900790dd8
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: d3596889-b7b6-4782-b493-44d246f0100e
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: f104a75e-0868-4eb1-8178-d1b57d523721
+      :name: Space
+      :segued: true    
     - :uuid: 6c794f82-eac1-4308-a2ab-577d7585a486
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: fc37d3b7-289c-4f78-91a3-feebc855c4f7
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 75efb233-b082-4924-b853-5096247762df
       :name: Sugar Magnolia
       :segued: false
