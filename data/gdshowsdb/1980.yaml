@@ -6790,7 +6790,7 @@
     :songs:
     - :uuid: 9beda035-114d-489b-98ed-33248c5067c1
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: e1d27972-a7fb-423f-8f15-e9fc2c7d7151
       :name: The Promised Land
       :segued: false
@@ -6811,10 +6811,10 @@
       :segued: false
     - :uuid: 4d11faf8-e947-41d3-b116-adc786af0ebf
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 5d1da63f-c090-454c-8b76-4f4e193f9999
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 1fae3d05-d507-419d-abce-98db3e874ac2
       :name: Deal
       :segued: false
@@ -6822,7 +6822,7 @@
     :songs:
     - :uuid: c7df4c93-6d8d-4e38-8dad-7cbdf00efb56
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 832b2c4e-04ea-4776-8be0-84fbee54f86a
       :name: Fire On The Mountain
       :segued: false
@@ -6834,19 +6834,22 @@
       :segued: false
     - :uuid: 02f54574-cdd9-480b-8c07-67a2e3e19087
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 8350c578-e019-4bd8-8fa0-eafd4b880698
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 5eb11c61-9ead-4e00-a5df-7574f599de16
+      :name: Space
+      :segued: true    
     - :uuid: 561bc4cd-66f5-405e-ae92-b34c905aef43
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 73e9a6ab-5963-476c-b737-d58cfd1a6ab2
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 74282966-92c4-47b1-9141-4432bc186fd5
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: baf7e633-26e5-4983-9f97-839c63ac0e41
       :name: Good Lovin'
       :segued: false
