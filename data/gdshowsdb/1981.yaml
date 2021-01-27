@@ -980,7 +980,7 @@
       :segued: false
     - :uuid: 961a8a2e-731b-4134-a13d-429f439005b1
       :name: Friend Of The Devil
-      :segued: false
+      :segued: true
     - :uuid: b38ca082-9518-427e-8030-b1f40d68efe9
       :name: C.C. Rider
       :segued: false
@@ -989,7 +989,7 @@
       :segued: false
     - :uuid: 064fc6d0-bbac-488e-af84-8028fd801fc3
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 7c8f91b1-d97c-4815-a5bc-38de2fd134d7
       :name: Mexicali Blues
       :segued: false
@@ -1001,10 +1001,10 @@
       :segued: false
     - :uuid: 7d4f3803-5e10-4722-9920-976e2c94affb
       :name: Candyman
-      :segued: false
+      :segued: true
     - :uuid: abde6309-4b6d-4136-a8be-634ebc22ca4f
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: db8b3e42-5c7e-40d6-81ee-4ded14420a38
       :name: Deal
       :segued: false
@@ -1012,31 +1012,34 @@
     :songs:
     - :uuid: ab4805eb-102d-4795-958c-3f1219481bb7
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: d3a89e39-1118-451f-a963-2cb6c6640266
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 3a9722f3-f155-4fa2-9e98-02f0157fa079
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 77dd95ee-9b34-449c-a7b3-85cd6ed08381
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: e4c5919f-65a2-4b5c-9a39-5012347aa04c
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: e00efcc0-4a52-40da-bd25-0a47e2c591cb
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 984c77a8-53ff-4c4f-8de4-b4fcd3cd065f
+      :name: Space
+      :segued: true    
     - :uuid: 38ac7579-cc13-4520-8c9e-b19a39d73723
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 1d872f17-885a-4e3f-9bb0-0459deb7bf9a
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 6598588a-bd1b-4b09-8436-33ebb531cf8d
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: f640517f-5b3d-47eb-a00c-4ae2e2ab1c5e
       :name: Johnny B. Goode
       :segued: false
