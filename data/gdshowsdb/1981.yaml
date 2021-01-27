@@ -1662,7 +1662,7 @@
       :segued: false
     - :uuid: 45e2db59-88d8-4734-8a11-5a60af76cc05
       :name: Peggy O
-      :segued: false
+      :segued: true
     - :uuid: 6bf3270f-9031-4a9f-8979-25dbe950197f
       :name: El Paso
       :segued: false
@@ -1683,7 +1683,7 @@
       :segued: false
     - :uuid: 09ce93ca-cecc-44b7-8e33-d87ef18c063d
       :name: The Music Never Stopped
-      :segued: false
+      :segued: true
     - :uuid: 81f7728d-5e5d-4054-874f-a9fc97cfa6a5
       :name: Don't Ease Me In
       :segued: false
@@ -1691,31 +1691,39 @@
     :songs:
     - :uuid: 11f3ae7b-3d70-4591-aad8-fc43ffbe2afe
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: b64b02e7-0cf2-48a5-9a27-e6aa388f71e7
       :name: Fire On The Mountain
       :segued: false
     - :uuid: fb17457a-f4db-4288-b078-f542af489500
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: f8f7b0ac-7aa4-41d9-891a-b3937d5feaad
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 6a38c241-499f-4eef-8085-ce316cc998a2
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ac2e7e37-ea40-412f-8997-c74194056314
+      :name: Space
+      :segued: true    
     - :uuid: a6ebfd88-5243-4297-9860-3e901c143d10
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: b6bfce5f-a583-4c58-bc97-7720d6071623
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 436b3a75-d273-4e82-adf6-7612b1045362
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: be43d8cf-bf85-4ce7-8acf-cf4a7a1be348
       :name: Johnny B. Goode
       :segued: false
+  - :uuid: ce74de9d-cf94-40ad-9550-e63ea502152d
+    :songs:
+    - :uuid: 83b12b7c-b5b5-44a6-b18b-c9f65cdebfbf
+      :name: U.S. Blues
+      :segued: false    
 1981/05/06:
   :uuid: c011d52e-881f-4d6a-af4d-be1c118d28d6
   :venue: Nassau Veterans Memorial Coliseum
