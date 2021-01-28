@@ -5864,7 +5864,7 @@
       :segued: false
     - :uuid: 3196c025-2c3f-4e44-8aea-1a49996d27bd
       :name: Friend Of The Devil
-      :segued: false
+      :segued: true
     - :uuid: dd2b84c2-5829-4dd0-945f-516ace6e24a7
       :name: Little Red Rooster
       :segued: false
@@ -5873,7 +5873,7 @@
       :segued: false
     - :uuid: 9e592afd-ded8-4de5-8e88-c2c0f7ddc811
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 993dfc65-dff7-4548-bd12-7d7d8ad10998
       :name: Mexicali Blues
       :segued: false
@@ -5885,10 +5885,10 @@
       :segued: false
     - :uuid: 6415cbfc-511b-4cb1-ad1c-38de08cfde40
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 7d8328b1-9287-4f6a-88a1-43b50ae2d3dd
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: a80b9694-d041-4116-a047-225560803d09
       :name: I Know You Rider
       :segued: false
@@ -5896,28 +5896,31 @@
     :songs:
     - :uuid: 169409ce-2bb7-48ad-9b5a-ca9e09e8a041
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 4f9349b5-d694-4ef5-9991-6ceb7b8a475e
       :name: Fire On The Mountain
       :segued: false
     - :uuid: c5101e14-503e-45dc-ad63-eb5775b6eab5
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: d8320517-20f8-402d-bf16-c31c19de98dc
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 160fe7cd-264f-476c-b326-aceee9b0ec2a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b69fc223-37e0-4636-bcea-cc5e21ae85dd
+      :name: Space
+      :segued: true    
     - :uuid: 4ccc4479-1f27-4c5e-820b-1a67815985bb
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: b60ac149-456d-4b55-8f55-b9f6f361ea1d
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: e31d498c-2d59-4784-a0b4-586c4c154417
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 5c81c446-8dc3-450f-938e-dcfbd70b4150
       :name: Good Lovin'
       :segued: false
@@ -5925,7 +5928,7 @@
     :songs:
     - :uuid: d568b946-14dc-4964-aacc-933fd4893dee
       :name: U.S. Blues
-      :segued: false
+      :segued: true
     - :uuid: d7b0f085-ddc6-4751-8ad4-75e25bc9aede
       :name: (I Can't Get No) Satisfaction
       :segued: false
