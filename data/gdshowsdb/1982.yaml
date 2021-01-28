@@ -1847,10 +1847,10 @@
     :songs:
     - :uuid: a198d86b-b6d3-434e-8c0a-5920f5c83eda
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: f61ee7f8-b6e6-456d-8c3d-e44b38d8e687
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 6adc09a2-0ea6-4ae3-8de7-30468dda787c
       :name: C.C. Rider
       :segued: false
@@ -1862,13 +1862,13 @@
       :segued: false
     - :uuid: 2e5bc8e2-bba0-46a6-8344-75b889009d97
       :name: Candyman
-      :segued: false
+      :segued: true
     - :uuid: ec4c05e3-42b0-4047-b7f5-5f3371746721
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 6d7a857b-1fda-4f4b-8022-5566d6259766
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 42f054c5-ebf5-49b6-b427-4f1f3943e470
       :name: Deal
       :segued: false
@@ -1876,28 +1876,31 @@
     :songs:
     - :uuid: bc6bb9c4-4867-450a-9f35-5796290a8783
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: df9c56f2-d5ed-411b-9950-94833cdc1b73
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: c5c5a360-8246-4c91-8397-18317aafbdd7
       :name: Samson And Delilah
       :segued: false
     - :uuid: 12b8c146-4258-47a4-bfa9-08e9fc58a2a5
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 892e2676-476b-4ac0-8b9e-9c3510d246f4
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 53efe936-5466-4bae-8fc6-0aea9e6da597
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: adc5cf95-6c62-4f2e-884d-ad69ef96521b
+      :name: Space
+      :segued: true    
     - :uuid: e7898cdf-7edb-49f1-9bef-86f681f1a74b
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 79766a5a-cbfa-4696-bc42-02ab5fbdd3b6
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 65f3d565-3fd9-40dc-afa8-ee6a963a4cc0
       :name: Good Lovin'
       :segued: false
