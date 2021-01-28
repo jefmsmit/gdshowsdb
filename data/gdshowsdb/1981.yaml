@@ -6019,7 +6019,7 @@
     :songs:
     - :uuid: fe7b44dc-88df-451b-b77f-934248539d0d
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 3ae23882-689e-4d64-a04b-451006a3e11b
       :name: The Promised Land
       :segued: false
@@ -6034,7 +6034,7 @@
       :segued: false
     - :uuid: b968d68b-f25b-4ed6-9e31-fc92ea4f2e90
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 56fe3efd-7146-423a-a1bd-244c939117ff
       :name: Big River
       :segued: false
@@ -6054,31 +6054,34 @@
     :songs:
     - :uuid: d7435b97-4769-4067-9526-5e914e2fdb09
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5a306cff-7850-4217-a76a-78d4002bc00b
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 5443a26d-2e84-4705-a85f-14c4c8027446
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 7c96e909-78f7-4334-97f8-f77275674c52
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 4567462a-9160-416d-bfe1-27d3c4699525
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 557f6c4e-bda7-43a9-809a-13ab9ee6206f
+      :name: Space
+      :segued: true    
     - :uuid: b1541f1e-e33c-4b76-89cd-1dc3215cccaa
-      :name: The Eleven
-      :segued: false
+      :name: The Eleven Jam
+      :segued: true
     - :uuid: 0f281973-2105-41f7-9b7d-44570030cc19
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: eeb7474e-fba6-4d96-a7df-292f2ac9ceb4
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: a44033c9-9be4-4bd7-838f-8e0794f2b24a
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: ed4fb044-46de-4834-b316-2582b1cf506b
       :name: One More Saturday Night
       :segued: false
