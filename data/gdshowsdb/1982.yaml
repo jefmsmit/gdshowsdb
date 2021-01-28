@@ -89,7 +89,7 @@
     :songs:
     - :uuid: 3c952a37-816f-404a-9972-072f3fc9d546
       :name: New Minglewood Blues
-      :segued: false
+      :segued: true
     - :uuid: b89f9255-0fe3-4ff9-ad6f-495ac4b8b5e8
       :name: Sugaree
       :segued: false
@@ -118,28 +118,31 @@
     :songs:
     - :uuid: fc27b8d1-d313-4265-87f9-dcc781a1077a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1ba42b38-a2b0-492c-b2d7-46dc8c08ad36
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 94d7243c-373b-4d2f-8eea-d082ccf42164
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 50cb5ead-3ef5-455f-9ab0-1c9894e8f4b9
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 15d5963c-1ba3-4920-b5b0-645bc108e1a3
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: a35c3b77-b19f-40e7-89db-adc8243681fd
+      :name: Space
+      :segued: true    
     - :uuid: 5b50506a-bfeb-4c48-a04e-6dd973f04e7c
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 8af8b0ac-1b0e-461d-ad0d-216ba1dbfdc2
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 6e90327c-73f0-403f-bf5f-1fe46ee34277
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: ef5a8a1d-c34f-4b56-a79e-1302f59c4bdb
       :name: Sugar Magnolia
       :segued: false
