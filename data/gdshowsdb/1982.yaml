@@ -1562,7 +1562,7 @@
     :songs:
     - :uuid: b83f8eae-076a-442c-9deb-dd974c378a9a
       :name: Shakedown Street
-      :segued: false
+      :segued: true
     - :uuid: 1755ee62-2e98-4383-afb0-a72302a554d4
       :name: The Promised Land
       :segued: false
@@ -1571,13 +1571,13 @@
       :segued: false
     - :uuid: 2fcc22e7-1403-4d34-a1c0-e17fad95fea9
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 3ba441b8-0b52-497d-a614-e9bb53bf6c64
       :name: Mexicali Blues
       :segued: false
     - :uuid: b4c7d0eb-c143-43a3-8715-7b04ba2e6e30
       :name: Loser
-      :segued: false
+      :segued: true
     - :uuid: f3be424b-aa95-4e6a-9ff7-c0a78b456820
       :name: Little Red Rooster
       :segued: false
@@ -1591,7 +1591,7 @@
     :songs:
     - :uuid: 0fe065f6-b503-4556-9fa6-a583e9dcf3b1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: d31b4883-cbc7-4fce-b24e-6b33b73f6e6a
       :name: Fire On The Mountain
       :segued: false
@@ -1603,22 +1603,25 @@
       :segued: false
     - :uuid: f68ed0d9-1433-47df-909c-e7bd77dd8359
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 4c6c39d8-e5a7-4771-8460-795b2dc7d672
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 9079dc61-014e-4d64-9dec-2ec36c580ddb
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 708cafa1-a7a7-463f-b114-135d7a7e35cc
+      :name: Space
+      :segued: true    
     - :uuid: 67a47c96-c569-4787-8385-babe8d55cea7
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: c0ee09ce-86f4-488e-9493-bed451a19e17
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 536c7c30-7609-4dbf-857a-a7dd9dac3465
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: d881da44-0c43-4c7b-a0c5-84ede9b26f7b
       :name: Casey Jones
       :segued: false
@@ -1626,7 +1629,7 @@
     :songs:
     - :uuid: 1c96a40d-c2ce-4b4c-aa11-975c370e1c65
       :name: (I Can't Get No) Satisfaction
-      :segued: false
+      :segued: true
     - :uuid: d41c3a78-f4e0-4342-9719-31ad8f9d9106
       :name: Brokedown Palace
       :segued: false
