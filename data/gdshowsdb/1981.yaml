@@ -5551,7 +5551,7 @@
       :segued: false
     - :uuid: f2d81ae4-b871-4f3d-b85f-7c0babc8f468
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: a9822fe3-4cb9-4da8-889e-8986c0f301a7
       :name: Big River
       :segued: false
@@ -5563,10 +5563,10 @@
       :segued: false
     - :uuid: 818b257d-c513-4b2e-b702-a94e0e128c3f
       :name: Althea
-      :segued: false
+      :segued: true
     - :uuid: cadb9b9b-7929-4a3e-b0ba-a00b34cfb732
       :name: Beat It On Down The Line
-      :segued: false
+      :segued: true
     - :uuid: 7f7cbe53-4aad-4492-ab48-9d44e4808cef
       :name: Cassidy
       :segued: false
@@ -5575,7 +5575,7 @@
       :segued: false
     - :uuid: d8486d74-23d4-49f3-b940-582a7cadc7cd
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 5d22f738-0af0-45cb-a41d-af232798f7d9
       :name: Bertha
       :segued: false
@@ -5583,28 +5583,34 @@
     :songs:
     - :uuid: 10c1bc2c-b0be-4758-bdc2-4c877020e7c5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 9421ddd6-f1bf-4372-9d35-fe3013325c34
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 2b303475-02e2-49f8-b4af-0197a55c3f8e
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 0d4eca73-9f25-4dd5-b166-0e288c8ffebf
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 2693d44a-ba62-4c01-bbe8-da7ec9047bc4
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 83d713a3-e543-4504-b2b0-4b0c07a04628
+      :name: Space
+      :segued: true
+    - :uuid: c19b054f-1093-4817-b802-386a64b60a2c
+      :name: Spanish Jam
+      :segued: true    
     - :uuid: 448284e9-688c-4ebb-99a6-0015cf413ac7
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: c80d9248-5ca4-4cef-8b15-634c0129f0b6
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 6e26884d-57c4-40d7-8043-f965e830e118
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 710ad277-3767-4b66-9f76-4e859cd8556b
       :name: Johnny B. Goode
       :segued: false
