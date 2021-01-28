@@ -5304,19 +5304,19 @@
     :songs:
     - :uuid: 0449e02b-0a55-4176-b497-8caa3731e484
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: d6d06995-3948-450f-9506-c41237509b77
       :name: Franklin's Tower
       :segued: false
     - :uuid: 7ef2871d-867b-434e-9742-4c9fddb69783
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 66cd95b1-7a4b-4851-9d26-9056afa96147
       :name: Mexicali Blues
       :segued: false
     - :uuid: 8b6a0d9b-d77f-437f-b92f-b4cbd80e252a
       :name: Loser
-      :segued: false
+      :segued: true
     - :uuid: ecf06686-9e2e-4a29-9b2d-2658f1569840
       :name: C.C. Rider
       :segued: false
@@ -5328,7 +5328,7 @@
       :segued: false
     - :uuid: ea19de51-8dee-40cd-9526-5a1e0e58ae7e
       :name: Althea
-      :segued: false
+      :segued: true
     - :uuid: 349ff4f5-4cd0-40d7-9518-dc6bac8b485b
       :name: Let It Grow
       :segued: false
@@ -5336,28 +5336,34 @@
     :songs:
     - :uuid: 3f2aa6bd-855e-4fc2-a1c9-451842229039
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ace48375-3ba9-4b25-8d1c-b26d02fc4a4f
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: f8c18d24-6f7b-4e64-b802-332bb0b0cd33
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 2e571986-0e53-403d-9d4f-5173d9d3683e
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
+    - :uuid: 41a09502-74f0-406f-909e-fdb5b69f2d48
+      :name: Space
+      :segued: true    
     - :uuid: c853abc4-5f25-4399-9133-9f1468fdab95
       :name: Drums
       :segued: false
+    - :uuid: 52f1036e-9456-4461-83e9-6b6911424030
+      :name: Space
+      :segued: true    
     - :uuid: 12e80a82-2a15-47b1-bf46-ad3a305df01b
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 1eda38de-85b3-4064-851c-6cdf4b25d455
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 7a4b3ae9-4faa-4ee1-bf90-906e6a97299a
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 411a73d6-d428-4ced-8740-aed31617b779
       :name: Sugar Magnolia
       :segued: false
