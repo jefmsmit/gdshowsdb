@@ -4754,7 +4754,7 @@
       :segued: false
     - :uuid: 9e98fe12-f518-4a48-94af-34bcdcd80a8f
       :name: They Love Each Other
-      :segued: false
+      :segued: true
     - :uuid: 7d125f7e-9b40-41b0-bcd5-46da08e1e2c6
       :name: C.C. Rider
       :segued: false
@@ -4763,7 +4763,7 @@
       :segued: false
     - :uuid: 6ab5860a-6736-445a-a621-ad3cf7d8eecd
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: f481f475-7824-4d3c-9962-841fd921d8a2
       :name: Mexicali Blues
       :segued: false
@@ -4783,28 +4783,31 @@
     :songs:
     - :uuid: ede372b0-ef8a-4f2f-981a-62e30fcd94b9
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3a381602-a9a1-4399-9cdb-ea020de453bd
       :name: Fire On The Mountain
       :segued: false
     - :uuid: fdc049d4-6a33-413e-b546-b412cd3a074f
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 033e7ef5-da65-49b0-b65d-de4727d04284
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 1ef01a93-80cc-49ef-87a8-686701af754f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 9c184c77-0c6e-4807-afee-b644c5d5dadf
+      :name: Space
+      :segued: true    
     - :uuid: 867832c6-8e72-4807-9592-fc63d1e52122
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 28d94184-3c6d-489d-9ac0-933b7ca65697
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 01c698db-d962-4c03-9692-cffc29bdd644
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 39b2bfc0-d981-442f-b1c3-045854ad9c61
       :name: Johnny B. Goode
       :segued: false
