@@ -4596,7 +4596,7 @@
       :segued: false
     - :uuid: 48b8c9eb-9caa-4251-9b99-57136b862f6a
       :name: Friend Of The Devil
-      :segued: false
+      :segued: true
     - :uuid: 60a16d46-4876-45d4-9b20-32a6f140e9d0
       :name: El Paso
       :segued: false
@@ -4617,7 +4617,7 @@
       :segued: false
     - :uuid: fd9fe44e-5d24-4031-b79b-993fae9bc896
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 8696c865-b2cc-440c-ad3b-6e19fb33ce1b
       :name: Deal
       :segued: false
@@ -4625,31 +4625,34 @@
     :songs:
     - :uuid: 9a1f54c1-fcd7-47b7-ad99-6471113f46ad
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: 34486b92-ed41-47de-9ae4-89575a47ef4d
       :name: Samson And Delilah
       :segued: false
     - :uuid: 4aa6b03e-2b38-40f6-a6ea-e5aebd013f06
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 48782346-d082-4d0f-9d90-e98cfb3a4815
       :name: Fire On The Mountain
       :segued: false
     - :uuid: fc8f2e89-5987-43ec-9814-07bc9e473b84
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 2a19f33c-01a5-440a-94a4-2ca8daa5ea81
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 22ddf2cd-fbba-4d83-94aa-5d65e263b93f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 194cda3e-acd7-4702-a60e-79da09e0d5c0
+      :name: Space
+      :segued: true    
     - :uuid: 2007e960-2c76-45ef-bce6-e91e02230168
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1a53f088-25fd-4932-9c0b-9977d709a8f8
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 06958ee1-d3c5-4752-a41b-aac452ad6d2f
       :name: Sugar Magnolia
       :segued: false
