@@ -3238,7 +3238,7 @@
     :songs:
     - :uuid: 3353e709-87ae-4ec7-9d41-becec2ae7c6a
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 84527409-3328-4903-84d2-5dcec5dd5ed7
       :name: Greatest Story Ever Told
       :segued: false
@@ -3247,7 +3247,7 @@
       :segued: false
     - :uuid: 2c4ba0cb-92f1-4ae1-8c78-cc8e254c9c89
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 2f3df35d-a6cc-4e46-9d15-0b4eb9487d66
       :name: Mexicali Blues
       :segued: false
@@ -3259,10 +3259,10 @@
       :segued: false
     - :uuid: 6026df2b-8f9c-49b2-9629-05e63b00e0bb
       :name: Althea
-      :segued: false
+      :segued: true
     - :uuid: aa4f0a61-c226-468a-847f-14da9865608b
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 8505dcce-bdef-4d90-9f08-5bc858cf2704
       :name: Saint Of Circumstance
       :segued: false
@@ -3276,31 +3276,34 @@
       :segued: false
     - :uuid: 751ff0e3-4077-41f0-ba1d-d4c8cbb837dd
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 593b1532-71e0-4cb4-bb68-67e6b2875334
       :name: Fire On The Mountain
       :segued: false
     - :uuid: a1885ce7-3742-414f-a705-7ef058979e42
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 2d168823-80c3-41c8-9d30-22cbc30e040a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 90d90cd3-bec2-4df4-9a06-ce8af8783b5a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 029a47be-5fc7-4b30-b0ad-90498cdae17b
+      :name: Space
+      :segued: true    
     - :uuid: 7bf9c01c-9217-428e-85f9-b013bddef9b6
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: f04b2ad6-dcd6-41fe-83e3-bbff9317c05c
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 5156f5df-9f51-4312-96ce-63ec337ef602
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: 311bca90-a811-4c62-95a4-8ccd8e807588
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 80c65939-1a5b-47f3-acf2-8766d887a874
       :name: Good Lovin'
       :segued: false
