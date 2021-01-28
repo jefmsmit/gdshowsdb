@@ -448,19 +448,19 @@
     :songs:
     - :uuid: db0cf9a6-3524-4766-b0da-a183273bd779
       :name: One More Saturday Night
-      :segued: false
+      :segued: true
     - :uuid: 2cef1440-d3f9-4c83-a600-ea1a8baf30ab
       :name: Sugaree
       :segued: false
     - :uuid: 9e3d0c33-9dad-47cb-a651-1fec788753a8
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 723dea02-4dc9-40d1-97a5-e77bdd475901
       :name: Mexicali Blues
       :segued: false
     - :uuid: 1c6333df-2dae-44c0-a4df-f58d0a2d9998
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: f5ac9ebe-d199-42de-8b8e-0d87dcae9f7e
       :name: Little Red Rooster
       :segued: false
@@ -486,22 +486,25 @@
       :segued: false
     - :uuid: 67bd7eb6-2275-4ad9-a22f-f68bfc88c0ed
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: cb09bedf-98bf-4056-b81c-815178560478
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e4be549d-6b36-4464-857f-9a4e7bcf73fd
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 2b28d4ee-ada5-47df-ac47-41e8679e9720
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 65bd40a8-457e-4e15-b125-51c793fe4f7f
+      :name: Space
+      :segued: true    
     - :uuid: ef9cb967-3680-4da8-afa1-e13616362a75
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: b56d5c66-9767-4770-a82f-674c65e02c39
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 0050bb58-52a4-4bc7-96d4-788491a442e1
       :name: Sugar Magnolia
       :segued: false
