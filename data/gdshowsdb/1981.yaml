@@ -2834,13 +2834,13 @@
     :songs:
     - :uuid: 0e1a425a-8782-49d6-ac1b-29153fcb252f
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 2b63e984-3695-496d-be3b-b7587e237180
       :name: Feel Like A Stranger
       :segued: false
     - :uuid: b8721971-c075-4494-bc38-9f4124b4179d
       :name: Peggy O
-      :segued: false
+      :segued: true
     - :uuid: 80b3bf95-0a7e-4aaa-ad7a-f5b11a90b77d
       :name: Little Red Rooster
       :segued: false
@@ -2849,7 +2849,7 @@
       :segued: false
     - :uuid: 435823a3-b0f2-4742-b487-4cb58be4712f
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 6c2bbfd5-4190-484d-875b-4c7c0291b89a
       :name: Big River
       :segued: false
@@ -2869,28 +2869,31 @@
     :songs:
     - :uuid: 0cb04949-b1a0-4c1f-9538-d6880bdcfb1e
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: d6d501cf-f0e4-4c9e-b5ee-53c1f542b069
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 9db2d5df-1bcd-426b-873a-50a85f196efb
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 6b050dd2-79c2-4e87-a52b-441a755d34dd
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: ce1a662c-5c9c-4498-bdfa-b0a5b032ff89
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: da015674-f3af-481f-ae65-15d27126b7f6
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 6f0dba6c-42cb-4bfe-9629-a60937e8d393
+      :name: Space
+      :segued: true    
     - :uuid: 485acbfd-a7ca-452c-b8c8-23a2e3129afc
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 3450eae9-934c-437f-9848-51b2cf858e19
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: a79b3c67-86c6-4d0e-898d-7ef15baef64e
       :name: Sugar Magnolia
       :segued: false
