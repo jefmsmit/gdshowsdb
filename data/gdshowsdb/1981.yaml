@@ -3554,13 +3554,13 @@
     :songs:
     - :uuid: 30c39504-ab9a-4f9e-b8a4-96db9b3f90d2
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 73ff7952-55bb-4ef2-a9a0-c331af24f2ea
       :name: The Promised Land
       :segued: false
     - :uuid: ab68b210-cb3f-4294-bc98-38051408cbb6
       :name: Friend Of The Devil
-      :segued: false
+      :segued: true
     - :uuid: 4e55b793-0e44-4a23-acf8-69e2d93d22dc
       :name: C.C. Rider
       :segued: false
@@ -3578,10 +3578,10 @@
       :segued: false
     - :uuid: c3d9812b-9475-425f-abf5-40e905528bd7
       :name: Cumberland Blues
-      :segued: false
+      :segued: true
     - :uuid: c9446103-4a86-4198-84c1-3fd94ceace5f
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 9fbf49a5-a643-4116-8538-07223d1ca7d4
       :name: Might As Well
       :segued: false
@@ -3592,25 +3592,28 @@
       :segued: false
     - :uuid: 10072504-bc85-455b-b8ab-024f458b39b4
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 43417fb0-ec7d-421f-88ec-5fe93a901d8d
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 82b0f2b6-1ab4-4748-821a-8186fe31de04
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 1f0217b9-2a31-437a-a899-11aaa6c99d9b
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: c9c3f717-ad9c-4aa1-bab3-64ea42488671
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 63d125b3-177f-4e9d-ba4d-bd78a6698eac
+      :name: Space
+      :segued: true    
     - :uuid: 6b7316e0-dbd8-40e6-8915-eca9fe4d7d62
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 49999253-cbac-48be-8568-463abd009b6a
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: c63d261f-9d59-40f7-a5e9-684a1df98326
       :name: Good Lovin'
       :segued: false
