@@ -3794,7 +3794,7 @@
       :segued: false
     - :uuid: 5e1710de-35af-4acc-a155-4b1c1360a92a
       :name: Candyman
-      :segued: false
+      :segued: true
     - :uuid: a986fffa-ebf0-45a4-8438-d11d10cabe6c
       :name: Little Red Rooster
       :segued: false
@@ -3809,7 +3809,7 @@
       :segued: false
     - :uuid: 45173c0e-556c-45fe-af81-5f1648f06285
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: a3b11d5a-f05c-4727-b48d-a6f4cd1ba695
       :name: Deal
       :segued: false
@@ -3817,34 +3817,37 @@
     :songs:
     - :uuid: 1b4096e4-739b-478d-836c-c5ae29caae31
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 292903ce-4909-42fa-84f5-3f9926e15149
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: a037157a-66b3-4060-bec8-79d028508902
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 0d41c7b5-0bad-480e-86bc-a78545e9a9ed
       :name: Fire On The Mountain
       :segued: false
     - :uuid: cb293311-38fb-4477-a017-fe85bb6f110a
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 6118dd06-076b-4ab1-a43b-3434b4f89d47
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7bcd8883-2bd5-41f3-a4e0-9e3b3107ee35
+      :name: Space
+      :segued: true    
     - :uuid: a53ab3f8-deb8-44ad-b0a1-d702270f008d
       :name: Never Trust A Woman
-      :segued: false
+      :segued: true
     - :uuid: 9bcb349b-59ce-4285-b238-56bd6f06d2dc
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: 248c18e2-6801-4099-868d-8c3e75e5ddf0
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 19e315ca-c849-4390-aa23-147f9bfd68a5
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 094a4a2d-fdd2-4d53-8d25-5997aff682c6
       :name: Johnny B. Goode
       :segued: false
