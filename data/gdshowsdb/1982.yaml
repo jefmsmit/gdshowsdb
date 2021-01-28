@@ -2133,7 +2133,7 @@
     :songs:
     - :uuid: 5a0ffa94-2f6d-4542-9b82-5c34eab9015c
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 5385f784-c6a5-4417-8f1b-16b3601c6d3e
       :name: The Promised Land
       :segued: false
@@ -2145,7 +2145,7 @@
       :segued: false
     - :uuid: 57acbbbc-ce08-4111-bfe9-8f438337d93a
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: 8d14f096-3283-40e4-a074-1c45cb08b5d3
       :name: Little Red Rooster
       :segued: false
@@ -2157,10 +2157,10 @@
       :segued: false
     - :uuid: 795f719a-b3a8-4af4-bf02-cddf744ebeaa
       :name: Brown Eyed Women
-      :segued: false
+      :segued: true
     - :uuid: b012e413-20ab-4518-8153-bd9577fb3698
       :name: The Music Never Stopped
-      :segued: false
+      :segued: true
     - :uuid: f625299d-b356-4c42-8edc-a61870fe3be9
       :name: Deal
       :segued: false
@@ -2168,28 +2168,31 @@
     :songs:
     - :uuid: f211b6b0-77a9-4509-9831-00bd9bbb3401
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 104b16ad-0f10-4eeb-9b37-6802f530bfad
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: e893c63e-c165-4c0c-b94e-f1ab40a90e97
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 62089b0f-609d-4d8d-ae80-139ff3d7e0fe
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: dd8339b8-b5fc-418f-8602-330ddd76e9f3
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b97b9c7d-06ab-449f-afbf-bd87bc07e0e0
+      :name: Space
+      :segued: true    
     - :uuid: 287be4d0-2893-4922-b2b4-9d963c58dc9e
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: dbec1321-51f5-42b7-8946-55801d355dff
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 366c808b-bd9d-43fe-8350-1003030f856b
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: f7db6875-76f9-42fb-a8d3-63291601a288
       :name: One More Saturday Night
       :segued: false
