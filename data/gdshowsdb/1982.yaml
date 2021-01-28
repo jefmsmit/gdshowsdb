@@ -1109,7 +1109,7 @@
     :songs:
     - :uuid: 54c43738-2464-4207-b65d-69cb3565a526
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 1cfcdcb9-57c0-4aaf-9a72-62e1e6e594da
       :name: Greatest Story Ever Told
       :segued: false
@@ -1136,7 +1136,7 @@
       :segued: false
     - :uuid: 2e7ca059-c30b-4716-91b4-c10431fd65fc
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: cbf8bfb4-69b2-46ea-817d-0a3ef30a8e73
       :name: Deal
       :segued: false
@@ -1144,25 +1144,28 @@
     :songs:
     - :uuid: 51d02214-4d37-4037-b455-c883750fe2f5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 76ec051b-5e2b-4f44-97d7-f888326523ce
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 3812c010-196a-4a04-aaa0-bd4c41a76163
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 89275b84-0dd6-48fa-b133-773612193959
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 0d81e356-f93d-4fc1-b405-dc8ecdffb126
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 343980fc-ea6c-4057-8a0e-c16c081218a9
+      :name: Space
+      :segued: true    
     - :uuid: 26da1e90-33f0-46f6-b827-9f4037871c97
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: f8def533-d32f-40a8-9c8f-2872d6390a2b
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: cedeb670-523d-44cf-a0c2-ddb37cf878ee
       :name: Good Lovin'
       :segued: false
