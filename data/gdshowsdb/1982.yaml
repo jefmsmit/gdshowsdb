@@ -2592,7 +2592,7 @@
     :songs:
     - :uuid: b90e09b0-48d3-4eef-b44f-12913f4256e7
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 2684d5d5-ca13-44b3-a8b2-bc97d5ee0718
       :name: The Promised Land
       :segued: false
@@ -2613,7 +2613,7 @@
       :segued: false
     - :uuid: 611bdb6d-1d84-4e56-bff5-dea6d4d8e0af
       :name: Brown Eyed Women
-      :segued: false
+      :segued: true
     - :uuid: 162105e4-4dd8-4c3c-a071-5c3eed128815
       :name: Looks Like Rain
       :segued: false
@@ -2630,25 +2630,28 @@
       :segued: false
     - :uuid: cfe8c9c1-10c6-4f06-9fa1-7df4d87e0bb1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: fb436d19-7d76-499f-89dd-ac265b752e09
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: ff71c9ce-9cb5-460e-94ce-80f0bb25e86e
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 91b5dbf9-e7af-410f-8700-45e2aa677083
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: dc133e16-d22a-4a7b-99ff-69445191343b
+      :name: Space
+      :segued: true    
     - :uuid: d6647f24-0ffd-4abd-82e9-6a6772ddc046
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 653c4905-e65d-4955-914e-43c2de3e711a
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 186bbdbe-9e82-427f-8f47-07873fb52504
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 6bdaede0-0cc9-494b-bd38-4015a25af2f5
       :name: Good Lovin'
       :segued: false
@@ -2656,7 +2659,7 @@
     :songs:
     - :uuid: 1b7c5921-5fd6-411c-9eed-faf57405faac
       :name: (I Can't Get No) Satisfaction
-      :segued: false
+      :segued: true
     - :uuid: c2671508-14c0-43c4-bbf9-a41de1760b1c
       :name: Brokedown Palace
       :segued: false
