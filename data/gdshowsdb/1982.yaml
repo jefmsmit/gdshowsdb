@@ -3036,13 +3036,13 @@
       :segued: false
     - :uuid: f1dc7898-6854-4a5d-8e48-2f8adb28b0d0
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 00d5243e-b375-4d60-b262-12e171b9c7f0
       :name: Big River
       :segued: false
     - :uuid: aeac8e4c-787e-4f05-b108-5dbe01de9ca1
       :name: Dupree's Diamond Blues
-      :segued: false
+      :segued: true
     - :uuid: c1a2ed58-8476-4dea-9a2b-278550b97838
       :name: C.C. Rider
       :segued: false
@@ -3054,7 +3054,7 @@
       :segued: false
     - :uuid: a32f1bbf-9d13-4ce8-a92c-def79c15d124
       :name: Tennessee Jed
-      :segued: false
+      :segued: true
     - :uuid: ee1fe116-b67e-4977-ab3e-294764512be0
       :name: Let It Grow
       :segued: false
@@ -3062,31 +3062,34 @@
     :songs:
     - :uuid: bbb9ed7d-1cf4-470f-861b-989a22699182
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 0e913955-7d0a-4023-a210-a4105e00e2ec
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 47fbc348-a7fb-4811-8f7d-ca6d2e487a8a
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: f9cd7915-58d1-4015-a2f6-c0d6bba16bf2
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: a3f25200-ce93-4419-93f9-eaf5231a6d7d
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: ac26e1e6-0459-4e73-9a62-f7221107ea7f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: c481574b-d585-4263-b91b-ab53c44112cf
+      :name: Space
+      :segued: true    
     - :uuid: f408f463-d2bf-4742-9d8a-67faff56d23a
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 788ab11b-2f31-4134-a919-dfd8f5e07a2f
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: f5b3557d-aed9-4002-8366-eed27794802f
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: e6242b2e-75ae-4a4d-b22c-673015b484c1
       :name: One More Saturday Night
       :segued: false
