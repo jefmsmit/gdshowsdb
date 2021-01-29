@@ -2428,19 +2428,19 @@
     :songs:
     - :uuid: 108e6ed9-63cf-4718-b5ef-678a6ea743da
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: d7a97753-3950-44b5-9bee-0eda26c62409
       :name: New Minglewood Blues
       :segued: false
     - :uuid: a6ad1736-791a-4d1f-a402-8688bb01e42b
       :name: Candyman
-      :segued: false
+      :segued: true
     - :uuid: 56a03fd4-d4d5-4124-96d7-c5c0145eaa29
       :name: Little Red Rooster
       :segued: false
     - :uuid: ca0035d6-3aeb-42ec-8faa-6c2004053c6f
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: 4e9fad44-eab9-4a8d-955b-ebb57eefd4b8
       :name: El Paso
       :segued: false
@@ -2452,7 +2452,7 @@
       :segued: false
     - :uuid: 8469cafb-3460-400c-a664-cc946c720275
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: a21357cd-2e83-46ee-acc8-1ded5d648aec
       :name: Supplication
       :segued: false
@@ -2463,31 +2463,34 @@
     :songs:
     - :uuid: 5d000a76-e947-48b9-ab03-7a4b6f8d69cb
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: aeea279c-597f-4596-b0e5-0911d8fbd962
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 7af9bde7-ab6b-4139-aa58-5c87bfa57a0b
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 3ed476d1-e50c-4236-b755-ba0437672c7e
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 562022bf-ad80-4324-b479-4e1f3a683f80
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: fac5a450-f4a5-415d-bdc5-afcca035b41d
+      :name: Space
+      :segued: true    
     - :uuid: 37de4b73-c097-4941-a638-263d5b2e793d
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 6c3c0b61-6b64-48e6-a46a-7e2f042ec405
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: d43bb744-a3c7-47ae-ab5d-21f72592db71
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: d293396c-874a-4931-980f-e76035cbb540
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 1650c9c0-2d66-4591-9257-3d5e6f96b00f
       :name: Johnny B. Goode
       :segued: false
