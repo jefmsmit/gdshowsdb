@@ -3477,13 +3477,13 @@
     :songs:
     - :uuid: 37a8834d-f450-4621-a6cf-117532ca533e
       :name: Shakedown Street
-      :segued: false
+      :segued: true
     - :uuid: 65b91138-1f94-4a37-9e06-342dd785cbad
       :name: New Minglewood Blues
       :segued: false
     - :uuid: 44b765fb-f0a1-43e8-bb4d-2956fd013c71
       :name: Candyman
-      :segued: false
+      :segued: true
     - :uuid: 1b92988b-2785-4971-aa5b-d5dce65b9b54
       :name: El Paso
       :segued: false
@@ -3501,7 +3501,7 @@
       :segued: false
     - :uuid: 621e70c2-ce98-4084-936a-852ba9edd699
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 4c04504c-4e6c-4100-b5e0-6f01de6b174b
       :name: Keep Your Day Job
       :segued: false
@@ -3509,7 +3509,7 @@
     :songs:
     - :uuid: a7dfa6ce-30cd-495a-8b38-8446953e44c0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5b83d1d6-0429-439f-9bd8-d70ff2fa70ba
       :name: Fire On The Mountain
       :segued: false
@@ -3518,22 +3518,25 @@
       :segued: false
     - :uuid: 0094f720-ba58-4c0e-af66-1e4d20adac1d
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: c0c2a192-1648-4cd2-a0ce-2b0a0d5b4c49
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 85053b53-7a9f-4618-b082-576ea9c83ccb
+      :name: Space
+      :segued: true    
     - :uuid: 9085f718-c1ca-4701-8ddc-947659e5a1e6
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: c40bf87b-94ee-437c-8956-3583f51a044d
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: b196c34e-4698-4c12-b868-e5ab22b03efe
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: c9c4d894-29ee-4bb7-a70c-cdf9a7a5eccd
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 4267845a-97a4-407f-b785-27739688db7c
       :name: Sugar Magnolia
       :segued: false
