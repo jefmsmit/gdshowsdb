@@ -4016,59 +4016,6 @@
     - :uuid: 5078c41e-da0b-47fd-a64e-98b119621f33
       :name: Don't Ease Me In
       :segued: false
-1982/11/25:
-  :uuid: 545af50c-a5b1-468a-a464-4044e0f7062e
-  :venue: Montego Bay
-  :city: Freeport Zone
-  :state: ''
-  :country: JM
-  :sets:
-  - :uuid: 1103ad60-d886-42d3-897f-58566b135a61
-    :songs:
-    - :uuid: 27f7e470-6939-44a1-9bdf-4920383eb168
-      :name: Sugaree
-      :segued: false
-    - :uuid: 55624216-f696-49ff-8713-d630afe9198b
-      :name: New Minglewood Blues
-      :segued: false
-    - :uuid: a79cac65-dcb4-4992-946d-ccae20891d10
-      :name: Loser
-      :segued: false
-    - :uuid: 687344fb-4068-4ba5-8ca0-c985617133cd
-      :name: Man Smart (Woman Smarter)
-      :segued: false
-    - :uuid: 8a233207-2148-458c-aa4d-ff40ac8dd511
-      :name: Althea
-      :segued: false
-    - :uuid: e4cfde26-f062-4640-b43e-2c61ab32b142
-      :name: Let It Grow
-      :segued: false
-  - :uuid: 61064757-7bee-45a5-8fe1-074fd60489f7
-    :songs:
-    - :uuid: 0d9aa95f-c756-4a29-9940-8f779ac6985f
-      :name: Samson And Delilah
-      :segued: false
-    - :uuid: 1324d823-202e-4c1b-bc5a-6bc6a6eee237
-      :name: Scarlet Begonias
-      :segued: false
-    - :uuid: 2a5b6540-d81d-40d9-bc4e-1c0d992d79fe
-      :name: Fire On The Mountain
-      :segued: false
-    - :uuid: 6b94a76d-c6ab-430a-a842-015df217c04b
-      :name: Drums
-      :segued: false
-    - :uuid: 8561f5ae-856a-4b92-8065-7426feb3348e
-      :name: Throwing Stones
-      :segued: false
-    - :uuid: 4828719a-a352-48b2-855a-a7227f8d0d97
-      :name: Not Fade Away
-      :segued: false
-    - :uuid: 740a16bb-459b-4204-a47f-4ff09a9e6561
-      :name: Black Peter
-      :segued: false
-    - :uuid: 5cffc505-2a0b-4e7a-b7cd-945a1ad8727f
-      :name: Good Lovin'
-      :segued: false
 1982/11/26:
   :uuid: b0e784cb-7440-42d0-b93f-eb049b65dbf0
   :venue: Bob Marley Performing Arts Center
@@ -4092,7 +4039,7 @@
       :segued: false
     - :uuid: 5632c752-1ec4-4171-96cb-6b6ebc8a389a
       :name: Althea
-      :segued: false
+      :segued: true
     - :uuid: df730812-dc41-4f05-bc3b-7f31173f36e6
       :name: Let It Grow
       :segued: false
@@ -4103,22 +4050,25 @@
       :segued: false
     - :uuid: ccbcca6b-58e0-43bb-905d-5dc42e7c49ae
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 283113f2-ad14-44df-8f00-d45ce0db1041
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 3763198e-d250-45a6-b047-9e6ff5b568c1
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 4e780667-d2a7-4ebb-88f2-fa5306822aa3
+      :name: Space
+      :segued: true    
     - :uuid: a71d5401-d8b6-4f99-8aa7-cd73907062d6
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 81533c54-76fe-429d-96a0-65611daa15cc
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 1d9e3bab-f178-4684-80ae-1b045f013c4e
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: d8629c81-8e99-42f9-82fa-602e9f36d203
       :name: Good Lovin'
       :segued: false
