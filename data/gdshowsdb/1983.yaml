@@ -2083,7 +2083,7 @@
     :songs:
     - :uuid: 4f0f4898-7253-433c-94f8-37263e2777d9
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 6fe93bc0-d63b-4653-8f81-db4e35fe8353
       :name: The Promised Land
       :segued: false
@@ -2098,16 +2098,16 @@
       :segued: false
     - :uuid: a1c26221-7e75-4ba8-94a2-cb530d096833
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 67a04212-ca2e-4099-a1e7-86b1186fb7ee
       :name: Mexicali Blues
       :segued: false
     - :uuid: 5d9ae3a4-d244-4605-b61f-85deb0bf5981
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: a5c72078-a8ea-4c29-a3eb-58e7973dd7d1
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 25767e34-cbc1-4fad-82cf-0d6f9534e0a9
       :name: Sugaree
       :segued: false
@@ -2115,25 +2115,28 @@
     :songs:
     - :uuid: 9bf7e79a-fe26-479d-9573-903b124d5fb8
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2ee3a5c1-ae44-412e-a34d-9dd2b53af443
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 50463029-13a4-467c-ada1-b09ae4f44734
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: ab13dd03-77c4-4132-b9fd-3c4994348c43
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 536f7205-49ea-4fda-a654-843bd39671e8
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: f4eb4621-bd9d-41ed-8baa-4710042e0a29
+      :name: Space
+      :segued: true    
     - :uuid: 2faf5824-7e45-4f57-a5e7-ac23740fdf13
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 4640d6d8-10c6-4160-bd48-a942e69506fa
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 57b701ef-d66c-4807-bb62-6539524df95b
       :name: Good Lovin'
       :segued: false
