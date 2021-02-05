@@ -3078,7 +3078,7 @@
       :segued: false
     - :uuid: e06c97de-8f76-47c1-a50f-fdc0f3b9d378
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d750f9c6-beb2-4787-beae-d70fc3bf0823
       :name: Big River
       :segued: false
@@ -3093,7 +3093,7 @@
       :segued: false
     - :uuid: 20a87d66-d6dc-4ea3-8f5e-fe3581989611
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: a5b48c7d-3659-4586-a45b-98f8a5f514f2
       :name: Deal
       :segued: false
@@ -3101,28 +3101,31 @@
     :songs:
     - :uuid: e801c2ee-2049-44fd-8911-a30aee1bfce3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 87c728d4-e16e-4079-afbc-5490dcbc4829
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 658d3701-3369-4c10-91af-aa79e3728bd4
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: cddd155b-37d7-4ce6-828e-87697c5c3b2b
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: e4ca191c-a243-4c60-9b35-1fd52317778c
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 02d5b076-4ac4-4daf-a7e4-272bacd73512
+      :name: Space
+      :segued: true    
     - :uuid: 27b548cb-3e44-45b4-ae96-f01ad8cc273b
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 459e76bc-8cdf-49dd-8853-9c706864fde4
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 93dc0640-4daf-4a4d-91ac-539c0bbe2025
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 63ff111a-46f5-48ca-a318-2771325c56c6
       :name: Good Lovin'
       :segued: false
