@@ -4020,7 +4020,7 @@
     :songs:
     - :uuid: 69f7f54b-b894-4c08-bc0a-fc249104fbb2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: fedd9cfe-9711-4d1d-abba-261dffd3c47b
       :name: Fire On The Mountain
       :segued: false
@@ -4029,19 +4029,22 @@
       :segued: false
     - :uuid: 1bf73f2c-b377-44c6-8b79-262372534b07
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: b6754ae9-eb33-4624-8130-64c4d0f905a4
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 886da294-2ac1-41f1-9dc1-fa7903897d88
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: d3f003d6-ceab-43ba-9fa9-8c6fad1e315e
+      :name: Space
+      :segued: true    
     - :uuid: 9fc38f8a-94ee-4ebb-ad50-e637d9a6acce
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 9bffe233-fef3-43ca-844d-e5618a07dde2
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 4fb5a0c2-52ba-4878-bc14-3ff2698d3d4e
       :name: Sugar Magnolia
       :segued: false
