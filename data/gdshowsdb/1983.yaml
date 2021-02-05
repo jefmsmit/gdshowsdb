@@ -679,7 +679,7 @@
       :segued: false
     - :uuid: 45e54d6b-c779-49c8-8d1b-893c86e36f97
       :name: They Love Each Other
-      :segued: false
+      :segued: true
     - :uuid: 49553848-e3b9-485b-ac64-d34241ce404f
       :name: Beat It On Down The Line
       :segued: false
@@ -688,7 +688,7 @@
       :segued: false
     - :uuid: 0ef7d04e-d3c2-4dd7-90d1-559edd31b384
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: ed802761-41ae-4b78-8ee5-60b8d6131015
       :name: Cumberland Blues
       :segued: false
@@ -700,7 +700,7 @@
       :segued: false
     - :uuid: b4e5f886-d38b-459e-bf87-0144ac6ae3ad
       :name: My Brother Esau
-      :segued: false
+      :segued: true
     - :uuid: 7b505a08-8c70-4406-9a1a-1be6bbf19968
       :name: Might As Well
       :segued: false
@@ -708,28 +708,31 @@
     :songs:
     - :uuid: 9b0a7be0-0be3-40c1-9185-14e94ba78cc2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6ecac35a-5811-4cce-abcd-f703ca5a7953
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 9841b4d2-b622-43cc-9f83-473592f49f22
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: e2bb30e9-76a3-435b-898e-93ca8f467f53
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 2f784156-b5fc-4ee5-9399-2aae6abe9582
       :name: Maybe You Know
-      :segued: false
+      :segued: true
     - :uuid: 68409939-c1ca-41de-8825-799b2418a8bc
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2268a173-0479-4463-9373-194e5e45244e
+      :name: Space
+      :segued: true    
     - :uuid: 3529a33f-5830-4b37-8d7d-f23a575df725
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: 920863ab-2b89-4649-8a42-2fa7bb8e017f
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: a1238111-8839-46a4-a05d-88e5c220fec3
       :name: Good Lovin'
       :segued: false
