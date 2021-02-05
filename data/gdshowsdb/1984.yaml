@@ -1892,19 +1892,19 @@
       :segued: false
     - :uuid: 579b9cf6-eefb-4db1-a9f4-116dd1e71b01
       :name: C.C. Rider
-      :segued: false
+      :segued: true
     - :uuid: 3b76ff61-16fc-47e7-8af5-460b0da5dee7
       :name: Bird Song
       :segued: false
     - :uuid: ddd847ac-960a-46b9-807a-3f8e49823814
       :name: Beat It On Down The Line
-      :segued: false
+      :segued: true
     - :uuid: aa57cf88-8a76-49c4-a9bb-8ed57affe562
       :name: Dupree's Diamond Blues
       :segued: false
     - :uuid: 68a2cdaa-6a59-45b7-80fb-ca682889dee9
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: f6ec1c54-3b24-41b9-9224-5e15517d91c6
       :name: Might As Well
       :segued: false
@@ -1912,7 +1912,7 @@
     :songs:
     - :uuid: c13ce2ad-1d3a-4053-8a10-7956b7e7a205
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: b230d246-4b91-4ef3-b4a6-c7b3cf51cad5
       :name: Fire On The Mountain
       :segued: false
@@ -1921,19 +1921,22 @@
       :segued: false
     - :uuid: db48b91b-2056-4953-ad25-71355339968a
       :name: Samson And Delilah
-      :segued: false
+      :segued: true
     - :uuid: c4a4822b-6cbf-4b87-a471-4d821f368d7e
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 63458639-efaa-4642-84e0-aa3e410a9aa5
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 203b75af-71bf-41fb-a837-4dd33cd4d9af
+      :name: Space
+      :segued: true    
     - :uuid: dcd410d3-0eb6-4f69-9833-cd25e70f61f2
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 718c97a6-a63b-4d40-a289-68d6eb4fd520
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 662feb1e-92b9-4759-ad24-09ab614fbd55
       :name: Not Fade Away
       :segued: false
@@ -1941,10 +1944,10 @@
     :songs:
     - :uuid: fa2f884a-bdf3-480e-94f1-fdbc0ffc0298
       :name: New Orleans
-      :segued: false
+      :segued: true
     - :uuid: aa56b0fb-62c8-4fc1-927e-80b55578a77a
       :name: Big Boss Man
-      :segued: false
+      :segued: true
     - :uuid: a1f0b287-29c3-44b1-8cf6-80af5536c8a5
       :name: Iko Iko
       :segued: false
