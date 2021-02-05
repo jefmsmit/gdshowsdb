@@ -3589,10 +3589,10 @@
     :songs:
     - :uuid: 8a40a152-1788-438a-8aae-5f94d340ec36
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: ace7a55b-c3a6-4ef7-8018-9de6c74a1cd9
       :name: Sugaree
-      :segued: false
+      :segued: true
     - :uuid: 7a8d653c-d790-4346-8fdd-946ba23d7395
       :name: El Paso
       :segued: false
@@ -3607,7 +3607,7 @@
       :segued: false
     - :uuid: 5cd1e4a5-6d70-4dd9-9376-170c971f4d25
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: c8c061b2-5dc1-4a49-9c3e-32ce7e194815
       :name: Keep Your Day Job
       :segued: false
@@ -3615,25 +3615,28 @@
     :songs:
     - :uuid: 1cf3b799-79f9-4e83-9cac-064e66d18e90
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 60469ceb-800d-41ba-9d2d-3facee52a5de
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 608b880e-886e-4ff6-b143-0c612b82c39a
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: ada5ee96-a9dd-4a8a-8946-50d83fb6c754
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2447adf2-4991-4b9f-9e5d-e3e161e1ab88
+      :name: Space
+      :segued: true    
     - :uuid: e6126bba-1d84-41fa-bc73-ac9b8e01d12e
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 5b3c62b3-23bc-45ea-8a6f-d9e38999d932
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 020740c4-af0a-46a5-afb5-d2b47d1b83d7
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 61989b83-cfc2-4aec-a378-2e8a2bf71f2d
       :name: Sugar Magnolia
       :segued: false
