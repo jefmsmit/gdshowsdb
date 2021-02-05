@@ -150,7 +150,7 @@
     :songs:
     - :uuid: 8c904adc-dade-4890-90cc-340e2abb94a1
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 183d5a53-d2b2-428b-ad7a-150adc132f1d
       :name: Feel Like A Stranger
       :segued: false
@@ -165,13 +165,13 @@
       :segued: false
     - :uuid: fc57ec67-ca78-4b6b-8a15-61804d9f188b
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 6410f45e-015e-4353-8916-71a86bbdb792
       :name: Althea
       :segued: false
     - :uuid: a3ee2a71-c105-41ed-a45b-2f36c73b22bb
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: c4b03d08-71b3-40c6-9f0b-7d63d2c3993a
       :name: Deal
       :segued: false
@@ -179,7 +179,7 @@
     :songs:
     - :uuid: 1ec4ed7d-e53a-44fd-912b-ed79ff454458
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 85375132-a071-41da-84c1-53a20ba6ea58
       :name: Fire On The Mountain
       :segued: false
@@ -188,13 +188,16 @@
       :segued: false
     - :uuid: 0104579b-d038-47c8-b61b-76c004b039d3
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 4a744c48-5b2b-4e04-9884-3fb9de2989d2
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: dc998173-d329-4428-b04b-ef54ca9cd318
+      :name: Space
+      :segued: true    
     - :uuid: 03879374-7283-4857-95fe-bca4c6f075e4
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 54ecf1d4-585d-412a-b578-7e9b3f5705b2
       :name: Not Fade Away
       :segued: false
