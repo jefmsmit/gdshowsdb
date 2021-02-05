@@ -2500,7 +2500,7 @@
     :songs:
     - :uuid: b9668f9f-605a-45d9-a1df-b281b57d8029
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 148f5bf2-a809-4ded-ae2c-f3e5cece1ae3
       :name: The Promised Land
       :segued: false
@@ -2509,7 +2509,7 @@
       :segued: false
     - :uuid: e653c32b-c644-4b82-9f09-79567a70e526
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 887b9b8b-6931-4890-bba2-dc0f3e428e63
       :name: Big River
       :segued: false
@@ -2529,7 +2529,7 @@
     :songs:
     - :uuid: dd08d56e-21f1-47e2-a91c-ef5dfd893c68
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 165efb49-fc9c-4a83-a6f6-01deef02bb96
       :name: Fire On The Mountain
       :segued: false
@@ -2538,19 +2538,22 @@
       :segued: false
     - :uuid: e1b9acc7-9451-44b7-afbc-ce6288ab1f95
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: c6e2af1f-9cbb-4126-8f2b-1f76a9679949
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: f2c16e7e-3674-48b2-a306-e1798aaea170
+      :name: Space
+      :segued: true    
     - :uuid: c1fa2394-820f-49c8-a6fb-0bd609ae2288
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 041e318b-0f5e-475f-954b-4d00cb6646a2
       :name: Wang Dang Doodle
-      :segued: false
+      :segued: true
     - :uuid: 4e5a9e85-81cd-4858-9f7e-0411720f3896
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: cb5272e2-da22-40c9-bbd6-7987370e5b22
       :name: Sugar Magnolia
       :segued: false
