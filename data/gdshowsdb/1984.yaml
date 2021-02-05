@@ -2242,7 +2242,7 @@
     :songs:
     - :uuid: be204482-7923-449d-abdc-190174a95900
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: acd5a1d5-caf0-489d-8a2a-a837b562f885
       :name: Greatest Story Ever Told
       :segued: false
@@ -2263,7 +2263,7 @@
       :segued: false
     - :uuid: df1795ba-0f41-4a17-87b3-72d8c4534cbe
       :name: The Music Never Stopped
-      :segued: false
+      :segued: true
     - :uuid: 5040b33c-ec76-4f68-9c98-c1f5f07a979e
       :name: Don't Ease Me In
       :segued: false
@@ -2271,31 +2271,34 @@
     :songs:
     - :uuid: ccf8786b-dba0-4005-b80b-846b96fc97bd
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: b63ae8fc-bde2-4b84-a15b-f0a70e04488e
       :name: Touch Of Grey
       :segued: false
     - :uuid: 9a2a9313-15f4-4751-8e2a-1c7c5e39775d
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: 496554ad-57b6-4e79-942b-a19617119e06
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: 2707433e-ef3e-4e70-9f65-78c6c7106cab
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: f0d95e66-787e-4f8a-ba53-599111f0ce69
+      :name: Space
+      :segued: true    
     - :uuid: 94985fb4-fd7e-4016-b9c4-2190dbd8f3d1
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 5324cccd-17be-42c3-852a-9ec82732bef5
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: e9656abe-6f4f-45cb-bd3d-fe9b9d05846d
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 504a8dc2-3e55-4779-964c-17019bafbb17
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 6f5653ca-103b-4bb3-9b6d-38b9dbfea340
       :name: Johnny B. Goode
       :segued: false
