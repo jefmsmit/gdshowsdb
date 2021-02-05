@@ -2461,7 +2461,7 @@
     :songs:
     - :uuid: d8a0000d-89cc-4543-957b-098bde80e9e1
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: c3815c86-1fa0-4e16-8962-132b59406472
       :name: The Promised Land
       :segued: false
@@ -2482,7 +2482,7 @@
       :segued: false
     - :uuid: 1cd254dc-f2d8-4ffc-9777-28f6bfe18355
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 5f5b95e6-f245-4a4c-ae04-0a767129dd5e
       :name: Deal
       :segued: false
@@ -2490,28 +2490,31 @@
     :songs:
     - :uuid: e25b216c-a725-415a-9e5e-7ef50e761899
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f5411183-ad99-413d-af4e-11ff0a679ef5
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: e092742f-bbcd-4660-9a96-311afe3a56ca
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: ca9df3bb-fe4a-45ad-9f46-f70396c05ec9
-      :name: Scarlet Begonias
-      :segued: false
+      :name: Jam
+      :segued: true
     - :uuid: 08a8f0a8-8c89-4bd6-835e-2a973164b5d0
       :name: Don't Need Love
-      :segued: false
+      :segued: true
     - :uuid: cc5897b2-c6b0-4e4c-a9b5-46d9559399fd
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 106ddcda-5da1-4f60-9e42-1e286f72e3a5
+      :name: Space
+      :segued: true    
     - :uuid: de0b0a74-1ef3-41a3-be81-47b61f30ba0a
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 51fb93ce-f598-4911-aeb4-4e59dc6c7016
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 86f6f660-bd8b-40db-ac29-6b155d4c856b
       :name: Not Fade Away
       :segued: false
