@@ -1221,7 +1221,7 @@
     :songs:
     - :uuid: fe7f3d66-ef80-4465-aa86-9e904a9197db
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 04120ba0-13c8-44c3-8cf7-b5648a924c05
       :name: Greatest Story Ever Told
       :segued: false
@@ -1236,7 +1236,7 @@
       :segued: false
     - :uuid: e30803e8-ce0a-43e7-ba60-6a3b6e940f33
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 61960d49-91a6-4569-a048-4e785f903832
       :name: Supplication
       :segued: false
@@ -1253,28 +1253,31 @@
     :songs:
     - :uuid: 4f96f782-a9dd-4ba1-9b93-5d2368866e94
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 33d07a3e-c822-4651-ab8b-7b2572bbd173
       :name: Fire On The Mountain
       :segued: false
     - :uuid: da0a14ad-533a-49f8-ba3f-a605ac4a73f7
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 5a952660-4553-4d07-a0af-c5ee312e4e39
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: fc5d3b18-b541-44e1-ac00-aa2cf8e0f436
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: af9a925f-76e3-4e47-bb7b-4dd3c145db7c
+      :name: Space
+      :segued: true    
     - :uuid: bd15f231-e731-4d34-b0b9-e68b5572caad
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: afb7f167-76c0-4dfc-ae82-5f8b60388eab
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 148ec410-c32f-4dc7-8f6f-e9393da83802
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 90ab48a0-3eda-429b-ba41-9c26763819a5
       :name: Not Fade Away
       :segued: false
@@ -1282,7 +1285,7 @@
     :songs:
     - :uuid: fb7fc5c0-ed60-46f7-9351-bbeed22b170c
       :name: One More Saturday Night
-      :segued: false
+      :segued: true
     - :uuid: fa8fdaf8-0020-46e4-9bad-61a00cd900cf
       :name: Brokedown Palace
       :segued: false
