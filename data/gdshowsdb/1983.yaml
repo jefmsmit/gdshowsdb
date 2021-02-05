@@ -92,7 +92,7 @@
       :segued: false
     - :uuid: fbac9548-910e-48e9-8e50-a8c66bff5e1c
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 8f95dbe7-8e55-48f2-92f2-2e17ff7361a3
       :name: Mexicali Blues
       :segued: false
@@ -101,10 +101,10 @@
       :segued: false
     - :uuid: 822138dc-6ce3-44be-96ec-7b657f4781d7
       :name: My Brother Esau
-      :segued: false
+      :segued: true
     - :uuid: 3f6e57a6-598f-4e43-ab82-8b5a109d4e3c
       :name: Deal
-      :segued: false
+      :segued: true
     - :uuid: f5e99efe-4eb7-47e3-8911-c3322687014f
       :name: The Promised Land
       :segued: false
@@ -112,31 +112,34 @@
     :songs:
     - :uuid: e2eba18a-2638-44d4-ad09-9d282eb1e217
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: db8026ed-fe17-4984-b3de-0701689b3700
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: b2337bb3-0675-49e2-b9d9-08e2da7fc168
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: ef29f6ba-d4ea-485a-b8cd-bfa47b6ecccf
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 2f0e6428-d8ca-4949-a882-f8cbac8a79f3
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 3df91209-35f7-40bf-a115-1d397e10656a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2978d4b5-917d-4e89-8cbd-b63de8f205eb
+      :name: Space
+      :segued: true    
     - :uuid: 9a020a3b-d61c-4b96-bbb1-576081477e8e
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 5f4a2391-e6cf-4437-a2c3-37c4dd0e7f3a
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: b6658ffb-4d5b-4382-a4d4-837ae9b97d97
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 85585d8b-9ca8-4f39-96b0-b19910cabeae
       :name: One More Saturday Night
       :segued: false
