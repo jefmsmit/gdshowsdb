@@ -1645,7 +1645,7 @@
     :songs:
     - :uuid: 7b59b492-bc0e-4bef-bfff-03ed23cba2c4
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: de853925-1fd6-4f47-99d7-b0d57ac59477
       :name: Jack Straw
       :segued: false
@@ -1654,7 +1654,7 @@
       :segued: false
     - :uuid: ddeee28a-1568-4210-a5a0-99c812b6c500
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: 12ed5a49-60bf-4fa4-9c12-b4ef782c94a7
       :name: Big River
       :segued: false
@@ -1671,31 +1671,34 @@
     :songs:
     - :uuid: e6930de0-2856-41e5-8d3e-da4305db0278
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f93fddaf-e543-4c9c-9bd8-3ed08a4428c1
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 04c698f2-bcd6-4fc4-aecc-fb37921935f0
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: c2c8b658-8c49-4c02-afbf-e026b75613a1
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 5e43cc66-5a95-4584-8899-8d9d9055269f
+      :name: Space
+      :segued: true    
     - :uuid: b7f5471f-b30e-4376-9d13-cc6a633aaca9
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: b9083c37-aec7-4be5-b39e-2581a393bcbd
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 2e8b11e7-140d-407f-bb3d-a7f87cadf818
       :name: Morning Dew
       :segued: false
     - :uuid: 8114e42b-7ee5-4b60-97ce-65694e3d0875
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: eb1d788f-ed7c-4311-b686-d4a9fc81b5db
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: b1a4b35a-018c-466c-8528-10c95ad21b22
       :name: Touch Of Grey
       :segued: false
@@ -1703,7 +1706,7 @@
     :songs:
     - :uuid: 85d6f831-7e3b-4ddc-8659-abc56af828ae
       :name: Don't Ease Me In
-      :segued: false
+      :segued: true
     - :uuid: f27517d8-bb38-4048-bdb0-b772e664dae3
       :name: One More Saturday Night
       :segued: false
