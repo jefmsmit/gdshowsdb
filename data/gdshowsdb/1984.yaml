@@ -1682,7 +1682,7 @@
     :songs:
     - :uuid: f5050cab-2170-47d6-8407-cea9ec686018
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 8d8b5a38-dd45-4f29-bd10-c7e23349c6ad
       :name: Greatest Story Ever Told
       :segued: false
@@ -1697,7 +1697,7 @@
       :segued: false
     - :uuid: 5a438e11-bba8-4f60-af50-1ad5899367db
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: ac86c0ce-f09e-4b86-a4bc-97842661e02f
       :name: Mexicali Blues
       :segued: false
@@ -1706,7 +1706,7 @@
       :segued: false
     - :uuid: fe0994eb-ed7b-4771-87db-cbcec9b379e1
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 560dc13e-dedc-4237-ae49-9e25a6f95e33
       :name: Might As Well
       :segued: false
@@ -1714,28 +1714,31 @@
     :songs:
     - :uuid: 23f5ae0b-33c7-436b-9fe7-9be94e9ffc7f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 87df4990-4982-4eb4-817b-1f0e7994bca2
       :name: Touch Of Grey
       :segued: false
     - :uuid: 6674e54d-1f55-4119-9ea4-bb1d0470c9e7
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 6f33303b-2cdc-4a54-b76e-757cb0885d75
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 6954247d-f4e2-4db5-9f1a-e5655d6be91e
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 59c64fe1-90af-41e8-83da-b1ed4505ec19
+      :name: Space
+      :segued: true    
     - :uuid: aa3b125c-a524-4c78-9a29-32c2936c888f
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 221b8b15-f85a-4df3-8621-e982bb7c59b9
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e4b248d1-e2fd-45aa-8803-6b5e72f79255
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: a41d53cb-8833-4401-9274-0258df8f46b4
       :name: Johnny B. Goode
       :segued: false
