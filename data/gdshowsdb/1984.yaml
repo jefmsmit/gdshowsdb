@@ -3189,7 +3189,7 @@
       :segued: false
     - :uuid: 458d0e61-ed4b-47ec-991f-09d1f73e83cb
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 02c721de-29d8-404f-a1d9-c8c87107a56a
       :name: Don't Ease Me In
       :segued: false
@@ -3197,25 +3197,31 @@
     :songs:
     - :uuid: bc8e86ff-1ebc-4039-8782-e4cd6a3e34b1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ce4d2d93-eee1-446a-9936-a8af2fc3a148
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 6e17b732-1831-4ce8-ba1b-e3d319798572
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 5c1cd966-d06b-4d67-a6f6-a4c3fee32349
       :name: China Doll
-      :segued: false
+      :segued: true
+    - :uuid: 19258ec5-aa3e-4784-b628-246668c2f556
+      :name: Jam
+      :segued: true    
     - :uuid: 67e649d7-16f5-4653-8ed0-d15e184524f5
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b492d2ad-734e-487e-8a93-fd248b3713fe
+      :name: Space
+      :segued: true    
     - :uuid: 6b4ee009-51c8-4cde-b168-f6b009183a21
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: b6d72fd3-762f-446e-a202-19b7f3b74519
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 04b6eb57-7f7c-4afc-b883-fe5a72fbcfdb
       :name: One More Saturday Night
       :segued: false
