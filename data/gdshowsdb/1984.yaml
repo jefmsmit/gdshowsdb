@@ -1480,7 +1480,7 @@
       :segued: false
     - :uuid: fe226132-507f-4563-a22e-d1aa9f0feb7d
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 4b9ffd15-7b3b-4049-9a29-619cae91dd0f
       :name: Mexicali Blues
       :segued: false
@@ -1489,7 +1489,7 @@
       :segued: false
     - :uuid: 60797048-8434-450f-950c-87fdcaa19b7c
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: ea31ddf4-23df-49d1-9922-108f214679fe
       :name: Might As Well
       :segued: false
@@ -1497,28 +1497,31 @@
     :songs:
     - :uuid: edbec0dd-db60-4a62-9081-721573675551
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: dc3bbc66-0e89-4325-8cb1-36f7e6a4a425
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: 86f5bd7e-7054-4e51-be6b-4dcb7596a713
       :name: Man Smart (Woman Smarter)
       :segued: false
     - :uuid: 39509c11-3afb-4b69-8299-1064bf279f8d
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 3e9b699e-3ca3-4112-ba89-654cf7c82597
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 119fd974-2834-40a6-ad2c-e6fac1a983bf
+      :name: Space
+      :segued: true    
     - :uuid: 7829b1b0-e12b-4094-9b4f-0aefe3ac6a5c
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 16cdc86f-3fa1-4d3e-b722-f171650d754e
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 4bc37727-ebcd-4f9a-947e-9877c9f7fe0b
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: b0e0e842-88cb-45fc-a32f-817b838192e4
       :name: Morning Dew
       :segued: false
@@ -1526,7 +1529,7 @@
     :songs:
     - :uuid: 307119ff-0a6f-40bc-8680-a8d48e25af23
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 6b84cac6-72fd-4238-a822-e4fdd828aed0
       :name: Brokedown Palace
       :segued: false
