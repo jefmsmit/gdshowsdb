@@ -2750,7 +2750,7 @@
     :songs:
     - :uuid: b951ff9d-6d4a-455c-8193-f6baa28743d2
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 9919dd4b-b8aa-4a33-b2fe-ecb3f91ee96a
       :name: Greatest Story Ever Told
       :segued: false
@@ -2771,7 +2771,7 @@
       :segued: false
     - :uuid: d339c8dc-5f39-41af-a764-59a6cefd578f
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: f73dc297-14b6-4691-806a-726019faaba9
       :name: Might As Well
       :segued: false
@@ -2779,28 +2779,31 @@
     :songs:
     - :uuid: 5b4236b2-4141-4dce-b1cb-734f35602f82
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c408642b-6dc7-4e0b-9745-a38a0f981c0f
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: 0e63b1ff-f3b0-4c20-9426-53413079c279
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 101739e2-955d-4e6b-af85-bf363756ba3d
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: 9286f3f7-a99d-4b74-a9be-fa46d73555f7
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 62fb84b5-8549-4081-97fc-644dcb240a0b
+      :name: Space
+      :segued: true    
     - :uuid: 2b56e164-e474-4a0d-b66e-61d2da9083b6
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: ee0f1a1a-8748-478d-80f0-bcdaf69400da
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 636182e7-ef32-4ef4-8f2a-a269d642f904
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: f62cf71e-7b0c-42c3-be13-8e844bc9a881
       :name: Sugar Magnolia
       :segued: false
