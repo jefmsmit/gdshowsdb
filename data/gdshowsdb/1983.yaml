@@ -3706,7 +3706,7 @@
     :songs:
     - :uuid: b03a8c4a-4a0f-4b63-a813-3cd97580d1a2
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 4de9b490-cf64-428e-b08b-bfd1a8678fef
       :name: Greatest Story Ever Told
       :segued: false
@@ -3715,13 +3715,13 @@
       :segued: false
     - :uuid: b836daa2-7019-45ee-8ef0-260c2ea9f7d6
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: a2b38013-e1de-4a99-8aba-09237500cae8
       :name: Big River
       :segued: false
     - :uuid: 9005ea35-bded-4fdf-af05-bd0548c1d136
       :name: Althea
-      :segued: false
+      :segued: true
     - :uuid: 07cdc794-8e64-4833-8f0d-4c32f16058b0
       :name: C.C. Rider
       :segued: false
@@ -3730,7 +3730,7 @@
       :segued: false
     - :uuid: 5d298bbf-09c2-4bd7-b177-7d645e5a9755
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: d2e23603-4cf9-42a3-a384-1fc7e68d4687
       :name: Keep Your Day Job
       :segued: false
@@ -3738,28 +3738,31 @@
     :songs:
     - :uuid: 35992f16-b21d-4a23-b6dc-8e3225eabcc1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ba09a416-8b81-4341-8382-f153c781ea72
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 0ddc0eab-428e-4643-9cb8-08ef598adf8b
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 5fa1a3a1-db22-4250-b328-d8c23640e803
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 7b8659ec-d65c-4e83-a474-1088d3590375
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ab795dbf-a567-4dc0-b9ac-413ba04ee83d
+      :name: Space
+      :segued: true    
     - :uuid: 29f723e8-5a2f-45af-92ca-821d0a28cbbf
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 68a3cbb2-cc6c-4e71-9ece-5b90aacd9f56
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: e8ef82ac-2c61-412a-acdc-d7c767e0e080
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 349758cf-75e0-4fcf-aaf1-ee6fa7241a82
       :name: Sugar Magnolia
       :segued: false
