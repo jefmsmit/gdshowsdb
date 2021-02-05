@@ -2856,7 +2856,7 @@
     :songs:
     - :uuid: 64290e8b-a772-4a44-b5c3-19c2ed6f9757
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 86d2bcfa-2438-4381-a9a4-4d13de885539
       :name: The Promised Land
       :segued: false
@@ -2880,7 +2880,7 @@
       :segued: false
     - :uuid: 781100ec-045d-486a-ae19-8f2656e3b5c0
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: ba0cbdfc-9e72-49a3-8f84-a20c7b411358
       :name: I Know You Rider
       :segued: false
@@ -2888,31 +2888,34 @@
     :songs:
     - :uuid: dd50eb81-4a2a-41de-a2d1-109b254b79c6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 7f0d60dc-8342-4f92-abd5-8dfa62a04c76
       :name: Fire On The Mountain
       :segued: false
     - :uuid: e1a409cb-1d28-446a-8a9c-fd89f714a39e
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: 4878389f-6c6a-4d81-aa8f-5b0184b67a6d
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 24e8ea88-31fd-432a-887f-49387df268fd
+      :name: Space
+      :segued: true    
     - :uuid: bd1e6913-e914-4bb4-9aec-591eab410f69
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: e773141a-e9d0-40dd-bb38-270b5f70e00e
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 608c1b00-2410-4e93-8ad0-09dae0ad83a0
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: c30bef42-4afe-4b6e-86f8-0209269639d3
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 618206f7-2384-4b09-b8dd-49c43395561a
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 84dbe094-9cfc-463e-97cd-e387205533aa
       :name: One More Saturday Night
       :segued: false
