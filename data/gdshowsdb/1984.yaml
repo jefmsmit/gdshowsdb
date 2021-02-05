@@ -433,7 +433,7 @@
     :songs:
     - :uuid: a7a6c4e6-7d6e-46a1-aa9f-4d511ed3c202
       :name: Keep Your Day Job
-      :segued: false
+      :segued: true
     - :uuid: 0a2620c7-a02c-489c-bbac-276bf65850bc
       :name: New Minglewood Blues
       :segued: false
@@ -442,7 +442,7 @@
       :segued: false
     - :uuid: 0930d34b-aa98-4ce5-a053-5d208889be60
       :name: Beat It On Down The Line
-      :segued: false
+      :segued: true
     - :uuid: cd2041f5-fbc8-493a-b04a-cefa3f867c4c
       :name: West L.A. Fadeaway
       :segued: false
@@ -462,28 +462,31 @@
     :songs:
     - :uuid: ac6d7626-a1be-4d0d-a53a-822e1475bf86
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1a909c9b-41bb-4aae-affe-18b31c6e6a99
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 7d7c601e-6ed7-4c72-bf20-1d32449fc680
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: bd9bfc7d-6014-4af9-9f50-a6e08146927c
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: c668a2d0-6e2b-45ae-814a-6bc82d6ecf99
+      :name: Space
+      :segued: true    
     - :uuid: 125b9386-62b5-476e-a9e7-cff046415492
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 2e30ae62-5f25-433d-b038-86f7e55290e6
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: ec62909a-b323-46de-a719-17075ed269be
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: d76bc7c0-4ebd-4874-9119-5ae3098c8aef
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 0cea0284-86d0-4b00-af60-58492aeaa4d9
       :name: Good Lovin'
       :segued: false
