@@ -3291,7 +3291,7 @@
     :songs:
     - :uuid: 88e067e4-f3fc-401e-8430-222d1ed7e0e1
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 209e3412-65dc-48f2-917b-6d1b22428da8
       :name: Little Red Rooster
       :segued: false
@@ -3312,7 +3312,7 @@
       :segued: false
     - :uuid: 52119d45-760c-42cd-a634-903c619b5f16
       :name: The Music Never Stopped
-      :segued: false
+      :segued: true
     - :uuid: 5b1b17b5-8721-4628-9c4d-c6892a439ad5
       :name: Might As Well
       :segued: false
@@ -3320,22 +3320,25 @@
     :songs:
     - :uuid: b619be51-8930-4814-9c92-cbb3e5706eb0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e90b99fe-d009-49d3-8761-dba349606ec1
       :name: Fire On The Mountain
       :segued: false
     - :uuid: acbf1847-4bc1-4000-9279-581eeb2e68ea
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 9d4139b2-42a9-4bdc-9330-00d9ec5baeac
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b9df32c2-c864-470a-9527-aeb5d4dc0eec
+      :name: Space
+      :segued: true    
     - :uuid: ed55d24d-a358-467e-96f7-ffa1f4e0b663
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: e86fedc0-d2c7-465d-a3d4-cf230993e05c
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: be7d9dd7-974c-4383-997e-6191f714e7bc
       :name: Not Fade Away
       :segued: false
