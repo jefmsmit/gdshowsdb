@@ -792,7 +792,7 @@
       :segued: false
     - :uuid: d01fbff1-dfff-44ee-a96c-c392580d79a5
       :name: It Must Have Been The Roses
-      :segued: false
+      :segued: true
     - :uuid: d0c152c0-a154-418c-8786-65652f42ca16
       :name: Let It Grow
       :segued: false
@@ -800,25 +800,28 @@
     :songs:
     - :uuid: b3939db4-2a19-4179-baaa-ff2d18ea9766
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 19c4f02a-b5a8-4a68-8244-f051269709df
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 24a172fe-1522-4765-980c-93b8e3ad060f
       :name: Samson And Delilah
-      :segued: false
+      :segued: true
     - :uuid: b779cd02-a79f-403a-b698-5d5bd85116c8
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ed1b0a24-b5d0-4288-bf6b-7947420df364
+      :name: Space
+      :segued: true    
     - :uuid: ca734cab-5351-479e-b029-72523f08f28e
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: d6e58cd3-2429-4859-acb5-b27f6243b414
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: 0ea90aba-bc6f-446c-a708-78a4b60e0555
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 807f19d5-6347-4a00-b78b-f2fb0cf1957c
       :name: Johnny B. Goode
       :segued: false
