@@ -4357,7 +4357,7 @@
       :segued: false
     - :uuid: 4b29befc-99f1-4245-a1be-117ebd320cfb
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 1abcf26f-93cb-4cd4-94e1-3dc72a02d06a
       :name: Might As Well
       :segued: false
@@ -4365,7 +4365,7 @@
     :songs:
     - :uuid: a75b1143-78dd-4e23-92e5-8c9514d2189d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a4e278fe-2f95-4f0a-bd91-9d77619f8a9d
       :name: Fire On The Mountain
       :segued: false
@@ -4374,16 +4374,19 @@
       :segued: false
     - :uuid: b16721fc-bcbe-4d3e-aca5-3c33cab372aa
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 1183fc32-9897-42be-83f6-0b9a8fe708a3
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: d4ab9c01-8f45-40be-8107-0293d0b47476
+      :name: Space
+      :segued: true    
     - :uuid: ab7b5574-620c-456f-b58d-02ddd7cd3afd
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: b39f21ef-aa0a-46ad-b9b3-54f2bd9bdd8e
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: defc3081-18b1-4607-b8a8-fce2348ad6a1
       :name: Sugar Magnolia
       :segued: false
