@@ -4083,7 +4083,7 @@
       :segued: false
     - :uuid: 5e120e5c-cba9-4d0f-b730-19599e3cd4e8
       :name: Big Railroad Blues
-      :segued: false
+      :segued: true
     - :uuid: f3ae8816-d72f-4826-98cd-c6d20bceabbe
       :name: The Promised Land
       :segued: false
@@ -4091,28 +4091,31 @@
     :songs:
     - :uuid: 56ea252d-0fbf-40ff-81bb-8f7088ef3aec
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 30f6284b-7f7f-494d-b9e7-b3f8978b1202
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 76993f82-0026-458b-b03d-4b6854bba637
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: c40531d6-0299-4804-95a3-aa1b8b2f5d52
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 4df86a75-0304-430a-b371-f09add4e0734
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: bc61bf93-8df7-4fb5-a967-13927ae363e1
+      :name: Space
+      :segued: true    
     - :uuid: 21ca26ce-13e9-4a52-912a-f627e06ef8d9
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 3513c78b-1873-4925-9760-e88d7b433875
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: d1d1df0c-b7c5-4d52-b14f-84601dbf9a10
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: b706253d-f234-41a6-8668-954dac7b100e
       :name: Touch Of Grey
       :segued: false
