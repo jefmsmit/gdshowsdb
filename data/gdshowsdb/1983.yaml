@@ -2296,7 +2296,7 @@
       :segued: false
     - :uuid: c494679d-b1f0-4271-8554-03cc29fbb276
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 91167a01-fb03-42c8-8572-573bffdb4420
       :name: Mexicali Blues
       :segued: false
@@ -2308,10 +2308,10 @@
       :segued: false
     - :uuid: 5b81b221-624b-40ee-be0a-5e9f24b490b9
       :name: Tennessee Jed
-      :segued: false
+      :segued: true
     - :uuid: a0f1e2eb-bdc4-4054-bb96-2d84752e1853
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 97e60fce-bc44-4438-9f04-7145005231fd
       :name: Deal
       :segued: false
@@ -2319,25 +2319,28 @@
     :songs:
     - :uuid: 131f86dc-e163-4cd0-9a28-98305db851a1
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 3fdac47a-7a30-460b-bd26-17d6a676aa01
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3550f3b3-e7ea-47db-955e-d223d950de32
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: e0fe7a5f-25ae-4d28-9cf9-f7d9a99d20e1
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 6edd2550-d806-41ab-8b49-564337e4c259
+      :name: Space
+      :segued: true    
     - :uuid: b93a003a-0802-41da-af6b-dd4a4c56434a
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: eeec3087-78ca-4c21-a122-4c8f95470b2d
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 7f6e20f8-e0db-4b18-be73-948d9d383833
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 8fc79a0b-8b21-491f-9469-894f50e4f29b
       :name: Not Fade Away
       :segued: false
@@ -2345,7 +2348,7 @@
     :songs:
     - :uuid: d79fc393-4ecb-4e95-9a56-0020beab0fa5
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: 6fde2a8b-fc7c-456f-b785-c9d3bb2eb817
       :name: One More Saturday Night
       :segued: false
