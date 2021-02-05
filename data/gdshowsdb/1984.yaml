@@ -4418,13 +4418,13 @@
       :segued: false
     - :uuid: bb8a0c3a-c650-4fc4-90ae-8620961bcb99
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: 57f01633-7e28-4412-859d-d1a6f4fba853
       :name: Bird Song
       :segued: false
     - :uuid: 8be38e17-2b39-4ad0-964d-a8ca34dcbe7e
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 674c7a8b-f994-4259-8a5a-560fc7a4bbc3
       :name: Don't Ease Me In
       :segued: false
@@ -4432,28 +4432,31 @@
     :songs:
     - :uuid: 19c8ad5b-202b-41fc-9e17-5fd8ad72a8ad
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 64f2d299-b968-4cd0-bc9a-9a561096cd48
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 675aa292-4dad-4df4-8917-f9488162ab9f
       :name: Fire On The Mountain
       :segued: false
     - :uuid: b94ca263-c1f2-49c8-96c3-2114eecbd6d7
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: 166c2d07-3dc9-4867-9bbf-2f3fd0b995af
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: a06ae80c-8805-4df9-a897-74591c64c3e6
+      :name: Space
+      :segued: true    
     - :uuid: e1220b00-1be1-485c-b753-3f1811e7c0e9
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 790c8821-fba3-4ed1-9b3c-b58dc1defa88
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 2fe67bbb-426d-4e89-9c75-108c28952ceb
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: ebb1e756-0521-4e49-ad35-c8b810a132b3
       :name: Turn On Your Lovelight
       :segued: false
@@ -4461,13 +4464,13 @@
     :songs:
     - :uuid: 3a74ee07-8ee8-49a9-b88f-55f1a4b2f66a
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: bd3ebc4c-2bd5-4800-9993-92607bee7328
       :name: Uncle John's Band
       :segued: false
     - :uuid: 00e13050-a7d9-4c4d-a4e4-1ffb2c0f1727
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: cc550374-83a9-405a-b665-b3f533b61e90
       :name: It's All Over Now, Baby Blue
       :segued: false
