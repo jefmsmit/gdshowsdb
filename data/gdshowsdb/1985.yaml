@@ -3398,7 +3398,7 @@
     :songs:
     - :uuid: 10b7fcc7-3805-44c2-9314-1dd2c711d5aa
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 9558494d-10c8-42f2-9ab3-7f4f6614a9ce
       :name: The Promised Land
       :segued: false
@@ -3407,7 +3407,7 @@
       :segued: false
     - :uuid: d9ffa459-0d15-4150-b956-b7fc30aeaec4
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 91a01071-07e0-4eac-80e2-0a503c3c62b2
       :name: Big River
       :segued: false
@@ -3416,7 +3416,7 @@
       :segued: false
     - :uuid: bcf23d2a-01d4-498e-914c-9fd8e4a7a724
       :name: Smokestack Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 5cbc2acc-f288-40cd-a8fc-3aaf40dcbeaa
       :name: Deal
       :segued: false
@@ -3424,7 +3424,7 @@
     :songs:
     - :uuid: 2ae1b268-0895-4df0-b933-09e0bab747c9
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 14a15e36-b7a8-41c5-95d9-bb99edbbed53
       :name: Fire On The Mountain
       :segued: false
@@ -3436,22 +3436,27 @@
       :segued: false
     - :uuid: 3486a0c4-acf9-4b27-bcff-16c2753b7a47
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 09b66d08-7dbe-4e15-9616-1fd69374cc1a
       :name: Comes A Time
-      :segued: false
+      :segued: true
     - :uuid: 11cbbe1e-37e2-42fd-9899-a7b3b58f32ef
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 5ce49ff7-09d3-409f-9bc4-d5261b4e8c10
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b3d9a7ec-a7dd-4f2a-80c4-d089ed42c654
+      :name: Space
+      :segued: true    
     - :uuid: f52ddf0d-5bdc-451a-ba26-e7a85cae8f47
       :name: U.S. Blues
-      :segued: false
+      :segued: true
     - :uuid: d04a4b8f-4bc0-496f-8874-83fdcff08ebd
       :name: (I Can't Get No) Satisfaction
       :segued: false
+  - :uuid: 1cfff89b-c9f0-42f6-905a-71759f33adac
+    :songs:
     - :uuid: 97611ea6-69d3-4f83-bf51-71ba1deaea1f
       :name: Brokedown Palace
       :segued: false
