@@ -787,10 +787,10 @@
     :songs:
     - :uuid: 19271219-085a-4f77-afd5-8be1aa688ab2
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 5f400ba7-06f6-459e-849c-f97c9b6af09d
       :name: Smokestack Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 0d1f46df-2b11-48d4-bd4f-388ecf2790bd
       :name: High Time
       :segued: false
@@ -805,7 +805,7 @@
       :segued: false
     - :uuid: 9bac4998-456d-45f4-a5f1-49d1b8c408c3
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: eedb8b10-275b-4d34-96b4-4e843359a6a0
       :name: I Know You Rider
       :segued: false
@@ -813,25 +813,28 @@
     :songs:
     - :uuid: 1a119856-5e9a-49ad-bf2f-038252ec34a3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a401c5cd-7102-443f-af9e-a01299e7057f
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 35941f50-e669-41d5-a293-615aa763df00
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: d92174eb-ccdb-42a9-ba08-1e1761a95ce9
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 9956e21e-91da-4f85-b7eb-1842343f5d5a
+      :name: Space
+      :segued: true    
     - :uuid: c10849c8-11a1-49bd-9588-35ec40ab23ab
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: ae4ae211-ac53-48ae-9d9b-8ecfce8c2895
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 7f94baaf-e454-4700-a43d-3db849123397
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 4013d886-6709-43c0-bfb0-470d2ff4fba0
       :name: Sugar Magnolia
       :segued: false
