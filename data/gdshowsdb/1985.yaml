@@ -2375,7 +2375,7 @@
       :segued: false
     - :uuid: 4fe6d881-adb3-40f5-be8d-f42238761c5a
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 44fc4098-5a1d-481a-ab67-6e23577a9a48
       :name: Keep Your Day Job
       :segued: false
@@ -2383,25 +2383,28 @@
     :songs:
     - :uuid: b2fd433c-3929-4ab9-ae88-3a8f5b3feb53
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2e6f665b-ed78-46e0-b28c-74deb04b3c27
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 5119c89c-6933-417d-a3cb-b08fd8e669f1
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: e3244ae8-3858-4eca-a0eb-6c164b775e8a
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 6b997f76-3a29-494f-a2f7-185945e1442f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e7db054c-e10e-448c-ac6b-2ceb17cdc953
+      :name: Space
+      :segued: true    
     - :uuid: 0675d79c-9d86-4778-ba26-342a678a35de
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: 37e5cc79-b2c3-47fb-bcbd-141dc5fb889c
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 23cb102c-2493-4d16-a512-c53e426a6e98
       :name: Good Lovin'
       :segued: false
@@ -2409,7 +2412,7 @@
     :songs:
     - :uuid: 54903053-9102-4734-b940-fef1dcffedbd
       :name: (I Can't Get No) Satisfaction
-      :segued: false
+      :segued: true
     - :uuid: 4453ade0-4d8d-4a1d-b915-8ef3bdaf7955
       :name: It's All Over Now, Baby Blue
       :segued: false
