@@ -548,31 +548,34 @@
     :songs:
     - :uuid: 8d0ad0c6-9305-48d6-8dae-1d0cd42c765f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 9cde9ddc-9845-42ed-a6f9-e550d92aadbb
       :name: Hell In A Bucket
       :segued: false
     - :uuid: bd861f7f-544c-403d-adb2-2c03958a9ead
       :name: Ship Of Fools
-      :segued: false
+      :segued: true
     - :uuid: 1e8ea47b-d7dc-45a2-9104-434809dedee6
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 62c49ebc-ecb1-4898-9979-aacc7ebf6406
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b75c89fb-588f-4aaa-8b2c-ac891042c001
+      :name: Space
+      :segued: true    
     - :uuid: 410c471c-85e9-44c8-8047-efd6e7feba8f
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 3ff3c71d-be19-48f3-a680-588ca9b94056
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 6d1f2755-2ae5-4705-bb5b-b9c06ffd8009
       :name: Smokestack Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 0f0bba71-70ab-45cb-86d2-a20c426be69b
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 46f4d5b9-d559-45a6-a493-171719c20c5e
       :name: Sugar Magnolia
       :segued: false
