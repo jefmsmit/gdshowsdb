@@ -2993,7 +2993,7 @@
       :segued: false
     - :uuid: bc4455d1-3458-47a4-812d-6729a2a0357d
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 721a9cef-2623-4f77-b910-53640271211a
       :name: Big River
       :segued: false
@@ -3007,25 +3007,28 @@
     :songs:
     - :uuid: 3645a09b-4442-4f91-a687-697ac34f229a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 28ae8df5-2dd3-45e3-9158-2ade169fc13f
       :name: Fire On The Mountain
       :segued: false
     - :uuid: ddb6d04b-ff4e-4ed6-938b-0fbddfe0b5a1
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 812e0b7c-9979-49d4-b5b7-3617d4ac237a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 57846e19-5344-4f64-a7c9-17ff01807476
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 091e4535-70f0-498e-83b0-9ed0a642b3a5
+      :name: Space
+      :segued: true    
     - :uuid: 6c543d12-0f56-4a88-abc6-35245a76bcdb
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 78c84961-44b6-423a-9cc3-f94b5f6b65d6
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e7d046a6-0f2a-4e41-961d-997cf21feebe
       :name: Sugar Magnolia
       :segued: false
