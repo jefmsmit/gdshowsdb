@@ -2724,25 +2724,28 @@
     :songs:
     - :uuid: aaf628e8-e7cf-4b36-877b-89005f1d9ae5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ef80f295-a936-4006-a21e-4aae77406c1b
       :name: Touch Of Grey
       :segued: false
     - :uuid: e7616394-a64b-45ba-accc-1dbaf3a45a18
       :name: Samson And Delilah
-      :segued: false
+      :segued: true
     - :uuid: 4f26d710-c32d-4533-822a-cf23b0a3537a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2e786ec0-9050-46f3-bdaf-c8774c6b7d0a
+      :name: Space
+      :segued: true    
     - :uuid: 252e9032-6821-4bfe-a85a-42521734b02d
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: e7421d92-c68b-472d-9d85-70438e1d5b1e
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 11f940ce-1e4b-4d63-be95-0dfa5b658c2a
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 367e7975-6314-4a7e-b8be-0690ccc606e2
       :name: Morning Dew
       :segued: false
