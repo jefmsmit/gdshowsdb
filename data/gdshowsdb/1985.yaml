@@ -3634,7 +3634,7 @@
     :songs:
     - :uuid: 2b8e23dc-2aa6-4b6c-83d1-4f572cdd366c
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8e54df2d-1a50-48a1-9d43-eec33f6a9137
       :name: Touch Of Grey
       :segued: false
@@ -3643,22 +3643,25 @@
       :segued: false
     - :uuid: 729c53e3-f6b6-42f3-85a9-3c570c638bb3
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 5e60074a-b1cd-4465-97ca-e8a89e35447a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 81d2a820-ba31-4c10-b792-256b12653b5d
+      :name: Space
+      :segued: true    
     - :uuid: e4c5b860-ed32-4a22-a5f0-6461f4478626
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: ba91540a-43fb-49ec-b952-eb42091c1712
       :name: Smokestack Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: cf1a948b-239b-4669-8505-63f0be853e61
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 2c336246-c4bb-443b-b7ab-ffe0f8b3c588
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: cb4fa033-8000-43d6-b3f9-b7df3cc65f24
       :name: Good Lovin'
       :segued: false
