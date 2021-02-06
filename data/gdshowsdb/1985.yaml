@@ -1770,7 +1770,7 @@
     :songs:
     - :uuid: 52005f09-6cac-4d25-ac2c-503fefe303f2
       :name: In The Midnight Hour
-      :segued: false
+      :segued: true
     - :uuid: d8716942-437e-4763-bad9-a591fbb855a0
       :name: Bertha
       :segued: false
@@ -1799,31 +1799,34 @@
     :songs:
     - :uuid: 6f40a2e6-5b1e-411d-8568-31edf8929858
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bb464005-88b4-4f37-ba1f-81a35c95fc45
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 3f185d9b-e9ca-4dfb-8af1-a0cebf04b87b
       :name: Samson And Delilah
       :segued: false
     - :uuid: 6b7a72d6-6022-4608-b5fb-8ddc5bcfabce
       :name: Cryptical Envelopment
-      :segued: false
+      :segued: true
     - :uuid: dff342a0-958f-438d-ad47-ea4271182306
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 2440b3c5-a921-4a82-9474-c8ed48c86d5d
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 90817eed-4bb7-470b-b210-aeb072a24c5f
+      :name: Space
+      :segued: true    
     - :uuid: ce02239a-2a4e-437f-8567-3897f5be4007
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 0517a531-4d17-42b5-a848-9dbe3a275aa8
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: c2186e71-99cb-424c-b43a-29587b103bc3
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: c3560a05-a1ad-4689-a78d-5e6d5d909a3d
       :name: Turn On Your Lovelight
       :segued: false
