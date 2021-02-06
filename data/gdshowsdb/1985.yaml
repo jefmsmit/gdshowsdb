@@ -1479,7 +1479,7 @@
     :songs:
     - :uuid: de2dadaf-34c9-46a3-a0e3-7bb7c0c7fc17
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: ce800af5-c459-478c-9c18-01543a23b7a5
       :name: Bertha
       :segued: false
@@ -1497,7 +1497,7 @@
       :segued: false
     - :uuid: 5784b3e0-bcf0-4907-b441-89998891306c
       :name: Just Like Tom Thumb's Blues
-      :segued: false
+      :segued: true
     - :uuid: 83bf4f2e-f51e-4fcd-bbac-38c90a680ba6
       :name: Cold Rain And Snow
       :segued: false
@@ -1508,34 +1508,37 @@
     :songs:
     - :uuid: 7f8e5dbe-c343-46d1-8663-4a2d40eddcaa
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 7c63bd3e-e3f5-4b94-829f-29a793f5d010
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: ad27ec78-e3f4-43e2-a2fb-2831fe93d282
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: f87af330-982a-4495-8b71-98091e425cf7
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: fe1939da-9d51-4e49-b329-c4c56a119dd3
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b7430e3c-9181-401a-b511-a0c6c8d5538b
+      :name: Space
+      :segued: true    
     - :uuid: f5f6b2a2-66f1-4883-a247-0a4f1a1303db
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 0a4e98c7-dfeb-4993-9155-775300f30897
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 39210a3b-7a41-43c6-a5f3-03368c7973f4
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 6fb3ab14-afd5-4b19-ad20-8b0fabeb7ce9
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 992b050f-01d5-429f-9e76-4e804fed0d4f
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 2717b219-2088-43b9-b1e3-365e9f5bed08
       :name: One More Saturday Night
       :segued: false
