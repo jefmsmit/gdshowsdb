@@ -138,7 +138,7 @@
     :songs:
     - :uuid: 4dd91e7e-a9c4-4f6d-8935-d0e19bc47d34
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: 0902dc06-287f-46af-973a-47cd3fb5c7c9
       :name: Day Tripper
       :segued: false
@@ -147,7 +147,7 @@
       :segued: false
     - :uuid: de80a9b5-b955-45d4-bc19-f5d3479cbd6b
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d1dfd82b-0267-4aa6-bbc1-6034cc64f114
       :name: Big River
       :segued: false
@@ -156,7 +156,7 @@
       :segued: false
     - :uuid: 5c8b509d-e547-407d-9c9d-a0060d480fa8
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 3649b1fd-9f36-4bdb-9fd6-71cc254eeb1c
       :name: Don't Ease Me In
       :segued: false
@@ -164,22 +164,25 @@
     :songs:
     - :uuid: f642e94a-e892-453b-8bfc-c7db20561bf0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 006e4be4-fc0d-4e75-9fd3-fba77e52af88
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2a277ae0-bc2e-40eb-9e76-a38fbb005e99
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: c5a7b1da-057f-482a-9fb8-123f1418b1cf
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ff4dba3f-387e-45f9-89b3-364a6f025293
+      :name: Space
+      :segued: true    
     - :uuid: aed0ee1b-7ff9-4ab9-8341-8d738cb6e7e3
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: dd080c9a-44f1-4145-8139-96c5fb7a308c
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: d566338b-e7a1-4754-b138-f648dd987fb8
       :name: Turn On Your Lovelight
       :segued: false
