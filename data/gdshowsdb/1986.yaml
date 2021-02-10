@@ -225,16 +225,19 @@
     :songs:
     - :uuid: 532dd4cf-4f83-442d-b352-d5e5fa6076da
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 38421c17-f262-4cc4-8419-f8b1b2e29adb
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 558f95b6-52dc-4374-bccd-aab362c0e99f
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 935df141-efeb-47b6-9634-06a52a299df1
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 72d56e95-34d1-4dcb-b928-ed3b0e1e642c
+      :name: Space
+      :segued: true    
     - :uuid: cf415d80-0de5-4b58-b2ed-a3e5b089fd80
       :name: Willie & The Hand Jive
       :segued: false
@@ -243,7 +246,7 @@
       :segued: false
     - :uuid: 89053c6e-dd14-472d-a079-a8ca14997ce4
       :name: In The Midnight Hour
-      :segued: false
+      :segued: true
     - :uuid: 50febe99-401f-43fc-9763-557e3ffa619f
       :name: Johnny B. Goode
       :segued: false
