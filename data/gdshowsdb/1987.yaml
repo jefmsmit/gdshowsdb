@@ -4553,7 +4553,7 @@
       :segued: false
     - :uuid: 1290d51b-532b-4682-9c3d-1c47c338849f
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: 0135a7d0-a460-4408-b9f2-5e0c3a8fac36
       :name: The Promised Land
       :segued: false
@@ -4561,31 +4561,34 @@
     :songs:
     - :uuid: 86efad54-61b1-42a3-ad34-0558a346bc61
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8090a155-125b-4bc5-9223-f7763785615a
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 6c25b2f0-45ce-4143-90b3-ecf26d1ff9ed
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 7a52c7b9-330d-472f-b6e6-4ee2e6f1429a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 74fb20b6-ff06-4dac-a13b-3f44ab3ae06e
+      :name: Space
+      :segued: true    
     - :uuid: 0d11580a-48fc-4747-b020-895848e9d3b2
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: d4654e9b-0e05-4b4c-9d68-6c0d5e3bccbe
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 627dcc4f-df1c-4219-8d4f-80a3b89857df
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 4c81189c-2742-4fc7-adad-5f8af5bc6c4b
       :name: Good Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 70db4fe4-87bb-40c6-99dd-62fc2c11c3a1
       :name: La Bamba
-      :segued: false
+      :segued: true
     - :uuid: a78a3c4f-d886-4ae2-be69-937c04b0706a
       :name: Good Lovin'
       :segued: false
