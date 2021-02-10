@@ -666,7 +666,7 @@
       :segued: false
     - :uuid: 3d88e3d5-fea5-4eaf-b8fa-76815397c369
       :name: Tennessee Jed
-      :segued: false
+      :segued: true
     - :uuid: 0e626289-6401-4cc2-8885-c32654ca40f5
       :name: C.C. Rider
       :segued: false
@@ -675,10 +675,10 @@
       :segued: false
     - :uuid: 4cd05f20-74d8-4a69-bfd4-28db75c937d2
       :name: It Must Have Been The Roses
-      :segued: false
+      :segued: true
     - :uuid: 834a7398-5857-4d3d-8b22-3b88e39abf7a
       :name: Desolation Row
-      :segued: false
+      :segued: true
     - :uuid: b2521e27-0f5d-4ae5-b905-bad8d5e56e79
       :name: Don't Ease Me In
       :segued: false
@@ -686,28 +686,31 @@
     :songs:
     - :uuid: 50a61346-1427-42e4-88c4-3dabb39d263d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 091edd90-8421-4b03-892f-509beb7ab790
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: d5119c98-54bd-4e5d-b647-495e52bec112
       :name: Looks Like Rain
       :segued: false
     - :uuid: 5a9ede61-e4d2-4d85-abf3-04baa9e7e0f9
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 60af02e8-97c1-4190-9149-d8ae759737f2
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 76f52e40-c6e2-499a-bc4a-7a2a55c271e4
+      :name: Space
+      :segued: true    
     - :uuid: 08716b6c-39db-402d-8197-2962ed4cf019
       :name: Just Like Tom Thumb's Blues
-      :segued: false
+      :segued: true
     - :uuid: 88526cee-0f38-444d-ab8b-a70fcc1b6fe3
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 737a92b4-af2c-4b83-80cf-e34257a6e033
       :name: Throwing Stones
-      :segued: false
+      :segued: ftruealse
     - :uuid: b775305e-2756-4236-8c6a-40300db7aee5
       :name: Turn On Your Lovelight
       :segued: false
