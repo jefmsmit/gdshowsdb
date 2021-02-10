@@ -1280,7 +1280,7 @@
     :songs:
     - :uuid: ce7d6a8a-c969-4c87-b72f-e10bc30efe93
       :name: Greatest Story Ever Told
-      :segued: false
+      :segued: true
     - :uuid: 36e859f6-d7f3-436f-8bca-db9633140dc9
       :name: The Promised Land
       :segued: false
@@ -1309,25 +1309,28 @@
     :songs:
     - :uuid: 2f9c395d-5d73-47c7-99be-8ad743a4004f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3c9eefe2-074a-4a87-a5db-8e7f52804bd4
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 543c5db7-fe3d-4f59-bc1d-f3061ef63d1e
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 0c89bbc8-19ae-4f55-8b10-975d3b45a490
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 88a1309a-935e-4888-8a39-5cf82d4b0fe0
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e8617062-42e4-471b-a6f9-04014c1ee438
+      :name: Space
+      :segued: true    
     - :uuid: 2bd27f20-b042-409c-932c-54ec04cfef06
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: 8044cfce-771d-449f-a4b4-f2fab22f108a
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 13b985d1-d5c6-4a2a-a79a-8e269f9df540
       :name: Sugar Magnolia
       :segued: false
