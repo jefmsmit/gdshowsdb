@@ -4166,7 +4166,7 @@
       :segued: false
     - :uuid: 26ad7725-5747-423c-ba8b-025e22d1a578
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 3b86e4c1-f555-418f-9f8b-2fdaa9ef21fc
       :name: Mexicali Blues
       :segued: false
@@ -4186,25 +4186,28 @@
     :songs:
     - :uuid: 2707d3cc-8278-49bd-948d-38463c03694d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 4c436ea3-326e-436c-9464-546f71614b0a
       :name: Fire On The Mountain
       :segued: false
     - :uuid: ab1b6ec2-e6af-4f39-bf1e-84df4ef4897c
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 09d3f9c1-f1e8-4bf8-aa16-47a947759db3
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e88c33c5-0925-4b96-a3fd-d5b10c7dfb40
+      :name: Space
+      :segued: true    
     - :uuid: 2af36925-c104-43f6-9232-c922b0cfabab
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 54f753b0-1cf2-46b3-8b90-cb832cbd2e86
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: b136e143-d277-4a13-af45-ed9afd4e86a1
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: c37607a4-5141-466b-9fef-7f2476813a4e
       :name: Morning Dew
       :segued: false
@@ -4212,7 +4215,7 @@
     :songs:
     - :uuid: 36b31ee4-bcfe-49b1-8b7b-268a1f472f73
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: f8326709-1865-4283-8134-a441ef1af007
       :name: Brokedown Palace
       :segued: false
