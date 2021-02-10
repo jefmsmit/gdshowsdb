@@ -921,7 +921,7 @@
     :songs:
     - :uuid: 7e99dfb1-a71f-486b-897c-06b12c128fa9
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: b09cba7b-9d54-4974-b392-25b5648f1d18
       :name: New Minglewood Blues
       :segued: false
@@ -933,7 +933,7 @@
       :segued: false
     - :uuid: 563d18cb-31fb-4d4a-a8c7-595a7f0e8f35
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: eea89eb7-74d8-4e86-ae81-eaa9569c12d3
       :name: Mexicali Blues
       :segued: false
@@ -945,7 +945,7 @@
       :segued: false
     - :uuid: c5ecafef-477d-42c0-99ee-728703da5e97
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: 6fb3c7ca-9ee6-4c60-87cc-5e7953599bf3
       :name: The Music Never Stopped
       :segued: false
@@ -953,7 +953,7 @@
     :songs:
     - :uuid: ff7e568f-08e0-4e4c-be51-cd5e3a4304f9
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: b9757606-523d-4f44-9027-3d0f0256a843
       :name: Fire On The Mountain
       :segued: false
@@ -962,22 +962,25 @@
       :segued: false
     - :uuid: e7fd16ca-fa21-4331-9bdc-9c3a0af72d37
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: c7a00c64-1e84-4a04-983c-e29627d5baae
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 4088f979-9ab5-4170-8fe9-f9b5713c928d
+      :name: Space
+      :segued: true    
     - :uuid: 773f5998-5ac7-48ff-88c9-0fe2af91dfcb
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: b8f069d8-2d81-4f77-9110-f542d7e16fc0
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 3975e760-71ed-4099-88b0-2f96f63ba1e1
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: ecf9aea3-4543-40cf-8e82-da02d4bffb76
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 7b70b368-23d1-4b93-9e0f-59d8b54d2756
       :name: Good Lovin'
       :segued: false
