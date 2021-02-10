@@ -2550,7 +2550,7 @@
     :songs:
     - :uuid: 034f49ab-152b-41f6-82f9-5b5c4eb7864f
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: 13feabc5-cff7-4370-becb-e69e0365f912
       :name: Greatest Story Ever Told
       :segued: false
@@ -2565,7 +2565,7 @@
       :segued: false
     - :uuid: 7645cc51-141a-4497-8d98-dacfa9911d9e
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 4b7ca58b-3f7b-47a4-9420-f7fb5f4a2d24
       :name: Big River
       :segued: false
@@ -2574,7 +2574,7 @@
       :segued: false
     - :uuid: 9bfc3f71-81f7-4545-83d1-9827124f86ce
       :name: When I Paint My Masterpiece
-      :segued: false
+      :segued: true
     - :uuid: 3b66942d-6524-426f-a7a8-a9ff953ed8f5
       :name: Don't Ease Me In
       :segued: false
@@ -2582,34 +2582,37 @@
     :songs:
     - :uuid: 5e552c67-5294-42d9-980a-263089399f41
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5f075ef7-eff8-49b8-a956-54bf379a0506
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 48c2789b-b2d2-4c68-859d-c6e1f7cd387c
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 16364f90-2286-4e6b-abae-e17cd90e2190
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: df3b5fe2-df3d-4230-8b84-1d932c20e77e
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 8d61f97c-afb9-4365-958d-eace90954091
+      :name: Space
+      :segued: true    
     - :uuid: 644bf07c-8e0c-4909-8669-18f832e656d0
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 17949f49-9c70-4845-b234-fdbeebd16939
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 9a6bcb2a-e648-4355-b633-bf7a559169ec
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: d4cce7d3-ee57-4725-9c24-119fa457a0f1
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: 3e1f9b6b-c769-4968-b25e-1153825a377f
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: e59a543e-b006-4ec9-a726-26bed2ef3eaa
       :name: Good Lovin'
       :segued: false
