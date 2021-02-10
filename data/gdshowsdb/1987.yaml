@@ -2057,7 +2057,7 @@
     :songs:
     - :uuid: 0265772c-1add-4570-a590-47b55b139c95
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 35e554f2-342f-4ad3-8d5a-977e191365e3
       :name: Sugaree
       :segued: false
@@ -2069,7 +2069,7 @@
       :segued: false
     - :uuid: d9fc785e-b8e2-4b2d-9897-c04a8ce20d78
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: bad3d8c2-8123-4de5-837e-0be6e4ea2b9d
       :name: Mexicali Blues
       :segued: false
@@ -2086,28 +2086,31 @@
     :songs:
     - :uuid: 8dfa35d9-24a9-45fe-b8a7-d26fedd36e88
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: be6a2fcf-d733-4e58-874e-44b69be92320
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 43d206a9-500d-495c-b57c-36945b0018fd
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 04e30cb0-7857-4e8f-9a19-0c6963378fdf
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 8f41bcb4-a2ed-4e64-9db6-2296d2cde01d
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b23d563c-f232-4cba-8cc2-f1fb38284a5c
+      :name: Space
+      :segued: true    
     - :uuid: a4551a2c-955a-42e4-ac43-bbd2235d7e63
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 8b64944d-7e95-4f10-aa30-12aeec82b51f
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 499c7f43-813f-483a-8e82-0d40f553e750
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 1289d933-e435-439e-9529-f486e7512f99
       :name: Not Fade Away
       :segued: false
