@@ -3801,7 +3801,7 @@
     :songs:
     - :uuid: 4f2cb78f-c5a8-4a81-8b75-a3651bc807f0
       :name: Feel Like A Stranger
-      :segued: false
+      :segued: true
     - :uuid: 116eb46c-f746-45f4-b866-6422415b8af4
       :name: Franklin's Tower
       :segued: false
@@ -3813,7 +3813,7 @@
       :segued: false
     - :uuid: 7ddb43af-f21c-4e3b-a9d0-166b2731ab78
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: ee7dda2f-ccae-4cc8-820d-3e0e376ff67e
       :name: Big River
       :segued: false
@@ -3822,7 +3822,7 @@
       :segued: false
     - :uuid: db96698f-225e-47f8-891b-0404cdb164ab
       :name: Desolation Row
-      :segued: false
+      :segued: true
     - :uuid: 9f6fb265-932c-4c23-a09c-7cb6678f8c6a
       :name: Deal
       :segued: false
@@ -3830,28 +3830,31 @@
     :songs:
     - :uuid: d0837bae-17a5-4968-8e90-44c2b4115d35
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c53d5a83-2c2c-4fd0-a9fc-f2a905c70bbf
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: bcf8f160-abc7-46d1-990e-ad3615d52056
       :name: Looks Like Rain
       :segued: false
     - :uuid: 99b74eff-96f1-49ec-8433-ce6b3721aa6a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 9440937f-984f-488d-a1f9-dd90642d523c
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7e6eb0e5-a67e-444a-bbcc-b8113e372462
+      :name: Space
+      :segued: true    
     - :uuid: 1d41c791-5af2-4225-aa8f-683379d351a6
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 929e003b-daf0-4896-a5dc-22fb572a4fa3
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 6e62d182-8364-4036-baa7-912bc3d97de0
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: 151b23f1-16e9-4574-9e77-f37a4baad0ff
       :name: One More Saturday Night
       :segued: false
