@@ -382,7 +382,7 @@
     :songs:
     - :uuid: 64d36127-537d-46ed-91c5-f4616438cad4
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 936253f8-0c39-42c4-a130-e73138910471
       :name: Sugaree
       :segued: false
@@ -408,25 +408,28 @@
     :songs:
     - :uuid: 54505b70-21ae-4632-bbc7-752def1098ea
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: cdd38b45-2245-4bbf-89ba-0b146ee9005e
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 95c02836-3443-459e-88aa-07cd3012d49b
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 7d79927f-48a8-464b-a68e-7ab904f245ed
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: ea9dbbfe-fe0d-40b9-b067-c5f6d50afca4
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e0f7fdc5-e266-45b4-9cdf-ba3d420c18b1
+      :name: Space
+      :segued: true    
     - :uuid: ea88ebf6-7ebf-4290-9954-8b83c6e5ed5a
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: bb43ca11-458e-4c68-9edf-c28c697bc9b0
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: efb119b2-7982-4808-b8df-7f601344dca0
       :name: Sunshine Daydream
       :segued: false
