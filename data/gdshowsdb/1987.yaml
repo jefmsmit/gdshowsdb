@@ -172,7 +172,7 @@
     :songs:
     - :uuid: 4c6171f4-d318-4441-9b42-c683a2cf58a3
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: 3c039b05-ee35-4303-8463-6a8bf75f4e09
       :name: Little Red Rooster
       :segued: false
@@ -181,7 +181,7 @@
       :segued: false
     - :uuid: e0c4e4cf-80f4-42f2-a83c-20cc4a4013f3
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 28a9b987-13f3-4f01-97d3-916e07c42b83
       :name: Mexicali Blues
       :segued: false
@@ -193,7 +193,7 @@
       :segued: false
     - :uuid: 1e1a9d54-cebe-43b3-8845-41fa10035e20
       :name: Row Jimmy
-      :segued: false
+      :segued: true
     - :uuid: ac3e121b-d3a7-486a-9820-ce0d1e00f373
       :name: Let It Grow
       :segued: false
@@ -204,7 +204,7 @@
       :segued: false
     - :uuid: 1bc3c75d-bb6c-4678-89bc-7a21f41d19cf
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: b7bc77f7-4896-4c33-8e17-80a044485b0e
       :name: Fire On The Mountain
       :segued: false
@@ -216,19 +216,22 @@
       :segued: false
     - :uuid: 47f139a6-0457-4063-b318-e2041aecadbc
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 3fcfeb5f-7cb1-41ac-a621-534bff152880
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: af231bc1-2de5-48d9-9a20-97aa6d57001e
+      :name: Space
+      :segued: true    
     - :uuid: e1b9b94e-054e-429e-9131-cdc5625510b0
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 82608ec8-56cb-40ef-9ad9-fb2bf765ebe6
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 1a289563-e352-4a7b-bd6d-c2095a27ef41
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: a5726a17-f672-4647-a897-cbbb67661ff5
       :name: Good Lovin'
       :segued: false
