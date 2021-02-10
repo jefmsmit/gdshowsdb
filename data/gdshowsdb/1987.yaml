@@ -3363,7 +3363,7 @@
       :segued: false
     - :uuid: 6c15fb25-43cd-4116-8542-765e87b4fc3c
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: a7ac63a8-63c0-4e30-ac1f-6f56460be7e7
       :name: Mississippi Half Step Uptown Toodeloo
       :segued: false
@@ -3375,7 +3375,7 @@
       :segued: false
     - :uuid: d38217b5-7367-4279-9cc2-aa96ea32dc89
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 7c8e850b-56ed-4dae-a7c9-56deea030dd1
       :name: Big River
       :segued: false
@@ -3387,7 +3387,7 @@
       :segued: false
     - :uuid: a0d8fa24-4ec2-4ae8-96a8-1cd5eae99925
       :name: Cassidy
-      :segued: false
+      :segued: true
     - :uuid: c5dea28a-b04a-41e2-a084-c72135a77e29
       :name: Deal
       :segued: false
@@ -3395,28 +3395,31 @@
     :songs:
     - :uuid: 72aa5c79-8ccc-471e-a7aa-12577d9dfb66
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: cede3d22-78ec-4996-acc9-5ad122cdf3aa
       :name: Scarlet Begonias
       :segued: false
     - :uuid: ec15672a-d5fc-46a6-8c9a-64813d0e488a
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 407bae2e-8bc6-43f0-9252-340b91c729dc
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: cc3f6f65-7cf3-406d-a21b-f3356a0e3cf6
+      :name: Space
+      :segued: true    
     - :uuid: a06853da-7966-4580-91af-b6efbed7c598
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: c664030e-bce2-45bc-bae1-5ab944a0c449
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: 83bb5f69-43fb-4cd2-a935-9abfc356c6ee
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 3d4ddc3e-cfb1-4819-99ce-0f5010b51a07
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: bf3aabf4-e27e-4c25-9177-3a37e64df2f9
       :name: Sugar Magnolia
       :segued: false
