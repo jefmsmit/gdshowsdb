@@ -4678,7 +4678,7 @@
     :songs:
     - :uuid: a3d6bfb5-14f9-41e5-8ab5-3085a93d7aa6
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: e7c2e65b-3450-4789-a030-53716b622e12
       :name: Scarlet Begonias
       :segued: false
@@ -4696,7 +4696,7 @@
       :segued: false
     - :uuid: a629f5b9-a753-4d8b-bc08-01d42a52833f
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: d192ecea-efbf-4671-bba6-1d2d12ea70b0
       :name: Don't Ease Me In
       :segued: false
@@ -4704,34 +4704,37 @@
     :songs:
     - :uuid: d39e3d1e-1875-4c42-ae68-7c4ecde2d298
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: cd0bb9c2-7cd5-4511-898f-720b2c4f4335
       :name: Greatest Story Ever Told
-      :segued: false
+      :segued: true
     - :uuid: 49989440-9012-4064-9492-47b68d736642
       :name: Devil With The Blue Dress On
-      :segued: false
+      :segued: true
     - :uuid: 0d1a2c44-ee0b-4e2a-b540-749eb3791b99
       :name: Good Golly Miss Molly
-      :segued: false
+      :segued: true
     - :uuid: 0430e3c7-bbfa-41a5-9ede-ec3187f950ea
       :name: Devil With The Blue Dress On
-      :segued: false
+      :segued: true
     - :uuid: da7e4e82-5af8-4304-ac54-cf66f9cfb399
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 007ce594-e315-4b7c-be54-45527d4be337
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 24347579-f5df-45fa-9d71-5988c2cfff4b
+      :name: Space
+      :segued: true    
     - :uuid: d0ee0fab-92ca-4cbb-84a8-1414771d9d70
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: a137e7ef-9c82-4571-bb6e-8593827e9b0a
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: d7d37d6b-03c4-4624-9ed0-2706a125aac7
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: b8deb63c-686b-44d1-9ca3-d112a6494bad
       :name: Not Fade Away
       :segued: false
