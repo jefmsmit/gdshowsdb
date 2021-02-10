@@ -2953,7 +2953,7 @@
     :songs:
     - :uuid: 9ec4dbfd-09dc-40ec-b2c4-4d6a5193e74a
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 83de3970-a996-4534-9329-4773b641846e
       :name: Sugaree
       :segued: false
@@ -2979,28 +2979,31 @@
     :songs:
     - :uuid: 973bc92f-1224-4c98-9d67-e6b0114275a2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f0a006c4-5577-47e9-8f83-f2896c8a8833
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 632a8ccf-3fd7-4d21-a980-cb1c956b8f9a
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: a25d9186-f79a-470b-b6f6-ed5db80be275
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: e8512e51-863c-4684-aecf-bcca2e93ef06
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7d9b0382-e9b7-4f27-8726-8ed9ec477d91
+      :name: Space
+      :segued: true    
     - :uuid: c5a0938c-6f4c-4ed4-936c-d80d22beb963
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 6c067f3a-178f-403b-b29d-aceed33f159e
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: a99ba452-f05e-4fc3-a95a-e0ef272e818c
       :name: Comes A Time
-      :segued: false
+      :segued: true
     - :uuid: 06d7a053-be5b-431d-af66-54c954605aed
       :name: Sugar Magnolia
       :segued: false
