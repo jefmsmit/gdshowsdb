@@ -607,16 +607,16 @@
       :segued: false
     - :uuid: b7ed1825-aaee-4c51-b8b1-1fe705a77246
       :name: Ballad Of A Thin Man
-      :segued: false
+      :segued: true
     - :uuid: a63a076e-24e6-460a-8a51-0a2648e03fe5
       :name: Cumberland Blues
-      :segued: false
+      :segued: true
     - :uuid: 1cf4179a-c38a-4841-ac51-91b1adf125d3
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: c736ea74-82d1-48f0-8084-e04cc20881ac
       :name: To Lay Me Down
-      :segued: false
+      :segued: true
     - :uuid: 8e6042ea-52e7-4b2a-b724-05b71e9b4273
       :name: Let It Grow
       :segued: false
@@ -624,31 +624,34 @@
     :songs:
     - :uuid: 97f79e12-1b83-4d3a-9c7a-2c75625f3a71
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 51d55917-542b-4f8b-b321-fd3b24691776
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6b36cd64-0932-412a-99d6-1afa724ed4e3
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: b240a958-6910-4b0a-af2a-22ee35a61886
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 8c27dd43-552d-4bce-a757-8016b0e98497
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: b6b2d116-0d15-454e-a795-da9999e26779
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 5dbdf0fd-f3e1-4640-b6bd-f1e198404ee1
+      :name: Space
+      :segued: true    
     - :uuid: d0d1ab13-ed85-4b6f-ba0b-b26ab2b59be1
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 7c391446-9033-4cf6-9cb1-aec61a89811e
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: a0192764-07f4-4e1a-a3c7-64356404931e
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: e865f4a1-dc24-4472-a1fa-819e993029ea
       :name: Sunshine Daydream
       :segued: false
