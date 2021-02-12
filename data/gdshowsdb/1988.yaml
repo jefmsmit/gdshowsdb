@@ -260,7 +260,7 @@
     :songs:
     - :uuid: 600d1b93-76a9-414f-8d7d-8883898eaf50
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 83bd0cb0-4246-4ee2-9acf-3578ffb682a4
       :name: Greatest Story Ever Told
       :segued: false
@@ -289,25 +289,28 @@
     :songs:
     - :uuid: b5936621-664e-4b7d-a5da-233e25a1f006
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8471b8f5-0747-4e2f-bdac-b71462d91e10
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 4bd39586-c07f-4228-a739-feb31a87ee88
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: be1e7ee4-6901-47e4-8041-d59494c85f7f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b2d503f3-e7a3-46d7-a7e6-2e7ca57a35b0
+      :name: Space
+      :segued: true    
     - :uuid: 592ddcca-db8d-48cc-aa69-f1352ad8fb0d
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 2da8698c-53f5-4d74-b2ac-3e0ae72445e7
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 651a3314-9533-42b6-8f84-57e6536878de
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: 9bc5b305-62e1-4491-aa29-b4e6e6d61852
       :name: Morning Dew
       :segued: false

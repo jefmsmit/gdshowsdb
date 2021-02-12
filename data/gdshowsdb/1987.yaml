@@ -5938,7 +5938,7 @@
       :segued: false
     - :uuid: 2ec0b3bf-6ba7-406a-a086-e21d475fccb0
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: a612ae01-4368-4e06-85a0-0531cf4d05c2
       :name: Mexicali Blues
       :segued: false
@@ -5967,19 +5967,22 @@
       :segued: false
     - :uuid: db4ad89d-635c-46cb-bb05-05204e59932f
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: db3ee1af-d0f9-4dcb-b1e2-dfc65c40db69
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: f6268670-14e3-4eb0-92ae-511b3fbaed8e
+      :name: Space
+      :segued: true    
     - :uuid: 5504d421-4fa4-4087-b9a8-dbca2ba22c31
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 52b37f52-1924-450d-b1ec-bc6d5c91eeb3
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 76beb07b-534e-47c8-b414-9ab942a70cbd
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: 149ac89b-b375-4df0-b1f5-dac86a64e74c
       :name: All Along The Watchtower
       :segued: false
