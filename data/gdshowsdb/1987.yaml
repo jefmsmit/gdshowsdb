@@ -5399,7 +5399,7 @@
       :segued: false
     - :uuid: 67b84832-3ccf-4226-8b7a-4bddcfd56d6f
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 0d1d3bdd-ca0c-4544-870c-a3097e9273db
       :name: Cumberland Blues
       :segued: false
@@ -5410,25 +5410,28 @@
     :songs:
     - :uuid: 8031bd82-237f-4b83-9c48-fcdc78f4ca45
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 55c39fa8-22d0-4dd2-a037-418a05de0015
       :name: Hell In A Bucket
       :segued: false
     - :uuid: 4a4afbc0-dd01-4000-885d-e126d9622b24
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 1ef25e0a-33aa-478a-896e-2e9f366e3c42
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b818e15c-f8d3-4f74-9c99-7eaed76abf0d
+      :name: Space
+      :segued: true    
     - :uuid: 3e78f46d-1dd3-4bc5-85b7-c2986a2ca844
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 304d9db6-ec4d-40f9-8cb6-a71ae2430a6d
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 28eac851-073d-4e48-bc62-28e4b02753f4
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: 90c976b6-19b4-427f-b01e-fadaa872ff15
       :name: All Along The Watchtower
       :segued: false
