@@ -2413,7 +2413,7 @@
     :songs:
     - :uuid: c631b4bd-89f5-42a0-9805-ef8e1a47e915
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 14cc0769-3d20-4812-a7db-3bb994db5905
       :name: Bertha
       :segued: false
@@ -2439,31 +2439,34 @@
     :songs:
     - :uuid: 3f5316e4-6d11-4ef1-a449-446550950be3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bdd90bb6-75b9-43a6-ab47-70a8aa8fe1a3
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 71c38280-845f-42e2-b810-9d6d650b2f82
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: a36fc8f7-31d2-4710-9a03-94f419a962de
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: cdb3b7c5-debe-4945-8f42-b8016c28682c
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 987155de-00b9-4c32-98d9-cda6bd92f5a4
+      :name: Space
+      :segued: true    
     - :uuid: 12d7b6c0-4e51-4aa0-834c-82458d99eb87
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: 52df9aed-b7fa-4edd-bca8-5f5088d18904
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 5375292e-a572-4e8e-9f2b-7651d1fca9ef
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 4f8d94a6-72c0-4038-aa15-f3fecf2e7049
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 337351f9-b0ac-4a10-b81f-c2a93eeb5994
       :name: Not Fade Away
       :segued: false
