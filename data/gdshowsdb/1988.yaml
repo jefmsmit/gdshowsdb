@@ -3679,7 +3679,7 @@
       :segued: false
     - :uuid: 2ed330fe-36bc-4ed7-857a-b7e82053c547
       :name: Feel Like A Stranger
-      :segued: false
+      :segued: true
     - :uuid: db377fe8-8813-41d1-ad1b-18225f241988
       :name: Franklin's Tower
       :segued: false
@@ -3708,22 +3708,25 @@
       :segued: false
     - :uuid: 74f36343-5fa9-4b9e-9a33-f3b69d065b6e
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 994485d2-15fa-4c68-b9cf-c08bc66e4247
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: cd558361-d264-4c5d-b5c1-39f4713a89a1
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 535b7dbf-cca3-406d-9150-0b681b7fda00
+      :name: Space
+      :segued: true    
     - :uuid: 1052f555-755e-4301-a298-ccd17bde3556
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: c4f0c9a3-c899-47ce-b6a9-10a558d0fa78
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 8f9b4e88-3cb0-426d-a9a7-a65b5532597e
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: ebd945bc-8ef2-4d34-89f9-e19f926d52cb
       :name: Not Fade Away
       :segued: false
