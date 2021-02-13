@@ -3285,28 +3285,31 @@
     :songs:
     - :uuid: 73b845f5-d2f2-4ce6-9178-84ab919b3531
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c36630a5-6057-42e9-882a-9403b049a774
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 46f3a8f1-47bf-495d-8e4e-868cd5e48c00
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: bef06800-663b-489a-b48f-01cdd2877d88
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: cbfb1362-759a-43de-a7f6-b5c553df1285
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 0bc83e37-2e61-4649-88cb-894513e0faad
+      :name: Space
+      :segued: true      
     - :uuid: f773142f-93f3-4c93-869c-5c7d332ecfb7
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 664b7bca-0c71-46ed-8190-fd3bcd799805
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: 047274eb-f040-4f68-8333-5d5fddd0d1ac
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 60db8166-65b2-412a-ba11-2cfbc7527b2f
       :name: Sugar Magnolia
       :segued: false
