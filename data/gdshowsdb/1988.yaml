@@ -2168,19 +2168,22 @@
       :segued: false
     - :uuid: 82a1ea7f-3718-4aa6-ac55-8bd869109fec
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1e4532f6-9a14-4f39-9736-e1f02aa03bfd
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: ee865488-4317-42ca-918a-7437cee3a7b0
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: d6d9a994-d268-4a90-ae39-153d76aa5ee2
+      :name: Space
+      :segued: true    
     - :uuid: 9f7c385a-bc7b-4b0b-b5f9-12da560909ab
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: f3431f46-d146-4672-9f25-3dfa447d8c7b
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: bd91b188-73a3-4d85-bca5-27516832954e
       :name: Turn On Your Lovelight
       :segued: false
