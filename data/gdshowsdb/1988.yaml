@@ -4853,31 +4853,34 @@
     :songs:
     - :uuid: bf320ac8-ebb0-4294-9d77-52b318c86947
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ef0d6af0-693d-443d-beaa-18734532b3cd
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 91f0689c-9009-4c37-a2b7-147150d2fa94
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 15b8b14d-a491-4627-9dad-7570bb49f42d
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 64435515-bac4-40bd-85ef-0b9cd9e03f53
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 63ad838a-ea63-4662-b045-996cda87430e
+      :name: Space
+      :segued: true    
     - :uuid: 02d357d8-83b9-4d05-96bd-93fdc7e40940
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: 0c068b6c-d907-4c53-8b7a-e75aba24c828
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 607a7ec5-2368-4fee-abf9-a57c4671e3e7
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 9645f879-9554-491c-8873-2c03933eeb3c
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: bfde3a67-e225-4c01-805e-ce7635670e73
       :name: Not Fade Away
       :segued: false
