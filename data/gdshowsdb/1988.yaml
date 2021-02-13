@@ -1158,7 +1158,7 @@
       :segued: false
     - :uuid: 218e5943-e5db-4015-9cb0-6791af1267cd
       :name: Feel Like A Stranger
-      :segued: false
+      :segued: true
     - :uuid: d8741879-180c-4a53-b823-bd850792b862
       :name: Franklin's Tower
       :segued: false
@@ -1181,31 +1181,34 @@
     :songs:
     - :uuid: 76ce5374-28d4-43e9-95e1-3fdf7ff81440
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 2b93620c-63e8-4a8f-b508-4d37c0059e8a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8207390d-ab7a-4bf0-b313-05c3d56a56ac
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 17933c5c-d968-4577-8d0d-55d42f2756b8
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 67d3cac5-02c0-4724-8531-12eba62dbd4a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: cfac7399-d97a-47bd-a12d-413a418cb4d0
+      :name: Space
+      :segued: true    
     - :uuid: f1f12c50-7642-4ad8-bc58-6e5705310bbf
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 6365e0f3-04ac-4502-9343-54df015be80f
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: d312d258-54ab-4613-8255-91821a5c6643
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: 521afdad-cd0c-4b68-ad75-41c94ae5560e
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 2b76127c-df4c-470e-a3da-70bce3672f5e
       :name: Sunshine Daydream
       :segued: false
