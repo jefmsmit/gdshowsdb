@@ -837,7 +837,7 @@
     :songs:
     - :uuid: 1f58dfed-fa3f-492a-a967-1f26b671bf51
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e467774d-1947-45a9-8abb-bd70305e7fbd
       :name: Fire On The Mountain
       :segued: false
@@ -846,22 +846,25 @@
       :segued: false
     - :uuid: f6a86758-2fac-40f2-9128-ff5f76538f0e
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 394e356a-8d3d-4544-a715-2ea76b384c99
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e8491f06-7936-4cc3-a06a-d84a8c6e4e3b
+      :name: Space
+      :segued: true    
     - :uuid: fb6f1cf4-2a76-4d5c-91e0-19306528cac1
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 071bdcc4-8e70-4632-9b83-1b2a239393e5
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 83e70d4c-9c9c-4c0a-b5f5-c095c984302c
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: a7516982-b224-413d-8f23-ba82dfde71e2
       :name: Hey Jude
-      :segued: false
+      :segued: true
     - :uuid: 8429f78d-1408-4ad1-888d-2b4a7517cd73
       :name: All Along The Watchtower
       :segued: false
