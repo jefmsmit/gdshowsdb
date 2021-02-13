@@ -2728,7 +2728,7 @@
     :songs:
     - :uuid: 87f9eaf3-5658-4c12-b810-df1c1a0483f0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6830266f-bec3-477e-a3db-658020415c63
       :name: Fire On The Mountain
       :segued: false
@@ -2740,22 +2740,27 @@
       :segued: false
     - :uuid: ffb623be-c2b0-430f-b573-b943f0d01aad
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 413c153b-79c4-40ba-8df9-1d9750d8be1b
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ab7a2412-5a86-44b5-b333-cd10d5ccff32
+      :name: Space
+      :segued: true    
     - :uuid: 9a2e7f7d-19a1-4c8b-b404-b77c47130404
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 28566fc8-d7bb-411c-9e9b-65b8d4c4f08f
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 64254ef4-42e2-433d-b53f-da48b6ebf5e5
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 30a04220-ae5c-419f-a5b8-931f08675080
       :name: Morning Dew
-      :segued: false
+      :segued: true
+  - :uuid: 13a24aa1-42c3-4a75-b942-40a13f2a4079
+    :songs:    
     - :uuid: ae41bd1d-cf90-476f-b6de-36c3e62168f2
       :name: Turn On Your Lovelight
       :segued: false
