@@ -4515,25 +4515,28 @@
     :songs:
     - :uuid: aaf9e3f4-c3a7-49da-a062-41a78557d344
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: 2790ec0d-91c5-46ae-8bc7-0cd835377667
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 53f9a8f5-57fc-4424-8b13-501dfbe378ca
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 638bc37c-64e8-471e-a50b-74cc5ca9a4b9
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b484730b-8f67-41ba-bec0-55f95262d432
+      :name: Space
+      :segued: true    
     - :uuid: a20967ef-e77c-4ed1-8942-3cf2a1ac00c9
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: bb0d1a29-45e3-4a12-a261-cabb41405b15
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: b915ad85-15c4-46cf-bcc7-f414917cbd0f
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 7395ddb5-a5d0-428e-ba80-74003c5aefb7
       :name: Morning Dew
       :segued: false
