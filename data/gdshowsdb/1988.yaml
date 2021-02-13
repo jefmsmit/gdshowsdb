@@ -4020,7 +4020,7 @@
     :songs:
     - :uuid: ba810f99-41ec-4f0c-9bb5-9c2bd5e4e30f
       :name: Feel Like A Stranger
-      :segued: false
+      :segued: true
     - :uuid: 59469249-775e-4074-80bf-279f1fd65a50
       :name: Franklin's Tower
       :segued: false
@@ -4043,28 +4043,31 @@
     :songs:
     - :uuid: 4d67ee0b-d4a8-4e8c-9825-b0017616fd33
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 4d8bdcaf-52a6-417a-a9ab-86b60e1d94ef
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 405c60d0-d01a-4eea-8a08-4c188ddb892b
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 5efadd4e-90c3-4206-b1bb-0a290119691f
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: 1c524206-ba1d-4785-8658-d3fd70176e1e
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: c4bb1de8-61a5-444c-bf3b-0918acfb66eb
+      :name: Space
+      :segued: true    
     - :uuid: cb8f1bdd-15e8-40ce-8046-e47bbdc8c171
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1a64272a-d1df-4615-a1fc-4b42800a1fc2
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: dba975ae-c23d-45ee-9b82-efedab0bf603
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 7a1716af-c7f8-4894-baa4-f420f1e1c62c
       :name: Not Fade Away
       :segued: false
