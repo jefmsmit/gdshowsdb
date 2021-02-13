@@ -1563,7 +1563,7 @@
     :songs:
     - :uuid: 44ec03de-8067-4910-b48a-bf3c5172c1e6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 632cdc28-2884-4eb1-bb82-dc2e242d98d3
       :name: Fire On The Mountain
       :segued: false
@@ -1575,13 +1575,13 @@
       :segued: false
     - :uuid: 1f457e38-0a5d-4087-b410-80fb61c4a8a5
       :name: Louie Louie
-      :segued: false
+      :segued: true
     - :uuid: 6c1be587-1d24-459e-b606-85dc6d745ec1
       :name: Cumberland Blues
       :segued: false
     - :uuid: cee82415-8154-4764-a086-96723aff4b84
       :name: Stuck Inside A Mobile With The Memphis Blues Again
-      :segued: false
+      :segued: true
     - :uuid: 041f3dc1-b92f-4a77-b9b5-6d9b8b76c4e1
       :name: Deal
       :segued: false
@@ -1589,31 +1589,34 @@
     :songs:
     - :uuid: 212cd63c-f051-4658-9003-b7a8a3a09bfc
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 50fb4830-dba7-422b-8bd2-962cd68a4709
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: d7afdbff-d3f9-4a5f-874a-4b19ecb6e92e
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: cf5d1b92-ec1e-420f-8b02-183e9c7449f9
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: af7ec3b5-3bdc-4864-a9d7-0dff47db4f0b
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: c48c6fb7-ea3b-4883-9219-1ca38cfdd136
+      :name: Space
+      :segued: true    
     - :uuid: e9f750b1-a216-45c6-9e5c-0dadcada5d5f
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 2803d280-1c31-4f65-bad8-e46cda4369ca
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: cc19ed3b-ff16-452a-b4e1-99e034fcabdb
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: 52cc014a-f18f-42dd-afee-74a5e27ac83c
       :name: Hey Jude
-      :segued: false
+      :segued: true
     - :uuid: 3fbf181f-a27b-4890-b585-ab99dfe8dbb8
       :name: Turn On Your Lovelight
       :segued: false
