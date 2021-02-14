@@ -3678,7 +3678,7 @@
       :segued: false
     - :uuid: ccecfc6b-9954-4324-9f22-3d0291dbf25d
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: e5ecdf90-53bd-4702-b65f-eeff03f68c05
       :name: Mexicali Blues
       :segued: false
@@ -3695,28 +3695,31 @@
     :songs:
     - :uuid: e229f366-2880-4fad-8d56-36b320379e45
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8ca390f0-5e27-461c-926a-d08c83d20d5d
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 6bc1d5f6-d1fd-4220-9d9e-90c229e1c08c
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 47f28992-1cdf-4c67-ac0f-49f7054bced1
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: e8d6818c-95b2-4c78-b97d-82a206c35dc7
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 8519844a-5050-44ae-b286-58c844dd06e3
+      :name: Space
+      :segued: true    
     - :uuid: 939993db-0ac9-4b2d-a409-e0574eda785c
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: dd07bf4c-41cd-4f3f-8fba-5fa042af5903
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 673dd0c6-f343-4c51-b120-dd4ab112f263
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: d9e464d4-a874-4c39-b1a3-5551da74e3e9
       :name: Sugar Magnolia
       :segued: false
