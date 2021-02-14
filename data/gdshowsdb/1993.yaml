@@ -3348,25 +3348,28 @@
     :songs:
     - :uuid: ac2e1768-e8f4-4e83-a2ae-559e5ce5a45a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a6cc452e-9af3-486c-9bc0-b5b545a61c52
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 5e2da03a-fb37-49b7-b98d-6270848c7a85
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 780286f7-272b-49a6-9610-26092f2a93f8
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: e14a4b24-e2ea-462e-89fa-39f4d3067184
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: c67d67c6-9eb7-4bac-a489-589633e22b17
+      :name: Space
+      :segued: true    
     - :uuid: 6bb177ff-f11d-4647-ba7e-3d6372e2b092
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: ba3cfca7-c8e4-4359-b2f5-b6e54e1f18b9
       :name: Attics Of My Life
-      :segued: false
+      :segued: true
     - :uuid: 8fa8895a-1dc6-4f1b-b441-309b93837cd6
       :name: Sugar Magnolia
       :segued: false
