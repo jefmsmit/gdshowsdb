@@ -938,31 +938,34 @@
     :songs:
     - :uuid: fdbf662e-1c21-495c-a111-bbb5b9ba2911
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c67d1516-8eda-4e34-a425-f8ad1fb14568
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 0fdacaa6-9512-49c4-898a-a351e1a25c6c
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 041820e6-624a-4269-94ca-9d835f1ea430
       :name: Built To Last
-      :segued: false
+      :segued: true
     - :uuid: 0ad38e21-e8e4-4b76-8810-1c4d652ce65a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: a5a9a321-ff5c-4283-82c2-190051d134fd
+      :name: Space
+      :segued: true    
     - :uuid: b9e89617-bc2b-4aaf-9230-229bf3b60bf5
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: 59edecb4-f036-4718-a60d-3c5ac55300f1
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1bf56431-621d-4218-a6f2-5f5a29b60760
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e7641e53-8cea-48ae-9439-a8c44d8074d2
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: dc39813a-28b8-429f-b52d-71bd49697df0
       :name: Playing In The Band
       :segued: false
