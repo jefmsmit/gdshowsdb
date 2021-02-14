@@ -102,25 +102,28 @@
     :songs:
     - :uuid: c924dd94-1274-4f4d-b728-fc0a0e604ea6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 16f7df98-9b8a-4272-9593-dbb47bafa8a0
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 4173faa9-3739-4773-96cb-63f928097597
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 5c74758a-8ec8-415f-b47a-bc24d172453b
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 5183888a-0f7e-468b-a506-0c2194b85be5
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 208a2805-2a57-428b-9280-1292b08d8ff9
+      :name: Space
+      :segued: true    
     - :uuid: fbc22ce3-6a96-4113-a578-aa1228cb7c41
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: b20b4610-54a4-45fa-a54e-e0ba330d99b8
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: b9653cab-ce31-42b2-a908-6ac6e73847d8
       :name: Turn On Your Lovelight
       :segued: false
