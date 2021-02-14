@@ -3465,25 +3465,28 @@
     :songs:
     - :uuid: 5cac9967-0a93-447d-b22b-c5f833fd12fa
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 003148bd-d5a2-4bef-8447-81d4e346c6f7
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bbff6211-9388-4086-a1a4-6051164ff82d
       :name: Man Smart (Woman Smarter)
       :segued: false
     - :uuid: 46e8cfec-adab-40a2-9391-666170f620a3
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 2e057836-220a-4184-83b5-63dccb1a28ee
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 51d8ed08-6f45-474c-a31d-a6eaa3b1c342
+      :name: Space
+      :segued: true    
     - :uuid: 9a04da8f-3812-49f5-8c49-fc9c0438fe7d
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1d20fe06-c1f8-4663-9821-e43369ce2922
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 8a4989df-52e0-4719-a851-2fb5cab9515e
       :name: Turn On Your Lovelight
       :segued: false
