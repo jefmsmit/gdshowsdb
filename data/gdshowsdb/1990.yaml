@@ -3139,7 +3139,7 @@
       :segued: false
     - :uuid: 09f8e63c-3056-4834-81cd-833905ad2240
       :name: Cassidy
-      :segued: false
+      :segued: true
     - :uuid: 1fd4f39c-b915-4dd4-aadd-d1a5b85542c0
       :name: Don't Ease Me In
       :segued: false
@@ -3147,25 +3147,28 @@
     :songs:
     - :uuid: 7b92bbd8-0354-4cd8-b5e9-1c16b4dc44e7
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 9694ab22-9174-4166-9b1d-09a7d7e1f5db
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: d9241d69-8603-4d54-8b82-fea9af38885d
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 0f27b99c-ffb7-471e-888c-1e9bbea0d586
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 42379ec8-72f5-4200-96aa-f685b94bc8d0
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 14a43702-5f98-470b-9490-91e08c93daa6
+      :name: Space
+      :segued: true    
     - :uuid: 73fe3242-148d-441f-83cc-601e423c1f39
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: d8b30e54-1ae0-4400-8a0a-0e5a672b4e22
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 3783548e-c5ec-4f38-83aa-9b440f674ccf
       :name: Sugar Magnolia
       :segued: false
