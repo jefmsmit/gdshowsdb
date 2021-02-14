@@ -2963,10 +2963,10 @@
     :songs:
     - :uuid: 1dea4006-ed3d-4000-ae3a-228b65a61394
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: 470e7afa-008b-4c56-b39c-23c06ee9ab28
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ed64c05f-f5fe-4e18-8e9c-572458901d97
       :name: Fire On The Mountain
       :segued: false
@@ -2975,19 +2975,19 @@
       :segued: false
     - :uuid: 0812532a-2335-4bcd-8d70-8b1622dc481d
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 119a11d0-0dac-4d3f-a060-91a726f8e0cf
       :name: Drums
       :segued: true
     - :uuid: f7dfb5c8-450a-41ac-80f0-646cef839ce6
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 5fc5a446-d186-467f-bae9-4f2c54c6c246
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: 15e74c4a-9557-40e3-aece-792384b700dc
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: a53a44e6-707c-482d-82a1-67476b5ce3aa
       :name: (I Can't Get No) Satisfaction
       :segued: false
