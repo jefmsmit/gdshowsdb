@@ -3445,7 +3445,7 @@
     :songs:
     - :uuid: fbd098f8-3c2c-41cc-8c8b-a9670fb94280
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3a058440-f3fc-46d9-8cf2-326e92b9d9b2
       :name: Fire On The Mountain
       :segued: false
@@ -3454,22 +3454,22 @@
       :segued: false
     - :uuid: 3d28c50b-b8f0-4abc-a3c0-dfe7136c57ed
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 1542c24e-d762-4247-a856-ea671401880d
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 6ee1282f-2777-4396-aa99-cbdc3335e56b
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: f4e17708-4540-41d6-964a-6dd941047edf
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: c0f4663a-26de-4149-baf2-20536ef1da4b
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 3f0a2b15-2a87-4bdb-9066-5cdc3bd2e6e9
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 104a023f-eec0-4971-b5d4-7b11151e6af1
       :name: Not Fade Away
       :segued: false
