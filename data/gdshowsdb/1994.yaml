@@ -1450,27 +1450,29 @@
     - :uuid: 2ebcf195-7f20-4f5b-857c-22ef2bb4211d
       :name: The Promised Land
       :segued: false
+  - :uuid: c04f8e78-e0b7-4d1c-a21a-f430150a05d3
+    :songs:    
     - :uuid: 47fef025-5037-42db-9fc8-40bbec9c9f3a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: d6e7df2f-9083-49da-a065-92800d0ce9ff
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 6a40e0c3-c888-4dd4-bd1f-b8f7d96bc2ad
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: e9be88c6-324a-4eca-a958-545a207860fa
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 96530464-b404-4f5f-ae74-7f4dd70cb7ee
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: e99e4060-f58b-4909-b834-67a5d97ed4d4
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 13ffd5b7-c4c9-43f1-baf2-0699335b30da
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 8503d4b1-d813-42d4-b8e0-1d987de98fb2
       :name: Morning Dew
       :segued: false
