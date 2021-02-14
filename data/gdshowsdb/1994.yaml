@@ -1705,9 +1705,11 @@
     - :uuid: 10723917-0d10-4c53-a518-d4035e6e31c2
       :name: Bird Song
       :segued: false
+  - :uuid: 2b96f001-5730-4e5d-a410-767ca57126b7
+    :songs:    
     - :uuid: f4ec0dd2-70ed-4a96-b7e8-920764867496
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e5c27f50-b3c8-4e12-a281-4f225525ae1c
       :name: Fire On The Mountain
       :segued: false
@@ -1719,28 +1721,27 @@
       :segued: false
     - :uuid: fbb1a6d4-28fd-4a53-82bd-03b49f730cbb
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: acae4816-e95b-4064-b08e-cffc37f0f3ca
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: 44acbf47-0347-4977-9543-d8a86c54b179
-      :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 7948ebf6-0db5-4397-9930-d7245b21b342
       :name: Drums
-      :segued: false
-    - :uuid: 941bec81-4af9-43fc-9166-ce1e66d3465e
-      :name: Jam
-      :segued: false
+      :segued: true
+    - :uuid: d50a030a-fdf0-49e5-ae45-b0e37b204528
+      :name: Space
+      :segued: true    
     - :uuid: c10ce6ce-568c-49ef-8a14-b76a90821669
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 0d2a6eb9-c0d5-44d4-ac94-b081178c5481
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 38037dc2-9ed4-41ef-abb8-ec1216c187bc
       :name: Good Lovin'
       :segued: false
+  - :uuid: 9fdc2f00-9df5-4478-aa90-d87a5677f497
+    :songs:    
     - :uuid: 59c3578e-60f9-4d67-a783-58bfe0a5f968
       :name: Knockin' On Heaven's Door
       :segued: false
