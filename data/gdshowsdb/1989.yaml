@@ -3795,16 +3795,16 @@
       :segued: false
     - :uuid: 559ff8d0-580a-48e8-b99e-8171aec7356d
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d7d4a0a4-d153-4157-8b77-27b8900e578e
       :name: Mexicali Blues
       :segued: false
     - :uuid: 70554652-a796-4131-aaee-325000512bc3
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: d0a133bd-d855-4096-8f9f-378602fcba40
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: edeafb1b-c122-4fec-b823-8705429f1a5d
       :name: Franklin's Tower
       :segued: false
@@ -3821,10 +3821,13 @@
       :segued: false
     - :uuid: 29389db2-1d16-4b18-adfa-fcc4bd6ffbb0
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: fa3aa72f-1ce4-44bc-a86a-59244604f31f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7c9dd506-ba95-4831-a221-7f2aed23fa70
+      :name: Space
+      :segued: true    
     - :uuid: 251b9c1d-1f69-4f42-ae2a-037c86f0e196
       :name: China Doll
       :segued: false
