@@ -281,7 +281,7 @@
       :segued: false
     - :uuid: cccb14e9-4f7a-42af-beba-4a7b82325167
       :name: Cassidy
-      :segued: false
+      :segued: true
     - :uuid: 9201f59e-1390-4c86-a7b0-0192607fe18e
       :name: Don't Ease Me In
       :segued: false
@@ -292,22 +292,25 @@
       :segued: false
     - :uuid: cc1dd8ce-d4a5-4f65-afe4-4969c1d24871
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5bb6e772-ede8-41c0-a626-0a150e1e1842
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 5315e2f2-95b7-4fdb-85c9-1fe54480ed12
       :name: Wave To The Wind
-      :segued: false
+      :segued: true
     - :uuid: eee6e546-0df2-4b27-a53c-4c70694a65a7
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: d4ce6dc7-9cb0-47e0-b42c-dc0f9d4d9600
+      :name: Space
+      :segued: true    
     - :uuid: f013965d-85ac-42e0-8e56-609017106c4b
       :name: Days Between
-      :segued: false
+      :segued: true
     - :uuid: d3bd9089-42d4-4738-8d2c-eee9903fba1b
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: bf0718b6-2d2c-4251-ac49-bff3dbddc910
       :name: Not Fade Away
       :segued: false
