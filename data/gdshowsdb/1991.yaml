@@ -2134,7 +2134,7 @@
       :segued: false
     - :uuid: bdb6febc-b304-4e6b-9c56-58363bc42ca4
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: a2d24fc2-89bc-4275-8813-f795646998c6
       :name: Maggie's Farm
       :segued: false
@@ -2151,28 +2151,28 @@
     :songs:
     - :uuid: dc0fa4d2-e929-41a3-a38a-6cf8438e943c
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: af64c6e5-6ab5-43a1-97a7-4e167ffa6904
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 3587225a-31b9-4f47-b5cf-3deaca941a91
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: c4450480-1483-41fe-810e-afd9ae5a03e1
       :name: New Speedway Boogie
-      :segued: false
+      :segued: true
     - :uuid: 518eda78-1228-4e4a-9582-78a5b316df5d
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 7b910382-292f-42ad-9c1c-231502641d69
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 267013a8-8518-486b-8c2f-f601cc82b70a
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 5b31f051-fdb9-4497-8f1d-3fb8d38afa88
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: 63c61c8b-4181-4d97-9d73-29d2de49fe10
       :name: Sugar Magnolia
       :segued: false
