@@ -4503,28 +4503,31 @@
     :songs:
     - :uuid: f6da3a8b-8070-44ba-a082-75991116e76b
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1c0b1ee3-85ac-47c6-8546-55fc687be111
       :name: Sugar Magnolia
       :segued: false
     - :uuid: fdd4fc56-2020-4dd0-983b-8af828209400
       :name: Ship Of Fools
-      :segued: false
+      :segued: true
     - :uuid: ccc26a48-fa4c-441d-9afd-ef80ea4577ac
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 57d4a854-bc55-4e09-9f6c-dbc09107f915
       :name: Jam
-      :segued: false
+      :segued: true
     - :uuid: 5ab54960-a312-4633-b233-6ac828c01ca7
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7ab0fe62-0d83-4c11-ac0b-653156e64b41
+      :name: Space
+      :segued: true    
     - :uuid: e1d09123-bce0-472f-9923-f97ca8ff9a14
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: fc20f185-eb60-4171-b79d-d9e35678e6a2
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: f897abf6-2d41-4e5a-985f-f6caebdb55f6
       :name: Standing On The Moon
       :segued: false
