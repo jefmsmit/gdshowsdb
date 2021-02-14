@@ -674,7 +674,7 @@
       :segued: false
     - :uuid: 7b82b526-0aef-4a97-a5d5-f0005fa2a4c3
       :name: Tennessee Jed
-      :segued: false
+      :segued: true
     - :uuid: 1ba10051-b82f-4238-978f-3222618e87c5
       :name: The Promised Land
       :segued: false
@@ -682,7 +682,7 @@
     :songs:
     - :uuid: eba29d2a-d3f7-454f-af54-e4a97a365331
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f55ff89c-946d-4367-a850-a4fcc8860a57
       :name: Fire On The Mountain
       :segued: false
@@ -691,16 +691,19 @@
       :segued: false
     - :uuid: 40a4deaa-fe93-440b-abaa-427411125c9f
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: c906e9a6-cea3-4456-94bc-02a4a22af5db
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: bc4789bb-53b3-468d-a9d8-bd2fcb78dc3c
+      :name: Space
+      :segued: true    
     - :uuid: 6c0d312c-b511-4451-b440-8385ccc9d8bb
       :name: The Last Time
-      :segued: false
+      :segued: true
     - :uuid: 0284ce34-390a-41d6-a562-25d0362758dc
       :name: Morning Dew
-      :segued: false
+      :segued: true
     - :uuid: 58ae0ede-6e04-4270-97a5-47f431bc2a30
       :name: Sugar Magnolia
       :segued: false
