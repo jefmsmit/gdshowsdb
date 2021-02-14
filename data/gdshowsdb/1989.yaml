@@ -2777,7 +2777,7 @@
     :songs:
     - :uuid: d0baf56a-71c4-4a62-a79b-9f1cf35f76c1
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 9344da5b-e256-43bd-8b68-7564f69ad14f
       :name: Scarlet Begonias
       :segued: false
@@ -2786,16 +2786,19 @@
       :segued: false
     - :uuid: 9308f3f4-4bab-49c7-9b85-da7705ae3ab6
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: ea586b45-9898-4524-a121-b9057728b7d0
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 38691b9f-72c3-418a-821f-bc0a023d9dc3
+      :name: Space
+      :segued: true    
     - :uuid: be8453d5-041f-494a-879f-0e2346a3a5de
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: dc5bbb60-0ef1-4c86-b0a7-6ceaf47fe3ea
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: 08cdc140-c1f0-4800-8221-1ec8dc7b384a
       :name: Hey Jude
       :segued: false
