@@ -4090,10 +4090,10 @@
     :songs:
     - :uuid: 6f477429-7ee4-48cf-8db4-506782c5b2a2
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 51dea026-8930-4c03-b783-0113645b5cc8
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 228fe1fa-0c1e-4b69-9569-744880765205
       :name: Franklin's Tower
       :segued: false
@@ -4105,7 +4105,7 @@
       :segued: false
     - :uuid: e2b5100f-c6b4-4dbc-b39e-7b6237cb391d
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: fa79a825-dc0f-43d4-b4f2-b16fb8bb887e
       :name: Big River
       :segued: false
@@ -4125,28 +4125,31 @@
     :songs:
     - :uuid: ca0db6ef-77cb-441d-b14a-2f45e57907bd
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a4bffe19-c124-4cd1-b567-a6e3202fed4f
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 3c941eae-3d68-425d-be99-349796048d3f
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 12de9f07-4d66-4e03-8036-c117d975551a
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: c22b4370-b18a-4fc0-a7cc-8a8c68fa4176
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 396ad381-fffe-4991-89c1-78641a45add0
+      :name: Space
+      :segued: true    
     - :uuid: f7b44615-a31e-49c7-8085-f7e22db2b007
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: 69a6dd1f-36c3-45f4-a913-406d285a1a3a
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: fa6ca8f6-b640-48da-9234-04238f98a217
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 7720586f-c715-4872-9c01-597785b71657
       :name: Good Lovin'
       :segued: false
