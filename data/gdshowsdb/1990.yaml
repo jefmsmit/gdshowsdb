@@ -4736,7 +4736,7 @@
     :songs:
     - :uuid: 56dbc62b-d9c9-4e90-b38a-f8c31388a5de
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: c570bacc-a2fe-493f-9782-1d0d71b4ed14
       :name: Sugaree
       :segued: false
@@ -4754,7 +4754,7 @@
       :segued: false
     - :uuid: 38f6858b-0d63-4c40-9e8c-f8fde5a81409
       :name: Cassidy
-      :segued: false
+      :segued: true
     - :uuid: 1f673363-b707-4894-b6bf-9724fa7ca946
       :name: Don't Ease Me In
       :segued: false
@@ -4762,28 +4762,31 @@
     :songs:
     - :uuid: db8ca484-f053-483a-862f-efaa4ef8af98
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a62c12f0-cc2c-4850-87cd-e6c37e06bd40
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 5d81ffee-8c9f-49c4-9e62-6910014bb8a6
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 286dc15d-fcbc-4dc2-9837-56ca7005d114
       :name: Comes A Time
-      :segued: false
+      :segued: true
     - :uuid: 71cbb078-6c0e-45b5-8447-f0a339506967
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2584dfdb-ae72-43c5-bd9d-8d28503b1e86
+      :name: Space
+      :segued: true    
     - :uuid: d984fe93-b490-45d7-b071-25f88d99108c
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: e22a634d-e87e-4732-9375-4d0f44d6a0a2
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 190acff9-fd5b-4c10-adaf-1e0136c8fd75
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: bb4d9a84-f2f2-47f2-8d35-cf3499e9a3fd
       :name: Turn On Your Lovelight
       :segued: false
