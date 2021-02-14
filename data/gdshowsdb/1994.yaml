@@ -995,33 +995,37 @@
     - :uuid: 16e46dab-a15d-4635-a85d-7eab4028b45b
       :name: The Promised Land
       :segued: false
+  - :uuid: 8de2afad-b3c7-465d-b9cd-81c3ed6ffbdb
+    :songs:
     - :uuid: 367b48d0-daf9-43c1-b9f3-620e1ecb8ef2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8e3069dd-c0dd-414c-aef6-20acfc22f648
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 5bc50579-a8a3-4af2-b954-71516327932d
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: d4846f10-60f2-4b08-bf55-82111c7ef2d3
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 9fe60e9e-cd17-4599-be93-6761544f503c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 72c652c3-bffc-4756-98f9-a8183b457d3c
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 41ce6e67-444c-42bb-a72d-b51842d4d7e4
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 5db6d49c-6c90-47a5-a33f-f5ac5005a4c2
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 1a48ee00-a8a6-42fb-8a5b-cae81432f505
       :name: Sugar Magnolia
       :segued: false
+  - :uuid: ff188046-c55a-40f4-9b74-3f95d13f0b7c
+    :songs:    
     - :uuid: 157d369f-ce1e-4842-8bea-73f01f27caae
       :name: Liberty
       :segued: false
