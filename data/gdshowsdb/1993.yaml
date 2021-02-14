@@ -2196,7 +2196,7 @@
     :songs:
     - :uuid: 52336dfc-fa59-4017-83a3-a285e39842de
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 00161c16-7537-403b-bcfe-8e65a4ab6181
       :name: Sugaree
       :segued: false
@@ -2214,10 +2214,10 @@
       :segued: false
     - :uuid: f0c65295-0cd0-46fd-9ead-160b33d7f5a7
       :name: The Music Never Stopped
-      :segued: false
+      :segued: true
     - :uuid: 40f5f87f-3fae-4ebb-87b4-3db7f3f014b2
       :name: Easy Answers
-      :segued: false
+      :segued: true
     - :uuid: 0c59b4e8-9675-417f-b224-c80160038a28
       :name: The Music Never Stopped
       :segued: false
@@ -2225,7 +2225,7 @@
     :songs:
     - :uuid: 9a24f716-6264-4db3-90e2-ab37b37122f3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bd4bbe4e-3d5a-45fe-8db3-bdc504a840b9
       :name: Fire On The Mountain
       :segued: false
@@ -2234,19 +2234,22 @@
       :segued: false
     - :uuid: 90749cb6-7c72-453b-8d2d-3ad85db5f46a
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 2e51a9cd-f082-44ff-8fb6-654adea2c1a4
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 89dce1e2-f879-4617-89d9-d587f99149c1
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 1731a7f0-2446-4b21-a5b3-e4409808b7b9
+      :name: Space
+      :segued: true    
     - :uuid: b5df35f3-473c-4d34-82db-06ee457f8135
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: d7a1881d-9fd7-4354-a313-1dc4ff92c27e
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 62b4360b-b257-4dbc-9dc6-edf6e85861b2
       :name: One More Saturday Night
       :segued: false
