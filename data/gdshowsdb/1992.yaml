@@ -1754,10 +1754,10 @@
     :songs:
     - :uuid: 15fc8c4d-7500-4a55-920f-b60a5bce8381
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: da618f12-62a8-4ae7-970b-bbfda3c152be
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 9e346512-c2c0-4b22-b6c1-a151fe493a4c
       :name: Franklin's Tower
       :segued: false
@@ -1780,7 +1780,7 @@
     :songs:
     - :uuid: 78fa1b77-a794-47f8-94fb-e0f63b874e24
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5871b51e-54ba-423f-a84e-8e622073de08
       :name: Fire On The Mountain
       :segued: false
@@ -1789,28 +1789,28 @@
       :segued: false
     - :uuid: cf0290d3-3e2e-437b-93a8-f8d357692e7c
       :name: So Many Roads
-      :segued: false
+      :segued: true
     - :uuid: b3af0973-70b7-40b6-a6a1-855b9b40e2a0
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: db555752-263f-40a5-a086-09459275149f
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: f48f2967-62e2-401d-8d01-4a0833898f6a
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: f88480ea-d1fd-42a4-ab6c-14e8e2e4c20b
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: d4fac579-13d1-4003-bb39-82cbf1698c4d
       :name: Attics Of My Life
-      :segued: false
+      :segued: true
     - :uuid: 7aaedaac-4b0f-4a8c-885c-b713b5aff42c
       :name: Spoonful
-      :segued: false
+      :segued: true
     - :uuid: 6961cf7c-3617-40a9-a32b-1394c6e47a69
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: c9e13510-a6d6-4a08-8660-cc4773674a1c
       :name: Morning Dew
       :segued: false
@@ -1818,7 +1818,7 @@
     :songs:
     - :uuid: a920705a-2ebc-456e-b25e-574e5e276769
       :name: Baba O'riley
-      :segued: false
+      :segued: true
     - :uuid: 5f561c14-014c-48d6-a209-220ffdffedc1
       :name: Tomorrow Never Knows
       :segued: false
