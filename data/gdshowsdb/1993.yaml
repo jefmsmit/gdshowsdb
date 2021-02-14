@@ -5150,7 +5150,7 @@
     :songs:
     - :uuid: 0bce3258-4729-446c-a700-82efba5f4264
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 64cd7857-9b65-4241-8c37-a00f47bb5337
       :name: Wang Dang Doodle
       :segued: false
@@ -5168,7 +5168,7 @@
       :segued: false
     - :uuid: d58ba61a-8646-45c8-a0e7-6c8344d8af34
       :name: Bird Song
-      :segued: false
+      :segued: true
     - :uuid: 2347c652-8d36-4589-aef9-383bf7b4eeb8
       :name: The Promised Land
       :segued: false
@@ -5176,31 +5176,34 @@
     :songs:
     - :uuid: c8be4841-ef56-48d3-96bc-25072653db53
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 21fe7063-0aef-4f08-9cb8-b3d5d5adfc11
       :name: Fire On The Mountain
       :segued: false
     - :uuid: e5c0115a-39a9-4568-9440-75e1f279010d
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: d80bfe9d-1c29-4ad1-add2-50be2456ea0b
       :name: So Many Roads
-      :segued: false
+      :segued: true
     - :uuid: 40e1b338-d831-4068-b4b5-6e0f99519059
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: cb322c28-67a4-41ef-b0d7-d1269de55b2c
       :name: Smokestack Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 6140063c-24be-4ac5-8688-134cac55e3a4
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 3ce6e4b8-85a4-4f43-8808-6777dd692c76
+      :name: Space
+      :segued: true    
     - :uuid: ea0cb55c-1cb9-4a24-9a5e-6bc932cf7e31
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: ec4838b4-7dbe-440c-b873-e5ff4e2bfc43
       :name: Days Between
-      :segued: false
+      :segued: true
     - :uuid: cff0fdfc-bfc2-4e60-9a79-9a961bd615f6
       :name: Sugar Magnolia
       :segued: false
