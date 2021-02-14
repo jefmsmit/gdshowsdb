@@ -3532,7 +3532,7 @@
     :songs:
     - :uuid: ba7c4733-e6e3-4005-b128-2ff5bcadc8aa
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e2d1bcdb-c5f8-4260-8472-ab3310b39017
       :name: Fire On The Mountain
       :segued: false
@@ -3541,28 +3541,28 @@
       :segued: false
     - :uuid: 994ff6a1-eb1c-4fe1-ad85-8702ac92a354
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: f06b16e2-34d7-4150-b1e1-0ebf6032c594
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 999ebf60-cb16-4d2d-b0ae-801c0533e6db
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 60d63748-ea2b-4567-b960-aca6718665f6
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: f3270603-f045-4241-9d0b-faf9c0da6f8d
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: f31473e2-6fe2-4d48-b7fd-84aa1a46a2b4
       :name: The Last Time
-      :segued: false
+      :segued: true
     - :uuid: be65778e-4c9a-4f4d-9c1c-c47c49685782
       :name: Here Comes Sunshine
-      :segued: false
+      :segued: true
     - :uuid: d557c9c5-8cdc-4a23-bb83-cb03f3a477cc
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: d68fe154-2cc4-4410-8cb0-af7bde358811
       :name: Not Fade Away
       :segued: false
@@ -3570,7 +3570,7 @@
     :songs:
     - :uuid: dc9fca91-9f12-4ba0-811d-8178d90a4b25
       :name: Baba O'riley
-      :segued: false
+      :segued: true
     - :uuid: 4fbf0bd0-b9f5-413c-8b0f-558179729536
       :name: Tomorrow Never Knows
       :segued: false
