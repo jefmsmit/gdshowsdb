@@ -2130,7 +2130,7 @@
     :songs:
     - :uuid: da9cd6ea-bac0-48b6-804d-aa6c6b2ab4f2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6ee04f5e-e83b-4cac-950a-2ae2253b4ef7
       :name: Fire On The Mountain
       :segued: false
@@ -2139,22 +2139,22 @@
       :segued: false
     - :uuid: 0c22cb02-cbaf-461d-8a22-c8c92a4bf159
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: a3a7580c-85d6-4184-94e7-7db99d694caf
       :name: Smokestack Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: f4b73407-7a3a-452d-b024-9d766992291c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 6414b009-a6b7-44c5-ab11-4093b0c93bbb
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 535f9058-65c5-466f-ac2c-1c43210a60d2
       :name: The Last Time
-      :segued: false
+      :segued: true
     - :uuid: a49f8adf-8096-4ffe-b9ab-a0177ae4a533
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: ead14d6b-96f1-4d99-b939-3ca55d4c4ba5
       :name: Sugar Magnolia
       :segued: false
