@@ -2626,7 +2626,7 @@
       :segued: false
     - :uuid: 988c24b8-3ae2-4582-8876-c1d9f70475a3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: d520179d-00cd-4540-9ca9-a6fe325b9c05
       :name: Fire On The Mountain
       :segued: false
@@ -2635,13 +2635,13 @@
       :segued: false
     - :uuid: be98d6f9-d5fc-4200-8ca9-3e37aaa40323
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: e4e17e7d-a432-4b16-ac43-be48afc01f19
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: a67ecde4-2d67-4ef0-b9b9-cdd79c22e730
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 11e787df-48c2-46f7-ac27-19b1b24f25fb
       :name: The Other One
       :segued: false
