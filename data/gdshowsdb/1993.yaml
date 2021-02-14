@@ -3787,28 +3787,31 @@
     :songs:
     - :uuid: 9cbc0963-9a91-48e6-9fcc-67da7a248f31
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8a20c8e2-6e78-4a4a-98c6-4322f9dd192c
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 6d84dd16-33ea-4a3e-8073-dfe1ee19f767
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: b4d28f7b-381a-4737-975e-2eeaedc7c130
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 41166521-fd15-469d-9be5-c28ec9735c40
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: dc703c40-474a-4eb3-ae78-b5f485243057
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: b763deb9-f018-44eb-9103-a79c39609c73
+      :name: Space
+      :segued: true    
     - :uuid: 1bc9ee53-4f0e-4544-8de4-7ab3701ad2c4
       :name: Easy Answers
-      :segued: false
+      :segued: true
     - :uuid: f53df449-3693-478f-a9dc-8372c33721b6
       :name: Days Between
-      :segued: false
+      :segued: true
     - :uuid: de4378f8-7b75-4de5-b351-dc1e9c5286c8
       :name: Good Lovin'
       :segued: false
