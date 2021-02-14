@@ -1671,7 +1671,7 @@
     :songs:
     - :uuid: d3e6b413-94ab-44a7-a3da-d83088fa311a
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: 070e987a-b5d3-4bbf-bd75-fafa1334656a
       :name: Wang Dang Doodle
       :segued: false
@@ -1694,7 +1694,7 @@
     :songs:
     - :uuid: 2397b9d8-ec68-45a7-8abd-60ba1477aa89
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a793957d-e043-4f6c-ab4b-d4a2070a37e6
       :name: Fire On The Mountain
       :segued: false
@@ -1703,19 +1703,22 @@
       :segued: false
     - :uuid: 5fb545ee-0c41-4e38-938f-2ae217f572ab
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: db074603-8ad6-4180-8b1b-49b5850cd46a
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 7230089b-681b-4837-a08c-140eab3aa674
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 56f720ff-8adf-4861-b179-0c4a3bce7eaf
+      :name: Space
+      :segued: true    
     - :uuid: f4238aca-46c5-42d4-8147-05c39576787e
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 5416e7f7-98e0-40c1-8882-0ca8a9c6ac19
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: a7b1f1f4-87cc-475c-b0a1-1371440c59da
       :name: Sugar Magnolia
       :segued: false
