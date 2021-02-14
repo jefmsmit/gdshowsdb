@@ -97,7 +97,7 @@
       :segued: false
     - :uuid: e1e2abeb-1964-48b0-b787-1a6be05fabcf
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: f0fa176d-3480-4235-b56d-be8deb9a355f
       :name: Cumberland Blues
       :segued: false
@@ -111,7 +111,7 @@
     :songs:
     - :uuid: bb247284-9669-4bb2-89db-a3690fa46bac
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 24460ea6-1bf8-408f-9575-706a40968081
       :name: Fire On The Mountain
       :segued: false
@@ -120,16 +120,16 @@
       :segued: false
     - :uuid: 35a47c07-5c16-46b4-87c9-88ddb1de4dcd
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 82a60efc-0fad-4610-9ea0-84a1ba159d42
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: fa0c77d1-b222-4bf2-915c-e77d0a05e97f
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 243df376-2267-497c-9ee3-575dc81c12b2
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 131ca05e-4de8-4a00-9784-582718df941f
       :name: Wharf Rat
       :segued: false
