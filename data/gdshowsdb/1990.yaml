@@ -2051,7 +2051,7 @@
     :songs:
     - :uuid: 7deab137-a45c-4229-8ac9-4bb90b148a31
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: 4dbe23d8-2d84-45ee-bc7a-8847b2f89c51
       :name: Walkin' Blues
       :segued: false
@@ -2077,31 +2077,34 @@
     :songs:
     - :uuid: ab594ee2-7628-4d95-be29-01706bf07d0e
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: 5801d031-8004-4046-870c-24d8c11b7b4e
       :name: Foolish Heart
-      :segued: false
+      :segued: true
     - :uuid: c2f3ec0e-e3f7-4483-8e5e-1f56046ca14a
       :name: Just A Little Light
-      :segued: false
+      :segued: true
     - :uuid: 7c05df9d-7bc6-4ac7-bfd3-4f2e7aa97648
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2356dc2e-ceaa-435e-98bf-7eeb59bdc11d
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 1ce8428a-5ef4-4edf-ac0d-9df260b4d0eb
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e3b7870f-a096-412b-881b-d9fb894c49fe
+      :name: Space
+      :segued: true    
     - :uuid: a719c2fc-f041-4cd9-9e44-da60a65ae3a6
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: acc6b66e-6822-4e62-91fc-a0c709076022
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 38503390-6ecf-4406-9840-2fb71d9a7240
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 8d73bce8-afd0-4974-a29b-1b6dbe3da38f
       :name: Sugar Magnolia
       :segued: false
