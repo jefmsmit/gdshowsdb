@@ -726,7 +726,7 @@
     :songs:
     - :uuid: e3932af8-b127-41b7-814f-a4ce2551afb3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: d4e7b6d0-2f07-46dc-a11c-bc553687dbc3
       :name: Fire On The Mountain
       :segued: false
@@ -738,10 +738,10 @@
       :segued: false
     - :uuid: 77d3b569-1008-4e85-aaee-4de5f589869e
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 4ad710be-fa3a-4c72-b36b-4c7db2873b36
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 07903714-38cb-4b0d-adba-0c9a888c3db2
       :name: All Along The Watchtower
       :segued: false
