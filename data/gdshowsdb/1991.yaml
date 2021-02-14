@@ -4997,7 +4997,7 @@
       :segued: false
     - :uuid: ff61c840-d00f-49d5-9378-25f2909e6ebd
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 405ad0d4-4b27-4a5a-9096-735baf49d6a0
       :name: Mexicali Blues
       :segued: false
@@ -5017,34 +5017,36 @@
     :songs:
     - :uuid: 8c8946d2-876b-42a7-b677-7802bcd8040f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6d113416-b73d-4f04-a7e9-33c5e3405913
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 646ec80b-29d3-4678-b927-f775fd2b549d
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: f58cc6b1-bf83-4e8b-b1d2-e92e0a6fea7d
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 14ad4690-2bad-4de4-b6f4-657823ba250d
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 33e28dd5-d1e0-4712-aa6c-3fe745a3a11d
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 86442644-7f51-475f-a677-3e64ff09f82d
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 936a1439-05e3-4128-a4a7-618029705ea3
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: 8fa0a9d6-2d9e-4bd5-b935-ae7bfebe28fa
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 5fbf35a5-f02c-4a74-a444-95e8b222cb6b
       :name: Around And Around
       :segued: false
+  - :uuid: 862fb879-faf1-4a69-83bf-0c79d25b08ee
+    :songs:
     - :uuid: 7bdafc0d-58ba-4d3a-83df-b64dba645783
       :name: It's All Over Now
       :segued: false
