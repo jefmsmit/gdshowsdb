@@ -3054,7 +3054,7 @@
     :songs:
     - :uuid: 6d990539-5ef5-4aa9-9684-29c6a44eaa39
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e1e49fba-8bb4-4315-bbbc-0d9e712cef55
       :name: Fire On The Mountain
       :segued: false
@@ -3066,27 +3066,30 @@
       :segued: false
     - :uuid: ac9353cc-501f-45ad-8b1c-b7677861a671
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: dd3401e3-9f32-461d-87fa-f522b5f68eca
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 8565b0a4-3021-489c-8f12-a38cd63cf805
+      :name: Space
+      :segued: true    
     - :uuid: 68721377-5c1e-4885-b974-793f01661afd
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: 6dcae858-9672-44cc-a740-b0f036bd848c
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 68530be7-ed0e-4bcf-861f-11b5490fb906
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: df810ca1-ae1b-4d00-ae0c-14b76e43ec47
       :name: Turn On Your Lovelight
-      :segued: false
-    - :uuid: e8a9a593-5b98-4da7-bde8-c2c8378eae00
-      :name: Johnny B. Goode
-      :segued: false
+      :segued: false    
   - :uuid: 76f72da6-4439-40f8-9494-46b851fce039
     :songs:
+    - :uuid: e8a9a593-5b98-4da7-bde8-c2c8378eae00
+      :name: Johnny B. Goode
+      :segued: true
     - :uuid: fbc6bcb7-ce9a-4c83-b4e6-4ad726c5ac87
       :name: And We Bid You Good Night
       :segued: false
