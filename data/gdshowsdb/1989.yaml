@@ -87,7 +87,7 @@
       :segued: false
     - :uuid: 850e0b28-5e66-49bb-ac9a-2f6fb2188a2d
       :name: Sugaree
-      :segued: false
+      :segued: true
     - :uuid: 3c355307-b245-4e0f-ab1e-5b4763460b92
       :name: Wang Dang Doodle
       :segued: false
@@ -110,25 +110,28 @@
     :songs:
     - :uuid: 5a7e8e85-7e82-4fb0-8708-26f55093eb89
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 16a6da0f-d00f-431b-a155-5a13bca33129
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 37aec85f-d095-44d6-844e-617fbc3e8a71
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: a67eb648-cf4f-490e-9660-c50b4b31533b
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 87719f42-26ca-4722-8191-6a8982e77cfa
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ae9fb5c5-2a99-426b-919b-2f1e8e9950a7
+      :name: Space
+      :segued: true    
     - :uuid: efaad327-73a6-4904-a97d-c9c9889a407e
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: ed3f89b2-a631-46b0-bc03-af154a8591c8
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 5d7cf1a0-b7bf-4cbc-a810-83b6fb4cd28d
       :name: Turn On Your Lovelight
       :segued: false
