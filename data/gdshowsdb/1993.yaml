@@ -1470,13 +1470,13 @@
     :songs:
     - :uuid: 3a82f7a7-1a34-42bf-b641-c6f2e4fe165d
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: a3bfa96f-c236-4e6a-b6c2-8e1c220e1585
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 7fdf8588-8a3f-4632-a95c-d96611677996
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: a51f4d4b-363e-49b1-9926-7c5a4cd754a0
       :name: The Same Thing
       :segued: false
@@ -1496,28 +1496,31 @@
     :songs:
     - :uuid: d2e9f5c3-9fcb-4518-b93e-1553bc9fdc4a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 28fe7351-fb61-4ffe-83ec-c0951ab953ed
       :name: Fire On The Mountain
       :segued: false
     - :uuid: b8ea8492-72e7-4057-a276-814e6c872cfe
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: ce8c9785-b898-4245-9877-818d575f626a
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 406627d0-ffeb-4e8a-a403-20a7c14d5636
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: fe020c44-edb0-4ad8-b036-4c7cfde457ac
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ba4bc02a-4194-4dcd-ba51-5334734955fb
+      :name: Space
+      :segued: true    
     - :uuid: dbdeabad-0f44-43ce-a210-f87f807b1dde
       :name: The Last Time
-      :segued: false
+      :segued: true
     - :uuid: 06439c84-1712-4095-8303-aa4a53f4d62b
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: b52ce6a4-c754-449b-b00b-5b6ae449bbad
       :name: Around And Around
       :segued: false
