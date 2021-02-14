@@ -2498,7 +2498,7 @@
       :segued: false
     - :uuid: c3e8c134-681c-420f-89fb-01891758c7c2
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: b12bff5f-a2b9-4166-b126-45435108cc14
       :name: Don't Ease Me In
       :segued: false
@@ -2506,10 +2506,10 @@
     :songs:
     - :uuid: ba869ad6-fd6a-4c51-8639-bc7c093fe507
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: da2bb005-ae7d-46e1-88c6-e04df1ea9457
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5cbdcebd-302c-405b-a7fc-d1b2f61e35a6
       :name: Man Smart (Woman Smarter)
       :segued: false
@@ -2518,22 +2518,25 @@
       :segued: false
     - :uuid: f6289c4c-789a-46e6-a509-dccef116c730
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 3ee5bb25-f550-43da-ab5b-37a5e498287d
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: c9252c99-d22e-412d-b449-ca77411a27b7
+      :name: Space
+      :segued: true    
     - :uuid: 175a0cb1-521d-491d-90c5-df622ca7ba1d
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 4fcb7ed7-0bf7-4f81-b21f-076334f083c1
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 0e8f5533-a220-4d13-9ab4-aa7f4faa856f
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: b0215554-2a45-4c42-a4ac-f14434e48c92
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 3109dcc8-65b0-4ca8-9cb0-b53f2619602e
       :name: Sunshine Daydream
       :segued: false
