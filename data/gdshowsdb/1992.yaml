@@ -1358,7 +1358,7 @@
       :segued: false
     - :uuid: 08b11e85-3428-43a7-9b39-28c1bd53e60f
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 1371ee01-8cf9-47d8-b726-6ff9c900dced
       :name: Maggie's Farm
       :segued: false
@@ -1369,28 +1369,28 @@
     :songs:
     - :uuid: a4dffa09-74fc-41b0-bbda-b9ea75d2eaea
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a3f59e97-336b-47e4-9273-78cdab919152
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: acd77049-689c-4b23-b889-7a4b5272ab0e
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: a7d0a6fb-a952-4550-9445-3e7af86ff878
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: a940284c-2b13-4bef-9890-9ab8b9db900c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: d7f4d048-930a-469c-ab37-d1cedcd2021c
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: e4b807c3-5b57-491d-bf44-46cf6abd7e72
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: ca51e8b9-669c-46d1-8d86-ccf6b56898b8
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: f4209273-83fc-461d-9a90-6295d0dc7e80
       :name: Turn On Your Lovelight
       :segued: false
