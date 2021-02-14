@@ -1231,7 +1231,7 @@
     :songs:
     - :uuid: 87a3fb61-fcce-494b-b4fe-cf7513d950e6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c8419564-d554-4f0a-81f9-773e80b79f68
       :name: Fire On The Mountain
       :segued: false
@@ -1243,19 +1243,22 @@
       :segued: false
     - :uuid: a1204b68-cf9e-4323-bc9e-b5a4f90ab47a
       :name: Wave To The Wind
-      :segued: false
+      :segued: true
     - :uuid: 9be17167-f394-46b4-b677-92c200762f23
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 7e795f5d-dedb-4fb0-800f-38145ad69873
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: d9cb8584-8f52-4b92-8c13-288db84750b3
+      :name: Space
+      :segued: true    
     - :uuid: 6d016635-b413-4333-9b76-cf4c17590b54
       :name: Way To Go Home
       :segued: false
     - :uuid: 58ce62e4-c0f3-43bd-969e-3f15ffcea622
       :name: Attics Of My Life
-      :segued: false
+      :segued: true
     - :uuid: 4a31f501-5e48-4148-8288-ac700c115288
       :name: Turn On Your Lovelight
       :segued: false
