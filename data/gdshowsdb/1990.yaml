@@ -2687,7 +2687,7 @@
     :songs:
     - :uuid: 91271f13-8589-47ad-a72e-7d1b66586f89
       :name: Touch Of Grey
-      :segued: false
+      :segued: true
     - :uuid: cd7da6b7-999f-4b95-99ce-6f39e27a28ef
       :name: Greatest Story Ever Told
       :segued: false
@@ -2713,28 +2713,34 @@
     :songs:
     - :uuid: df35430a-5d1c-4088-8681-03d1f101f5e8
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6601f643-a8ab-42c0-af35-815a8a123cdb
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 8ec562bf-26ab-42de-b5c6-4ce14526b407
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 4c5c128a-5318-4320-9ecc-68fbd58bddd4
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 62ae0f16-0911-4441-8835-954913651ca7
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 6d85e99b-87f0-4d5b-a037-8a56ae079c56
+      :name: Space
+      :segued: true    
     - :uuid: baac6a23-70a9-4171-9a77-acbf001dea0b
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 1c441181-2b74-4ef2-a0b1-65716b1a9520
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 6894cc8f-b84c-4d0f-9c28-1fec72fa63d4
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
+    - :uuid: 541e942c-8428-45aa-a493-095dd1a5097f
+      :name: Playing In The Band
+      :segued: true    
     - :uuid: 7ee72332-dda2-4648-a2ba-9ea2c1c6ab71
       :name: One More Saturday Night
       :segued: false
