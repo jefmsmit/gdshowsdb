@@ -4300,7 +4300,7 @@
     :songs:
     - :uuid: c8ea29d7-2cca-425f-b55d-b0be473b6b25
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8e07fe13-8dce-43de-b201-4e1b711100cc
       :name: Fire On The Mountain
       :segued: false
@@ -4312,19 +4312,19 @@
       :segued: false
     - :uuid: 8c47c33e-6b65-4f60-af4f-0a229d44028d
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: a3af8859-5a45-4ca8-ba0c-ecc8b21e0038
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 3209ccad-aebd-4c6b-846a-aa2a91dab896
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: e803e4d1-807e-455b-8452-5af08a45359d
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: aafa6fcb-d3da-44b9-bafb-2ad37302f780
       :name: Attics Of My Life
-      :segued: false
+      :segued: true
     - :uuid: bce97f9c-a2c6-40ec-8b5d-4106d71517d7
       :name: Turn On Your Lovelight
       :segued: false
