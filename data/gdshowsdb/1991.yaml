@@ -1437,7 +1437,7 @@
       :segued: false
     - :uuid: a5dbce4f-cc47-4eae-8547-3e93d1b97386
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: c6c9313d-4c1e-4a6d-8e68-4a6366f9efd2
       :name: Maggie's Farm
       :segued: false
@@ -1457,7 +1457,7 @@
       :segued: false
     - :uuid: 6d7e59f3-4a8b-4a81-bef3-465f2c399e76
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 4ac74e97-31c6-469e-9784-6ea64cb8d5e8
       :name: Fire On The Mountain
       :segued: false
@@ -1466,16 +1466,16 @@
       :segued: false
     - :uuid: 1c993d84-d1c3-45bd-9039-bdecae4d534d
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 489886d8-a25b-4026-a830-9ea6fd7c4a76
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 8659c1bc-b8bc-4599-9e50-985fdfb3a7c9
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 0500fb1f-60c9-479a-9aac-0aaff7922182
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: e634c11e-624c-4f2c-b92a-d953b8d58f55
       :name: Black Peter
       :segued: false
