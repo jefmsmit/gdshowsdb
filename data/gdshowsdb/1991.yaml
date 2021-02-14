@@ -4862,10 +4862,10 @@
     :songs:
     - :uuid: cfef6fae-ee67-41e6-8052-a99f7204dc21
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 7be4043d-74a9-4555-9461-6d4d24c7bf08
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: a431f7f5-01fb-4a71-94b6-cdecbc365de9
       :name: Franklin's Tower
       :segued: false
@@ -4885,37 +4885,37 @@
     :songs:
     - :uuid: 16fb659d-164f-4127-a29d-5c5bfce6c4f6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 76d5ad99-7c1b-4394-82a8-f0f6b292a9e2
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 700b23d2-9a8a-4ba3-9bea-322e46d01aac
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: c2c4584e-ae35-4ff9-af22-0d6f9c5baa4a
       :name: Spoonful
-      :segued: false
+      :segued: true
     - :uuid: e7e1d14b-5e08-4d22-9d49-09f64de11b05
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 6828734d-b5f9-4bab-9df9-a24fe20b04ba
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 466b0935-2b41-429a-9f9a-f523beab47cf
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: f721ffc7-995c-4269-972d-08e1c1add4a5
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 34c7567a-cb36-49d0-a586-9a3b9e4e64ea
       :name: The Last Time
       :segued: false
     - :uuid: 44db155f-9b5d-4978-aa64-b5125ff7daa1
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: fc4ed310-7d58-4b5b-9941-62c90cfdef43
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: d96d2d6b-0dcc-4095-8d6f-c797be91012f
       :name: Not Fade Away
       :segued: false
