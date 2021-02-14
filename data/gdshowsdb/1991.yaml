@@ -423,7 +423,7 @@
       :segued: false
     - :uuid: 50518cec-c094-4d11-82eb-01a46e4fff0d
       :name: Mexicali Blues
-      :segued: false
+      :segued: true
     - :uuid: 320bc49f-f6c2-4485-971f-91c21a557bee
       :name: Big River
       :segued: false
@@ -440,28 +440,28 @@
     :songs:
     - :uuid: a8815770-a0d4-47ff-9aaf-8b0eef358ca9
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: c5567dc0-4797-4527-9051-28c03eec5cf5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 533c041d-f22a-4eb6-9aef-9f2949145248
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 4726a908-83c1-4a0d-ad7c-b037cc5f1fcc
       :name: Stir It Up
-      :segued: false
+      :segued: true
     - :uuid: 835aeb5f-2f9b-44f3-a369-95d2582e188c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: ef681f6d-ec12-4ffe-8117-1d4332dd82a7
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 024d44c2-73c4-44fd-b343-8ecee539cd83
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 433dc513-ab50-4c91-9349-cd3c029fd3af
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: 02095efa-695d-43a5-bbca-7b4cb5b10d37
       :name: Not Fade Away
       :segued: false
