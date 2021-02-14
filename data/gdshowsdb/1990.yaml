@@ -1695,10 +1695,10 @@
     :songs:
     - :uuid: 0603b864-6ec2-4a56-ae16-285e3c75eb7e
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 55ecf7ee-cf2d-4b6d-9b70-9fc67a646e2f
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: e88dfc12-6c5f-4e87-8ac5-3acf5178f45d
       :name: Franklin's Tower
       :segued: false
@@ -1724,28 +1724,31 @@
     :songs:
     - :uuid: fe7f0860-4cb7-405d-ba59-c9d09be0fb7f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: cf7f52b5-7e9e-4e07-8628-71fd5fa0087d
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 954bbfa2-56f2-41cc-bc48-1f58c0203a57
       :name: Blow Away
-      :segued: false
+      :segued: true
     - :uuid: fe2eb966-25f9-4a34-8b71-19baa2e2cc1a
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: 0d9cff1b-e400-4a5c-852a-0c9722b770f3
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 544459f7-e74d-402c-a404-0f21f9341734
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 699660c8-1015-4910-bdb6-e46239fc4e4d
+      :name: Space
+      :segued: true    
     - :uuid: fb4859b3-b04a-4e57-83db-ab4628fb25e9
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: d7ddc2bd-680d-494c-9155-b8f6cd1b4bcb
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 0e857064-13b2-42c5-a6b1-89884f4584cd
       :name: Around And Around
       :segued: false
