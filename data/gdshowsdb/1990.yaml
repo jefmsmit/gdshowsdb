@@ -385,25 +385,28 @@
     :songs:
     - :uuid: 8f9f6cef-c410-47bf-ad3f-b2b72f5df446
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: f272371b-8de2-4b67-9d22-7ec21c17ae19
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 0aa4c60c-cd13-4594-a309-d0d1ccf8e8e6
       :name: Ship Of Fools
-      :segued: false
+      :segued: true
     - :uuid: 86a1e9e1-261b-45eb-97a4-a9f0844009a8
       :name: Man Smart (Woman Smarter)
       :segued: false
     - :uuid: 871ef683-014b-455f-b4e3-77954ea6f624
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 2dedc575-9e2d-4c63-9cb8-a1e0744b4749
+      :name: Space
+      :segued: true    
     - :uuid: 4e28bc87-25b0-4edf-b0c1-9c606b9df820
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: e6374600-5539-4ad5-9832-8941ddaa3479
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 3e08e368-b62f-4021-8ec6-b7862c15afcf
       :name: Sugar Magnolia
       :segued: false
