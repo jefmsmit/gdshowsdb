@@ -4308,7 +4308,7 @@
     :songs:
     - :uuid: f9b4dcf1-741a-4636-bf1f-ebab2dfeb961
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c897b6d0-5ff2-41cb-9057-cd12ccacc66a
       :name: Fire On The Mountain
       :segued: false
@@ -4320,16 +4320,19 @@
       :segued: false
     - :uuid: ba449362-ae5e-4ac3-bfc9-70e1a8b1ef6a
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 82f1ac7b-662c-403b-b369-c7c3d9defbac
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 42fe9ae6-26fc-4e37-adc7-40b5ad466345
+      :name: Space
+      :segued: true    
     - :uuid: 5351ca5e-2070-4a79-8332-c0acbc50164f
       :name: The Last Time
-      :segued: false
+      :segued: true
     - :uuid: 64788e8f-4eae-4e4e-83f6-ab3c7bb6eaca
       :name: Days Between
-      :segued: false
+      :segued: true
     - :uuid: 9a2b7249-c598-4279-9513-73a858be35d4
       :name: Around And Around
       :segued: false
