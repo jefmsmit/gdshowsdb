@@ -3224,7 +3224,7 @@
       :segued: false
     - :uuid: a73fb63c-267f-4740-a427-a558580bf770
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 08af9f8d-be4c-4b1c-acb9-00f610839bee
       :name: The Promised Land
       :segued: false
@@ -3232,10 +3232,10 @@
     :songs:
     - :uuid: 25d419ee-5610-4956-b8ed-fa2450385915
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3508cc98-a5a5-40f5-b02e-58ababb4f21b
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: 0b60e5ae-f31d-4e98-904d-0fd177f142a4
       :name: Fire On The Mountain
       :segued: false
@@ -3244,16 +3244,16 @@
       :segued: false
     - :uuid: 63e6e08b-77b7-4c51-ad73-f1a190a33a72
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: b403a7b9-59dd-4934-9396-969f14c5ff4f
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 948a4638-1813-4445-95a7-20e3f3324cf9
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: c6700582-7501-483f-b3ac-18b058ea366b
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: b7a79c45-fdd3-4988-a1b7-e0b7194768a0
       :name: Good Lovin'
       :segued: false
