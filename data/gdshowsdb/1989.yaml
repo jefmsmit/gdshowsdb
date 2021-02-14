@@ -1396,7 +1396,7 @@
     :songs:
     - :uuid: c5418f57-2ddd-4991-9dc0-11417042c838
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 60041396-4ce8-4391-8aaa-3a114a91d01b
       :name: They Love Each Other
       :segued: false
@@ -1408,7 +1408,7 @@
       :segued: false
     - :uuid: f3e7598b-450a-4967-9c14-48e04aa84c88
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 7cbab8c3-0c87-4828-b360-622fa4cd1890
       :name: Mexicali Blues
       :segued: false
@@ -1419,28 +1419,31 @@
     :songs:
     - :uuid: 2762310c-93c4-4be0-8301-f496e68ae261
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ce1e3687-c783-4b77-baf8-dedb0e2b41e3
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2a5bbe12-c9b6-4797-993c-a53f94ec9c7c
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: af4f8975-400b-418c-82da-8be02ef33c05
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: b6fcd513-66c4-45ac-b634-b5b4db48f36f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 1ac4fa93-2945-461a-9745-7bcf99ac5a9e
+      :name: Space
+      :segued: true    
     - :uuid: 755c6124-94cf-4506-8d46-17379d51434a
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: dd1beffa-8d96-47a2-bd05-14c2d7bdfcfa
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 0d8ae12c-3198-4b80-94f6-28232b22d3c2
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: d7f5d2e3-56bf-41de-80ae-9c83055b806e
       :name: Turn On Your Lovelight
       :segued: false
