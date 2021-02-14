@@ -4446,7 +4446,7 @@
     :songs:
     - :uuid: 8fe94a5c-b67b-4700-bde8-11d1f1313631
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: a0150bbe-09b2-45a1-877c-62c5478ac46a
       :name: Bertha
       :segued: false
@@ -4475,34 +4475,43 @@
       :segued: false
     - :uuid: fb5bdd01-eb5a-46b9-8764-065380fc3659
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 331499c3-4f26-4495-bc83-46fb9653dfd7
       :name: Fire On The Mountain
       :segued: false
     - :uuid: c59b59a0-f437-4c00-b43b-e5b4f54a2242
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: c1d91250-9861-4afb-815c-632ddbdb766b
       :name: Spoonful
-      :segued: false
+      :segued: true
     - :uuid: 3ea0ce48-79af-480b-8463-4af5797e7484
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 3e7f1a84-72d8-40fb-b87d-bafc952ef533
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 8d7e7605-30d4-4b1f-8769-dd49c401a699
+      :name: Space
+      :segued: true    
     - :uuid: 632d42ec-85c4-4320-a7c3-49c93e44d8d9
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: db6da0b4-8cbc-437d-85de-9a17a4777c51
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: b563fe03-0b92-450c-b570-c37f3d7b6a5d
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 5b72656d-d8a3-439c-b353-426ccc8b8114
       :name: Good Lovin'
       :segued: false
+  - :uuid: ded63177-ba1e-4967-b34a-27f178e718c0
+    :songs:
+    - :uuid: 7fd87f60-605f-4ede-b1bf-14429899a5bb
+      :name: Brokedown Palace
+      :segued: false
+    
 1990/12/12:
   :uuid: cf95b357-bd4c-4f57-8846-821eb7d7dace
   :venue: McNichols Sports Arena
