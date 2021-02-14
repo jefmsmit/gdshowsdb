@@ -2074,7 +2074,7 @@
     :songs:
     - :uuid: 9acc7455-8931-4411-a086-a6c9bf3f31a9
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 08082c2a-2de2-4937-940d-dca16bc2a071
       :name: Hell In A Bucket
       :segued: false
@@ -2083,19 +2083,22 @@
       :segued: false
     - :uuid: 68acd999-785e-4724-a44b-d27d7c7c91bc
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 683bda7a-62db-4d15-b136-2a43b3b1486a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 426df72b-7a97-4c25-872d-0cf5b37f96df
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 36db39be-c3eb-4715-8d64-a9044c9c25d4
+      :name: Space
+      :segued: true    
     - :uuid: 2855ad27-382b-4630-9ba7-c33fdd46c7b7
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 9519ceac-010e-4ba3-99d2-98f19886fe06
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 0ad8d791-69fc-4fce-a0c4-90fcb86d0cb0
       :name: Morning Dew
       :segued: false
