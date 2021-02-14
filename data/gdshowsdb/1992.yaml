@@ -115,7 +115,7 @@
       :segued: false
     - :uuid: 1758c81b-f85b-4dc4-a650-bbe68bd75348
       :name: Picasso Moon
-      :segued: false
+      :segued: true
     - :uuid: a56336df-769f-4b4a-949e-b453dc8a4d9a
       :name: Don't Ease Me In
       :segued: false
@@ -129,22 +129,22 @@
       :segued: false
     - :uuid: c55f69f4-5160-4601-b8d9-c8b7ad8dc252
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2175b31d-5f29-491e-8a05-41cfc2ad3ae9
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 8a976392-179e-4030-9d44-fb00e110e0f4
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: a877e693-5d74-46f7-816b-afe99cc16d77
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: e752aed4-fa1e-4db6-8465-c6f259c16adf
       :name: The Last Time
-      :segued: false
+      :segued: true
     - :uuid: ccfa1fec-3837-4598-9a78-0cf1f9a3fb14
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 4680f4f3-af97-4647-a45b-b7e6c67adddc
       :name: Sugar Magnolia
       :segued: false
@@ -787,25 +787,25 @@
     :songs:
     - :uuid: b12a1bbd-4f2c-4ed3-b333-c2a9687d9fe6
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: 24caf768-1406-4c5b-946d-f52efcf4fb2f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bea295df-563b-41c1-aa5f-7af06eb52464
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: ca68e73f-6c05-4faf-9b85-a3d872414255
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 22b20f61-ea77-4449-a9bd-dbe5e41caebb
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: d3a6c547-0be3-4c73-a749-2e1ce7b098e8
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 7d25b399-f48a-49a1-82a5-89d5f53fe63c
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: b964c9b9-627e-4eed-a7ae-f75edf7fec41
       :name: Morning Dew
       :segued: false
@@ -1358,7 +1358,7 @@
       :segued: false
     - :uuid: 08b11e85-3428-43a7-9b39-28c1bd53e60f
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 1371ee01-8cf9-47d8-b726-6ff9c900dced
       :name: Maggie's Farm
       :segued: false
@@ -1369,28 +1369,28 @@
     :songs:
     - :uuid: a4dffa09-74fc-41b0-bbda-b9ea75d2eaea
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a3f59e97-336b-47e4-9273-78cdab919152
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: acd77049-689c-4b23-b889-7a4b5272ab0e
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: a7d0a6fb-a952-4550-9445-3e7af86ff878
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: a940284c-2b13-4bef-9890-9ab8b9db900c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: d7f4d048-930a-469c-ab37-d1cedcd2021c
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: e4b807c3-5b57-491d-bf44-46cf6abd7e72
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: ca51e8b9-669c-46d1-8d86-ccf6b56898b8
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: f4209273-83fc-461d-9a90-6295d0dc7e80
       :name: Turn On Your Lovelight
       :segued: false
@@ -1754,10 +1754,10 @@
     :songs:
     - :uuid: 15fc8c4d-7500-4a55-920f-b60a5bce8381
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: da618f12-62a8-4ae7-970b-bbfda3c152be
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 9e346512-c2c0-4b22-b6c1-a151fe493a4c
       :name: Franklin's Tower
       :segued: false
@@ -1780,7 +1780,7 @@
     :songs:
     - :uuid: 78fa1b77-a794-47f8-94fb-e0f63b874e24
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5871b51e-54ba-423f-a84e-8e622073de08
       :name: Fire On The Mountain
       :segued: false
@@ -1789,28 +1789,28 @@
       :segued: false
     - :uuid: cf0290d3-3e2e-437b-93a8-f8d357692e7c
       :name: So Many Roads
-      :segued: false
+      :segued: true
     - :uuid: b3af0973-70b7-40b6-a6a1-855b9b40e2a0
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: db555752-263f-40a5-a086-09459275149f
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: f48f2967-62e2-401d-8d01-4a0833898f6a
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: f88480ea-d1fd-42a4-ab6c-14e8e2e4c20b
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: d4fac579-13d1-4003-bb39-82cbf1698c4d
       :name: Attics Of My Life
-      :segued: false
+      :segued: true
     - :uuid: 7aaedaac-4b0f-4a8c-885c-b713b5aff42c
       :name: Spoonful
-      :segued: false
+      :segued: true
     - :uuid: 6961cf7c-3617-40a9-a32b-1394c6e47a69
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: c9e13510-a6d6-4a08-8660-cc4773674a1c
       :name: Morning Dew
       :segued: false
@@ -1818,7 +1818,7 @@
     :songs:
     - :uuid: a920705a-2ebc-456e-b25e-574e5e276769
       :name: Baba O'riley
-      :segued: false
+      :segued: true
     - :uuid: 5f561c14-014c-48d6-a209-220ffdffedc1
       :name: Tomorrow Never Knows
       :segued: false
@@ -2130,7 +2130,7 @@
     :songs:
     - :uuid: da9cd6ea-bac0-48b6-804d-aa6c6b2ab4f2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6ee04f5e-e83b-4cac-950a-2ae2253b4ef7
       :name: Fire On The Mountain
       :segued: false
@@ -2139,22 +2139,22 @@
       :segued: false
     - :uuid: 0c22cb02-cbaf-461d-8a22-c8c92a4bf159
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: a3a7580c-85d6-4184-94e7-7db99d694caf
       :name: Smokestack Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: f4b73407-7a3a-452d-b024-9d766992291c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 6414b009-a6b7-44c5-ab11-4093b0c93bbb
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 535f9058-65c5-466f-ac2c-1c43210a60d2
       :name: The Last Time
-      :segued: false
+      :segued: true
     - :uuid: a49f8adf-8096-4ffe-b9ab-a0177ae4a533
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: ead14d6b-96f1-4d99-b939-3ca55d4c4ba5
       :name: Sugar Magnolia
       :segued: false
@@ -2529,34 +2529,34 @@
     :songs:
     - :uuid: 443def03-4097-46b3-a34d-44eb75abfaed
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e74eab15-bf2b-4673-8bc8-42a76421d486
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 437765e9-dae9-4bcd-8a0d-73da85fe38e3
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: aaa1268d-2599-4892-b34c-499ed0793fc9
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 09dab507-17c1-4e35-9c1f-f6e394bd0158
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 7f8e9232-354f-441f-a01c-584b18058c40
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 8879b618-88e9-4d27-9212-c8e84d028c9a
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 6813325a-daba-4fac-bc25-4d9bf0689feb
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 32584fb9-81e0-4344-b8dc-fe58288b29db
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 6ea5df6d-9bfa-4365-af4d-c694aaf0d88e
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 60f51f2b-d9fb-45a2-98d8-49865aa80051
       :name: Around And Around
       :segued: false
@@ -3153,28 +3153,28 @@
     :songs:
     - :uuid: d6ad71ee-cc4b-4784-80d9-cf34a5a9ae4b
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 29704ecd-3e3e-4f05-8971-8866f023ca2a
       :name: Fire On The Mountain
       :segued: false
     - :uuid: f4b45de8-7f3a-4c68-9dc8-88bcee286424
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 88a56c9b-17e5-4994-8b66-f0fe86d7491d
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: e2f9cf41-26d4-4119-9d53-4d69dd28d6eb
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 889da1c6-3fb5-481a-9caa-70e9cf28952a
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 29b5791c-1ab4-48c4-a168-54d29e1b4bac
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: 4ff714fa-ec56-4116-8d28-6f6a23a5598f
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: 4b490309-1d23-44a7-8333-87a8c08ed7dd
       :name: One More Saturday Night
       :segued: false
@@ -3532,7 +3532,7 @@
     :songs:
     - :uuid: ba7c4733-e6e3-4005-b128-2ff5bcadc8aa
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e2d1bcdb-c5f8-4260-8472-ab3310b39017
       :name: Fire On The Mountain
       :segued: false
@@ -3541,28 +3541,28 @@
       :segued: false
     - :uuid: 994ff6a1-eb1c-4fe1-ad85-8702ac92a354
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: f06b16e2-34d7-4150-b1e1-0ebf6032c594
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 999ebf60-cb16-4d2d-b0ae-801c0533e6db
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 60d63748-ea2b-4567-b960-aca6718665f6
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: f3270603-f045-4241-9d0b-faf9c0da6f8d
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: f31473e2-6fe2-4d48-b7fd-84aa1a46a2b4
       :name: The Last Time
-      :segued: false
+      :segued: true
     - :uuid: be65778e-4c9a-4f4d-9c1c-c47c49685782
       :name: Here Comes Sunshine
-      :segued: false
+      :segued: true
     - :uuid: d557c9c5-8cdc-4a23-bb83-cb03f3a477cc
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: d68fe154-2cc4-4410-8cb0-af7bde358811
       :name: Not Fade Away
       :segued: false
@@ -3570,7 +3570,7 @@
     :songs:
     - :uuid: dc9fca91-9f12-4ba0-811d-8178d90a4b25
       :name: Baba O'riley
-      :segued: false
+      :segued: true
     - :uuid: 4fbf0bd0-b9f5-413c-8b0f-558179729536
       :name: Tomorrow Never Knows
       :segued: false

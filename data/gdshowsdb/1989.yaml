@@ -87,7 +87,7 @@
       :segued: false
     - :uuid: 850e0b28-5e66-49bb-ac9a-2f6fb2188a2d
       :name: Sugaree
-      :segued: false
+      :segued: true
     - :uuid: 3c355307-b245-4e0f-ab1e-5b4763460b92
       :name: Wang Dang Doodle
       :segued: false
@@ -110,25 +110,28 @@
     :songs:
     - :uuid: 5a7e8e85-7e82-4fb0-8708-26f55093eb89
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 16a6da0f-d00f-431b-a155-5a13bca33129
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 37aec85f-d095-44d6-844e-617fbc3e8a71
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: a67eb648-cf4f-490e-9660-c50b4b31533b
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 87719f42-26ca-4722-8191-6a8982e77cfa
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ae9fb5c5-2a99-426b-919b-2f1e8e9950a7
+      :name: Space
+      :segued: true    
     - :uuid: efaad327-73a6-4904-a97d-c9c9889a407e
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: ed3f89b2-a631-46b0-bc03-af154a8591c8
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 5d7cf1a0-b7bf-4cbc-a810-83b6fb4cd28d
       :name: Turn On Your Lovelight
       :segued: false
@@ -428,7 +431,7 @@
     :songs:
     - :uuid: d819c2c5-d8da-4968-86ce-a50f976ed4d1
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 43717e40-3ac2-4bf0-8cfd-8273af6cfaae
       :name: Walkin' Blues
       :segued: false
@@ -454,28 +457,31 @@
     :songs:
     - :uuid: e9707dca-e34d-4374-8925-d75fd2202f89
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3ee704f3-2d60-4036-aefb-9146282b9e57
       :name: Fire On The Mountain
       :segued: false
     - :uuid: f9c3ca03-5d45-4b71-b761-2d443878aba5
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 7479fb26-42c9-4d58-b92b-01b13e4e74de
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: d7db29a0-9596-4866-927d-81adbd4c57ba
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 4b6aa58d-0152-4c2b-a55e-5ec6c9a26575
+      :name: Space
+      :segued: true    
     - :uuid: 3e09194a-21c9-4e4e-bfd0-11c1b51d12df
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 445d5ec1-fc49-43c1-b969-65860fbe4dba
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: c97d5c1c-a6c3-4762-9b83-3c4b792507ad
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: 682e03fb-de96-4621-a21d-48f94ebb9066
       :name: Turn On Your Lovelight
       :segued: false
@@ -932,31 +938,34 @@
     :songs:
     - :uuid: fdbf662e-1c21-495c-a111-bbb5b9ba2911
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: c67d1516-8eda-4e34-a425-f8ad1fb14568
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 0fdacaa6-9512-49c4-898a-a351e1a25c6c
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 041820e6-624a-4269-94ca-9d835f1ea430
       :name: Built To Last
-      :segued: false
+      :segued: true
     - :uuid: 0ad38e21-e8e4-4b76-8810-1c4d652ce65a
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: a5a9a321-ff5c-4283-82c2-190051d134fd
+      :name: Space
+      :segued: true    
     - :uuid: b9e89617-bc2b-4aaf-9230-229bf3b60bf5
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: 59edecb4-f036-4718-a60d-3c5ac55300f1
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1bf56431-621d-4218-a6f2-5f5a29b60760
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e7641e53-8cea-48ae-9439-a8c44d8074d2
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: dc39813a-28b8-429f-b52d-71bd49697df0
       :name: Playing In The Band
       :segued: false
@@ -1387,7 +1396,7 @@
     :songs:
     - :uuid: c5418f57-2ddd-4991-9dc0-11417042c838
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 60041396-4ce8-4391-8aaa-3a114a91d01b
       :name: They Love Each Other
       :segued: false
@@ -1399,7 +1408,7 @@
       :segued: false
     - :uuid: f3e7598b-450a-4967-9c14-48e04aa84c88
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 7cbab8c3-0c87-4828-b360-622fa4cd1890
       :name: Mexicali Blues
       :segued: false
@@ -1410,28 +1419,31 @@
     :songs:
     - :uuid: 2762310c-93c4-4be0-8301-f496e68ae261
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ce1e3687-c783-4b77-baf8-dedb0e2b41e3
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2a5bbe12-c9b6-4797-993c-a53f94ec9c7c
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: af4f8975-400b-418c-82da-8be02ef33c05
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: b6fcd513-66c4-45ac-b634-b5b4db48f36f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 1ac4fa93-2945-461a-9745-7bcf99ac5a9e
+      :name: Space
+      :segued: true    
     - :uuid: 755c6124-94cf-4506-8d46-17379d51434a
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: dd1beffa-8d96-47a2-bd05-14c2d7bdfcfa
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 0d8ae12c-3198-4b80-94f6-28232b22d3c2
       :name: Throwing Stones
-      :segued: false
+      :segued: true
     - :uuid: d7f5d2e3-56bf-41de-80ae-9c83055b806e
       :name: Turn On Your Lovelight
       :segued: false
@@ -2062,7 +2074,7 @@
     :songs:
     - :uuid: 9acc7455-8931-4411-a086-a6c9bf3f31a9
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 08082c2a-2de2-4937-940d-dca16bc2a071
       :name: Hell In A Bucket
       :segued: false
@@ -2071,19 +2083,22 @@
       :segued: false
     - :uuid: 68acd999-785e-4724-a44b-d27d7c7c91bc
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 683bda7a-62db-4d15-b136-2a43b3b1486a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 426df72b-7a97-4c25-872d-0cf5b37f96df
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 36db39be-c3eb-4715-8d64-a9044c9c25d4
+      :name: Space
+      :segued: true    
     - :uuid: 2855ad27-382b-4630-9ba7-c33fdd46c7b7
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 9519ceac-010e-4ba3-99d2-98f19886fe06
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 0ad8d791-69fc-4fce-a0c4-90fcb86d0cb0
       :name: Morning Dew
       :segued: false
@@ -2267,7 +2282,7 @@
       :segued: false
     - :uuid: ca851f57-d500-4389-80a2-7c7c6a706a98
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 1ef8a166-2cc7-4451-be40-ee2728e9f12d
       :name: Blow Away
       :segued: false
@@ -2275,28 +2290,31 @@
     :songs:
     - :uuid: 4b0cf5e8-b1b4-48bd-a66d-415ec5024fd5
       :name: Box Of Rain
-      :segued: false
+      :segued: true
     - :uuid: 80639d1d-97f9-41dc-ae51-27550ba07d3e
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 983a6db4-14ad-4c04-b6cd-0c28734ed5c6
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 547100a6-a790-4c17-acc1-1840f56e4884
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 46547d32-360a-4353-8a83-831d22e3c2c0
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: 4eef047b-e6a9-4374-94b6-97b80468de58
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: beaa4a38-d18b-4060-9d71-502bf4df5e1a
+      :name: Space
+      :segued: true    
     - :uuid: 327e0c85-d19e-4ba0-b753-1334960f1024
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: cfd3be56-f930-4179-9fce-23aa8dd769af
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 4e961e1b-a6d1-445f-a3a3-6f134e2364c3
       :name: Turn On Your Lovelight
       :segued: false
@@ -2759,7 +2777,7 @@
     :songs:
     - :uuid: d0baf56a-71c4-4a62-a79b-9f1cf35f76c1
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 9344da5b-e256-43bd-8b68-7564f69ad14f
       :name: Scarlet Begonias
       :segued: false
@@ -2768,16 +2786,19 @@
       :segued: false
     - :uuid: 9308f3f4-4bab-49c7-9b85-da7705ae3ab6
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: ea586b45-9898-4524-a121-b9057728b7d0
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 38691b9f-72c3-418a-821f-bc0a023d9dc3
+      :name: Space
+      :segued: true    
     - :uuid: be8453d5-041f-494a-879f-0e2346a3a5de
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: dc5bbb60-0ef1-4c86-b0a7-6ceaf47fe3ea
       :name: Dear Mr. Fantasy
-      :segued: false
+      :segued: true
     - :uuid: 08cdc140-c1f0-4800-8221-1ec8dc7b384a
       :name: Hey Jude
       :segued: false
@@ -3033,7 +3054,7 @@
     :songs:
     - :uuid: 6d990539-5ef5-4aa9-9684-29c6a44eaa39
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e1e49fba-8bb4-4315-bbbc-0d9e712cef55
       :name: Fire On The Mountain
       :segued: false
@@ -3045,27 +3066,30 @@
       :segued: false
     - :uuid: ac9353cc-501f-45ad-8b1c-b7677861a671
       :name: Man Smart (Woman Smarter)
-      :segued: false
+      :segued: true
     - :uuid: dd3401e3-9f32-461d-87fa-f522b5f68eca
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 8565b0a4-3021-489c-8f12-a38cd63cf805
+      :name: Space
+      :segued: true    
     - :uuid: 68721377-5c1e-4885-b974-793f01661afd
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: 6dcae858-9672-44cc-a740-b0f036bd848c
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 68530be7-ed0e-4bcf-861f-11b5490fb906
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: df810ca1-ae1b-4d00-ae0c-14b76e43ec47
       :name: Turn On Your Lovelight
-      :segued: false
-    - :uuid: e8a9a593-5b98-4da7-bde8-c2c8378eae00
-      :name: Johnny B. Goode
-      :segued: false
+      :segued: false    
   - :uuid: 76f72da6-4439-40f8-9494-46b851fce039
     :songs:
+    - :uuid: e8a9a593-5b98-4da7-bde8-c2c8378eae00
+      :name: Johnny B. Goode
+      :segued: true
     - :uuid: fbc6bcb7-ce9a-4c83-b4e6-4ad726c5ac87
       :name: And We Bid You Good Night
       :segued: false
@@ -3441,25 +3465,28 @@
     :songs:
     - :uuid: 5cac9967-0a93-447d-b22b-c5f833fd12fa
       :name: Hell In A Bucket
-      :segued: false
+      :segued: true
     - :uuid: 003148bd-d5a2-4bef-8447-81d4e346c6f7
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bbff6211-9388-4086-a1a4-6051164ff82d
       :name: Man Smart (Woman Smarter)
       :segued: false
     - :uuid: 46e8cfec-adab-40a2-9391-666170f620a3
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 2e057836-220a-4184-83b5-63dccb1a28ee
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 51d8ed08-6f45-474c-a31d-a6eaa3b1c342
+      :name: Space
+      :segued: true    
     - :uuid: 9a04da8f-3812-49f5-8c49-fc9c0438fe7d
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1d20fe06-c1f8-4663-9821-e43369ce2922
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 8a4989df-52e0-4719-a851-2fb5cab9515e
       :name: Turn On Your Lovelight
       :segued: false
@@ -3768,16 +3795,16 @@
       :segued: false
     - :uuid: 559ff8d0-580a-48e8-b99e-8171aec7356d
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d7d4a0a4-d153-4157-8b77-27b8900e578e
       :name: Mexicali Blues
       :segued: false
     - :uuid: 70554652-a796-4131-aaee-325000512bc3
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: d0a133bd-d855-4096-8f9f-378602fcba40
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: edeafb1b-c122-4fec-b823-8705429f1a5d
       :name: Franklin's Tower
       :segued: false
@@ -3794,10 +3821,13 @@
       :segued: false
     - :uuid: 29389db2-1d16-4b18-adfa-fcc4bd6ffbb0
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: fa3aa72f-1ce4-44bc-a86a-59244604f31f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7c9dd506-ba95-4831-a221-7f2aed23fa70
+      :name: Space
+      :segued: true    
     - :uuid: 251b9c1d-1f69-4f42-ae2a-037c86f0e196
       :name: China Doll
       :segued: false
@@ -4132,25 +4162,28 @@
       :segued: false
     - :uuid: 145052fe-0b67-41c0-8ab5-01e3956f3bf5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3019f1b2-a5ac-44ad-af85-c0f19e324bbf
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 4e2f7b34-0b10-40ff-be2e-e430beef8e41
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 86f93cfc-cf60-41c2-a7c8-111e24e3ca54
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 9a44ede2-f31a-4640-9b2c-ca959466c1d5
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 1402f904-dc15-4ae9-a185-8dc8ae31df77
+      :name: Space
+      :segued: true    
     - :uuid: 2b9f6365-b19e-49b1-9c43-ef7093c74765
       :name: I Will Take You Home
-      :segued: false
+      :segued: true
     - :uuid: 96a41458-15ad-42c8-88c1-96a86252e58a
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 65c0e0e1-ff9d-4b30-a3fb-bfa48739132d
       :name: Wharf Rat
       :segued: false
@@ -4470,28 +4503,31 @@
     :songs:
     - :uuid: f6da3a8b-8070-44ba-a082-75991116e76b
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1c0b1ee3-85ac-47c6-8546-55fc687be111
       :name: Sugar Magnolia
       :segued: false
     - :uuid: fdd4fc56-2020-4dd0-983b-8af828209400
       :name: Ship Of Fools
-      :segued: false
+      :segued: true
     - :uuid: ccc26a48-fa4c-441d-9afd-ef80ea4577ac
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 57d4a854-bc55-4e09-9f6c-dbc09107f915
       :name: Jam
-      :segued: false
+      :segued: true
     - :uuid: 5ab54960-a312-4633-b233-6ac828c01ca7
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 7ab0fe62-0d83-4c11-ac0b-653156e64b41
+      :name: Space
+      :segued: true    
     - :uuid: e1d09123-bce0-472f-9923-f97ca8ff9a14
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: fc20f185-eb60-4171-b79d-d9e35678e6a2
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: f897abf6-2d41-4e5a-985f-f6caebdb55f6
       :name: Standing On The Moon
       :segued: false

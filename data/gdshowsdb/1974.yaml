@@ -713,7 +713,7 @@
       :segued: false
     - :uuid: 7fdf92ee-77df-48c7-be5d-c47826ad2749
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 02fa4241-11e2-4851-9725-beb26582dbde
       :name: I Know You Rider
       :segued: false
@@ -721,10 +721,10 @@
     :songs:
     - :uuid: 0639b7e3-610e-477e-97d6-17518a0c97b1
       :name: The Promised Land
-      :segued: false
+      :segued: true
     - :uuid: 9e105f39-b85a-4c44-8104-786b1a64a814
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 07cc54f6-7a0f-4ac5-8106-e334994a24bc
       :name: Greatest Story Ever Told
       :segued: false
@@ -733,13 +733,13 @@
       :segued: false
     - :uuid: e79c3814-b760-455a-83ce-14ebfb9f7e6d
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 28252b3d-69ac-4387-af9f-f615764467f4
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 0ca9a2f9-abbb-464a-b750-e13c8a747f9a
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 620be3bd-bc8c-4696-b61f-552a1e0bfcd9
       :name: Wharf Rat
       :segued: false
@@ -751,16 +751,16 @@
       :segued: false
     - :uuid: 62d45e35-d238-425d-b9a5-813f227f4d3c
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 4c29dcd9-8f1e-4023-83d0-2eadc63aa2f3
       :name: Mind Left Body Jam
-      :segued: false
+      :segued: true
     - :uuid: 39b93b29-cc3a-432f-aef9-b2cbfc3e1209
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: e781ee78-04e4-4df9-94c2-972c5336f300
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 4833433e-3f9c-4923-8482-e078d481e66e
       :name: One More Saturday Night
       :segued: false
@@ -816,13 +816,13 @@
       :segued: false
     - :uuid: a39b3fe4-79e4-43bc-803a-876363ed4872
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 1c5c0ce7-734e-4317-87d0-cc23e917b3e5
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: a02cda8d-cbe9-42b2-871d-2e10b3a1101f
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 9068deef-928b-4747-9e57-5e623f5c96fa
       :name: China Doll
       :segued: false
@@ -845,10 +845,10 @@
       :segued: false
     - :uuid: 5514080d-a299-457b-8a78-0bc69d9b1246
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 3778ad18-1087-4a08-aa6b-48b20102d6d3
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 68404df6-cf1b-4bb9-8254-0119a36e9970
       :name: Sugar Magnolia
       :segued: false
@@ -898,7 +898,7 @@
       :segued: false
     - :uuid: 854d276b-72ac-4694-a486-305cd6a7a276
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 18a72817-d139-4903-958f-8e016fbad5ea
       :name: I Know You Rider
       :segued: false
@@ -921,19 +921,19 @@
       :segued: false
     - :uuid: 02c9f5d3-41d2-457f-bee9-fc5fd3cf6f73
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: d1d7b3d2-c0e6-4894-bef4-3b76b2b3c713
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 54c2bc79-d18c-4f1b-a7fc-4d32c86155dd
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 2a184a8c-469a-417d-9bd0-5c6159a13688
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 05cfef3f-e258-4cf8-961f-8f3ab171f596
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 51d32877-e2fd-42eb-97cd-aec52f6b168f
       :name: One More Saturday Night
       :segued: false
@@ -983,7 +983,7 @@
       :segued: false
     - :uuid: afa99d24-f50d-4c7f-b708-5291b536b844
       :name: I Know You Rider
-      :segued: false
+      :segued: true
     - :uuid: 8aaadb56-927e-4d3a-afc1-414c9e2d406a
       :name: Around And Around
       :segued: false
@@ -1000,10 +1000,10 @@
       :segued: false
     - :uuid: 8e0ff915-717f-4089-90ef-8632e7b593e7
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 67c73827-6fb5-4855-ae86-ad9145ad2f9b
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 48b3e7f5-c222-4b62-a9e2-a1d6bc448c39
       :name: Playing In The Band
       :segued: false
@@ -1017,7 +1017,7 @@
     :songs:
     - :uuid: c51a7ce9-a503-4635-9e45-f29840359b3f
       :name: Casey Jones
-      :segued: false
+      :segued: true
     - :uuid: e43dac52-2170-46f4-9c57-2f1775b2b0cb
       :name: One More Saturday Night
       :segued: false
@@ -1062,7 +1062,7 @@
       :segued: false
     - :uuid: 3e7d5976-3a12-410a-b540-89538f10d384
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: cb3d7cc9-4a6a-4b82-bb66-6f57237b69f2
       :name: I Know You Rider
       :segued: false
@@ -1079,7 +1079,7 @@
       :segued: false
     - :uuid: c69bc459-8154-4e67-9a7c-18c7785002bb
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 5e6597c3-7678-4c8f-afd9-8aeff952aa33
       :name: Big River
       :segued: false
@@ -1105,13 +1105,13 @@
       :segued: false
     - :uuid: 32a1472b-b4d6-4009-880d-ebea1f41460e
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 53516f0c-afb2-4185-aff6-d00d7bd6ccb7
       :name: Nobody's Fault But Mine Jam
-      :segued: false
+      :segued: true
     - :uuid: 2f975b5c-cb75-4cc6-8140-98d4f51bb855
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: ae4d676b-d75b-422e-99c7-83fa85159a76
       :name: Goin' Down The Road Feeling Bad
       :segued: false
@@ -1240,7 +1240,7 @@
       :segued: false
     - :uuid: da9061d6-11ae-4045-b551-a5658820b118
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 74a33456-1de4-476b-98e6-eb00f2db7103
       :name: I Know You Rider
       :segued: false
@@ -1260,10 +1260,10 @@
       :segued: false
     - :uuid: 3fa00df0-dd49-4251-b415-3d0db322df26
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 8b8916e3-6bf9-4475-b3b3-1379d86af1f9
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: e8daf30d-3dc1-4ea2-9d2f-32f79dfd5e8b
       :name: China Doll
       :segued: false
@@ -1281,7 +1281,7 @@
     :songs:
     - :uuid: 1aa49bbb-3ede-4f8e-9f6c-d4a4773225ab
       :name: The Promised Land
-      :segued: false
+      :segued: true
     - :uuid: 108d96ab-4924-4dc9-aa2f-f2447313bab8
       :name: Bertha
       :segued: false
@@ -1322,7 +1322,7 @@
     :songs:
     - :uuid: a08dda07-c531-4182-8fc6-b8f22e7ac220
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 47a238ce-8892-4cdd-b30b-1b86e31ae461
       :name: I Know You Rider
       :segued: false
@@ -1337,10 +1337,10 @@
       :segued: false
     - :uuid: d7f220f0-0523-4a75-9e92-b61b9ecb70c7
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: c34f79ec-e42d-4635-9159-c9b9e753b68a
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: c67f1794-dcfb-451a-b8ef-68550e2dad36
       :name: Sugar Magnolia
       :segued: false
@@ -1481,13 +1481,13 @@
       :segued: false
     - :uuid: f1802760-1e47-405b-8d6f-35b3ca4fac67
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: e509bd8e-7ee5-4088-8b09-eaadd7813ff5
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: bda2c1f7-b963-4e2b-90d1-c9271d64bd7f
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 2ffbf1c9-9caa-4e08-bc69-4c8dc0030447
       :name: It Must Have Been The Roses
       :segued: false
@@ -1501,22 +1501,22 @@
       :segued: false
     - :uuid: 8474d055-1759-46f3-b9c1-f05ffdec9411
       :name: Jam
-      :segued: false
+      :segued: true
     - :uuid: 66896efa-6c9b-4a89-9dd6-413e1df0c645
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: ad3f5ab5-7621-4794-b7da-bcf4e5cd1c1f
       :name: I Know You Rider
       :segued: false
     - :uuid: ec816a19-2ab1-47bc-a695-8080ba170bb3
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 1d6ab132-d8db-4889-8796-7ee8a11b1a35
       :name: The Other One Jam
-      :segued: false
+      :segued: true
     - :uuid: a8b789ff-3f12-4269-bf47-5877db5aa415
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 0590570f-642d-4539-9e8e-45cab3fa5cca
       :name: Wharf Rat
       :segued: false
@@ -1539,13 +1539,13 @@
     :songs:
     - :uuid: ac2a3950-c818-4179-863a-91e0c50ef92a
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: ac2df9df-d568-457e-a30e-efe6f58865a5
       :name: It Must Have Been The Roses
       :segued: false
     - :uuid: 832b62c7-de05-4a8c-990a-91acc8ff7061
       :name: Jack Straw
-      :segued: false
+      :segued: true
     - :uuid: 84064331-49f4-4153-b3d1-e8e35c91b52d
       :name: Beat It On Down The Line
       :segued: false
@@ -1582,7 +1582,7 @@
     :songs:
     - :uuid: 869905e1-db90-4cac-af70-283a05fb0c8c
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 6fa7cb9c-654f-4242-83b5-3f81fd7b61b1
       :name: Scarlet Begonias
       :segued: false
@@ -1600,31 +1600,31 @@
       :segued: false
     - :uuid: 0e11143b-61e2-4494-9308-d439e7547129
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: de2a8070-4e82-47d1-b2f6-2e1745b98b88
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 09596bfc-bfa3-4ccb-974f-efc7d8a151f6
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 7aac2a4d-3c8d-44bd-83da-022a43b6e851
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: a1f1f32c-2b8d-4ad5-b9bc-d9a987c58620
       :name: Mind Left Body Jam
-      :segued: false
+      :segued: true
     - :uuid: 837ad3c6-c103-4949-b9e6-0b9b47184b3f
       :name: Jam
-      :segued: false
+      :segued: true
     - :uuid: 43d44025-4532-43be-a968-4ec2b40c613e
       :name: U.S. Blues
       :segued: false
     - :uuid: 5ba50904-4ac0-46a6-b66b-a5ea4eee8e78
       :name: The Promised Land
-      :segued: false
+      :segued: true
     - :uuid: fb27aeb1-f417-44e9-8f88-295dadf1b63f
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 6cfe15fa-4fc7-4f75-a668-f56848edd459
       :name: Sunshine Daydream
       :segued: false
@@ -1668,10 +1668,10 @@
       :segued: false
     - :uuid: 23cac9f9-c1c9-4fe1-8def-b72faae0bc8f
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: dce81b7a-a50f-403e-a20f-127df92d34c1
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 3e95cce5-688a-4ace-b3f5-f8e27f10b161
       :name: Playing In The Band
       :segued: false
@@ -1679,7 +1679,7 @@
     :songs:
     - :uuid: 2271e701-b3a5-4d77-9d2d-ff410141f406
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 092c5ce0-8fbf-4887-8cf1-7826a87cf967
       :name: I Know You Rider
       :segued: false
@@ -1694,22 +1694,22 @@
       :segued: false
     - :uuid: c36f6cfe-d130-4566-92bf-e0dfcf49f99c
       :name: U.S. Blues
-      :segued: false
+      :segued: true
     - :uuid: 93c109b3-ff25-4f2d-9c12-4cd520fd21ce
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: cc087e6a-4657-4189-80a5-997e9ca5dae2
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 6b505857-e604-4b9e-aec7-039910a5cd6e
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 22097a62-cad3-4f26-bf64-87596542fea8
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: ea0edaae-6d16-4b70-a18f-6641a1ddf1e2
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: a9469b0e-28e7-4417-a11f-a163b1d99031
       :name: One More Saturday Night
       :segued: false
@@ -1768,25 +1768,25 @@
       :segued: false
     - :uuid: 5c72374c-5d6b-4fa8-9b3f-7fa5f6e404b6
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: a97fd004-6ba2-4fac-aa5f-3cbdfc80b60c
       :name: U.S. Blues
       :segued: false
     - :uuid: e3e84005-d9c7-46ab-9603-4b7ab75805a4
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 15d6f0bb-eaae-4590-b43c-eacedea8c565
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 5a9c781e-97e8-4826-b3d9-bdbff321d430
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 58d17b77-9f11-4c24-b709-037fb4e72e57
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 6186a6f2-9aba-4ee6-971c-dc4b1b9c1038
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: bdb72084-2544-4f2c-a970-e7f207ed7512
       :name: China Doll
       :segued: false
@@ -1819,7 +1819,7 @@
       :segued: false
     - :uuid: f1815e07-6336-4f57-bf41-094d360c6624
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: e363d657-0067-4cd9-8703-7c6a4803cc8b
       :name: It Must Have Been The Roses
       :segued: false
@@ -1836,7 +1836,7 @@
     :songs:
     - :uuid: 9cb7933b-d0e1-457d-b56b-5d9c99a5cbf8
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 0212e7b4-d762-4c9b-b50b-d5a341e0b6b4
       :name: I Know You Rider
       :segued: false
@@ -1848,16 +1848,16 @@
       :segued: false
     - :uuid: a11642d8-1e66-4afe-b321-47127d6f64db
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: eacfb3ad-a2fa-4fc4-b26e-4b7b734d1eae
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: dc82a931-cff0-456d-b1f4-a0c27c984bbe
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 9ff13afc-a4a7-4e36-af7f-5fd1de81ff38
       :name: Nobody's Fault But Mine Jam
-      :segued: false
+      :segued: true
     - :uuid: 10c07330-7b37-49d9-bb0d-9c1bd29fa52d
       :name: Playing In The Band
       :segued: false
@@ -1913,13 +1913,13 @@
       :segued: false
     - :uuid: 7638aa5a-4f9a-4efc-81b0-95808d4b1858
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: ef036f70-e087-4dfa-b5d5-9cb3d69b1ddb
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 1da72f8f-56a4-4505-a255-34d7d220cff4
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 5e1e6881-64c3-454b-a15c-09ce292d17f8
       :name: Around And Around
       :segued: false
@@ -1939,7 +1939,7 @@
       :segued: false
     - :uuid: 0db2d82f-a056-44a9-9f80-8fe9d7c7c91f
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: d25c6c13-b0e8-44d9-b72b-d5724935017a
       :name: Stella Blue
       :segued: false
@@ -1948,7 +1948,7 @@
       :segued: false
     - :uuid: f5ef4d76-fd5c-45f0-b1f7-9b4da6df8d2e
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 5e5067e9-20c6-4b86-bb7a-7ad41511e6da
       :name: U.S. Blues
       :segued: false
@@ -2077,10 +2077,10 @@
       :segued: false
     - :uuid: ac2549d3-b19b-476c-921c-20b011adae7a
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 22409d7b-cbc0-4583-9452-a8d39f39b896
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 3e28a464-7ddb-4c38-9602-638eb6277bd3
       :name: Let It Grow
       :segued: false
@@ -2088,21 +2088,21 @@
     :songs:
     - :uuid: 434eabfb-f54e-41de-8173-f7c4f983798f
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: e6af52fc-95bd-4189-a971-9c3a7360dc55
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: e0aef634-f0d7-41e5-af30-7acab6db2ef5
       :name: Nobody's Fault But Mine
-      :segued: false
+      :segued: true
     - :uuid: 9f21101d-0496-4254-b28a-f0c9b8f14196
       :name: The Other One
-      :segued: false
-    - :uuid: 4809b2db-bdc4-4ee9-bf20-90982291db79
-      :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: d7f71da1-15d6-43b2-91e6-014e90c33d52
       :name: Spanish Jam
+      :segued: true    
+    - :uuid: 4809b2db-bdc4-4ee9-bf20-90982291db79
+      :name: Wharf Rat
       :segued: false
     - :uuid: f1232be1-d42f-4ad3-8791-9f4473d08f41
       :name: Around And Around
@@ -2144,7 +2144,7 @@
       :segued: false
     - :uuid: 4d2e5830-9ffe-4677-b8d6-1ce1de25eb69
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 160adb24-8817-4522-a291-33481fb267b5
       :name: It Must Have Been The Roses
       :segued: false
@@ -2159,7 +2159,7 @@
       :segued: false
     - :uuid: d813000e-11b7-40ac-a424-03a9034bf8c5
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: c0a3218a-a1ce-46e7-90e3-0ec039711fcb
       :name: I Know You Rider
       :segued: false
@@ -2176,7 +2176,7 @@
       :segued: false
     - :uuid: ac213f14-7112-488c-935c-0988f28d212a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: fe7df64a-3a49-4ae8-9536-697deb4a003c
       :name: China Doll
       :segued: false
@@ -2188,10 +2188,10 @@
       :segued: false
     - :uuid: 31a03f09-b075-4a89-ab9e-9ea21916200c
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: b83c5e66-6723-4abf-8599-80304cbe9873
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: da74cd49-3abc-4497-9f4d-69172687c8e8
       :name: Let It Grow
       :segued: false
@@ -2211,13 +2211,13 @@
       :segued: false
     - :uuid: ee06024c-9e90-4e29-ae35-661a4b39efac
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: d9d67ea4-764e-42fb-992e-80c60a6e0e3c
       :name: Mind Left Body Jam
-      :segued: false
+      :segued: true
     - :uuid: 2ab07ed3-4c2f-4320-b203-299b2b20a26f
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 56924000-413c-4ad9-8492-9dc02cc4966b
       :name: Wharf Rat
       :segued: false
@@ -2296,16 +2296,19 @@
       :segued: false
     - :uuid: dc9d844c-d0d0-4cd3-8e19-13feecfa1333
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 417c7cc8-a795-46cd-8c4f-e1e19046e27e
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 8911fc02-9698-4c87-96db-8fc820ca6295
       :name: Let It Grow
-      :segued: false
+      :segued: true
+    - :uuid: 0684ebf4-3579-44ec-bd9e-b0378ea4c419
+      :name: Space
+      :segued: true    
     - :uuid: e1dd20f1-dde5-4710-8854-ef1cc09d6aca
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 003c06a0-6900-48c8-868a-f389fe15973c
       :name: U.S. Blues
       :segued: false
@@ -2355,7 +2358,7 @@
       :segued: false
     - :uuid: d881de7a-26f8-4901-bd70-634ee35cc615
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: f2f3d301-b50d-49e0-bdcb-a40dc48a3c71
       :name: I Know You Rider
       :segued: false
@@ -2366,7 +2369,7 @@
     :songs:
     - :uuid: 0b3baa7b-cf19-4323-b84a-70a13d96552e
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 1391c8e8-d262-4448-8040-309b5141f953
       :name: It Must Have Been The Roses
       :segued: false
@@ -2384,10 +2387,10 @@
       :segued: false
     - :uuid: e4f49dc3-a33c-4d15-972c-1d781e1ec538
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: d4862b49-ae02-4455-8ea0-25fe6f36bd8a
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: d3481158-f81b-4469-bd19-3efa6240a3e6
       :name: Stella Blue
       :segued: false
@@ -2684,35 +2687,40 @@
     - :uuid: d60631e4-918c-4543-952b-6deedfd597c1
       :name: Tennessee Jed
       :segued: false
+    - :uuid: 72cdd6c4-3c07-4dc8-976d-722fd053dbde
+      :name: Big River
+      :segued: false
     - :uuid: 7f0cc18f-39e3-474f-999b-092ab1f02fc3
       :name: It Must Have Been The Roses
       :segued: false
     - :uuid: 3c5b08ef-76bd-47a7-ad14-4ee78b56d2f2
       :name: Playing In The Band
       :segued: false
-  - :uuid: 9efacaf0-f79a-4b16-b0d5-d3bf76fb8fbb
+  - :uuid: c3894eb2-31a1-481c-a699-d3c725dc8596
     :songs:
-    - :uuid: 72cdd6c4-3c07-4dc8-976d-722fd053dbde
-      :name: Big River
+    - :uuid: 67d50dd0-1eaa-4ede-8f66-395a17983098
+      :name: Seastones
+      :segued: true
+    - :uuid: d2f860e9-39c5-451a-bac0-7023891da764
+      :name: Eyes Of The World
+      :segued: true
+    - :uuid: 81b0eccd-93ee-4f50-a9d8-f69cec6f58e3
+      :name: Wharf Rat
+      :segued: false    
+  - :uuid: 9efacaf0-f79a-4b16-b0d5-d3bf76fb8fbb
+    :songs:    
+    - :uuid: cadd7a89-8eb3-45ba-97e8-26b5efe2006e
+      :name: Around And Around
       :segued: false
     - :uuid: 74b62c18-16fc-4c75-b129-f3b5837ffbbe
       :name: Ship Of Fools
       :segued: false
-    - :uuid: cadd7a89-8eb3-45ba-97e8-26b5efe2006e
-      :name: Around And Around
-      :segued: false
-    - :uuid: d2f860e9-39c5-451a-bac0-7023891da764
-      :name: Eyes Of The World
-      :segued: false
-    - :uuid: 81b0eccd-93ee-4f50-a9d8-f69cec6f58e3
-      :name: Wharf Rat
-      :segued: false
     - :uuid: f3f673f0-374d-42ca-9124-462a8920e4ec
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 0f37c75e-6ac9-4140-9aac-31d8cd78f144
       :name: Sugar Magnolia
-      :segued: false
+      :segued: false            
   - :uuid: 936c4960-7e31-4a3e-9e15-5970e4b9fb55
     :songs:
     - :uuid: 2674c9e9-fc5d-478f-9a53-0e1af926c8e7
@@ -2756,10 +2764,10 @@
       :segued: false
     - :uuid: 91ee1fa0-13ae-4af9-a20c-fa8f11c5a631
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 87558ce0-83d1-4140-a239-6528a0d83507
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 1e997ae8-da97-4b7e-a14c-341d0d4c27bc
       :name: Let It Grow
       :segued: false
@@ -2788,16 +2796,16 @@
       :segued: false
     - :uuid: af3cc65b-9845-4fb9-a17e-fa1214855ad9
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: ae724e55-a5e2-4a30-bbcc-48665cd78730
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: a3bf2016-d486-4eca-bc2f-c94312f78c10
       :name: Sugar Magnolia
       :segued: false
     - :uuid: bfea89cd-3b0d-47d5-8ff9-316641dafa94
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: f7792dfb-fb42-4602-952c-295fc7aff64d
       :name: One More Saturday Night
       :segued: false
@@ -2867,22 +2875,22 @@
       :segued: false
     - :uuid: 21242aea-b3f9-46ff-a9fd-58c028f53c10
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: bbd6d67c-3aee-4875-9f94-1e129eb8f56b
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: 2560d377-7283-4bd1-a4af-5dfe021d0b69
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 268e0fc2-2085-4856-9607-15be823fa04e
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: bfbad0b4-c33f-487f-ac7c-f1e209a660f3
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 9538b1f4-9c7a-455c-b853-2d29e9b7e43f
       :name: Caution (Do Not Stop On Tracks) Jam
-      :segued: false
+      :segued: true
     - :uuid: 4235f0d2-7388-4c59-af13-0e678f2782ed
       :name: Ship Of Fools
       :segued: false
@@ -2932,13 +2940,13 @@
       :segued: false
     - :uuid: 17f9302a-ce78-49f8-89a1-db75f912acf2
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 30ca5d3a-137c-4e6f-917f-5f6fb46c9891
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: a48faa72-e6da-468f-ac19-713bddf83f53
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 8a53c459-768b-44bc-bce9-304c228e4d0d
       :name: Stella Blue
       :segued: false
@@ -2949,7 +2957,7 @@
     :songs:
     - :uuid: 78de0349-8f39-4136-bf8d-341b4fe4325b
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 0e4e9f99-8a85-48c4-8fd2-393765496574
       :name: I Know You Rider
       :segued: false
@@ -2967,16 +2975,16 @@
       :segued: false
     - :uuid: d4210bce-a51d-47a8-865f-3e3b859d0888
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 513246dd-1eaa-4453-9082-93ea9fae94f1
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 68971614-32bf-4bcc-8d4a-30a0e7a5feef
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 9b15fbfc-6459-4ee7-97ea-1dce25ba1467
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: ee533bfc-e4b5-4b55-8594-51da75c605f0
       :name: One More Saturday Night
       :segued: false
@@ -3096,9 +3104,12 @@
       :segued: false
   - :uuid: 62dd0876-3128-4ec6-8b34-cb1dbc4b191f
     :songs:
+    - :uuid: 5335eef9-6e84-476c-9fb9-73c1193a81be
+      :name: Seastones
+      :segued: true    
     - :uuid: ff2fb5d2-6f27-42d5-adbf-c37c3ba152d4
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 01d694b2-ef6a-4b01-b97f-27531379f98c
       :name: Eyes Of The World
       :segued: false
@@ -3110,10 +3121,10 @@
       :segued: false
     - :uuid: ed08d1eb-be73-4fa8-b386-51cafad892d7
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 371ff05f-5125-4b40-a777-e39c0bc35524
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 4b0b36e9-781e-46d5-9f47-149faa4293a0
       :name: Uncle John's Band
       :segued: false
@@ -3157,7 +3168,7 @@
       :segued: false
     - :uuid: f3e00561-49d5-4ee6-b7af-1dc294510fa3
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: eccf4636-336f-43b1-a3f7-f21d8e605d8e
       :name: I Know You Rider
       :segued: false
@@ -3169,10 +3180,10 @@
       :segued: false
     - :uuid: 49307f1a-baad-4874-90d9-cf8056030eaa
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: 4d71945b-c75f-47dc-bbf5-06cb70debb65
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 36e25fc3-94c0-4fe2-9d7c-8176e88c488a
       :name: Let It Grow
       :segued: false
@@ -3192,19 +3203,19 @@
       :segued: false
     - :uuid: 52f70ff1-7803-4071-8696-f1251f55b89f
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 757eed58-ae69-48a8-b0d7-3a24193a8956
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: aababac0-dbfe-4d21-9f0b-942d751b2691
       :name: Spanish Jam
-      :segued: false
+      :segued: true
     - :uuid: 26fe8315-266e-443a-97a5-fecf0427d79d
       :name: Mind Left Body Jam
-      :segued: false
+      :segued: true
     - :uuid: f0395e2e-d62b-46e2-ae96-73f59760ceff
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: d9e3d0db-9c1a-4524-8989-78d8048aac4c
       :name: Stella Blue
       :segued: false
@@ -3263,24 +3274,21 @@
       :segued: false
     - :uuid: 6db5ca00-81db-4b45-a3e9-9311ff7d1a57
       :name: Weather Report Suite Prelude
-      :segued: false
+      :segued: true
     - :uuid: cedc0aec-310a-49c3-9c8a-15027caddc9f
       :name: Weather Report Suite Part 1
-      :segued: false
+      :segued: true
     - :uuid: 0ceaf0fe-2ecf-49ad-940a-8b3ae3373c8b
       :name: Let It Grow
       :segued: false
   - :uuid: 243e6241-82d3-4d17-a4f7-12a97a664c63
     :songs:
+    - :uuid: 7946bdae-1e47-4aff-8909-acf9f6477402
+      :name: Seastones
+      :segued: true    
     - :uuid: e2e8873e-eafa-46a3-ad6a-877d50e8cd63
       :name: Dark Star
-      :segued: false
-    - :uuid: 17f12515-8ec7-4e89-9023-73071bc840c0
-      :name: Drums
-      :segued: false
-    - :uuid: 04f1b0fc-d8b4-44fa-9ebf-de48992cbb5e
-      :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: f2f7156f-019e-444c-9da6-3400647c489f
       :name: Morning Dew
       :segued: false
@@ -3288,10 +3296,10 @@
     :songs:
     - :uuid: f7170aa4-63ac-4392-a9c8-538c4e6da16a
       :name: The Promised Land
-      :segued: false
+      :segued: true
     - :uuid: c72c0939-cc53-4334-81eb-0a9814be9a85
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: b3658f0a-4695-4f57-a2c1-26be99ea5663
       :name: Greatest Story Ever Told
       :segued: false
@@ -3300,10 +3308,10 @@
       :segued: false
     - :uuid: c2187617-5c25-419d-9b1b-057614ef1108
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 545cc6fb-b5dd-4b3f-9208-a4a5ce10f051
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 84a7cfac-41ff-47c8-8db0-4df56e7d63aa
       :name: One More Saturday Night
       :segued: false
@@ -3356,7 +3364,7 @@
       :segued: false
     - :uuid: b95e7627-b1a6-4d43-93e1-d0bddd5df119
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: a5634cd3-f915-4649-900a-194aa96b41da
       :name: China Doll
       :segued: false
@@ -3385,22 +3393,22 @@
       :segued: false
     - :uuid: 6a1f93bb-eabe-472f-aec8-89cd2087595d
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: 79236aa9-772b-4ddd-915a-76c679c29aa2
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 2fad264a-6fd8-4b6b-bc93-47d519f149f6
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 8ceb5e4f-21a0-4458-93e9-6aa2fbadd5e5
       :name: Caution (Do Not Stop On Tracks) Jam
-      :segued: false
+      :segued: true
     - :uuid: 4a9c3d64-5996-4937-b917-e3f66c40c286
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: ef238ad5-c76e-4653-a69a-336f6c596c2b
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 6b9584aa-ff42-4522-a6d2-8f49ee7160bb
       :name: Black Peter
       :segued: false

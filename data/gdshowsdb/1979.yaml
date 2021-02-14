@@ -156,7 +156,7 @@
     :songs:
     - :uuid: 6d1a17f8-7c68-42e9-a1e9-026a8cfe289f
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 0051ee01-db62-4110-8e16-7e50b1a75c86
       :name: Franklin's Tower
       :segued: false
@@ -168,7 +168,7 @@
       :segued: false
     - :uuid: 5ae0f0a0-a448-43f1-9786-59adda4e26f3
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: b826be4b-86bf-4105-adaf-d0c823d7468b
       :name: Big River
       :segued: false
@@ -183,7 +183,7 @@
       :segued: false
     - :uuid: f5bce0bb-861c-4778-8c82-8aea09e2cf2c
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 7db693d3-c579-4883-9561-d6f3abed1252
       :name: Supplication
       :segued: false
@@ -191,7 +191,7 @@
     :songs:
     - :uuid: 7841430c-e459-43fa-925f-1fc312cd381d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5330f9a4-7ff6-4883-abd8-f28f8203ff2f
       :name: Fire On The Mountain
       :segued: false
@@ -200,19 +200,19 @@
       :segued: false
     - :uuid: 17580f2a-e85a-4e75-aa2d-bf0db5f8bef8
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 59f7e18f-3fb4-44b9-a590-be1e22a76cb1
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 806f504b-13ed-4186-a624-9b162345e362
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 11feb553-2140-43c4-b466-ad5475fc2937
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: af3f40a5-18bb-4541-90f4-227e95f3bba3
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 95b5b45c-6c38-47ad-abc0-577a655e68be
       :name: Good Lovin'
       :segued: false
@@ -598,7 +598,7 @@
       :segued: false
     - :uuid: 7b1f541e-d1b5-4aa5-b90a-756cad23e8a7
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 8b9cf92f-50a3-4a0d-9db4-fa173217af0b
       :name: Big River
       :segued: false
@@ -627,28 +627,31 @@
     :songs:
     - :uuid: c53d5165-c60e-4adb-808a-66ce96ca23d3
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 6801f513-1029-4bb5-aca8-892b625b0575
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 740a82fa-6478-4632-99ee-2d3cbfdb5be4
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 110db999-1ead-4fb3-96b9-09d5d9de9703
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 509cec3c-b0f6-49bc-a868-ed9f865b8a0f
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 173119bd-6511-4d1b-a9db-ad0c69f274d6
+      :name: Space
+      :segued: true    
     - :uuid: dd8d4a17-654e-473c-a1b5-02a20a27c3c5
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: fec85ce7-8428-497d-ac72-c05967abed01
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: d845184f-d0a7-45f7-948c-375aab55e01c
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: fb934507-718c-4cb0-b63a-a52c2ad3862e
       :name: Good Lovin'
       :segued: false
@@ -902,7 +905,7 @@
       :segued: false
     - :uuid: 783e2c6a-f758-49fc-84a0-c1b32379b73e
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 702deaf1-a531-4af3-bdb3-51d210bee1e1
       :name: Mexicali Blues
       :segued: false
@@ -911,7 +914,7 @@
       :segued: false
     - :uuid: c6446b70-6185-4e54-b86e-3af40ebf3376
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 357003b4-f75c-4ce1-a083-7f578dc93555
       :name: I Know You Rider
       :segued: false
@@ -931,7 +934,7 @@
     :songs:
     - :uuid: 8f1f546f-6edb-4c05-8cf7-a66f5fe6d8c1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: b05f856c-edc1-4d44-b24f-6fd7a738c6e9
       :name: Fire On The Mountain
       :segued: false
@@ -940,22 +943,25 @@
       :segued: false
     - :uuid: 08777eee-6f0b-4bb7-9dbd-e09dcf0c6d4f
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: ac7164b2-b4d0-4cb2-a4bc-cd02882a511e
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 9921e6ec-57e3-433b-a363-f34ce9dd4932
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e3948498-b020-44eb-9ae7-952fe8d247cb
+      :name: Space
+      :segued: true    
     - :uuid: 6916943f-10f7-48ee-b322-540b48058c33
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 468dc0b1-c1f3-4088-abd8-23ea0df7d564
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 1a78fa22-0dfd-491d-b7cd-e683abe15543
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 1393400a-992a-4fb6-af97-2640223c3095
       :name: Casey Jones
       :segued: false
@@ -1130,7 +1136,7 @@
       :segued: false
     - :uuid: a6bfa0ec-1cde-4b55-b065-9c98457093ca
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: bb1aaf92-419a-414b-a0ba-5086be765a96
       :name: Mexicali Blues
       :segued: false
@@ -1149,46 +1155,32 @@
     - :uuid: b764c285-7a39-4ae1-a4b3-d7fea2736d29
       :name: Stagger Lee
       :segued: false
-    - :uuid: 06ec6083-e9e1-47e5-9540-d5aab72447ed
-      :name: Cassidy
-      :segued: false
-    - :uuid: 3421df2b-c31a-4490-aa45-2acb46176e7d
-      :name: Peggy O
-      :segued: false
-    - :uuid: 06e68174-b244-4377-894a-e8863a51b1d4
-      :name: The Music Never Stopped
+    - :uuid: 0a790287-2e49-4aa2-bfd7-405d96bfc15a
+      :name: I Need A Miracle
+      :segued: true
+    - :uuid: 524e4b2f-1df2-445d-92f1-2c58db4f3d89
+      :name: Bertha
       :segued: false
   - :uuid: 7f8c092e-8c3b-4bb3-a91e-84475ad2ab59
     :songs:
     - :uuid: 0a3600ea-c97a-429a-99a5-d2494b5961f5
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: cf523ac3-d1af-4a15-8e36-9ef384a9eb62
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 91dfa905-ea2c-4cc3-b57a-b5eb23da6b3a
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 963e5038-6389-4eab-ab87-e7d34faec3ab
       :name: Drums
       :segued: false
     - :uuid: 82ff2163-0306-4454-9209-57183e028bd7
       :name: Black Peter
       :segued: false
-    - :uuid: e9f87154-e250-45d7-b22b-38a3ebae1ded
-      :name: I Need A Miracle
-      :segued: false
-    - :uuid: 87095d74-6a72-4767-a078-0f2a2e4621cf
-      :name: Bertha
-      :segued: false
     - :uuid: 783f4f5f-c24b-4d79-8510-d9654aa09979
       :name: Good Lovin'
-      :segued: false
-  - :uuid: 74600b93-0c2c-451d-aa97-d2cd97b40db7
-    :songs:
-    - :uuid: 69aaae97-32b0-4bb3-8bf2-742963f711e8
-      :name: U.S. Blues
-      :segued: false
+      :segued: false  
 1979/02/09:
   :uuid: b47ba542-79bc-408a-a68d-edf78bd6161b
   :venue: Soldiers & Sailors Memorial Hall
@@ -1282,7 +1274,7 @@
       :segued: false
     - :uuid: b67c43e1-52ad-487a-b2fe-2690704a982b
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: bb7efb9f-42be-4ac5-bed7-bbe3a31e2c0b
       :name: Big River
       :segued: false
@@ -1308,7 +1300,7 @@
     :songs:
     - :uuid: ac62066f-e04e-4c0b-88c4-0b2f34720c4f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 63921049-6de7-43b2-b66c-03856092bb08
       :name: Fire On The Mountain
       :segued: false
@@ -1317,19 +1309,22 @@
       :segued: false
     - :uuid: a18af5a4-0e40-4017-abbd-aaf1dd8ad989
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 6fa0e43c-83f4-42b0-a25c-e9ce8687e539
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: e3c16374-012f-4bcd-8312-a114cf76d424
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 60a09e28-55a3-483e-ab0b-2821926021f1
+      :name: Space
+      :segued: true    
     - :uuid: ff63b4e5-4a77-4d27-b4d4-5cae6f7db220
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: e3994611-6574-4d66-988a-5c54377afd41
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 4aac07f1-ae05-496b-9b53-d4cfe90716ec
       :name: Sugar Magnolia
       :segued: false
@@ -1338,6 +1333,10 @@
     - :uuid: e4350b4c-d7b8-423e-b394-25c7072b319b
       :name: One More Saturday Night
       :segued: false
+    - :uuid: bdc9624d-806c-4dc2-bb99-f265493e52c6
+      :name: I Need A Miracle
+      :segued: false
+    
 1979/02/11:
   :uuid: 8b7286b2-79a7-450b-88bf-e40cc4642be2
   :venue: Kiel Auditorium
@@ -1519,7 +1518,7 @@
       :segued: false
     - :uuid: 299a8958-6e1e-4f77-8276-91aec81e25be
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: f39e12c3-5da6-49c0-8328-4f8eaa13b1fc
       :name: Mexicali Blues
       :segued: false
@@ -1548,34 +1547,34 @@
     :songs:
     - :uuid: aeaa393d-adce-47c0-8698-d6e103d9b727
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 2339621d-249b-479d-9a76-7dfc5f98e15b
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 64624304-dcde-4061-99a4-1312b5c05b82
       :name: Good Lovin'
       :segued: false
     - :uuid: dbdda0ad-86ce-410e-aac3-232248e28fda
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 5eacc797-648d-45b9-af7c-c0a37d5f13fc
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 92e1f3db-ff04-49aa-81ca-560ebead3aad
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: ff86d01b-a840-4b59-b30f-826b208e3829
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 3a927ba8-b231-433f-ac52-83189460cf66
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 20558be1-3aba-467b-a177-7bc633f3d558
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 28357685-2789-4745-bd98-c2a6c51f715b
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 0453856f-9676-4e43-b807-dccc7456ee95
       :name: Around And Around
       :segued: false
@@ -1584,8 +1583,6 @@
     - :uuid: f613e7cc-158b-403d-8f9b-07f4499e70aa
       :name: U.S. Blues
       :segued: false
-  - :uuid: 9fd6a85b-dd1b-472d-b771-0d8f356bdf45
-    :songs:
     - :uuid: 4c45223f-b538-403a-b134-30c3d68eb098
       :name: Shakedown Street
       :segued: false
@@ -1764,7 +1761,7 @@
     :songs:
     - :uuid: 09cda9ef-3d97-4dfa-aa6b-fb5f4963edad
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: dca0e5bb-e870-4515-a6e0-e115b0313d42
       :name: Fire On The Mountain
       :segued: false
@@ -1773,16 +1770,19 @@
       :segued: false
     - :uuid: bf1dd0ff-867d-4f7e-9ab6-f5e521665a45
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: 23618f2e-bc16-4ea2-b323-7ec72ba54176
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: a989f9c7-0046-4fa1-b571-a1923120d283
+      :name: Space
+      :segued: true    
     - :uuid: 66c3ba9b-6b75-4c13-808b-217eac6c3d97
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 1f531463-2bb3-4269-838c-f0803151e17f
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: edc9152c-6c22-4955-ac34-532e6f267579
       :name: Sugar Magnolia
       :segued: false
@@ -1878,7 +1878,7 @@
       :segued: false
     - :uuid: 015c1d99-3817-4873-aa53-db42456219ce
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: cacc3ec4-17f7-445f-878b-cf58f11b308a
       :name: Mexicali Blues
       :segued: false
@@ -1910,7 +1910,7 @@
     :songs:
     - :uuid: aef6e18e-0c88-478b-b51e-83f45996aa25
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 4b0fd2cc-217b-400d-b03c-d4e38a0381d4
       :name: Fire On The Mountain
       :segued: false
@@ -1919,22 +1919,25 @@
       :segued: false
     - :uuid: 076e840d-c163-4655-a2b1-2251ca8333d3
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: cf980584-3bc7-477a-8846-8e68594b320b
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: cc1b7f08-c0a1-4ed1-9b73-4ae3bda3be2b
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 0fad2831-4f38-4060-ad33-e31b5ee6ced5
+      :name: Space
+      :segued: true    
     - :uuid: e0652797-9a08-4716-98b1-aa7cd5ee21f6
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 7be61dca-00a1-4ae0-8ac6-01c49f8c4098
       :name: China Doll
-      :segued: false
+      :segued: true
     - :uuid: 5e4c2402-ace8-4875-90f3-30a46e78990c
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 67aadae4-c10a-4ee4-8038-a3f51d6ba909
       :name: Good Lovin'
       :segued: false
@@ -2159,7 +2162,7 @@
       :segued: false
     - :uuid: db947c71-13e0-42ac-a3f6-f38a669d9e44
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d741859c-c9a6-4063-8bb2-e0bb0e95adc3
       :name: Mexicali Blues
       :segued: false
@@ -2185,25 +2188,28 @@
     :songs:
     - :uuid: cd8c8e5a-8db3-499d-b636-4a3dc417da2a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: a9f29e67-3886-4c7c-941e-c2a6cc17fc2e
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2ffcc468-b69a-46e4-aca5-cc7322dcbede
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 79fcbf97-c226-4c16-bd0d-005e5c271763
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: f4e6e3dd-82a0-4eb5-aa96-3752d377239f
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: a6c5e42b-d125-4c1f-af91-2193b3cb04be
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 0e302999-0558-4a96-98ff-d2047b33f514
+      :name: Space
+      :segued: true    
     - :uuid: 1282b360-7e5e-499d-a0d6-60e312be8219
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 22f9ddd4-c82d-4bf3-85c6-76d03e24c87e
       :name: Around And Around
       :segued: false
@@ -2232,7 +2238,7 @@
       :segued: false
     - :uuid: 29589588-54a8-44bb-bc79-f6ba60b5fd35
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 78dc3437-2b49-4dcd-b23d-ed27add71b3d
       :name: Mexicali Blues
       :segued: false
@@ -2258,7 +2264,7 @@
     :songs:
     - :uuid: b3da50e8-fec9-4f2f-9ab0-a4fe882f1383
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: aa2cff2d-26e5-4b1e-bd3a-161edbbe9a48
       :name: Fire On The Mountain
       :segued: false
@@ -2270,19 +2276,19 @@
       :segued: false
     - :uuid: 2dd82e66-1220-4b4c-8726-7fc70a00dd10
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 64959a11-c104-4eda-a3bc-c166d770a829
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: c7266fac-3017-4df9-a8e7-3431463244b2
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 401b6bf8-340f-49fc-81ea-940498912569
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: f58d15af-cefc-44b6-bde0-e945ca202bf2
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: ecc39088-f93a-4cca-bc37-72f4c9372e4c
       :name: Around And Around
       :segued: false
@@ -2515,13 +2521,13 @@
     :songs:
     - :uuid: b58670e2-9ba7-4ff5-beb9-54acc811197b
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 151c6a96-f1ee-4b0e-a9a1-d5a2de3fbd4c
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 491a4950-c5d7-4182-a5f4-0fbfbcb0b442
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: cf27b857-e6c3-4b79-9848-bbad26cde01f
       :name: Big River
       :segued: false
@@ -2536,7 +2542,7 @@
       :segued: false
     - :uuid: b4524429-7919-4619-85a0-57a382554255
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: e567cdcc-f863-4060-9757-9e69748ccb76
       :name: Althea
       :segued: false
@@ -2547,28 +2553,31 @@
     :songs:
     - :uuid: a71ddb47-4a87-48bb-97d3-c00737760cd1
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: fc07373a-a4fb-416f-9851-66974ff10cf8
       :name: Fire On The Mountain
       :segued: false
     - :uuid: bb53662e-8548-4364-8b06-46bc4e35b173
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 5b97167b-6857-4083-989c-f33840546d0a
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 63fdd6ab-d189-44c4-a57e-346605fa7b57
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 22778ba8-5202-42d7-ad15-e8f57ced47c4
       :name: Ollin Arrageed
-      :segued: false
+      :segued: true
+    - :uuid: 46b89caf-a570-42b0-b330-aaa0d3426e2d
+      :name: Space
+      :segued: true    
     - :uuid: 08814acb-0da5-4e54-9ff0-90da3e4a7dda
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 7a99ba32-c900-418b-858b-3c27f6284ffa
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e8b57d5b-b0a4-4e5f-81e8-642d7c7b4763
       :name: Around And Around
       :segued: false
@@ -2576,7 +2585,7 @@
     :songs:
     - :uuid: a744df36-076a-41f5-b1b0-265c2807e9e0
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 1427657e-49d9-47f2-8b11-5859e679e23d
       :name: Good Lovin'
       :segued: false
@@ -2890,13 +2899,13 @@
     :songs:
     - :uuid: 20b67476-8efb-461b-a08c-a8d051e57cc7
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 93e0eacf-81d2-47d9-8df6-0b603640c461
       :name: Franklin's Tower
       :segued: false
     - :uuid: e036ba93-4e0b-4c24-b66d-e49d76d47140
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 21c168d4-df0f-4a17-92f7-665c5482c641
       :name: Big River
       :segued: false
@@ -2911,7 +2920,7 @@
       :segued: false
     - :uuid: 2ab4199d-2c07-43ed-bcde-60b619110d0b
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 866e7b26-0040-48f3-a27f-464a37301247
       :name: Saint Of Circumstance
       :segued: false
@@ -2919,22 +2928,25 @@
     :songs:
     - :uuid: 0a53508e-2e98-49ba-b7fa-bfddf7e115ce
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ff54b56a-2d0d-49c4-b304-53381d6acaf3
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 00924ad5-85da-4ab9-86c0-cbe0f308b125
       :name: Drums
       :segued: false
+    - :uuid: 6c63ddde-4cbd-4582-836b-894834430d7b
+      :name: Space
+      :segued: true    
     - :uuid: 93cc3d1c-be34-4ae1-be89-a3144472f5b1
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 900b640a-12e0-453e-8903-39e4a5852bac
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 3622026c-6ec5-4a90-b1f5-ac9c9490a4d2
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 85a81245-14e8-4f2c-8a7c-57a88ea852c9
       :name: Good Lovin'
       :segued: false
@@ -3091,13 +3103,13 @@
     :songs:
     - :uuid: 7b7b032b-fa94-4420-9294-19400efd3a38
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 7a21a63e-ad11-4451-b6ec-de2f12684aad
       :name: Franklin's Tower
       :segued: false
     - :uuid: 6bf94cff-ef6e-488c-beeb-74e5d775cc43
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 06a4da62-e700-49dd-89c5-ff65ccc3029d
       :name: Mexicali Blues
       :segued: false
@@ -3117,28 +3129,31 @@
     :songs:
     - :uuid: b60fb1c5-9cd0-4de8-8623-2fa57445337f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 01913f9d-0746-4b32-b841-42f117429249
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2f136a6d-2291-488f-8363-5958e3dad7d0
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: fa2b1b7e-b7ec-419e-bec3-7525412d4be4
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: c62db680-a33e-42c3-b967-73661db47368
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 6d76189f-9862-4d77-855c-7b4e689f9c72
+      :name: Space
+      :segued: true    
     - :uuid: 4518e1d7-86f7-4773-8182-103cb51f1384
       :name: Black Peter
       :segued: false
     - :uuid: 067aea58-b732-4523-8486-69474dcf8c18
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 91db9dff-701e-4087-ae6a-042b8fe3a02b
       :name: Bertha
-      :segued: false
+      :segued: true
     - :uuid: 8589ad78-2d6d-4ae1-b611-61c6cbdb7e48
       :name: Good Lovin'
       :segued: false
@@ -3240,7 +3255,7 @@
       :segued: false
     - :uuid: 32cf0614-e19a-463b-9839-cdb689c8cf0d
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d3cf34d2-af76-40dd-a1f8-804246ca2de7
       :name: Mexicali Blues
       :segued: false
@@ -3258,7 +3273,7 @@
       :segued: false
     - :uuid: b83683d8-8144-48cd-a8da-d65cce885841
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: b4b0e5bf-b1e8-4fc5-95c1-4b276c1eca2b
       :name: Saint Of Circumstance
       :segued: false
@@ -3266,7 +3281,7 @@
     :songs:
     - :uuid: 30c6f215-9bd5-49f6-a07f-40d92d8875b7
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ae010adf-3f88-45f2-aecc-78e9a07eed53
       :name: Fire On The Mountain
       :segued: false
@@ -3275,16 +3290,19 @@
       :segued: false
     - :uuid: 772db1a4-c023-4e38-ad98-f4f09aa15bbd
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 7432acd4-c580-4928-8729-d1a4f612f2bc
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 5eb0ecaa-f758-40a2-b3cc-f62a3bd8e9b0
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: f70bf6bc-ef62-4b50-b0ba-c67005acc0ff
+      :name: Space
+      :segued: true    
     - :uuid: 2628b893-be89-4e57-87fe-71e7ba29a15b
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: e2933985-9f8e-4323-b4a5-dbf70bf00ffe
       :name: Playing In The Band
       :segued: false
@@ -3584,7 +3602,7 @@
       :segued: false
     - :uuid: 80dce865-2acb-4983-955c-b505ad4b6e77
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 90ed486a-033e-49a1-a32e-e13eaaea1e74
       :name: Mexicali Blues
       :segued: false
@@ -3613,7 +3631,7 @@
     :songs:
     - :uuid: 7e2f2b51-c191-4b91-9088-2c969dbca460
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8cfd0e17-eb02-413a-8668-9d3335d652da
       :name: Fire On The Mountain
       :segued: false
@@ -3622,16 +3640,19 @@
       :segued: false
     - :uuid: b295ee06-bdc3-4f58-8306-5f9d4f7fee76
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: bacb8021-c29b-4bc5-bb98-19975e9ad09b
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: b4424fe2-40e2-4470-8566-6da9f060d0ac
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: fb9c8f15-19d4-439d-a8e2-5a58fa72d3ce
+      :name: Space
+      :segued: true    
     - :uuid: 54240782-579d-4471-a42d-99ae6f8b1451
       :name: Black Peter
-      :segued: false
+      :segued: true
     - :uuid: d05425e6-81b8-4e00-b09d-a52ecd7bd326
       :name: Good Lovin'
       :segued: false
@@ -3928,13 +3949,13 @@
       :segued: false
     - :uuid: f221546b-a071-4e48-9bfe-3c8d8de0f165
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: d10de141-1eb6-46de-b166-df4024260741
       :name: Mexicali Blues
       :segued: false
     - :uuid: 1f436594-5b92-474c-b84f-bd37721ed3b5
       :name: China Cat Sunflower
-      :segued: false
+      :segued: true
     - :uuid: 9c7cfb1a-c45d-4e2b-b86b-c08bb4e15915
       :name: I Know You Rider
       :segued: false
@@ -3946,7 +3967,7 @@
       :segued: false
     - :uuid: 8a738ba9-c78c-41a0-9db7-82dc24259162
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 412f6333-b7f5-47ff-8b9c-c18358add461
       :name: Deal
       :segued: false
@@ -3954,22 +3975,25 @@
     :songs:
     - :uuid: 637ccb06-e5a6-4840-9029-b7a0039762d6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 1156586c-0ddf-494e-829b-c7952fbb7f51
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 6f6dc4f8-3cb7-405e-8e5e-4c440eaa8ac3
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: ab4ed94c-d3ee-4b78-bb8c-334727811a2b
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 3a317846-c528-491f-ade0-33844e4f93bd
       :name: Drums
       :segued: false
+    - :uuid: 2b85854a-bdcd-445c-9b08-a77604297019
+      :name: Space
+      :segued: true    
     - :uuid: a0144c8e-0737-4a7c-9d6b-af49ac415c40
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 65b60b77-1420-45f9-a8d9-f8747bbb7ef7
       :name: Morning Dew
       :segued: false
@@ -4445,7 +4469,7 @@
     :songs:
     - :uuid: 3e35dd94-8113-48ca-ac9b-3929e29521e4
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: 9127e678-b4d9-4fc7-ba22-5b731d8362d7
       :name: Greatest Story Ever Told
       :segued: false
@@ -4460,7 +4484,7 @@
       :segued: false
     - :uuid: 8aeee280-2f6a-4f78-a528-cd26c0e2c580
       :name: Easy To Love You
-      :segued: false
+      :segued: true
     - :uuid: 7ecacd92-2bd4-495c-970d-e8e7f3feffbe
       :name: El Paso
       :segued: false
@@ -4469,7 +4493,7 @@
       :segued: false
     - :uuid: 1fd12a06-34e8-4162-9bba-017c32f83241
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 177d07c9-866c-424b-9b3e-6f80b932bc6e
       :name: Deal
       :segued: false
@@ -4477,7 +4501,7 @@
     :songs:
     - :uuid: 50fe10ac-90b8-4c99-9678-b835c3042517
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 80e580be-1cf4-4906-9ef5-701e45e79499
       :name: Fire On The Mountain
       :segued: false
@@ -4486,22 +4510,25 @@
       :segued: false
     - :uuid: fbc10d60-744b-4d38-9236-5719b0365d1c
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 389aeb36-0b28-4170-8b6d-0349dfcc8a45
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 9ee19859-1573-4116-a913-69d5cb841bca
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: c074d056-ec02-4b61-8fce-d6d8a8f1bde2
+      :name: Space
+      :segued: true    
     - :uuid: 027c8460-1ece-4a35-8494-5592ef72a37f
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: fd40272a-d69e-4ca6-bc58-e6b320997589
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 84ddc8ca-4349-49e7-8ed0-3fc4f4219608
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 5591a53d-bfa9-4dc7-9f05-9b573ddc29c0
       :name: Good Lovin'
       :segued: false
@@ -4591,7 +4618,7 @@
     :songs:
     - :uuid: 6f35a760-3424-4d36-91c3-6b619b44fc27
       :name: Alabama Getaway
-      :segued: false
+      :segued: true
     - :uuid: ef4976e4-8281-4e72-9dc6-352cbc204b81
       :name: The Promised Land
       :segued: false
@@ -4612,7 +4639,7 @@
       :segued: false
     - :uuid: 191b7ff6-42b3-4747-b1c8-ad27a1c55e7d
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 9ce0691b-c16c-4610-8ae9-6b345ae04b5c
       :name: Supplication
       :segued: false
@@ -4626,7 +4653,7 @@
     :songs:
     - :uuid: bfacdc91-c0ef-4b12-9d87-6fd01261ef6f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e3a5346b-320c-4c74-874d-c080357ba50e
       :name: Fire On The Mountain
       :segued: false
@@ -4635,22 +4662,25 @@
       :segued: false
     - :uuid: e020bb74-30fa-4617-a6d4-c8048a0531ee
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: ea834969-275f-4f6f-b3ae-d10ce7921e2e
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 264f2cf5-ae04-437a-b631-f933dba6dbf4
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ffcc33f9-29a4-45dd-ba99-ca34465c17da
+      :name: Space
+      :segued: true    
     - :uuid: cf3a3791-e472-4a07-87c5-c3fb45f6fa44
       :name: Lost Sailor
-      :segued: false
+      :segued: true
     - :uuid: 8c3b3db7-56fd-491d-85da-ddcad1045005
       :name: Saint Of Circumstance
-      :segued: false
+      :segued: true
     - :uuid: 0e50c82b-86a7-44e0-88a7-d0b9f36934d7
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 9d978451-fc20-4c19-98c0-81c43a71c2d0
       :name: Truckin'
       :segued: false
@@ -4977,7 +5007,7 @@
     :songs:
     - :uuid: c671050d-3bd4-4b97-a8c8-a78a11837963
       :name: Cold Rain And Snow
-      :segued: false
+      :segued: true
     - :uuid: 9ce925ce-67c0-4c00-8c12-6d93c47b2a47
       :name: Greatest Story Ever Told
       :segued: false
@@ -4986,7 +5016,7 @@
       :segued: false
     - :uuid: 30d59e45-d6b2-4f12-9c8b-b8b16e73e16b
       :name: Mama Tried
-      :segued: false
+      :segued: true
     - :uuid: 9c3f8b46-795f-423f-b855-4b7a7c5ff21d
       :name: Mexicali Blues
       :segued: false
@@ -4995,13 +5025,13 @@
       :segued: false
     - :uuid: 481061b6-9de0-4366-8d6d-9a4b59e92bad
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: aa9e28ad-f45d-4106-bf86-b3c50013fc62
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 4739c8ec-65b4-4417-9ce9-ce94f90e8076
       :name: Looks Like Rain
-      :segued: false
+      :segued: true
     - :uuid: 918994d5-91b7-439a-882d-d2fac3b83256
       :name: Deal
       :segued: false
@@ -5009,28 +5039,31 @@
     :songs:
     - :uuid: ce3dde6e-989d-40b0-8c62-92c15ec567de
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 2801690c-e1ad-4405-a171-4b3afd9e60c0
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 37f9b0b1-cdd9-4e5a-a190-590e2007984f
       :name: Easy To Love You
-      :segued: false
+      :segued: true
     - :uuid: 0ea38e25-9347-48ed-9220-52c99e89396b
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 7075fca7-1dc1-4e88-9ab2-788374478389
       :name: He's Gone
-      :segued: false
+      :segued: true
     - :uuid: ce472771-7b2d-4a0f-9c4c-2a70a36cacdf
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 2e3fcb2d-e75c-403c-bb8e-6c129b305efe
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: e8fcc544-30cc-4275-b98b-e031de93965c
+      :name: Space
+      :segued: true    
     - :uuid: 1ea75923-f96a-49c5-9a01-d2477dd222a7
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 04811a3d-5488-4548-a68f-082ef2417690
       :name: Johnny B. Goode
       :segued: false
@@ -5348,7 +5381,7 @@
       :segued: false
     - :uuid: 7db9dccf-65aa-4b39-a8c9-8e1ada8cac58
       :name: Me And My Uncle
-      :segued: false
+      :segued: true
     - :uuid: 7e2b4f50-50ae-461a-9b38-e6b913ae9ace
       :name: Big River
       :segued: false
@@ -5357,7 +5390,7 @@
       :segued: false
     - :uuid: 54e2ae62-f7fa-4197-96ad-fd38847d1dfe
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 04f4c53c-c887-4e0e-bc1f-18cb27bdad84
       :name: Supplication
       :segued: false
@@ -5368,25 +5401,28 @@
     :songs:
     - :uuid: f52edfbb-acf9-4ed1-823f-bc82ac2f157a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e8899120-b564-40c0-8a53-d42ef0a83b80
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: 8222d018-b7c0-411b-9ffe-ca465334308f
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: a9ed1df8-0f7e-4f94-b3b2-9747e461a7a9
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 898f18a9-d25f-4ff8-b559-1a3af9635db7
+      :name: Space
+      :segued: true    
     - :uuid: f172b4c6-a6f1-4df4-891a-bc01e3bc8a24
       :name: Truckin'
-      :segued: false
+      :segued: true
     - :uuid: 9cc20942-b133-4ef6-b4bf-4352f3d155f2
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 1a5751e3-068b-42b8-aaf4-9864ce079114
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: d00a44ce-1811-4c44-a0e3-f9fda8226ef0
       :name: Johnny B. Goode
       :segued: false

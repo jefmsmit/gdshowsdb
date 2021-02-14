@@ -387,7 +387,7 @@
     :songs:
     - :uuid: 00e86849-0244-44f2-91f2-6ec0ed2a4d04
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 04f29bc4-f777-4dd7-9801-2ffbccc6d170
       :name: Fire On The Mountain
       :segued: false
@@ -399,19 +399,19 @@
       :segued: false
     - :uuid: 7a302523-0586-4f5e-bd4d-acf34fcd4a6c
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 5ba0575f-77f7-4229-ad7d-6d2430d97ead
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 0d8a8e8a-db67-4644-82c0-caf21378879e
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: f9e19d74-56c8-4df5-94e2-df7fbe9f55c7
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: f0298818-17b6-4fd5-93e2-cf6157a9a67f
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: 6149f0dc-6937-494d-857a-6070236342b3
       :name: Sugar Magnolia
       :segued: false
@@ -995,33 +995,37 @@
     - :uuid: 16e46dab-a15d-4635-a85d-7eab4028b45b
       :name: The Promised Land
       :segued: false
+  - :uuid: 8de2afad-b3c7-465d-b9cd-81c3ed6ffbdb
+    :songs:
     - :uuid: 367b48d0-daf9-43c1-b9f3-620e1ecb8ef2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8e3069dd-c0dd-414c-aef6-20acfc22f648
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 5bc50579-a8a3-4af2-b954-71516327932d
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: d4846f10-60f2-4b08-bf55-82111c7ef2d3
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 9fe60e9e-cd17-4599-be93-6761544f503c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 72c652c3-bffc-4756-98f9-a8183b457d3c
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 41ce6e67-444c-42bb-a72d-b51842d4d7e4
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 5db6d49c-6c90-47a5-a33f-f5ac5005a4c2
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: 1a48ee00-a8a6-42fb-8a5b-cae81432f505
       :name: Sugar Magnolia
       :segued: false
+  - :uuid: ff188046-c55a-40f4-9b74-3f95d13f0b7c
+    :songs:    
     - :uuid: 157d369f-ce1e-4842-8bea-73f01f27caae
       :name: Liberty
       :segued: false
@@ -1446,27 +1450,29 @@
     - :uuid: 2ebcf195-7f20-4f5b-857c-22ef2bb4211d
       :name: The Promised Land
       :segued: false
+  - :uuid: c04f8e78-e0b7-4d1c-a21a-f430150a05d3
+    :songs:    
     - :uuid: 47fef025-5037-42db-9fc8-40bbec9c9f3a
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: d6e7df2f-9083-49da-a065-92800d0ce9ff
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 6a40e0c3-c888-4dd4-bd1f-b8f7d96bc2ad
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: e9be88c6-324a-4eca-a958-545a207860fa
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 96530464-b404-4f5f-ae74-7f4dd70cb7ee
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: e99e4060-f58b-4909-b834-67a5d97ed4d4
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 13ffd5b7-c4c9-43f1-baf2-0699335b30da
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: 8503d4b1-d813-42d4-b8e0-1d987de98fb2
       :name: Morning Dew
       :segued: false
@@ -1699,9 +1705,11 @@
     - :uuid: 10723917-0d10-4c53-a518-d4035e6e31c2
       :name: Bird Song
       :segued: false
+  - :uuid: 2b96f001-5730-4e5d-a410-767ca57126b7
+    :songs:    
     - :uuid: f4ec0dd2-70ed-4a96-b7e8-920764867496
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e5c27f50-b3c8-4e12-a281-4f225525ae1c
       :name: Fire On The Mountain
       :segued: false
@@ -1713,28 +1721,27 @@
       :segued: false
     - :uuid: fbb1a6d4-28fd-4a53-82bd-03b49f730cbb
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: acae4816-e95b-4064-b08e-cffc37f0f3ca
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: 44acbf47-0347-4977-9543-d8a86c54b179
-      :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 7948ebf6-0db5-4397-9930-d7245b21b342
       :name: Drums
-      :segued: false
-    - :uuid: 941bec81-4af9-43fc-9166-ce1e66d3465e
-      :name: Jam
-      :segued: false
+      :segued: true
+    - :uuid: d50a030a-fdf0-49e5-ae45-b0e37b204528
+      :name: Space
+      :segued: true    
     - :uuid: c10ce6ce-568c-49ef-8a14-b76a90821669
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 0d2a6eb9-c0d5-44d4-ac94-b081178c5481
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 38037dc2-9ed4-41ef-abb8-ec1216c187bc
       :name: Good Lovin'
       :segued: false
+  - :uuid: 9fdc2f00-9df5-4478-aa90-d87a5677f497
+    :songs:    
     - :uuid: 59c3578e-60f9-4d67-a783-58bfe0a5f968
       :name: Knockin' On Heaven's Door
       :segued: false
@@ -2956,10 +2963,10 @@
     :songs:
     - :uuid: 1dea4006-ed3d-4000-ae3a-228b65a61394
       :name: Victim Or The Crime
-      :segued: false
+      :segued: true
     - :uuid: 470e7afa-008b-4c56-b39c-23c06ee9ab28
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ed64c05f-f5fe-4e18-8e9c-572458901d97
       :name: Fire On The Mountain
       :segued: false
@@ -2968,19 +2975,19 @@
       :segued: false
     - :uuid: 0812532a-2335-4bcd-8d70-8b1622dc481d
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 119a11d0-0dac-4d3f-a060-91a726f8e0cf
       :name: Drums
       :segued: true
     - :uuid: f7dfb5c8-450a-41ac-80f0-646cef839ce6
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 5fc5a446-d186-467f-bae9-4f2c54c6c246
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: 15e74c4a-9557-40e3-aece-792384b700dc
       :name: Stella Blue
-      :segued: false
+      :segued: true
     - :uuid: a53a44e6-707c-482d-82a1-67476b5ce3aa
       :name: (I Can't Get No) Satisfaction
       :segued: false
@@ -4293,7 +4300,7 @@
     :songs:
     - :uuid: c8ea29d7-2cca-425f-b55d-b0be473b6b25
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 8e07fe13-8dce-43de-b201-4e1b711100cc
       :name: Fire On The Mountain
       :segued: false
@@ -4305,19 +4312,19 @@
       :segued: false
     - :uuid: 8c47c33e-6b65-4f60-af4f-0a229d44028d
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: a3af8859-5a45-4ca8-ba0c-ecc8b21e0038
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 3209ccad-aebd-4c6b-846a-aa2a91dab896
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: e803e4d1-807e-455b-8452-5af08a45359d
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: aafa6fcb-d3da-44b9-bafb-2ad37302f780
       :name: Attics Of My Life
-      :segued: false
+      :segued: true
     - :uuid: bce97f9c-a2c6-40ec-8b5d-4106d71517d7
       :name: Turn On Your Lovelight
       :segued: false

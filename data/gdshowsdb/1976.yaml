@@ -25,7 +25,7 @@
       :segued: false
     - :uuid: 1bff2ff2-9452-4b53-9091-a6a51bd8934f
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: baa2314e-dc7e-4827-8ef4-b22d567c4fa6
       :name: Supplication
       :segued: false
@@ -48,16 +48,16 @@
       :segued: false
     - :uuid: aa9c42a0-fed3-481c-a388-384d4c29780f
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 9d2dfda7-6547-4216-b93f-07c958134ff5
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 2e2397f5-39f2-4af5-a497-3638dd3da7f1
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 801053be-d693-4baa-9e76-794075171d5d
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 3bf088ed-de22-447d-b511-8dfc87f777ff
       :name: It Must Have Been The Roses
       :segued: false
@@ -66,10 +66,10 @@
       :segued: false
     - :uuid: 95a22619-d040-4129-919a-cb5182186638
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: e45a2307-218b-4cbb-a402-30e0c5fa0fd5
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 0d1227a0-0cb3-44ef-b68e-0e64ba8ffeab
       :name: Franklin's Tower
       :segued: false
@@ -212,22 +212,22 @@
     :songs:
     - :uuid: 07da2966-efa8-4ec7-9a91-edb0978e6b75
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 1ae53002-638b-4725-ad1b-837e86d92a31
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 22e478c9-c8db-440d-b0bf-99f410a098b2
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 1fa20b29-8de5-4f80-b248-42529b29e521
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 1960e6cf-b6be-4cf7-a104-b670a89c4a6f
       :name: Brown Eyed Women
       :segued: false
     - :uuid: 2e305f46-ff69-4c2a-bbad-810088c4f8d3
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 99bc365d-37c5-488d-a584-1ebdf7bbbf25
       :name: Supplication
       :segued: false
@@ -242,10 +242,10 @@
       :segued: false
     - :uuid: fd45cfef-2424-40fc-8971-4ef0c42e87be
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: c55e0118-c70e-4dcd-93d5-7abace2bf648
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 779315dd-7cd6-4d73-ae5a-7383c7c0e60d
       :name: Around And Around
       :segued: false
@@ -363,7 +363,7 @@
       :segued: false
     - :uuid: d3ee0d3d-d3c6-419c-abef-bfd4fda506f6
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: e8261c96-2043-46a0-820e-c0c13b1b6305
       :name: Looks Like Rain
       :segued: false
@@ -372,7 +372,7 @@
       :segued: false
     - :uuid: 6901bc72-5b82-4654-b29c-3ea2880ee64e
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 6e722de8-bd8c-426a-ba90-14f75c6e8a72
       :name: Supplication
       :segued: false
@@ -386,10 +386,10 @@
     :songs:
     - :uuid: 1af028fa-d178-4beb-945c-3e9922e6ebfa
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: aff1de95-6504-49d6-9c36-a54affe37f09
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: b80ab340-fce3-4caa-9131-fffbcd0f53d5
       :name: The Music Never Stopped
       :segued: false
@@ -404,7 +404,7 @@
       :segued: false
     - :uuid: a0800350-f859-46d4-8270-1e6f19b041bb
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: b64025d2-1a16-4c7e-b07f-3930821652bb
       :name: Eyes Of The World
       :segued: false
@@ -621,7 +621,7 @@
       :segued: false
     - :uuid: f6860c3e-aee4-4352-b0ec-b3e9cdf820b5
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 5ca9f91e-0657-469a-a82d-58dbd7deca32
       :name: Might As Well
       :segued: false
@@ -629,10 +629,10 @@
     :songs:
     - :uuid: f20f42fa-ea9e-4f52-a1f7-63ecd9a18e94
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 4105276e-adb6-4a70-aacc-72340e1698c3
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 69ad6262-54eb-4ad2-b8b6-76515e8caa46
       :name: Stella Blue
       :segued: false
@@ -644,16 +644,16 @@
       :segued: false
     - :uuid: 74deea7b-fa36-4f96-abb1-90a735a584b3
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: dba432a9-d222-4461-ba46-419c2b5535bd
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 6781c917-802e-462d-8f2e-d4baf4fcfd8d
       :name: Sugar Magnolia
       :segued: false
     - :uuid: b514d1d0-8f39-4199-a605-ca3cbc03d2a0
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: ff29771c-a867-4f13-8c1b-88bdb21d91e3
       :name: Sunshine Daydream
       :segued: false
@@ -926,7 +926,7 @@
       :segued: false
     - :uuid: 062944c5-7486-48f7-90d1-76e83ae7a9bc
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: a58a29c5-a9a6-4dde-a785-dbcaeddb4533
       :name: Supplication
       :segued: false
@@ -946,10 +946,10 @@
       :segued: false
     - :uuid: d2ee85a8-bf13-4d2a-9cf4-01121b4c5939
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 5ef531d9-5710-436b-857a-98a966676edf
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 77301fc2-264f-4884-bec9-778d3c680d29
       :name: Franklin's Tower
       :segued: false
@@ -961,10 +961,13 @@
       :segued: false
     - :uuid: 5a7a59ec-1682-4d18-9a48-250ee6ddd3c1
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: f7ba3bf1-f56b-4972-a904-d558b232f53d
       :name: Around And Around
       :segued: false
+    - :uuid: 7d513f74-9076-45ac-80d9-b4695668b3d0
+      :name: It Must Have Been The Roses
+      :segued: false    
   - :uuid: c51ff143-cbe5-49bb-87cc-c74ec7c0fc00
     :songs:
     - :uuid: 2e12d81a-2557-4404-8fcf-8ed8e95e7dbd
@@ -1153,7 +1156,7 @@
       :segued: false
     - :uuid: be8a39f3-db18-434e-86ea-4213c96f6ea9
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: adb90655-23cd-4a54-bda3-40f3b5b9e096
       :name: Supplication
       :segued: false
@@ -1173,10 +1176,10 @@
     :songs:
     - :uuid: 157c9231-b18e-4a2e-ab08-583c10c7807e
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: b0defda8-398f-4cff-8a7c-c155d28a1825
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: f243091f-0b4a-4910-89f3-26be56535661
       :name: Franklin's Tower
       :segued: false
@@ -1185,7 +1188,7 @@
       :segued: false
     - :uuid: a15264a7-64bb-48ac-a63e-4d85315928d0
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: f413a8e1-1959-40bc-8054-a9925ab6169d
       :name: Dancing In The Street
       :segued: false
@@ -1227,7 +1230,7 @@
       :segued: false
     - :uuid: acfeb765-65e5-47a8-9ba6-71eee33a1ecb
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 9605664f-a95f-4815-a87e-b86021167a7b
       :name: Supplication
       :segued: false
@@ -1241,13 +1244,13 @@
     :songs:
     - :uuid: 94ac7638-77c1-413a-a3cb-13b5fce01cca
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 26e46e24-46c1-47a5-ba4e-a2f29f30f4e0
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: d6f4ebbd-c361-4c85-a09a-5260f8018d6b
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 2a1d917f-0e7a-4e70-bbc5-7fbf99f4b323
       :name: Playing In The Band
       :segued: false
@@ -1256,13 +1259,13 @@
       :segued: false
     - :uuid: 3c7349a9-dd60-46f8-bb06-aeae4e1e8649
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 53e16a9a-e795-4b32-b1c7-09c16fd0ace5
       :name: Stella Blue
       :segued: false
     - :uuid: 47f09728-09f9-41ee-9ad5-c12d7d5d7196
       :name: Around And Around
-      :segued: false
+      :segued: true
     - :uuid: 2e6d6657-08b8-4fdd-9a1e-30a80b9f6819
       :name: One More Saturday Night
       :segued: false
@@ -1373,7 +1376,7 @@
       :segued: false
     - :uuid: 40d42191-6456-4959-ac90-ed4fb769a666
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: b02ac177-516a-4566-a331-59abf5d983d7
       :name: Supplication
       :segued: false
@@ -1387,19 +1390,19 @@
     :songs:
     - :uuid: 03249b2a-7af6-4646-b81d-a2c84226c5da
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 92cc4bca-8752-4ef0-a4c4-a4e3c8fbd981
       :name: Drums
       :segued: false
     - :uuid: e8593605-089b-424b-8672-d1b134d59c0f
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 688ad9c0-0b94-48db-a547-4b80d0e2dc7f
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 1c263798-4ec5-45e7-ad7c-1082d48ea50d
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: e8b12e9b-1d95-4511-85f8-d22f3e201927
       :name: Around And Around
       :segued: false
@@ -1678,10 +1681,10 @@
       :segued: false
     - :uuid: a4236b40-e2c6-4be3-85f0-661f2f6e9cb7
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 7069a68b-74a8-4871-ba42-1b0c671f7b77
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 14f48963-d7fe-45b3-9700-39358daf9f60
       :name: Playing In The Band
       :segued: false
@@ -1689,7 +1692,7 @@
     :songs:
     - :uuid: f57b6234-1c13-4bf9-819d-78756f4eb659
       :name: Brown Eyed Women
-      :segued: false
+      :segued: true
     - :uuid: a53e171b-9f4b-4d16-bc0f-837b260d3120
       :name: Samson And Delilah
       :segued: false
@@ -1698,16 +1701,16 @@
       :segued: false
     - :uuid: 71a11290-2d17-49f0-bc6f-ccd25209027a
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 5af89e5b-8cbc-4fdb-9f44-83ab1e1c938d
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 5138afff-44a9-4dbd-ac30-cef0e055c4a8
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 3a64a37c-5b33-4417-b155-6ff6391085fb
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 6468e848-f522-4732-a81d-917a51a27fa7
       :name: The Music Never Stopped
       :segued: false
@@ -1754,7 +1757,7 @@
       :segued: false
     - :uuid: af8b9cb1-7cff-4952-bcf4-79bbd895a92d
       :name: The Music Never Stopped
-      :segued: false
+      :segued: true
     - :uuid: 052415cc-7280-463d-9aed-c5cf15ebca56
       :name: Scarlet Begonias
       :segued: false
@@ -1762,28 +1765,28 @@
     :songs:
     - :uuid: f13d280a-5540-4980-a313-a4726faa1b6e
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 690980f5-6376-403c-a7d0-5719a0a87266
       :name: Stronger Than Dirt Or Milkin' The Turkey
-      :segued: false
+      :segued: true
     - :uuid: 93d1f8b8-ff0a-44d6-b424-5d9a039c30df
       :name: Cosmic Charlie
       :segued: false
     - :uuid: c4c9d707-9f0d-4f36-a1d4-5d0266c92e7b
       :name: Samson And Delilah
       :segued: false
-    - :uuid: d4aba2ae-3880-4085-9fe8-d7cd938d6b8d
-      :name: Drums
-      :segued: false
-    - :uuid: e59180b7-a9e0-4aef-99a4-f845a7d399a0
-      :name: The Wheel
-      :segued: false
     - :uuid: e0a56e4d-db05-434c-a90e-8bcbe06fd576
       :name: Spanish Jam
       :segued: false
+    - :uuid: d4aba2ae-3880-4085-9fe8-d7cd938d6b8d
+      :name: Drums
+      :segued: true
+    - :uuid: e59180b7-a9e0-4aef-99a4-f845a7d399a0
+      :name: The Wheel
+      :segued: true    
     - :uuid: af0fd723-f1a5-4921-aa4e-14094e763c04
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 9bdcc017-2e32-4007-bb2f-682104906d52
       :name: Around And Around
       :segued: false
@@ -1922,40 +1925,40 @@
       :segued: false
     - :uuid: 72398585-68e8-41ac-88c1-5253d0388e63
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 27084ba0-de04-4db2-9cac-1a50fff4f732
       :name: Supplication
-      :segued: false
+      :segued: true
     - :uuid: 0fe4c546-4e10-4698-9e70-62c434fd5ee8
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 683ec60b-c1bc-4210-bcbd-c62d64154ed7
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 96b1b99b-0ff8-4cb3-8787-75c55b54e3ab
       :name: Let It Grow
-      :segued: false
+      :segued: true
     - :uuid: 76426bee-3880-4113-b1ee-7b4eda54b362
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 7892231f-1f0c-43c4-aac6-d708dfb0b5b0
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 442a1862-d9e7-4b3e-8524-98378a043555
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: d8ccd525-36da-41e7-9afb-62f154945e17
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 4c4092ab-9026-4ba6-9eaf-b10a5e89b6cb
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 4cce87bb-5a4f-4199-bfe2-cd33cecf46f1
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: e4dafa53-0aee-4dba-a073-f780b5a49fa9
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: b27cfd55-a423-42e1-b171-704eadf8384f
       :name: Stella Blue
       :segued: false
@@ -2097,19 +2100,19 @@
     :songs:
     - :uuid: 74cd3ca3-a862-4f22-985f-1952476a0670
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: db692dac-6b12-451b-8ab5-59949856c851
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: c50a5b6e-7d29-44e5-a477-248841ad26d1
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: 1af4b3d8-f333-4248-bd4e-947e4ff2d1a5
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: b08d8491-80c5-4a53-95b0-4c4e94352756
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: be7166a2-55c0-4218-9a75-6b1be838e48a
       :name: Samson And Delilah
       :segued: false
@@ -2118,13 +2121,13 @@
       :segued: false
     - :uuid: 13174910-daab-46fb-b666-0a1f4d920c9d
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 74949d79-d2ff-4086-9438-95e1baaac1d3
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 8bb01ac1-3d31-435b-a45a-2e866ad07a1b
       :name: The Other One
-      :segued: false
+      :segued: true
     - :uuid: 232a7dcf-073b-4b1c-a440-0bbe66dde020
       :name: Ship Of Fools
       :segued: false
@@ -2343,7 +2346,7 @@
     :songs:
     - :uuid: 5b5cbd29-df25-4e25-955c-2f6a31fc8535
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 0804d26d-3f23-48a7-87e3-5c6aea633358
       :name: Supplication
       :segued: false
@@ -2352,7 +2355,7 @@
       :segued: false
     - :uuid: 363af6f7-a54c-4549-a58f-7096ae17a701
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 236fb0cf-8b8f-4172-b9ae-9addecd81075
       :name: Cosmic Charlie
       :segued: false
@@ -2361,16 +2364,16 @@
       :segued: false
     - :uuid: dde33715-d1da-4032-a83b-51b3c84b4949
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 1554e9c4-8f79-4657-b325-3e0880ac0b65
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 8b355123-9ab1-4e4c-95e0-522bc435615f
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 7c144a1e-24a3-4e01-9424-fd11f57f3b22
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 3702222c-c086-4989-9df4-5073ed9a5629
       :name: Sugar Magnolia
       :segued: false
@@ -2559,7 +2562,7 @@
       :segued: false
     - :uuid: ca84936c-692a-4c14-8004-25c9026abbf3
       :name: Crazy Fingers
-      :segued: false
+      :segued: true
     - :uuid: 06cd8c13-bce9-4b14-8d5f-21a9ec3f1917
       :name: It's All Over Now
       :segued: false
@@ -2570,7 +2573,7 @@
     :songs:
     - :uuid: f24dbfe5-5985-4e85-9894-9a37045b4fbd
       :name: Lazy Lightnin'
-      :segued: false
+      :segued: true
     - :uuid: 496560ec-0dd9-4c3c-803b-7c4f5d77a1fe
       :name: Supplication
       :segued: false
@@ -2582,25 +2585,25 @@
       :segued: false
     - :uuid: a1a2e886-0bb4-4649-aa5f-d531bcebb6cc
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 20509e69-1d60-4b39-80d4-08127f53aa63
       :name: Jam
       :segued: false
     - :uuid: 0a787507-c18f-420c-a7e7-462a74991d7e
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 63502232-53ee-44ef-99f7-ba94baaaf8d7
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: a52776f9-e068-44b3-9dce-95ae746c8735
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: d9a8675b-69a0-4e24-bb46-047b4420cf95
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 631bc69a-3654-4727-b71c-5624fad31a40
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: dd68908e-03a8-4b79-b372-b48f0f3954b2
       :name: Around And Around
       :segued: false
@@ -2658,31 +2661,31 @@
       :segued: false
     - :uuid: 87352df5-0bb4-4181-ba08-1387d8240322
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 83a51dcb-0c7e-455c-bc62-2630044ecc38
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 42d242c9-3e25-4260-bdeb-3c3be4080f8f
       :name: Franklin's Tower
       :segued: false
     - :uuid: 2ddfb38a-7da8-4415-bcbe-054dbb164351
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: fe556371-29b1-4758-a8da-66e0a33e2e12
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 4b196972-480d-4065-9a94-77c0b4333fd3
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: a32cccda-d401-47d9-a5c8-a6d5fae9cad4
       :name: Ship Of Fools
-      :segued: false
+      :segued: true
     - :uuid: a5217265-7735-402a-9c30-3087cfb35b56
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 7885a73b-fcca-44c8-8a12-93584cecbb91
       :name: Goin' Down The Road Feeling Bad
-      :segued: false
+      :segued: true
     - :uuid: 35582c1a-3b85-4927-a787-88cb8c8d9d8d
       :name: One More Saturday Night
       :segued: false
@@ -2811,22 +2814,22 @@
       :segued: false
     - :uuid: 915d74f7-9019-4563-9006-246a7dfb6f16
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: a7bfc84e-7cf9-47ec-8d34-228f634ccd18
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 391ad15a-be76-40ac-9482-8aadb12dc9b7
       :name: Good Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 538ce34b-665a-4171-88f0-a03215913ae8
       :name: Comes A Time
-      :segued: false
+      :segued: true
     - :uuid: 694f5d5d-083d-4e7c-9cce-996a91e8da5f
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: e1ee07bb-994e-4a5c-8e6f-4edf4401b642
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 36efc3b3-95b7-4b27-99d3-28bcdd19341a
       :name: Dancing In The Street
       :segued: false
@@ -2879,31 +2882,31 @@
     :songs:
     - :uuid: a234580a-0f37-447d-8514-831408e0cf4b
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: 607250c8-9fc8-4d53-87c3-54bb8056d295
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 2ae823df-50f4-4320-ba0a-949eba051060
       :name: Saint Stephen
-      :segued: false
+      :segued: true
     - :uuid: b53288d2-659e-4b19-af1a-c3c6b2d51040
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: c18c47fd-03a5-4389-9037-8bd55416f768
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 7e31d59d-84d7-4acc-9489-c84dfece83ed
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 7cb60c0a-884e-4c1c-ad4b-eb525fd52338
       :name: Samson And Delilah
-      :segued: false
+      :segued: true
     - :uuid: 9c622899-78c6-4e70-892e-6cd33ab4d43f
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: 366a8d60-b32c-4a6f-a040-aac47905a336
       :name: Franklin's Tower
-      :segued: false
+      :segued: true
     - :uuid: a88fc443-d526-4521-8852-907fdc417242
       :name: One More Saturday Night
       :segued: false
@@ -3052,13 +3055,13 @@
       :segued: false
     - :uuid: 07c62b10-5bc1-407b-ad97-bc1c79791b5a
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 8c045777-5f14-4aaa-8d3b-36ca92a5c460
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: d0ae8138-689c-498d-9dce-6cbc8dd4b10a
       :name: Dancing In The Street
-      :segued: false
+      :segued: true
     - :uuid: 223941f1-a5ba-4f54-80db-e354aa2c7bcc
       :name: Around And Around
       :segued: false
@@ -3177,19 +3180,19 @@
     :songs:
     - :uuid: 1a325a38-eb9d-43c4-8ba3-3b6ea6366f82
       :name: Sugar Magnolia
-      :segued: false
+      :segued: true
     - :uuid: b54c28e7-fcf0-4a09-8d71-afab77b884fb
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: 29e8f7ec-a9ba-492e-8b74-be2876105f72
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 6b6ec55d-3214-46b2-b254-face97d6d7c9
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 4422bbd5-391a-48eb-bf15-e17d64f65ad9
       :name: Good Lovin'
-      :segued: false
+      :segued: true
     - :uuid: b23932ba-6b9d-4111-a9e1-75958f202e50
       :name: Samson And Delilah
       :segued: false
@@ -3201,13 +3204,13 @@
       :segued: false
     - :uuid: b9ba9a45-0052-4511-a5e0-d3ab15d98546
       :name: Help On The Way
-      :segued: false
+      :segued: true
     - :uuid: 7f7bc8e7-cfa4-40b9-a1ea-f30abf3a4928
       :name: Slipknot!
-      :segued: false
+      :segued: true
     - :uuid: e24ad017-6a07-41bf-8960-6bfe1a5f8280
       :name: Not Fade Away
-      :segued: false
+      :segued: true
     - :uuid: 444efc99-c4f9-4790-be3b-7339ec3d34af
       :name: Morning Dew
       :segued: false
@@ -3216,11 +3219,9 @@
     - :uuid: be99de0e-fd9d-45d1-85bf-275a3d93c5b3
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 91d41d93-b161-4d27-8072-ba6bf81d0e1f
-    :songs:
     - :uuid: 41b64e25-ec14-427b-9679-e66f14b47f34
       :name: Uncle John's Band
-      :segued: false
+      :segued: true
     - :uuid: 9af3e6a5-552f-4672-b76a-cc7f8d12fc6a
       :name: And We Bid You Good Night
       :segued: false

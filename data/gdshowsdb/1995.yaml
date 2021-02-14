@@ -2286,7 +2286,7 @@
     :songs:
     - :uuid: 599e3aa7-5305-4b88-b8cd-31b66c714ecc
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 63fabcc4-e827-4a06-b386-f4b19d27f9c1
       :name: Fire On The Mountain
       :segued: false
@@ -2298,16 +2298,16 @@
       :segued: false
     - :uuid: 5989d796-8f18-408b-afc2-2f82207cbe40
       :name: Playing In The Band
-      :segued: false
+      :segued: true
     - :uuid: 4a2b1979-27ec-4bd5-894a-9b30894f513c
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: b7d6add0-4eb8-49f4-919d-d565712a607f
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: b6a98567-e209-48f7-8b4e-fd64c002944c
       :name: Easy Answers
-      :segued: false
+      :segued: true
     - :uuid: 19d077d7-31a2-4dec-89f7-94359b904928
       :name: Morning Dew
       :segued: false
@@ -2755,7 +2755,7 @@
     :songs:
     - :uuid: 0fe6f09c-5063-4205-86d3-7060100999fb
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 461a05ff-f092-4bfe-8acd-1d9b5a435c88
       :name: Fire On The Mountain
       :segued: false
@@ -2764,16 +2764,19 @@
       :segued: false
     - :uuid: 18c138be-7abf-4fbe-8790-ca358e33f74f
       :name: It's All Too Much
-      :segued: false
+      :segued: true
     - :uuid: 44303afb-fd92-4244-a2bb-93cc93a417de
       :name: New Speedway Boogie
-      :segued: false
+      :segued: true
     - :uuid: 9abfcfc2-6079-4c82-a16f-ae90522f9cd9
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 3bd8120e-4b2e-4241-a8aa-5e5d50f306c8
+      :name: Space
+      :segued: true    
     - :uuid: cea4e015-8394-48db-a6ba-1ffc638c7c3a
       :name: Attics Of My Life
-      :segued: false
+      :segued: true
     - :uuid: f4b3f74c-fb92-49a7-bb93-671539392f7c
       :name: Sugar Magnolia
       :segued: false
