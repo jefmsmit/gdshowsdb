@@ -5069,28 +5069,31 @@
     :songs:
     - :uuid: a5517e80-4f09-4513-895e-e0a907edbaa2
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: edde557b-5d75-48a1-b4ee-1ad63c8148d2
       :name: Fire On The Mountain
       :segued: false
     - :uuid: 2b26d5b4-52f3-44a1-84a7-da274ef34f60
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 0a23f1b2-69e9-47e6-b009-1c82b243605c
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: e4a8d871-8f27-4b7b-a8fa-a227d7dee140
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 0c18ec7e-b959-4b85-94ee-435a404800d4
+      :name: Space
+      :segued: true    
     - :uuid: f3037e57-01fe-435e-aa50-0d9f301c013c
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: dce745b6-0d09-4fec-ae81-5ff9a2a02dc5
       :name: Gimme Some Lovin'
-      :segued: false
+      :segued: true
     - :uuid: 87e6cabe-9355-4449-aaf1-525f213a1dd4
       :name: Wharf Rat
-      :segued: false
+      :segued: true
     - :uuid: 5898a9ed-4c3b-48de-9029-a73bc746e314
       :name: All Along The Watchtower
       :segued: false
