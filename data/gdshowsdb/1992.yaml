@@ -787,25 +787,25 @@
     :songs:
     - :uuid: b12a1bbd-4f2c-4ed3-b333-c2a9687d9fe6
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: 24caf768-1406-4c5b-946d-f52efcf4fb2f
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: bea295df-563b-41c1-aa5f-7af06eb52464
       :name: Fire On The Mountain
-      :segued: false
+      :segued: true
     - :uuid: ca68e73f-6c05-4faf-9b85-a3d872414255
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 22b20f61-ea77-4449-a9bd-dbe5e41caebb
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: d3a6c547-0be3-4c73-a749-2e1ce7b098e8
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: 7d25b399-f48a-49a1-82a5-89d5f53fe63c
       :name: All Along The Watchtower
-      :segued: false
+      :segued: true
     - :uuid: b964c9b9-627e-4eed-a7ae-f75edf7fec41
       :name: Morning Dew
       :segued: false
