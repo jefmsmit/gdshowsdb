@@ -4838,25 +4838,28 @@
     :songs:
     - :uuid: 13c4babb-d6c9-40d9-b54b-debe3496d97d
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 7ad76348-809e-444d-9107-7886724a5e32
       :name: Fire On The Mountain
       :segued: false
     - :uuid: ddb83a51-c7ca-4fcb-af81-edc294712adb
       :name: Corrina
-      :segued: false
+      :segued: true
     - :uuid: c63aa255-8e05-4591-9cb8-889310458500
       :name: Terrapin Station
-      :segued: false
+      :segued: true
     - :uuid: 0a03404a-c89c-412b-a275-cb5742a4d945
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: ca837bf5-caf8-4519-aef4-94af2137845c
+      :name: Space
+      :segued: true    
     - :uuid: 0cac35cd-ab66-4cc7-964a-69d47ebf3c41
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: a3171c84-e06f-4b62-9447-906ac2f588c3
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: b7b0a46c-15d2-4a30-a946-91d867d7ed01
       :name: Not Fade Away
       :segued: false
