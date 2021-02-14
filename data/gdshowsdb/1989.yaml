@@ -431,7 +431,7 @@
     :songs:
     - :uuid: d819c2c5-d8da-4968-86ce-a50f976ed4d1
       :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
+      :segued: true
     - :uuid: 43717e40-3ac2-4bf0-8cfd-8273af6cfaae
       :name: Walkin' Blues
       :segued: false
@@ -457,28 +457,31 @@
     :songs:
     - :uuid: e9707dca-e34d-4374-8925-d75fd2202f89
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 3ee704f3-2d60-4036-aefb-9146282b9e57
       :name: Fire On The Mountain
       :segued: false
     - :uuid: f9c3ca03-5d45-4b71-b761-2d443878aba5
       :name: Estimated Prophet
-      :segued: false
+      :segued: true
     - :uuid: 7479fb26-42c9-4d58-b92b-01b13e4e74de
       :name: Eyes Of The World
-      :segued: false
+      :segued: true
     - :uuid: d7db29a0-9596-4866-927d-81adbd4c57ba
       :name: Drums
-      :segued: false
+      :segued: true
+    - :uuid: 4b6aa58d-0152-4c2b-a55e-5ec6c9a26575
+      :name: Space
+      :segued: true    
     - :uuid: 3e09194a-21c9-4e4e-bfd0-11c1b51d12df
       :name: The Wheel
-      :segued: false
+      :segued: true
     - :uuid: 445d5ec1-fc49-43c1-b969-65860fbe4dba
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: c97d5c1c-a6c3-4762-9b83-3c4b792507ad
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: 682e03fb-de96-4621-a21d-48f94ebb9066
       :name: Turn On Your Lovelight
       :segued: false
