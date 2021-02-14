@@ -387,7 +387,7 @@
     :songs:
     - :uuid: 00e86849-0244-44f2-91f2-6ec0ed2a4d04
       :name: Scarlet Begonias
-      :segued: false
+      :segued: true
     - :uuid: 04f29bc4-f777-4dd7-9801-2ffbccc6d170
       :name: Fire On The Mountain
       :segued: false
@@ -399,19 +399,19 @@
       :segued: false
     - :uuid: 7a302523-0586-4f5e-bd4d-acf34fcd4a6c
       :name: Dark Star
-      :segued: false
+      :segued: true
     - :uuid: 5ba0575f-77f7-4229-ad7d-6d2430d97ead
       :name: Drums
-      :segued: false
+      :segued: true
     - :uuid: 0d8a8e8a-db67-4644-82c0-caf21378879e
       :name: Space
-      :segued: false
+      :segued: true
     - :uuid: f9e19d74-56c8-4df5-94e2-df7fbe9f55c7
       :name: I Need A Miracle
-      :segued: false
+      :segued: true
     - :uuid: f0298818-17b6-4fd5-93e2-cf6157a9a67f
       :name: Standing On The Moon
-      :segued: false
+      :segued: true
     - :uuid: 6149f0dc-6937-494d-857a-6070236342b3
       :name: Sugar Magnolia
       :segued: false
