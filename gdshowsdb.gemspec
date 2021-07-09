@@ -17,6 +17,6 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.add_dependency("rails", ">= 5.2.4.3")
+  gem.add_dependency("rails", ">= 6.1")
   gem.add_dependency("friendly_id")
 end

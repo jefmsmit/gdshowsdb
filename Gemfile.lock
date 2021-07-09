@@ -3,7 +3,7 @@ PATH
   specs:
     gdshowsdb (2.1.0)
       friendly_id
-      rails (>= 5.2.4.3)
+      rails (>= 6.1)
 
 GEM
   remote: https://rubygems.org/
@@ -86,9 +86,11 @@ GEM
     marcel (1.0.1)
     method_source (1.0.0)
     mini_mime (1.1.0)
+    mini_portile2 (2.5.3)
     minitest (5.14.4)
     nio4r (2.5.7)
-    nokogiri (1.11.7-x86_64-darwin)
+    nokogiri (1.11.7)
+      mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     racc (1.5.2)
     rack (2.2.3)
@@ -120,7 +122,7 @@ GEM
       method_source
       rake (>= 0.13)
       thor (~> 1.0)
-    rake (13.0.5)
+    rake (13.0.6)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
       rspec-expectations (~> 3.10.0)
