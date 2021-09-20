@@ -2005,7 +2005,7 @@
     :songs:
     - :uuid: fdf19fb7-0e06-4432-b14f-f748d134a651
       :name: Morning Dew
-      :segued:
+      :segued: false
     - :uuid: cae4ab72-b978-41c5-852f-51c406da7a3f
       :name: Viola Lee Blues
       :segued: true
