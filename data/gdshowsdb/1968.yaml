@@ -826,7 +826,7 @@
   :city: Phoenix
   :state: AZ
   :country: US
-  :set: []
+  :sets: []
 1968/07/11:
   :uuid: 0606bd8e-5b2a-4c11-8e1a-93e3125abb18
   :venue: Shrine Exhibition Hall
@@ -989,13 +989,6 @@
     - :uuid: 61bd51c5-2fc4-43c1-9ac3-0a629954bcc0
       :name: And We Bid You Good Night
       :segued: false
-1968/08/21:
-  :uuid: 910b09c6-4c64-41b3-941c-231fb98aa20f
-  :venue: Fillmore West
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
 1968/08/23:
   :uuid: 37e6fc9e-e13a-4fe0-ae84-ce0b1b1c2237
   :venue: Shrine Exhibition Hall
