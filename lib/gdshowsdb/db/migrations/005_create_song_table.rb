@@ -7,9 +7,9 @@ class CreateSongTable < ActiveRecord::Migration[5.0]
 			t.string :song_ref_uuid
 			t.integer :position
 			t.boolean :segued			
+			t.index :uuid, unique: true
+			t.index :song_ref_uuid
 		end
-
-		add_index :songs, [:uuid, :song_ref_uuid]
 	end
 
 	def down

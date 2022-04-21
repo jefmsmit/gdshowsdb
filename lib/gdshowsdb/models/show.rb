@@ -34,7 +34,9 @@ class Show < ActiveRecord::Base
   end
 
   def date_string(separator = "/")
-    "#{year}#{separator}#{pad month}#{separator}#{pad day}"
+    date_string = "#{year}#{separator}#{pad month}#{separator}#{pad day}"
+    date_string = "#{date_string}/#{position}" if position
+    date_string
   end
 
   def date_identifier
