@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gdshowsdb (3.0.0)
+    gdshowsdb (4.0.0)
       friendly_id
       rails (>= 6.1)
 
@@ -86,11 +86,9 @@ GEM
     marcel (1.0.1)
     method_source (1.0.0)
     mini_mime (1.1.1)
-    mini_portile2 (2.6.1)
     minitest (5.14.4)
     nio4r (2.5.8)
-    nokogiri (1.12.5)
-      mini_portile2 (~> 2.6.1)
+    nokogiri (1.12.5-x86_64-darwin)
       racc (~> 1.4)
     racc (1.6.0)
     rack (2.2.3)
@@ -162,4 +160,4 @@ DEPENDENCIES
   sqlite3
 
 BUNDLED WITH
-   2.1.2
+   2.3.12
