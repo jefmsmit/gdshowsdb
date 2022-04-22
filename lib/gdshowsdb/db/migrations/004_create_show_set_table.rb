@@ -6,6 +6,8 @@ class CreateShowSetTable < ActiveRecord::Migration[5.0]
 			t.string :show_uuid
 			t.integer :position
 			t.boolean :encore, :default => false
+			t.index :uuid, unique: true
+			t.index [:uuid, :show_uuid, :position], unique: true
 		end
 	end
 

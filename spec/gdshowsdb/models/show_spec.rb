@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe "Show" do
-  let(:show_spec) { {uuid: generate_uuid, venue: 'The Venue', city: 'Boulder', state: 'CO', country: 'US', year: 1981, month: 2, day: 25, position: 0} }
+  let(:show_spec) { {uuid: generate_uuid, venue: 'The Venue', city: 'Boulder', state: 'CO', country: 'US', year: 1985, month: 3, day: 12, position: 0} }
 
   context '#update_from' do
     before(:each) { Show.create_from(show_spec) }

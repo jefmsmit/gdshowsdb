@@ -7,6 +7,11 @@ Hoping to make this freely available database the cannonical resource for all Gr
 
 Additionally, This Gem can be used as an API to the data.
 
+## Please Note
+Versions prior to 4.0.0 had issues with data integrity. Specificaly, there were no database constrains around
+uniqueness, and there were duplicate UUIDs on Songs. It is strongly recommended that you upgrade to a version
+4.0.0 or higher.
+
 ## Using with Ruby
 
 ```ruby

@@ -10,10 +10,10 @@ class CreateShowTable < ActiveRecord::Migration[5.0]
 			t.string :venue
 			t.string :city
 			t.string :state
-			t.string :country			
+			t.string :country
+			t.index :uuid, unique: true		
+			t.index [:year, :month, :day, :position], unique: true
 		end
-
-		add_index :shows, [:uuid, :year, :month, :day]
 	end
 
 	def down
