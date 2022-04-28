@@ -8,7 +8,7 @@ class SongRef < ActiveRecord::Base
 
 	has_many :songs, :foreign_key => :song_ref_uuid, :primary_key => :uuid
 	has_many :song_occurences, :foreign_key => :song_ref_uuid, :primary_key => :uuid
-	has_many :shows, :through => :song_occurences, :foreign_key => :song_ref_uuid
+	has_many :shows, -> {distinct}, :through => :song_occurences, :foreign_key => :song_ref_uuid
 
   accepts_nested_attributes_for :song_occurences
 
