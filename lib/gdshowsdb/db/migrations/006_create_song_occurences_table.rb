@@ -8,7 +8,7 @@ class CreateSongOccurencesTable < ActiveRecord::Migration[5.0]
       t.integer :position
       t.index :uuid, unique: true
       t.index :song_ref_uuid
-      t.index [:uuid, :song_ref_uuid, :position], unique: true      
+      t.index [:show_uuid, :song_ref_uuid, :position], unique: true, name: 'unique_song_occurences_for_show'      
     end
   end
 
