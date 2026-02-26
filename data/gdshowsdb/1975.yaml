@@ -1,221 +1,4 @@
 ---
-1975/02/14:
-  :uuid: 2bf1bb4e-e401-419c-93ad-473cac2337fc
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/02/15:
-  :uuid: 2c854fe6-b086-4ba3-a17a-7406e0eca073
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/02/18:
-  :uuid: 96b5fa5d-c07a-4162-bbfd-bb48330fbd75
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/02/19:
-  :uuid: 5c86fcd6-2fac-4ff0-ac5b-7a9770705f3c
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 98c6c012-ef43-4791-a5b8-7f9a587b652f
-    :songs:
-    - :uuid: 1436fdae-3bd0-4a89-a400-6e891b0bb693
-      :name: King Solomon's Marbles
-      :segued: false
-1975/02/20:
-  :uuid: 59e7fb00-adc0-4447-b704-fd636624b811
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 3e4bc0b8-4ae4-4e9a-aab0-d212ede45db6
-    :songs:
-    - :uuid: b2ce3de8-ad6e-44f0-a7c1-e79e4f21eae7
-      :name: The Girl From Ipanema
-      :segued: false
-    - :uuid: 51f1d6f2-466d-48be-b75f-58fa68ef4d30
-      :name: Homeward Through The Haze
-      :segued: false
-    - :uuid: 02ab8542-3565-4aec-9600-98e4f353cbf6
-      :name: Low Down Payment
-      :segued: false
-1975/02/26:
-  :uuid: 35b5285e-b504-42c3-918f-c1ab5ad44a10
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/02/27:
-  :uuid: 45da8a19-f404-4253-a654-0404c703d192
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: a5a2e169-4e9c-4d5a-99f7-b7a599b31821
-    :songs:
-    - :uuid: 8e13c106-3cb2-4bcf-87a9-4e75a6d9f4fe
-      :name: 'Groove #1'
-      :segued: false
-    - :uuid: 7d94e688-26d3-46ed-bfd7-ed5596a4ca12
-      :name: 'Groove #2'
-      :segued: false
-    - :uuid: 245779b4-9e07-4a3d-b59c-dfe7aa47fc84
-      :name: A To E-flat Jam
-      :segued: false
-    - :uuid: efc62a47-8c7a-4261-bc6d-62d2304642eb
-      :name: Proto 18 Proper
-      :segued: false
-1975/02/28:
-  :uuid: 98c65628-d1b1-4a0a-94bc-5b8f27d57d19
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: e321f653-da85-4ca3-ba3f-65981919c5f7
-    :songs:
-    - :uuid: dde4dbfc-7b87-4d1f-a5c2-4a8ca4cf340d
-      :name: Distorto
-      :segued: false
-1975/03/01:
-  :uuid: 50420aa3-b816-4999-ad81-63e24736a02e
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/02:
-  :uuid: 04447264-5eef-4054-bd1f-91a7cfbc4e17
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/03:
-  :uuid: f918695f-f6ce-4824-9676-822f7f62b17e
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/04:
-  :uuid: a6f390b2-b0e3-4cb4-b973-d125e4455926
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/05:
-  :uuid: cfb9290c-bf47-413f-ab21-7cda07938db0
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/06:
-  :uuid: 7f4d33e3-1708-425b-9836-4327945681d8
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 9bc42466-3ac2-4aba-9514-48485d089600
-    :songs:
-    - :uuid: d1c0a908-d2d5-41db-98ff-88b654dd1e48
-      :name: Equinox
-      :segued: false
-    - :uuid: 8f299ed2-2e0f-422e-b3a6-39e2d104c142
-      :name: The Music Never Stopped
-      :segued: false
-    - :uuid: f800c628-81c7-4d1b-916e-e3d5a8fc77f4
-      :name: Supplication
-      :segued: false
-1975/03/11:
-  :uuid: c7962a9c-0bd6-49ae-a0ce-c864f68d6400
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: c263137b-e37e-4f9d-b04a-f1e71660c05e
-    :songs:
-    - :uuid: da7a9f3f-db4b-4912-8d12-54516583c983
-      :name: Slipknot!
-      :segued: false
-1975/03/12:
-  :uuid: 2c27d780-f307-42de-a11b-b4dc8248ac7a
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 07492b49-c269-4744-92dc-7579a2383415
-    :songs:
-    - :uuid: 78e4f7cf-9d98-487c-8a0b-5cb0a3a58db9
-      :name: Slipknot!
-      :segued: false
-1975/03/13:
-  :uuid: 5f2d49b7-ed62-4559-8d60-d1efcac0076f
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/17:
-  :uuid: 3d25980c-3401-4518-8d56-4937c10c30c4
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: fed87677-50ac-4d62-8e68-02bdba250848
-    :songs:
-    - :uuid: 01f224ed-87e8-463c-9df9-08cbb667b18d
-      :name: Low Down Payment
-      :segued: false
-    - :uuid: 38608dd5-1dbd-4b23-aba9-5cdd0ab6e189
-      :name: Homeward Through The Haze
-      :segued: false
-    - :uuid: e6847172-6cfe-4d71-ba23-0d2e94f84e06
-      :name: The Music Never Stopped
-      :segued: false
-    - :uuid: ee5ad3a4-e84c-4c94-8e49-7a11f4ca515e
-      :name: Stronger Than Dirt Or Milkin' The Turkey
-      :segued: false
-1975/03/18:
-  :uuid: 0d36b9cc-5f06-4bd1-924b-d6edce3bba7c
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/20:
-  :uuid: 195c92c3-1510-4821-914d-9e94fee03dba
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/21:
-  :uuid: e1fa0122-cd84-43e0-b164-77c19620e2f2
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
 1975/03/23:
   :uuid: ae505993-fe75-4f48-9fd2-6b8a125baa32
   :venue: Kezar Stadium
@@ -223,248 +6,28 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 93512693-a1a9-4bad-8cc0-fc7da155f6e1
+  - :uuid: 4c915e8c-0744-48e1-9dc5-139a87554b0f
     :songs:
-    - :uuid: b86eea00-a64e-48a6-ab6b-2be3b6a26a2f
+    - :uuid: 7910c645-e4c7-4054-8a64-b3a95f6713e1
       :name: Blues For Allah
       :segued: true
-    - :uuid: 950bbd6c-7a77-4141-8983-c055e86b01ca
+    - :uuid: 1e1c7c49-4d5d-4a1a-9032-7cce78c66055
       :name: Stronger Than Dirt Or Milkin' The Turkey
       :segued: true
-    - :uuid: 19fc04b6-e229-483b-b467-8c1f5d110e79
+    - :uuid: 0229c1bc-bf40-4f80-9087-534ddeadf30c
       :name: Drums
       :segued: true
-    - :uuid: f26eab95-4fa1-4639-926f-cffc38d3e307
+    - :uuid: cc471733-13c7-469d-80fd-75163c13d8fc
       :name: Stronger Than Dirt Or Milkin' The Turkey
       :segued: true
-    - :uuid: 2a52d578-2855-4013-b880-5c75bf628b7e
+    - :uuid: d741a90c-2741-4b48-9949-119218c80525
       :name: Blues For Allah
       :segued: false
-  - :uuid: 4a60e3a8-b400-40ab-9a7b-4327a5be202b
+  - :uuid: e256c378-ea2c-4652-ae3b-cf2350e14ab7
     :songs:
-    - :uuid: 3b5e7882-5d19-4d80-9957-1cc2ccc6d4bb
+    - :uuid: 360ed9f3-0790-4bf7-9364-e9676b035448
       :name: Johnny B. Goode
       :segued: false
-1975/03/25:
-  :uuid: 0e47cd15-32b5-4d1a-abc7-df7c7dc49a8c
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/03/26:
-  :uuid: b929f278-27d4-4ccc-bb0b-dc357069862c
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 271370ca-887c-436e-b64b-499abb266090
-    :songs:
-    - :uuid: 30f3f5f0-3d60-45fc-bf1c-e3960db731f8
-      :name: Proto 18 Proper
-      :segued: false
-1975/03/29:
-  :uuid: 7294c84a-17d4-45b0-be21-77e8e8393166
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/04/01:
-  :uuid: 9edc29e2-f24d-4adc-90e3-ce9ca8ede9a8
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/04/02:
-  :uuid: 005c5b42-b2ea-4275-9c75-c7668d042fbd
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: bc48342f-bebe-48c4-a898-2d0c9cb225c6
-    :songs:
-    - :uuid: 00ece3ff-cd08-4e17-834d-3f3e8090fca1
-      :name: Hide Away
-      :segued: false
-    - :uuid: 3584ae58-4d1c-4d17-80e5-0e93f2525e2f
-      :name: Blues Jam
-      :segued: false
-    - :uuid: 74d39c4e-3271-449d-b042-8d4ed0c46854
-      :name: Blues Jam
-      :segued: false
-    - :uuid: 8c8cf90d-31cc-49de-8622-3231eb928621
-      :name: Blues Jam
-      :segued: false
-    - :uuid: 791395ba-f179-413a-af31-cab1fc159936
-      :name: Lazy Lightnin'
-      :segued: false
-1975/04/28:
-  :uuid: 5cb9d537-55be-4c22-ae0d-320085926303
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/04/29:
-  :uuid: 601611a3-b714-43bf-821d-f02e61d3b472
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 5df229bf-6dc8-40f7-8a45-e80bcf6cd7b6
-    :songs:
-    - :uuid: 95dbb394-802a-4877-a021-902cf5e1311e
-      :name: Swing Warm Ups
-      :segued: false
-    - :uuid: 22201b03-d342-4517-88f7-09be71cd8c85
-      :name: E-A-C Jam
-      :segued: false
-1975/04/30:
-  :uuid: 7aef3551-dc67-4a9b-88f1-876a993e0a40
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/05/01:
-  :uuid: d5418162-557e-4a0f-89e6-2b1f2a91c26f
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/05/02:
-  :uuid: e1624efd-08ae-4220-ad2f-274f7eaf3b68
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/05/05:
-  :uuid: 3e9e6348-dbef-4119-8af1-0e8fbd2df0b9
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: d20906fd-6b88-4a3c-9bfd-6d081dd48671
-    :songs:
-    - :uuid: 01d1596e-8a90-4a97-878a-fb75f7ad8385
-      :name: Franklin's Tower
-      :segued: false
-1975/05/07:
-  :uuid: 1df710f0-4268-4664-9e64-a7ea158ea7b0
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 06a4f5a7-36f2-42e5-a6d9-f46d6eadf51a
-    :songs:
-    - :uuid: b7fa7a4e-e91a-4924-b5fd-eb6d54b70a33
-      :name: Hollywood Cantata
-      :segued: false
-1975/05/11:
-  :uuid: b7bce4e0-6c52-4a2b-9921-0a32a2e77f0b
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/05/12:
-  :uuid: 223db289-ea67-4af7-a7eb-fae991bf7853
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 998ad001-5e7d-4b0a-aa39-e021c501c215
-    :songs:
-    - :uuid: a75fa99a-bd79-4a2d-bbf2-c3a46110a508
-      :name: Stronger Than Dirt Or Milkin' The Turkey
-      :segued: false
-1975/05/20:
-  :uuid: 637f2f4a-0764-4214-a77a-fa0ee87095b6
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/05/21:
-  :uuid: 8d3ed548-6b4a-4391-886a-be36adcba387
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/05/22:
-  :uuid: dda8de7b-fce4-47b8-91bb-bef28aa786ac
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/06/02:
-  :uuid: 2ae756a5-83f7-47ce-8787-3960182c2084
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/06/03:
-  :uuid: 10e12b2d-c5a1-4861-a3d0-add980baa37d
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/06/04:
-  :uuid: e0f520ad-e69b-4332-bca2-a67147667866
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/06/05:
-  :uuid: 5f88f185-3956-4fdf-8bb8-2b94182bbcd9
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/06/09:
-  :uuid: a4ad6937-8093-455c-8261-60065925f2f6
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/06/10:
-  :uuid: 4b21c8e6-4f92-41d5-a1c1-059be73288c8
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/06/11:
-  :uuid: 13ed30d7-bd8a-4a2c-8932-48ec0f9fa653
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/06/12:
-  :uuid: 63d72feb-0f9e-47c5-8c61-65435dc1bd86
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
 1975/06/17:
   :uuid: 91343d36-3e94-4d6a-a4c4-6749a22d1ab8
   :venue: Winterland
@@ -472,139 +35,56 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 8c5d2ab3-7070-41d7-ad20-dd9f80440105
+  - :uuid: d18c95a1-38d5-4c85-a3a9-d4fd876c854e
     :songs:
-    - :uuid: 8552530c-4ec7-4981-b541-c136c664922a
+    - :uuid: e6757d46-032c-4ef9-9962-6b7bc0be6716
       :name: Crazy Fingers
       :segued: false
-    - :uuid: cbbca020-88a1-4cd2-b8d3-b25ace05b4a0
+    - :uuid: 93ab85a9-195f-4e03-8182-d1994b1e6968
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 0053cff4-19a0-4229-89cd-8978052f6e99
+    - :uuid: edbf79c3-5e39-48f5-86b4-d9495e51d191
       :name: Deal
       :segued: false
-    - :uuid: 77d4640c-ecba-471a-b835-80449ff46fa9
+    - :uuid: 97cb9def-5e21-4804-91d1-ce6023dfb8b6
       :name: Big River
       :segued: false
-    - :uuid: 388969ce-52b4-4bec-a33e-0a5c59b87ebc
+    - :uuid: 7e41638d-6470-4211-ac7f-74f863fd3c10
       :name: Peggy O
       :segued: false
-    - :uuid: ba7b44a5-de0e-4ccc-a9e8-f3b7b40ab497
+    - :uuid: 4fc479fe-876f-442a-b63f-511d51676f5a
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 50e98445-1103-4b4f-b58d-5ca11722a6cf
+    - :uuid: 1b551488-717e-4462-aa63-df2e4d985d3b
       :name: Help On The Way
       :segued: true
-    - :uuid: 8425ff08-323f-407b-80fa-5d957455f920
+    - :uuid: a5a90620-c570-41e9-8a3e-7583b900be59
       :name: Slipknot!
       :segued: true
-    - :uuid: a77ae831-fbe5-4e33-bee7-9d9946b9996f
+    - :uuid: 73b0dd7e-f4f8-41c6-8552-7802b58c4bc0
       :name: Franklin's Tower
       :segued: false
-  - :uuid: f49367a5-52cd-4ed3-9a17-f5e75a87a50a
+  - :uuid: de249cbb-7963-49ea-80b7-a1ac3b942c48
     :songs:
-    - :uuid: 476160f1-239a-4267-84e3-5a6f0a9c1baf
+    - :uuid: 3181e8ce-72d8-4b5b-8fa3-5e9805dc0139
       :name: Blues For Allah
       :segued: true
-    - :uuid: 6fdc94ec-d4f1-4dca-8716-55f146144e2b
+    - :uuid: 8f0b274a-6cc8-46ec-8fc3-d41f0f8762fe
       :name: Drums
       :segued: true
-    - :uuid: b9bbcd5f-1439-4fd3-917a-a7abfdeaf263
+    - :uuid: 25048127-af07-4f6b-83b4-053c589e9523
       :name: Stronger Than Dirt Or Milkin' The Turkey
       :segued: true
-    - :uuid: a88fa45c-a01d-4f2b-97e4-8ea96cad3448
+    - :uuid: c6851611-0429-4468-90c3-f43dd23d061c
       :name: Blues For Allah
       :segued: false
-    - :uuid: 3a809b5a-1dcb-448a-86d2-59d1d6a6cd0d
+    - :uuid: 1622a10c-5e5e-4e62-8143-a8a197464d33
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: ff320a3a-07bb-41ba-96ab-2fb24d77265e
+  - :uuid: 5f8dbd33-8e31-4adb-b6e9-3a61f772eaef
     :songs:
-    - :uuid: d5463c5b-c701-48c6-94f6-fa3002b0398b
+    - :uuid: e56c2e58-75e8-4774-9ab3-1eeaa90755db
       :name: U.S. Blues
-      :segued: false
-1975/07/05:
-  :uuid: c502e338-ee80-4710-9fab-cea3c38c73b5
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/07/07:
-  :uuid: bdc3a7e8-ff5b-45fb-ab75-dbf5104b8aca
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 977d7918-50ee-42b6-95d3-76be1d73d31b
-    :songs:
-    - :uuid: efd14a2e-f02c-4cc8-8c0b-8893d04186aa
-      :name: They Love Each Other
-      :segued: false
-1975/07/10:
-  :uuid: 617cbb30-d94e-429d-91e8-1f057ef03f4d
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/07/17:
-  :uuid: 6646710a-352a-4638-8dc0-285be9511896
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/08/01:
-  :uuid: 4419a326-fa1c-4f16-909b-1041d83f1123
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/08/07:
-  :uuid: b6fa69f9-3fa5-401f-9c74-53bd7f80eaa6
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/08/09:
-  :uuid: cbe50a01-62f6-4b73-aaf4-55d9688daa4f
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/08/10:
-  :uuid: e01ced6d-e529-4327-a293-e72616351376
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/08/11:
-  :uuid: 6df9a9f0-3441-4ba1-b55e-36de60f02c5d
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets: []
-1975/08/12:
-  :uuid: d645a4d1-b4e6-44d1-a2ab-cb7bb2fc686c
-  :venue: Great American Music Hall
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: c7ddec47-8005-4c9e-a241-44cfeba8bb37
-    :songs:
-    - :uuid: aa811f02-d5e6-4d76-8da3-358a153986db
-      :name: Showboat
-      :segued: false
-    - :uuid: 9e3f15d1-30e4-4e49-8482-f92c19950cfa
-      :name: That'll Be The Day
       :segued: false
 1975/08/13:
   :uuid: 80b9cdd7-6d1d-4329-a71e-01028ac973f2
@@ -613,90 +93,63 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 84889a21-2aa4-430e-8969-b088a06e237e
+  - :uuid: 17980d25-4874-4b0e-9e87-4e31b29cf909
     :songs:
-    - :uuid: ab33fd87-b851-4d44-a836-0b48cbd9fd3b
+    - :uuid: d3e3a327-66e8-413f-bbc1-1310bc36b79e
       :name: Help On The Way
       :segued: true
-    - :uuid: 0204161a-e419-43c5-9b60-f0c513e131c0
+    - :uuid: 2be8204c-f509-4654-b519-fc2b7bc52759
       :name: Slipknot!
       :segued: true
-    - :uuid: a3ef6dae-03f2-48e7-bac1-7f4e630fe393
+    - :uuid: 4d9a2ac0-2147-491c-97af-7067dd401cff
       :name: Franklin's Tower
       :segued: false
-    - :uuid: b951b015-f951-4f47-8ed2-bec991826346
+    - :uuid: 027083a9-8876-474e-b68d-a2e146f38df7
       :name: The Music Never Stopped
       :segued: false
-    - :uuid: 2651eae7-d68a-4ac7-8fb4-d4f4583ce4e0
+    - :uuid: 39d50bfc-d5c9-4867-873f-63ab8c186732
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: ad076d7a-f857-4fbd-847e-a7bc01765b47
+    - :uuid: 46cef5c9-5cc9-4512-9243-22e1c86b1df2
       :name: Eyes Of The World
       :segued: true
-    - :uuid: f477a105-be5e-4014-a5ba-b4c19a8e877f
+    - :uuid: bf3b36c5-8d1c-4dfb-ad71-f36afa6d9159
       :name: Drums
       :segued: true
-    - :uuid: 68ef846d-5753-4b0f-8fd6-e61209b58507
+    - :uuid: 796e70af-384c-45ce-9131-d17b765dbaed
       :name: Stronger Than Dirt Or Milkin' The Turkey
       :segued: false
-  - :uuid: 4a7cf600-74fa-4f95-8a52-c1d2bdaa436b
+  - :uuid: 644699b4-ced3-4f40-a716-24cf63324116
     :songs:
-    - :uuid: bf68c76d-f018-4721-8831-19c1b1c5d500
+    - :uuid: 0ab8c22b-8324-40aa-bc59-735d05d61d89
       :name: Around And Around
       :segued: false
-    - :uuid: d693691d-8f4c-4997-ba6a-5c67993e5cbf
+    - :uuid: 579b3fd0-6bd4-4780-b6c1-fab53237f045
       :name: Sugaree
       :segued: false
-    - :uuid: b0ada630-92b7-4930-bef5-d07429a4ba90
+    - :uuid: cb32b7d7-42bd-46a7-b437-be3ec3b999d5
       :name: Big River
       :segued: false
-    - :uuid: 254bd708-d97d-43de-b55e-946c970519c5
+    - :uuid: df5c408b-0acd-4cba-bf52-45a651c53b24
       :name: Crazy Fingers
       :segued: true
-    - :uuid: 0f3ae62e-3908-49d7-98e1-e1e380b39e9d
+    - :uuid: 07689648-dc99-4555-80e6-889f3b4edcf4
       :name: Drums
       :segued: true
-    - :uuid: d51d214b-f4fd-4894-a2d7-201e761f9be0
+    - :uuid: 71e58e89-19ce-4b2b-8561-621e006ce6d4
       :name: The Other One
       :segued: true
-    - :uuid: cee36818-2cc4-4dd6-b179-a50146807bb4
+    - :uuid: 960b2796-c2b7-435f-b5a0-b8cf39e94d3b
       :name: Sage And Spirit
       :segued: true
-    - :uuid: 00aa1e30-cfba-4bee-97f1-452c8044381b
+    - :uuid: 5fa62978-92f4-47a6-af3c-46b90b7f9a1a
       :name: Goin' Down The Road Feeling Bad
       :segued: false
-    - :uuid: c1955ad8-6a17-49a7-be34-e8fce48c3423
+    - :uuid: 2fdbe48f-5d5e-48d7-99d2-1abf818b1fcb
       :name: U.S. Blues
       :segued: false
-    - :uuid: d9a179e9-bb63-41d5-be0f-6bfa27ea9a6e
+    - :uuid: ec69bf1f-a861-4a8c-af3b-9b6b92e122c3
       :name: Blues For Allah
-      :segued: false
-1975/09/01:
-  :uuid: bb799d93-1030-4c7e-bcc6-5cdceb485038
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: cd393478-f969-4880-b85e-392ee4100ca0
-    :songs:
-    - :uuid: 8288f72a-113d-492e-9375-2b34bcef3111
-      :name: Comes A Time
-      :segued: false
-    - :uuid: 4b1567b0-0cd2-42cf-a64e-04d8475a8860
-      :name: They Love Each Other
-      :segued: false
-1975/09/16:
-  :uuid: 76881d4f-c4a4-4055-abf1-8f5ad1c84d55
-  :venue: Ace's (Bob Weir's Studio)
-  :city: Mill Valley
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: dd95bbc4-12e5-4936-8adc-60a33fd6f4f6
-    :songs:
-    - :uuid: 6814622d-c8cb-4528-8eed-879af69452d2
-      :name: Catfish John
       :segued: false
 1975/09/28:
   :uuid: 6926e8bf-aeaf-4bb3-bdac-f535c0adb5cd
@@ -705,50 +158,50 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: bd08a776-62ec-45a2-9221-f8cff42fad71
+  - :uuid: f9796ae0-ad67-48c4-bb05-80e0fe443c2d
     :songs:
-    - :uuid: 632b962f-270f-4063-938d-ba4ab4bd02f3
+    - :uuid: 4bb37f03-f497-4f97-be00-01ca3810f9be
       :name: Help On The Way
       :segued: true
-    - :uuid: 45273f7c-e719-456e-8a49-72a354f4b832
+    - :uuid: 5c33ae54-80de-45dd-9874-8295edcce536
       :name: Slipknot!
       :segued: false
-    - :uuid: 68c6472c-1335-4489-a2c0-ac3c3f8b140f
+    - :uuid: 6982a5b6-123a-4c75-a7ae-e803bf6ab493
       :name: The Music Never Stopped
       :segued: false
-    - :uuid: 23970152-da9c-4596-a798-6cc449adf132
+    - :uuid: 76a76b7f-2fc6-4c86-82a5-01e5cba2f149
       :name: They Love Each Other
       :segued: false
-    - :uuid: 6a452ad1-c5f4-4d21-b785-e8f1e5d139f3
+    - :uuid: 5ebf6bb7-7d10-45aa-9c3f-466d9836e540
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 7ea82159-668f-4550-9290-0a9a538ff4f8
+    - :uuid: 56cebdc8-97fe-4394-9f43-4d5e69544a87
       :name: Franklin's Tower
       :segued: false
-    - :uuid: 4d497ccb-d382-4fea-9501-161efce88960
+    - :uuid: c151458c-d02e-4098-8240-dd3d05ab1f18
       :name: Big River
       :segued: false
-    - :uuid: fdae887a-f23b-4883-87cc-6a98e9c81d8e
+    - :uuid: 2d92f521-70d0-479d-a19d-31eff95070bf
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 69bff35c-13d0-4aca-9404-97496f49e03c
+    - :uuid: 5f0c475a-e3cd-4154-b1a7-903404721d76
       :name: Truckin'
       :segued: true
-    - :uuid: d510f5ac-93b7-4aa3-a0ff-edb13eaccedc
+    - :uuid: af793358-1159-497a-8898-9cb7b2725739
       :name: Jam
       :segued: true
-    - :uuid: dffe185e-7299-4988-bf01-646091fe2aed
+    - :uuid: 9729f497-02b0-4ad7-baa8-909ef68b24c2
       :name: Drums
       :segued: true
-    - :uuid: c9c8936f-c8f1-4cc7-a1ff-2f3b726f6446
+    - :uuid: 79d9cc84-43d5-4cfc-8ba5-87d7417e9fcf
       :name: Stronger Than Dirt Or Milkin' The Turkey
       :segued: true
-    - :uuid: 7c77f522-2f51-4cec-a6dd-a8dd176a36fb
+    - :uuid: ca60bea5-8b36-49dd-969c-f57d89195839
       :name: Not Fade Away
       :segued: true
-    - :uuid: 5bfedeed-2505-422c-9e15-7063e7bcf563
+    - :uuid: 5eb31e2a-1be1-4643-8543-4b303d236af2
       :name: Goin' Down The Road Feeling Bad
       :segued: true
-    - :uuid: 4612f11f-8cd8-4bd2-b30d-f8e105698ece
+    - :uuid: 4a94c1a4-cb2c-4d40-a45d-b86fa123228e
       :name: One More Saturday Night
       :segued: false

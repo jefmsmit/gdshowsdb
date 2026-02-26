@@ -27,9 +27,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: a4b9b27b-be4f-49bc-a389-9783f4658480
+  - :uuid: d18d1493-5833-44e0-b3a4-796377e14ad5
     :songs:
-    - :uuid: 51732f63-478f-4871-a249-8b70ddebfbca
+    - :uuid: 01e250f2-85b5-4697-b2c3-2129621b9712
       :name: I'm A King Bee
       :segued: false
 1965/06/18:
@@ -46,33 +46,6 @@
   :state: CA
   :country: US
   :sets: []
-1965/11/03:
-  :uuid: 25bf10c2-a321-4c14-bcd9-6642de7f14b2
-  :venue: Golden State Recorders
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: ec691cc2-b9cb-4c6e-beb3-b17d412be8ab
-    :songs:
-    - :uuid: 8b29eeff-8d84-4cc4-8002-fd39ce5ad7d6
-      :name: Can't Come Down
-      :segued: false
-    - :uuid: 056bc064-2a05-4fa6-911d-ed40b7c489be
-      :name: Mindbender
-      :segued: false
-    - :uuid: 2718804e-b56f-4452-b75f-35d18289506e
-      :name: The Only Time Is Now
-      :segued: false
-    - :uuid: 5d07580c-088c-46bc-8630-94f0e5dcc12a
-      :name: Caution (Do Not Stop On Tracks)
-      :segued: false
-    - :uuid: 71d2add8-f3bb-4beb-b82b-051292b60f3b
-      :name: I Know You Rider
-      :segued: false
-    - :uuid: c7795798-46dc-4d58-a7ba-82a88c644eea
-      :name: Early Morning Rain
-      :segued: false
 1965/11/29:
   :uuid: 41ef64b6-4626-49ba-a358-82fc879ca7d9
   :venue: Matrix
@@ -115,8 +88,8 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 545e1851-549a-4d37-a88e-99ef5a277006
+  - :uuid: c0cd6a9d-64b6-4314-ae3f-83c800f3fb51
     :songs:
-    - :uuid: 7af1a28d-c49a-478b-a73a-395c769f2d3e
+    - :uuid: 5ebba370-1162-45d5-bc28-e8bdbb6ff9e6
       :name: In The Midnight Hour
       :segued: false
