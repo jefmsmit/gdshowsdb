@@ -13,13 +13,25 @@
   :state: CA
   :country: US
   :sets: []
-1965/05/27:
-  :uuid: 128971ef-286f-4401-a617-28e795a30fe8
+1965/05/19:
+  :uuid: 47a0f20b-0636-4daf-9417-214efa8bea12
   :venue: Magoo's Pizza Parlor
   :city: Menlo Park
   :state: CA
   :country: US
   :sets: []
+1965/05/26:
+  :uuid: b355528c-9921-4d50-b6d6-f705a604674e
+  :venue: Magoo's Pizza Parlor
+  :city: Menlo Park
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: a4b9b27b-be4f-49bc-a389-9783f4658480
+    :songs:
+    - :uuid: 51732f63-478f-4871-a249-8b70ddebfbca
+      :name: I'm A King Bee
+      :segued: false
 1965/06/18:
   :uuid: e7670295-e716-4f04-843c-e4411c82bda8
   :venue: Frenchy's
@@ -27,23 +39,43 @@
   :state: CA
   :country: US
   :sets: []
-1965/08/01:
-  :uuid: bcac6971-1cd7-4ecd-a895-56b1eebe68f8
-  :venue: Cinnamon A
-  :city: Redwood City
-  :state: CA
-  :country: US
-  :sets: []
-1965/09/01:
-  :uuid: 03db9d40-e739-4e9a-a304-54e090e67321
-  :venue: In Room
+1965/10/12:
+  :uuid: f7cf3c4f-8e48-4e8d-9dd8-1d4a91f0e7a3
+  :venue: Chalet Inn Room
   :city: Belmont
   :state: CA
   :country: US
   :sets: []
-1965/12/01:
-  :uuid: a00ae8ca-7a6e-4b76-87f9-0c03873996f9
-  :venue: Pierre's
+1965/11/03:
+  :uuid: 25bf10c2-a321-4c14-bcd9-6642de7f14b2
+  :venue: Golden State Recorders
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: ec691cc2-b9cb-4c6e-beb3-b17d412be8ab
+    :songs:
+    - :uuid: 8b29eeff-8d84-4cc4-8002-fd39ce5ad7d6
+      :name: Can't Come Down
+      :segued: false
+    - :uuid: 056bc064-2a05-4fa6-911d-ed40b7c489be
+      :name: Mindbender
+      :segued: false
+    - :uuid: 2718804e-b56f-4452-b75f-35d18289506e
+      :name: The Only Time Is Now
+      :segued: false
+    - :uuid: 5d07580c-088c-46bc-8630-94f0e5dcc12a
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: false
+    - :uuid: 71d2add8-f3bb-4beb-b82b-051292b60f3b
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: c7795798-46dc-4d58-a7ba-82a88c644eea
+      :name: Early Morning Rain
+      :segued: false
+1965/11/29:
+  :uuid: 41ef64b6-4626-49ba-a358-82fc879ca7d9
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
@@ -52,6 +84,13 @@
   :uuid: 39375335-6dc3-4b5b-8677-beaa752db89b
   :venue: Big Nig's House
   :city: San Jose
+  :state: CA
+  :country: US
+  :sets: []
+1965/12/08:
+  :uuid: 04422cb5-5b28-4912-9f4d-effde3111599
+  :venue: Matrix
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
@@ -64,15 +103,20 @@
   :sets: []
 1965/12/11:
   :uuid: 604da57f-3f8b-4e67-8bf6-1b4783d10e13
-  :venue: The Big Beat
-  :city: Palo Alto
-  :state: CA
-  :country: US
-  :sets: []
-1965/12/18:
-  :uuid: 5618738d-6841-4c1e-a71a-1f18b5ab879b
   :venue: Muir Beach Lodge
   :city: Muir Beach
   :state: CA
   :country: US
   :sets: []
+1965/12/18:
+  :uuid: 5618738d-6841-4c1e-a71a-1f18b5ab879b
+  :venue: The Big Beat Club
+  :city: Palo Alto
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 545e1851-549a-4d37-a88e-99ef5a277006
+    :songs:
+    - :uuid: 7af1a28d-c49a-478b-a73a-395c769f2d3e
+      :name: In The Midnight Hour
+      :segued: false
