@@ -1,308 +1,328 @@
 ---
 1974/02/22:
   :uuid: 643f09b7-6595-49dd-adff-2faf4bf5f52c
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: e8b00b98-4430-40d8-a716-fb4f6c7747bd
+  - :uuid: 5b76632d-6a4e-4173-98f9-18f5466e6475
     :songs:
-    - :uuid: b38f8803-1ca9-41fc-ac5f-b2c1e18462da
-      :name: U.S. Blues
+    - :uuid: b708dc63-b546-4d13-8efa-5b702d9898f4
+      :name: Let It Grow
       :segued: false
-    - :uuid: f64db132-94ee-4318-a334-c022c4f87fe3
-      :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: 451758f3-1e99-405d-96a2-c02af3a1d437
-      :name: Brown Eyed Women
-      :segued: false
-    - :uuid: b2b59f48-1643-4e27-b2c2-8cbcc8096b73
-      :name: Mexicali Blues
-      :segued: false
-    - :uuid: 793e8839-d7dc-4f8f-ab73-778cde6bc98a
-      :name: It Must Have Been The Roses
-      :segued: false
-    - :uuid: 563b797d-80f1-4db0-aa17-a58568feb6ed
-      :name: Black Throated Wind
-      :segued: false
-    - :uuid: 75805d3c-df50-486f-8a54-0b49e0f88799
+    - :uuid: 73abbdf2-6121-4105-8a0a-298c91d99973
       :name: They Love Each Other
       :segued: false
-    - :uuid: ca6b6bfe-11d4-4315-8e2d-de6490828fe0
+    - :uuid: 25929a25-2f60-45e7-8885-de7331da8ecf
+      :name: U.S. Blues
+      :segued: false
+    - :uuid: c991164b-1297-44e9-89ce-18e2a404ed6b
+      :name: Attics Of My Life
+      :segued: false
+    - :uuid: 1ad566a1-8042-44ec-b0a3-4c14512a5ab4
+      :name: It Must Have Been The Roses
+      :segued: false
+    - :uuid: 0b8389fb-a55b-4130-ab91-70309b0ac38e
+      :name: Estimated Prophet
+      :segued: false
+  - :uuid: f738d7e6-7051-4d82-8444-b8d96efd4bb7
+    :songs:
+    - :uuid: 3c8d9495-a03c-411e-b494-4aeeca06af90
+      :name: U.S. Blues
+      :segued: false
+    - :uuid: e0f9e875-77d5-4ff8-be4f-6313f6563d5f
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: ebeca501-4160-4e0a-91e6-3e83eda9a22c
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: d05c61ea-3381-49ba-a0a7-951edb8fcda1
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 67975d61-e5e9-43c8-a297-71321975169a
+      :name: It Must Have Been The Roses
+      :segued: false
+    - :uuid: 07fba45d-1ee7-479a-95f2-c5488b2f67f5
+      :name: Black Throated Wind
+      :segued: false
+    - :uuid: 08909746-ccd4-457b-a9a7-89fa6c9d8a0e
+      :name: They Love Each Other
+      :segued: false
+    - :uuid: 2d3361e2-77eb-46fd-bb4b-db891c2e9dce
       :name: Big River
       :segued: false
-    - :uuid: e03af602-28e1-48aa-aa7a-c9395c68e089
+    - :uuid: 72c336a1-2a74-407f-b647-230f5f0554dc
       :name: Loose Lucy
       :segued: false
-    - :uuid: 904426ab-844c-4421-afa5-7fefbe19278b
+    - :uuid: 30a14135-2e9c-4ea0-94d9-b6b9f6f769d7
       :name: El Paso
       :segued: false
-    - :uuid: b2f83189-4c74-4840-bcc9-d70ca575ab9a
+    - :uuid: a9d0637e-5c8b-4f15-a2a7-ed3c6c5d35df
       :name: Row Jimmy
       :segued: false
-    - :uuid: 44824a8e-3c8c-4b0a-aac3-5b98e51dc3c6
+    - :uuid: 0bd1071f-6805-4278-ae60-fba8f20b4279
       :name: Playing In The Band
       :segued: false
-  - :uuid: 49966ebe-8c6b-4223-baff-1ebb9e881298
+  - :uuid: 630f69b0-1000-4eb0-b3a3-163e0f76f525
     :songs:
-    - :uuid: d468ed58-03bb-446e-a42d-33e0710ece6c
+    - :uuid: 0594c054-99c3-43e4-9c06-812e1d1a8ed7
       :name: Tennessee Jed
       :segued: false
-    - :uuid: e53fa99e-01ab-42fc-811e-2f84a0d23fb0
+    - :uuid: a2a0283e-697e-427d-a31b-ccece3db83c1
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 6ec6c102-632c-452f-ade6-8f72946db979
+    - :uuid: 98c9e8b1-9722-4b16-9646-2b0a22cc204e
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 621ea027-1464-4fea-9340-2f19a35bfc18
+    - :uuid: 240089ce-3159-434b-9167-5f7bb2f13a93
       :name: The Race Is On
       :segued: false
-    - :uuid: 6aab0b85-3db1-41a4-b7c6-da59622d8002
+    - :uuid: 589e10fd-0dec-452f-9aa1-23ac01d4d856
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: aa82a754-23a1-4d59-817b-17781108ebc4
+      :segued: true
+    - :uuid: 75963f5c-c205-4b48-b524-18f074ed8576
       :name: I Know You Rider
       :segued: false
-    - :uuid: 9b6a44f1-40f3-4c14-8e85-f8d117ebe63c
+    - :uuid: 9a0e38c6-9457-4063-916c-d321088f1225
       :name: Truckin'
-      :segued: false
-    - :uuid: 0ca50d8d-2ccc-4d1b-a29e-04338ab576c9
+      :segued: true
+    - :uuid: aec2e86f-edc4-4d66-991d-87e712dccbce
       :name: Nobody's Fault But Mine
+      :segued: true
+    - :uuid: 700a6e86-b986-4d19-9ef9-105e623ca877
+      :name: Goin' Down The Road Feelin' Bad
       :segued: false
-    - :uuid: 97ebf234-6398-46c4-b05f-c6d1d48efb67
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-  - :uuid: 48f4b2a1-7db9-4d30-9f42-4af5577b039f
+  - :uuid: 2ab7b2de-cb06-4773-a413-8addce532909
     :songs:
-    - :uuid: 4532bbe2-6f3b-48e7-bcbb-e4cd14c16b3c
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: a6af881e-9beb-4542-8eca-acff050caa14
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: 2e046b07-bbb8-464f-8e50-4eeb43097285
-      :name: The Promised Land
+    - :uuid: f9230024-316e-4cef-9389-51c02e9edbf0
+      :name: Promised Land
       :segued: false
-    - :uuid: c2f66be6-ba29-4813-8b9c-55a778128cd8
+    - :uuid: 8b2229b0-b40e-465a-9117-41b9b387da95
       :name: Brokedown Palace
       :segued: false
-    - :uuid: 070dde0e-1139-419d-aef5-e39180f24812
+    - :uuid: 3f1d43d9-c9b9-4e40-a3e5-5e2a9cf15ec1
       :name: Jack Straw
       :segued: false
-    - :uuid: 7d2aa1de-afb0-4342-aecd-364b673fcfb9
+    - :uuid: 9f6036cb-baa1-4bb3-a81b-9fa82e0a8f4a
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 9dccde3c-5c7a-4b07-9a44-9720a83f2bec
+      :segued: true
+    - :uuid: 440721bd-3134-4076-a8b1-3da43e0404c3
       :name: China Doll
-      :segued: false
-    - :uuid: 0751f7b2-6b66-4207-ac1b-37e27b162f85
+      :segued: true
+    - :uuid: 2e137808-58c6-4e53-9b55-e81670fa0dbe
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 913f174c-ca9c-4bae-ae4c-acf6180b4102
+      :segued: true
+    - :uuid: ad651549-7240-45b3-b5b3-39865f348e10
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: e0b7554e-144b-4a9b-a9d1-2856be828bcb
+  - :uuid: 13994c96-e3b7-4202-92a3-066869c71404
     :songs:
-    - :uuid: 054ac329-d86e-4456-9fd2-14be8f6ed4ec
+    - :uuid: 134209f2-6946-442d-bc6c-f2cc16804708
       :name: Uncle John's Band
       :segued: false
 1974/02/23:
   :uuid: fd7c9f13-797f-470a-b3e5-47e82da17699
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: 1383ff34-0d78-4f6c-a33c-0ba18fc2e41f
+  - :uuid: f701a5f3-1571-491f-97bd-ec50fe22af56
     :songs:
-    - :uuid: 5a8e7201-6809-4148-8511-a15413b2a8c4
+    - :uuid: f498a242-402e-4226-b6c8-160725c4aa0b
       :name: Around And Around
       :segued: false
-    - :uuid: 2f43eff4-ea86-4927-8cf1-818b009eec58
+    - :uuid: 585f441f-8c9a-4c8c-8396-9ff4adf6ae25
       :name: Dire Wolf
       :segued: false
-    - :uuid: 96e87ba1-1b8b-412c-b8f7-7e3b9213d864
-      :name: Me And Bobby Mcgee
+    - :uuid: 98cfc522-aabe-4c81-b686-d50e1fd90243
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: 0a779a16-47a7-45d2-8050-9219c350aa39
+    - :uuid: db0a04aa-9e1d-4cc1-80c5-16e3802ce1c5
       :name: Sugaree
       :segued: false
-    - :uuid: ef0ae525-13e0-4359-869a-5e04ed6746eb
+    - :uuid: d1f3b869-60d2-4efa-a26b-896458e835ba
       :name: Mexicali Blues
       :segued: false
-    - :uuid: d8e860a3-6b52-471e-910b-e21db3d07501
+    - :uuid: e9a21aa0-aa10-4584-bff8-50396ab0d059
       :name: Here Comes Sunshine
       :segued: false
-    - :uuid: 5a82be7f-845f-4ef5-8b08-f194826bcf5a
+    - :uuid: a592bc3c-9081-40f9-aeee-2c92a9af72d5
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 666f3839-9691-4b83-9425-677d465ec052
+    - :uuid: fbeb055f-b45d-485d-9c5d-73c531ea9748
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 490c638b-d51c-4a7e-ac37-c3b747e58d8d
+    - :uuid: 41a29871-df5d-4610-92fb-e3864e1b864b
       :name: Jack Straw
       :segued: false
-    - :uuid: 997eb7c5-80f1-4173-851c-0bd930287c42
+    - :uuid: d554834a-aecf-4f4d-9f8c-c8687fc81c6e
       :name: Deal
       :segued: false
-    - :uuid: d3856a6d-46b3-479b-88db-85f65236777a
-      :name: The Promised Land
-      :segued: false
-    - :uuid: 86374ac1-03f1-4036-b828-026c2d4717b9
+    - :uuid: 58f73fa8-ecc9-41ec-a8d7-6e9c860e310f
+      :name: Promised Land
+      :segued: true
+    - :uuid: faf7018e-306c-4c0d-88f2-3fbe6568aacb
       :name: Bertha
-      :segued: false
-    - :uuid: a1666902-de02-458e-8d0f-fdd6705e5794
+      :segued: true
+    - :uuid: 0d6a4d7b-6bb6-4676-8f8c-d732c04a8540
       :name: Greatest Story Ever Told
       :segued: false
-  - :uuid: 690d199f-f650-4ad7-bb97-f73acb88c667
+  - :uuid: ccd62a9d-f453-4a11-874f-92403764c389
     :songs:
-    - :uuid: 31f7573b-c119-46f8-a65f-e7d3284652f3
+    - :uuid: cc9161c1-dfbb-484d-ba2b-f78fa4c6bf3e
       :name: Row Jimmy
       :segued: false
-    - :uuid: 2cf4a7f6-5173-4410-87f5-a0ac5233a5eb
+    - :uuid: 25798cda-82aa-419b-8fec-42947e1af9a6
       :name: Weather Report Suite Prelude
-      :segued: false
-    - :uuid: edf0d133-2a56-436c-9ee1-2f6819e42419
+      :segued: true
+    - :uuid: 9ed42581-bc0c-4601-8ed4-99120a1a27fc
       :name: Weather Report Suite Part 1
-      :segued: false
-    - :uuid: e2ea5d05-8c70-4051-ae7b-e7ee3e1e8cf2
+      :segued: true
+    - :uuid: 6604bef4-a635-4edb-8613-be3356ed9ae1
       :name: Let It Grow
-      :segued: false
-    - :uuid: 64c29035-4d4f-4e91-ae30-31fd8c607e6e
+      :segued: true
+    - :uuid: 4e8720fb-6fbd-4440-9569-2e1cd91b11b4
       :name: Stella Blue
       :segued: false
-    - :uuid: b41dc6d1-d19a-4393-96a8-91e43bc774d4
+    - :uuid: c0bd4fef-18fb-425d-ad90-3ab53a7abba5
       :name: Big River
       :segued: false
-    - :uuid: 31ce94da-9008-4dd3-a20c-e8dfeb654ca5
+    - :uuid: 8b33c7ad-25bf-4649-8f6e-c783709e4255
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 1df1179a-0340-44c8-a989-e488417eeb5e
+    - :uuid: fee2db38-ab59-41f3-bc0b-372ca33c6ec8
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 8b2c5d28-91d6-430d-8dbe-303a368dcfb4
+    - :uuid: 2ec69784-2788-4ca5-a460-04e5dc160e27
       :name: He's Gone
-      :segued: false
-    - :uuid: c3f4c5cd-9dbf-4dea-987f-b15550b85308
+      :segued: true
+    - :uuid: ccfbd7a9-f5a7-44c4-a3cf-7230fb157b1a
       :name: Truckin'
-      :segued: false
-    - :uuid: d6e9fa7d-3a75-4c51-913b-e03fa4f9e190
+      :segued: true
+    - :uuid: 2e4e8670-cc25-4406-ae4e-901815b17417
       :name: Drums
-      :segued: false
-    - :uuid: 7d24ab34-aaff-4298-a5bc-ec3ebfad74b9
+      :segued: true
+    - :uuid: b92075d1-130f-44e1-bcc3-b9ef6c12ff02
       :name: The Other One
-      :segued: false
-    - :uuid: ccdc0902-a4c3-4b65-9cdc-0a147dd57df0
+      :segued: true
+    - :uuid: 448656f8-367c-44a9-95fd-ae69c2909284
       :name: Eyes Of The World
       :segued: false
-    - :uuid: c753ca78-41ab-4ebb-952a-920c58465755
+    - :uuid: 7186bd46-c733-41fd-a6b1-84d7bb513bc4
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 91c6343f-aff0-4b7e-887f-9f187988ad08
+  - :uuid: b1b7755a-a187-4054-be96-0070a7b296c8
     :songs:
-    - :uuid: 0c14d4fa-09fe-4dcf-874d-717e7a88df09
+    - :uuid: 0d7b857d-6aeb-48ad-8c2e-b1b62f004dce
       :name: Casey Jones
       :segued: false
-    - :uuid: 0a9358e3-912c-4813-a7a7-647ba910bd43
+    - :uuid: 373f8f2b-7149-40cd-a5b9-a178e7e8f659
       :name: Johnny B. Goode
-      :segued: false
-    - :uuid: 0dc9c1d4-ee6c-49c1-8b08-f0ff3c34acb6
+      :segued: true
+    - :uuid: 85afe967-6393-417c-bb19-8a957be77935
       :name: And We Bid You Good Night
       :segued: false
 1974/02/24:
   :uuid: 0fbe2e88-8bcc-4792-85b9-6cdadf0032fe
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: 3db0890d-8cd7-4bc4-af4c-26e79afee597
+  - :uuid: d5f85004-c916-4562-ab4c-b1e8b8f5b467
     :songs:
-    - :uuid: 02c884d5-8eed-4bc9-8353-3a53f8ee4fc3
+    - :uuid: 2de517da-7f4f-430e-9d81-cbc17fb25be3
       :name: U.S. Blues
       :segued: false
-    - :uuid: bc660022-57f2-4885-8221-8a20a579b411
+    - :uuid: 94c3f941-7209-4465-a731-b5b12f9daa2f
       :name: Mexicali Blues
       :segued: false
-    - :uuid: d48e86c5-7a28-4d97-8283-c0a4e0a42822
+    - :uuid: 0c0476d1-809f-4e68-a255-03385e676578
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: fbcbc030-2e6c-4d71-864b-f4eabf7348e1
+    - :uuid: 7c005462-9c1e-4ba1-8587-b085a1650c32
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: b219b5ce-d86c-441b-af2d-0e50ef4c7af2
+    - :uuid: 1b6cbec1-ebd7-4a36-9ba1-adbc4bec9d79
       :name: Candyman
       :segued: false
-    - :uuid: 2b59f8c4-c5e8-48ef-8609-260875582743
+    - :uuid: eb4bcc53-b0de-44aa-afd7-638c37679a71
       :name: Jack Straw
       :segued: false
-    - :uuid: 73d27ef3-fecb-447a-aaa0-c7df59e8de11
+    - :uuid: 21e4a8f0-35a6-4c41-bfa0-db460656c840
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 515c19c0-dc2d-4b2a-9fd9-b7028a6c985b
+      :segued: true
+    - :uuid: 32582c70-395b-410c-a6e0-edb107c8aa92
       :name: I Know You Rider
       :segued: false
-    - :uuid: bc458fbc-b350-469c-9707-a97ab367ced8
+    - :uuid: 8d0f1a72-6e73-4573-96df-ab891debdc4e
       :name: El Paso
       :segued: false
-    - :uuid: 292c4a8f-8546-4184-9ab4-4414ef37eba3
+    - :uuid: bb0e3077-3fe8-405b-8b78-31142268a39a
       :name: Loser
       :segued: false
-    - :uuid: 3fd68833-a94f-4082-b264-0a83d74b217a
+    - :uuid: 6e145435-3bae-479d-9377-5496ce8d6b1a
       :name: Playing In The Band
       :segued: false
-  - :uuid: 9b73cb28-d490-4543-9349-e8b69361bf44
+  - :uuid: 28dff559-e6e6-4230-8935-d3ab9546920c
     :songs:
-    - :uuid: ac2ead6d-9c38-4917-8e03-d89bb1e8cee3
+    - :uuid: f549da8d-8adc-45fe-9ae7-e1a2823e6bfc
       :name: Cumberland Blues
       :segued: false
-    - :uuid: bd0969cc-a57b-418c-af19-27248a758fdf
+    - :uuid: 63de5910-928b-44c9-89a5-808e4752ae12
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 7c7bbe07-5f19-4f1e-8700-63deaaa224c4
+    - :uuid: 1e562253-22f1-4d3c-ac52-3690cd709476
       :name: Big River
       :segued: false
-    - :uuid: 1b3dfa2c-048f-412d-8bc8-caacb930f8ea
+    - :uuid: 52cf3c2c-7e79-4f6f-a3b1-6a62581450dd
       :name: Bertha
       :segued: false
-    - :uuid: 4794fa74-6dc2-4aa7-a908-305c22d15f1c
+    - :uuid: b01eed87-f70b-496f-a91f-877b91cadc83
       :name: Weather Report Suite Prelude
-      :segued: false
-    - :uuid: a252b837-268b-4fbc-82cd-d417f3d5c173
+      :segued: true
+    - :uuid: d343da2b-8b3b-4911-ba7c-f0713912ac43
       :name: Weather Report Suite Part 1
-      :segued: false
-    - :uuid: af34559c-fda8-4aaa-82dd-3585a97a5ada
+      :segued: true
+    - :uuid: 0a673a13-229a-43a6-bbad-a2402bac739d
       :name: Let It Grow
-      :segued: false
-    - :uuid: 2dc356a2-1a4a-4d78-a95e-f1fe87a24a42
+      :segued: true
+    - :uuid: 88cc1b4f-4d9a-4e88-954a-23a0c1dd9bbc
       :name: Row Jimmy
       :segued: false
-    - :uuid: 966668bd-aaeb-47b6-af4f-e2a3f715658f
+    - :uuid: de3c66aa-3ee6-4278-8c68-02120464aaa8
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 91eeb45e-ade0-491a-ab49-37e62983ecb0
-      :name: The Promised Land
+    - :uuid: 9b74ee11-0b19-4227-a12f-54a7ce68fcbf
+      :name: Promised Land
       :segued: false
-    - :uuid: 07fad920-11a7-4ab4-b0f7-b1cfc112b2f0
+    - :uuid: 60077808-b7d1-4e03-ba14-7959e32fe033
       :name: Dark Star
-      :segued: false
-    - :uuid: 354506a1-75dc-486d-b6fe-b26da1ae8c30
+      :segued: true
+    - :uuid: f3fb6467-842c-4082-a4de-e6d9e1413b1d
       :name: Morning Dew
       :segued: false
-    - :uuid: 631c5548-aaa5-4ffc-9174-e6d7cf0f4eb5
+    - :uuid: fe37a775-910a-49a0-a0a4-b78e0221fd1f
       :name: Sugar Magnolia
-      :segued: false
-    - :uuid: 8e067bbd-e56e-4504-866c-2f902512aa40
+      :segued: true
+    - :uuid: 53268007-a365-4d14-9fe6-cf60092711b4
+      :name: Not Fade Away
+      :segued: true
+    - :uuid: 079578d2-70f1-4e07-b2e3-c9ef5282056a
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: c184e595-879c-41d1-bbf9-c1b93928ca9c
       :name: Not Fade Away
       :segued: false
-    - :uuid: 973edf66-3d35-430f-9428-0375f1ab63a2
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-    - :uuid: b6cab70a-6b14-4f5d-ae26-055b63498f53
-      :name: Not Fade Away
-      :segued: false
-  - :uuid: a9db43bd-9148-4f0b-817b-c595ceb10fed
+  - :uuid: 6e39501a-664c-43fb-a4a9-5effe8c8e21a
     :songs:
-    - :uuid: c982e408-d965-4113-b02f-5a7c6c70046b
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 50279360-575b-403a-83d0-1bf84ec3f6f3
+      :name: It's All Over Now Baby Blue
       :segued: false
 1974/03/23:
   :uuid: 79aa540a-e4b0-4dc9-94bd-2ce5f97f4ab3
@@ -311,353 +331,369 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 662ba3f7-7dba-4964-9cd1-86a3b8d0d1f6
+  - :uuid: 6df8930a-b196-4f8c-a80b-e23dfbc37579
     :songs:
-    - :uuid: 8db558f0-c425-444d-a2c6-f77defef7f30
+    - :uuid: b246237b-8cfc-4e8b-b078-5846f57c6173
       :name: U.S. Blues
       :segued: false
-    - :uuid: 85a0c338-bcb6-4638-a8e9-d20ef4df2f42
-      :name: The Promised Land
+    - :uuid: 9c16ee24-b363-437c-b61e-1a0c950f13c6
+      :name: Promised Land
       :segued: false
-    - :uuid: c33cc7aa-148c-4cae-a25b-f015d8452a1f
+    - :uuid: d0c8dcf4-77ae-4654-9c53-9f335cc29f74
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: c0060ba1-bb0b-4594-83fc-149cbcd95571
+    - :uuid: fa453dd8-d4f7-4e8b-a338-bf68460acefd
       :name: Mexicali Blues
       :segued: false
-    - :uuid: bf041399-461c-4241-b41c-d20eff50aad6
+    - :uuid: f06f0c16-481e-4daa-a4e1-dec61d9b5c45
       :name: Tennessee Jed
       :segued: false
-    - :uuid: f0fc71fd-644e-444a-b1fc-31144fd69906
+    - :uuid: fc5a4b1b-7b23-462f-b014-4d515ff3a28d
       :name: Black Throated Wind
       :segued: false
-    - :uuid: c1b70dca-003e-4e16-aef5-d28d21108115
+    - :uuid: 43834f32-6e11-445d-bc3a-51eed7393551
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 8cb71325-4816-4bac-b2fb-7a876fa006b4
+    - :uuid: 0e5fd011-d469-42dc-b295-18f00f7952e5
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 9fd9e334-0e62-49a0-a54f-a39108f8cc0f
+    - :uuid: 6796e94e-78f7-4d39-b8db-0dd3b4e9ab69
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 92ca68bb-a579-44d5-b8a0-1f05dc0ffd01
+    - :uuid: 92e3f1a5-1279-4c0b-9583-72232d40a0f2
       :name: El Paso
       :segued: false
-    - :uuid: f77d3a7d-ca47-4266-8290-fd5768a35ead
+    - :uuid: 38368ec9-4e02-4151-bad9-95120b4b4c4a
       :name: Deal
       :segued: false
-    - :uuid: 0eabf330-8d6f-4d47-8c3a-b23c53a150fc
+    - :uuid: 3e7a68f2-e4bd-4ec8-84de-af8a728645db
       :name: Cassidy
       :segued: false
-    - :uuid: 31c98887-7ccd-4d87-812f-df835ad0b3e5
+    - :uuid: 6d087c14-ffb0-48e4-86ca-21f083091d97
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: 0c89ea55-651a-493b-87be-c8d7c4e36ddb
+    - :uuid: ecab7f12-dc96-4031-b237-6060fb8ce647
       :name: I Know You Rider
       :segued: false
-    - :uuid: a32cb5ca-1100-4385-98bb-112cb4d09dfb
+    - :uuid: 64f991d7-77b9-458e-8270-91285434d42a
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 7ddeeee4-8995-4931-a671-15eba7a517f3
+    - :uuid: f15a6791-607c-42f1-ba6b-a68ce99e0f77
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 03fa8eff-b817-4bdb-a919-d7e1828f47c5
+    - :uuid: b2670476-dd48-4d8f-a155-1628500a4728
       :name: Let It Grow
       :segued: false
-  - :uuid: 352cfd34-2603-4ab7-be5b-83acac0eaa12
+  - :uuid: 29fd3f80-f992-4773-af19-e01195f9b0e7
     :songs:
-    - :uuid: af5118ff-e759-4010-8eda-f2bf5216cb12
+    - :uuid: 1096c27c-0131-4fff-83eb-04e12c7d1013
       :name: Playing In The Band
       :segued: true
-    - :uuid: c0afa2c8-c8e3-4181-bbd2-b4f8ed6c5036
+    - :uuid: e354d304-6d1f-4190-9232-13291483c3bf
       :name: Uncle John's Band
       :segued: true
-    - :uuid: e9790ed1-0f3d-4e46-8d4d-d8fbc1e267f9
+    - :uuid: 85345199-4188-446f-b300-2d2043122619
       :name: Morning Dew
       :segued: true
-    - :uuid: da3817d0-b498-43e8-b2a1-0a0e13d43099
+    - :uuid: 6f8160ed-e049-4c29-807b-1226f4e669b6
       :name: Uncle John's Band
       :segued: true
-    - :uuid: 41d6fd44-d383-400b-93cc-156203e7063f
+    - :uuid: 826b3a8e-6e9a-4558-bb0d-45ffc395d4ee
       :name: Playing In The Band
       :segued: false
-    - :uuid: 8d2de5c3-a501-4a64-abb3-1ce23f449abc
+    - :uuid: fb001876-962e-48d4-8925-9dbaf731356f
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 1c7e4c80-428e-4bb7-b60b-23bb91a625e4
+    - :uuid: 004f2038-255f-4c6d-a0ee-1b2e9d015636
       :name: Big River
       :segued: false
-    - :uuid: 014dc465-4478-4791-9968-e7e88eba5196
+    - :uuid: 98994013-170f-487d-bd9f-42333d13e2d9
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 8490782e-cdc2-4b1e-af2d-bc8303f9888d
+    - :uuid: 32247996-124b-48ff-b9fd-eb506b2cde38
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 9dbb4f3a-f0dd-4eab-b297-3c48070a13dd
+    - :uuid: e16ddec9-8290-470a-b5e6-c69113fd30b6
       :name: Bertha
       :segued: false
-    - :uuid: 34893c44-3b71-47cb-87f6-3b5ab5de227a
+    - :uuid: 32c6c2f1-c9e6-4cdd-9962-b261b5535caf
       :name: Around And Around
       :segued: false
-    - :uuid: 08636b36-b798-4c9e-89f8-4694ce6bca15
+    - :uuid: 66bf2238-3977-4914-9224-a793cc094034
       :name: Wharf Rat
       :segued: true
-    - :uuid: 1adc6891-e62b-4858-b039-4a3577e113dd
+    - :uuid: 865039c5-b77c-43c2-b71a-d619b0cbb851
       :name: Sugar Magnolia
       :segued: false
-    - :uuid: c6298d52-91f8-4584-883c-8c6cd79f86bb
+    - :uuid: 9221218e-ee26-43b8-ae23-5cbe89b8ba97
       :name: Casey Jones
       :segued: false
-  - :uuid: a00824b6-864f-42ba-b8bb-404278f2e4d1
+  - :uuid: d93dd745-a9b0-4442-8763-0bafa35f2840
     :songs:
-    - :uuid: 9637451c-c2e3-4303-8879-a63889cfc891
+    - :uuid: cc56e805-565a-41d5-af9c-86d47edd64f3
       :name: One More Saturday Night
       :segued: false
 1974/05/12:
   :uuid: 244acfb5-6617-4b1c-b3ae-6f9a37145b7d
-  :venue: University of Nevada
+  :venue: Mackay Stadium, University of Nevada
   :city: Reno
   :state: NV
   :country: US
   :sets:
-  - :uuid: 5c2b679f-a03d-4f43-b99c-2fbcbb0bd0d7
+  - :uuid: f79f6dc5-7a83-4501-b094-c6064bfe35c2
     :songs:
-    - :uuid: 6a1a8ef7-1494-459b-92a0-d98a556e23ef
-      :name: The Promised Land
+    - :uuid: 3a546ca6-c893-4050-9f80-b4570ab28e48
+      :name: Promised Land
       :segued: false
-    - :uuid: bb7e86a6-4ff6-4df6-bd17-e5affc7fa12e
+    - :uuid: fbf00829-af27-447e-9f97-8875cacfa7aa
+      :name: Sugaree
+      :segued: false
+    - :uuid: 9ca1be11-5d77-4d7f-9e1b-5a3c4257ef49
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 9a55ada5-e59d-4894-95dc-5cb3b36dfc0d
       :name: Tennessee Jed
       :segued: false
-  - :uuid: d6d8cd20-4094-4e68-80ca-98e4d22977a2
-    :songs:
-    - :uuid: 89f5cc3d-da64-462a-b578-6b21414b9105
-      :name: China Cat Sunflower
+    - :uuid: 858e88a4-1df1-44e5-8434-097ddee67f4c
+      :name: Jack Straw
       :segued: false
-    - :uuid: 97fe06cd-193c-42fe-a92c-15bacf747bd8
+    - :uuid: 1db018fe-f4f4-4064-8b1e-c82345eeb5b0
+      :name: Brown Eyed Women
+      :segued: false
+    - :uuid: 99df5186-3834-4e94-ab15-7d7755af347c
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 23ae4fb6-9ca4-4367-8ace-b8f2ac0b699a
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 50b16f61-3a09-426c-8dcb-577cb8ba42cf
       :name: I Know You Rider
       :segued: false
-    - :uuid: 04780f15-0185-4bca-9670-fc563a5ba68f
+    - :uuid: d6a04af3-78dc-4990-b711-458f39c030af
       :name: El Paso
       :segued: false
-    - :uuid: aa9f194f-1c14-4d33-ab18-7aed09108f90
+    - :uuid: 9c43ff64-e216-4ccf-9778-3c75c34a2255
       :name: U.S. Blues
       :segued: false
-    - :uuid: 540df8d0-4a3a-424b-a261-2868bc6acaca
+    - :uuid: 480ce2bd-63e9-4b0c-b3ff-d2a2ea7552af
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: c4088fa5-6364-415c-b1cb-6f6f1c257a59
+    - :uuid: 8382742f-e5f5-4cc4-8232-275145fb53d4
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 71bed96b-d376-43b1-af86-c3e3f612289c
-      :name: Me And Bobby Mcgee
+    - :uuid: a6c76407-f32e-477f-989e-97d15639dfb5
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: 71ca0e8a-f00d-4d0d-94cf-ba4f10cade25
+    - :uuid: a398c2a1-4919-44a4-be18-77122385477b
       :name: Deal
       :segued: false
-  - :uuid: fe32ac40-bfca-431a-93f6-76e5ce5f89db
-    :songs:
-    - :uuid: 16b13b2d-bc1b-4a27-a85b-73007e0be6f2
+    - :uuid: 7bc8e9ed-7537-4eb8-9685-1a16353d4023
       :name: Around And Around
       :segued: false
-    - :uuid: 5b3552ee-5afc-40ad-aa09-5f19b2ef4e8a
-      :name: Mississippi Half Step Uptown Toodeloo
+  - :uuid: a3fbaca1-6fa0-401b-852b-03b938fa1eee
+    :songs:
+    - :uuid: 779e44f7-f329-42cc-a348-3b5ce97cc888
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: e8cc5d7f-8d9b-4476-a238-ba57945a63f2
+    - :uuid: b232d44c-181e-4e4e-a9db-8c7337fbc795
       :name: Truckin'
-      :segued: false
-    - :uuid: 2472e0c9-cc60-4708-8c85-5365c69617de
-      :name: Nobody's Fault But Mine Jam
-      :segued: false
-    - :uuid: 22dd3256-bb4c-48e7-9c84-ce763fce945b
+      :segued: true
+    - :uuid: 6a5c3522-9944-449f-a30a-826e5102543a
+      :name: Nobody's Fault But Mine
+      :segued: true
+    - :uuid: 619d563b-5f84-4add-bedf-85b639f50752
       :name: The Other One
-      :segued: false
-    - :uuid: 778278b6-50e1-4b4c-bf50-5b92fe61285a
+      :segued: true
+    - :uuid: e6807170-6184-4cfe-9fcf-94db12482df4
       :name: Mind Left Body Jam
-      :segued: false
-    - :uuid: fd9a99dc-795b-4cb1-8aae-5f5f3caa12af
+      :segued: true
+    - :uuid: 8b61bfc9-556a-42fa-83c5-670d905d51e5
       :name: Row Jimmy
       :segued: false
-    - :uuid: fa39e3a4-51df-493f-963b-c0e883f4188a
+    - :uuid: 48b91033-de85-425b-8d91-24229f8651ea
       :name: Big River
       :segued: false
-    - :uuid: 85a80ef6-e765-4603-9311-606f404b4d8e
+    - :uuid: 34af685b-bbaa-46b0-83ce-213ceae0c2bc
       :name: Ship Of Fools
       :segued: false
-    - :uuid: df173e63-78f3-4fdf-a7f2-edfdc5d32da2
+    - :uuid: 0669ce6b-f789-488c-b04d-e222f1b7c528
       :name: Sugar Magnolia
       :segued: false
 1974/05/14:
   :uuid: 9ca1efae-9efa-479e-ad3c-0c430483982e
-  :venue: Adams Field House
-  :city: Missoula,
+  :venue: Adams Field House, University of Montana
+  :city: Missoula
   :state: MT
   :country: US
   :sets:
-  - :uuid: b6598e87-2919-4cc9-bc37-f800942eb328
+  - :uuid: 45859aae-6f2a-4c1f-923b-c52cf0951674
     :songs:
-    - :uuid: 8c159936-508e-49b3-88ac-becfea3225b0
+    - :uuid: a8eb55a3-8a3f-42e4-8bf1-50d7afb67e62
       :name: Bertha
       :segued: false
-    - :uuid: 8d165b66-25d8-41ab-ba70-fe37087bb3b2
+    - :uuid: 5e382b30-4b29-4b98-adaf-5108b1ade98b
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 572e99ff-db70-412d-b0bf-2d2eeb08ffe1
+    - :uuid: 53dac27a-1e3d-426d-9a33-c51de2388a66
       :name: Loser
       :segued: false
-    - :uuid: 2f30127f-d114-4c6c-b8e5-f3e1fbef3ff7
+    - :uuid: 816c671e-de10-43e0-a9c6-c2b5be81d615
       :name: Black Throated Wind
       :segued: false
-    - :uuid: 24fdfa1a-6501-4bfd-892a-ac1a6a2ac20a
+    - :uuid: e94761ef-1337-4dca-ae7c-4f49aa6c6980
       :name: Scarlet Begonias
       :segued: true
-    - :uuid: fe2b6294-9244-4581-8b41-b40687c6c9f3
+    - :uuid: d0149dac-ebc4-454d-b770-8ece39bf2ba1
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 2e2dca6d-e6b4-4981-8d86-4b5cdea00fbe
+    - :uuid: d025a8b5-ec7a-4cc8-b1f7-bad97ba63929
       :name: Jack Straw
       :segued: false
-    - :uuid: d1d97516-5477-4d32-bc40-b49e3833f7e5
+    - :uuid: 0fdfbc84-3ea8-4e1b-965d-aa8ca4ef994f
       :name: Tennessee Jed
       :segued: false
-    - :uuid: d2f316d4-1c73-4350-be61-e8677623fbee
+    - :uuid: 0d061218-72ab-42a7-9dfc-091096629a7f
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: c1bc1ac9-7111-4922-9bdd-ecc027509851
       :name: Deal
       :segued: false
-    - :uuid: e315461e-fb35-4e2f-833f-19639fe64e5c
+    - :uuid: fc005ce5-600c-45f8-91e3-69192eb759ee
       :name: Big River
       :segued: false
-    - :uuid: 32961c21-c186-4859-b9a0-5c824d68b9b2
+    - :uuid: 26e73827-c4bc-43cf-beaf-180752cf6002
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 3d5a9bb2-21e6-4495-9dad-8a7b0185a18c
+    - :uuid: d45e5f16-c83c-43f6-af61-31c6637ee482
       :name: Playing In The Band
       :segued: false
-  - :uuid: 625fc796-f7dd-4384-a76b-aa3325f079e1
+  - :uuid: 757c84f4-94ee-41ca-95f4-c22c0a573536
     :songs:
-    - :uuid: 2831f579-0b32-49a8-9da5-03ebe916c121
+    - :uuid: 28e97e09-82d6-4863-b25e-01d5b77f5723
       :name: U.S. Blues
       :segued: false
-    - :uuid: f76e0e84-bab2-4724-83fc-ef7f1d62f24c
+    - :uuid: 8de5c2ff-bc10-4fc1-bd3b-b9985a28ba01
       :name: El Paso
       :segued: false
-    - :uuid: c0f88aab-0e60-4df8-8e62-92778c38cb28
+    - :uuid: b1f1b05a-d53a-4abf-98fd-4c1aba2515b5
       :name: Row Jimmy
       :segued: false
-    - :uuid: a3356648-3a16-4a62-87b4-f7f06bed3802
+    - :uuid: a062d7f0-8d8f-44b2-90f4-7adcb35ffbc1
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 04bec02f-8dc1-44a6-a44c-5fcd5f54f72f
+    - :uuid: d2d1793c-5f2a-4b68-bde6-b5f14ba45fc4
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 9d7e2773-4131-4f56-a7b0-d6e6fb6505e6
+    - :uuid: 15462e3b-fb68-46ed-a985-e76a22be8b57
       :name: Let It Grow
       :segued: true
-    - :uuid: d9dc190b-971d-4f0a-b716-4638b9d67a9e
+    - :uuid: de15877e-8679-404f-ab56-e52efe37bff9
       :name: Dark Star
       :segued: true
-    - :uuid: 08a13842-1e88-4add-b9d5-be3cc13249ec
+    - :uuid: d87a301f-7344-4af5-80e9-d6febcf7a570
       :name: China Doll
       :segued: false
-    - :uuid: 76582547-6062-42c0-bf72-cace7a050b5a
-      :name: The Promised Land
+    - :uuid: a68efee9-58f4-4ff0-8cce-0371295b1295
+      :name: Promised Land
       :segued: false
-    - :uuid: 6b4e2f4a-6f03-40a2-b299-923f8c328d11
+    - :uuid: ab35bfdf-11ad-4708-99be-d59b92b7fafc
       :name: Not Fade Away
       :segued: true
-    - :uuid: ffbca3e5-89b5-466a-b9b8-393d868e91b2
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 3a2e2aae-72d7-42f1-a60a-28911bb7b850
+      :name: Goin' Down The Road Feelin' Bad
       :segued: false
-  - :uuid: 14c1eea4-473e-4a33-ba5d-6538a5ebb232
+  - :uuid: a3819113-5025-42ef-9c22-773ede9a4f12
     :songs:
-    - :uuid: 5de26788-3873-4d68-bbc5-281bf56d4a67
+    - :uuid: 84d287ab-f5a3-4c5f-b62a-4a1e2fd9ef98
       :name: One More Saturday Night
       :segued: false
 1974/05/17:
   :uuid: 868fd3d8-bc88-4b7e-a5ee-fee8c7961bc4
   :venue: P.N.E. Coliseum
   :city: Vancouver
-  :state: BC
-  :country: CA
+  :state: 
+  :country: Canada
   :sets:
-  - :uuid: 99685474-efc7-436c-ac1a-b8c39b0b22c5
+  - :uuid: bbce6271-cd48-4d7d-8915-e95b8c649b94
     :songs:
-    - :uuid: 21c8f018-643e-4e30-8b50-3b6a00390ffa
-      :name: The Promised Land
+    - :uuid: b1d533d3-04d4-455b-9c7e-9c70d02e3eac
+      :name: Promised Land
       :segued: false
-    - :uuid: 673c00aa-f53c-4d05-8165-dd6e4c78bdf1
+    - :uuid: 35372734-f4ab-46b3-bf89-f3f1f95c94ce
       :name: Deal
       :segued: false
-    - :uuid: 02b1ea04-96f4-4b14-abf4-884ebdfdc8d1
+    - :uuid: 206e0dcc-598a-4c75-8797-063cc7bfc1f8
       :name: The Race Is On
       :segued: false
-    - :uuid: 5ac0b524-4b27-4dd0-b331-bced44c4e5f5
+    - :uuid: 4049bd45-dc0e-47ff-8a53-723cefc98fe0
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 7056bb6d-d2e1-4072-ba9f-5ddfd0057ed9
+    - :uuid: f6353e97-029c-49d4-9779-997fb8edb0d3
       :name: Jack Straw
       :segued: false
-    - :uuid: fd7f41b9-0ebf-4d0c-8b27-d46fecad82e4
+    - :uuid: 1c9ea8cf-f1ef-480c-815b-0d3849b1451f
       :name: Dire Wolf
       :segued: false
-    - :uuid: 873b268e-74ba-4893-8f59-5ea84734ca8e
+    - :uuid: 3718faa0-51d7-41c5-8a97-6bbe365690c5
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 20e3f055-0177-4fd7-9a49-1110925c26de
+    - :uuid: 48f864ab-9f75-4839-84c0-5ea360f98cbb
       :name: Loose Lucy
       :segued: false
-    - :uuid: bd307143-2e2d-4ed2-9dcf-2b8aec213e30
+    - :uuid: 57ca0e5a-3682-4bcf-847f-b93ee5d98ae4
       :name: Big River
       :segued: false
-    - :uuid: 0397f505-db21-4891-bae8-41f3797b1bf3
+    - :uuid: 23aae8de-f867-4411-b678-cb0ed541d8ac
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: a3010389-3215-4f67-ade5-76290a2c067c
+    - :uuid: c39e1d9d-082d-4910-8e57-d15158f7a6ac
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 038516b9-427a-4161-8846-0dac6e2ed8f1
+    - :uuid: 2c2bd1b9-19c7-45ae-b311-000e42c772e5
       :name: Row Jimmy
       :segued: false
-    - :uuid: ca68c54f-7f6e-4b14-ba69-10f2d3b03e35
+    - :uuid: 3602cbee-8a67-46ee-974d-0ab1b62993d1
       :name: Playing In The Band
       :segued: false
-  - :uuid: bda010aa-2afd-464f-9a98-b9d937a9e574
+  - :uuid: 3c1cf413-527c-4217-8eab-d6e915d2a472
     :songs:
-    - :uuid: cd3500c8-1bf9-4692-b67e-2a778e3537a7
+    - :uuid: 8995c38c-cf53-45b1-bd3c-6d6ed4d11694
       :name: U.S. Blues
       :segued: false
-    - :uuid: f1b2d5d2-c42a-4e5f-b474-ed9faf80ed75
+    - :uuid: 35c5c7c5-0129-4e34-8652-5e8b1db92221
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 654645c8-16ef-4f5b-a7a9-ce561f0074f9
+    - :uuid: bd0b76cc-b763-46f9-8763-ce4f6d342269
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 56638441-a1ff-435f-9bb4-c984feae7226
+    - :uuid: c080c918-16c0-4a13-b4cc-d1bc4a40bbe4
       :name: Money Money
       :segued: false
-    - :uuid: d4c2e426-0b67-44b3-ad66-b78169ce56d3
+    - :uuid: 967e807b-1582-4910-bf78-38d0794c17bb
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 6d4c986b-6f29-4f3d-a5d4-f9d28a5a8636
+      :segued: true
+    - :uuid: 6ecf0780-7f24-468b-a8ec-98945191a6ec
       :name: I Know You Rider
       :segued: false
-    - :uuid: 7ee2cd9d-baac-4362-937e-8a881d705ca4
+    - :uuid: cb6d305f-dace-42bd-9712-e5f105e32b20
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: d8fcb893-8d29-4714-aaf6-542c1aaa302b
+    - :uuid: a710778e-0802-4c06-9c0e-e2e69402e1dc
       :name: Sugaree
       :segued: false
-    - :uuid: 2f898aa5-8054-4725-acc7-100992612387
+    - :uuid: 1e51cbee-7b7d-40f0-9c3d-03a295cf9c22
       :name: Truckin'
-      :segued: false
-    - :uuid: 76502f7f-ab17-4f4f-8c47-a176e7fcb73a
+      :segued: true
+    - :uuid: ab01a517-6b54-4eb0-9ba5-83d0c9b21dd6
       :name: Nobody's Fault But Mine
-      :segued: false
-    - :uuid: c04f4b9e-6c3f-426f-a4c6-3c9f8caaa448
+      :segued: true
+    - :uuid: b147e95f-47f7-4626-a92c-998d4f34d837
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: ecac0c35-35a8-4839-aa0b-375110bd06b2
+      :segued: true
+    - :uuid: 15de78e0-8c62-401c-89b5-44a79ab7818e
       :name: China Doll
       :segued: false
-    - :uuid: dbb5254f-da82-4a23-828a-170eb2899c2d
+    - :uuid: 9e005f62-9667-454e-b9ea-f8a37a3580f3
       :name: Sugar Magnolia
       :segued: false
 1974/05/19:
@@ -667,358 +703,358 @@
   :state: OR
   :country: US
   :sets:
-  - :uuid: e1663311-b1c0-4c4f-bab5-ea69dd7489c0
+  - :uuid: 4deb2695-b416-44b7-ac54-c919c4d018c9
     :songs:
-    - :uuid: 230e28e7-b794-406f-a638-514bc7ea2abc
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: 3f492410-894c-4afc-b664-4a2b988cfd2a
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: 9026b3a5-e91a-48a0-907e-74b9da96abf9
+    - :uuid: ff99926f-9c5f-4f53-ac11-fd493735a03c
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 50b33364-7f6d-4833-9d17-b31e9d1db9d6
+    - :uuid: cea3f6b0-a8c7-4124-b836-512b19923144
       :name: Big Railroad Blues
       :segued: false
-    - :uuid: 9f62e48e-e5e6-4cc1-960d-aae0780f1cb1
+    - :uuid: eae7ed75-3440-4415-8cd7-a1857d16738f
       :name: Black Throated Wind
       :segued: false
-    - :uuid: e4791cea-9a8e-4f10-82b2-622907ddf507
+    - :uuid: 74d8efdc-990d-49eb-8fae-e96c2185d436
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: e4c7b2f5-2c46-4256-a408-67ee71a9e028
+    - :uuid: e0162c0b-1d37-4a67-8fa5-482e5515d43f
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 829db742-5347-4e14-a722-8222271131cf
+    - :uuid: e21ee999-e9f3-433d-8860-8d57b46acd3a
       :name: Tennessee Jed
       :segued: false
-    - :uuid: e6fce151-66d7-4271-8fd4-887da229168a
-      :name: Me And Bobby Mcgee
+    - :uuid: 18514e35-c5e8-472b-b723-1d8bcde875b2
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: 35d3607f-15ee-460e-b90a-ba0d9652a56a
+    - :uuid: e5b6fdf8-85ab-4e2e-bee7-877c98648128
       :name: Sugaree
       :segued: false
-    - :uuid: f67f6204-08de-40bd-859a-08ebd7233696
+    - :uuid: d3e80989-7a4f-432a-9e9e-ac3afee2b8de
       :name: Jack Straw
       :segued: false
-    - :uuid: 95fdaaf6-2361-412d-be26-81bb04f41c46
+    - :uuid: 889b189e-4c39-4ea3-b269-2272fc9daf87
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 2bf8e64a-69c4-4945-977c-f640e165a145
+    - :uuid: 382a4208-c19a-4b87-b795-a0c249690c80
       :name: El Paso
       :segued: false
-    - :uuid: 7a39723e-8be3-46ff-ac98-6900ddf15597
+    - :uuid: db2ac093-ae90-4223-afea-b4df67dbb07c
       :name: Loose Lucy
       :segued: false
-    - :uuid: 72076f8a-843d-4258-a5c3-0f678ba91faf
+    - :uuid: 52a7d700-5df7-4570-b6ba-6ace6a09bf82
       :name: Money Money
       :segued: false
-    - :uuid: 7fdf92ee-77df-48c7-be5d-c47826ad2749
+    - :uuid: bb2d8138-41ca-4cda-9a93-c493dc0c6c46
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: 02fa4241-11e2-4851-9725-beb26582dbde
+    - :uuid: 8a2d09fa-1056-496c-9cba-07d9b53856ce
       :name: I Know You Rider
       :segued: false
-  - :uuid: 3688cc66-3682-44bd-9f11-d1b7a633107f
+  - :uuid: c3609752-7ea7-4495-8916-6447ab51be40
     :songs:
-    - :uuid: 0639b7e3-610e-477e-97d6-17518a0c97b1
-      :name: The Promised Land
-      :segued: true
-    - :uuid: 9e105f39-b85a-4c44-8104-786b1a64a814
+    - :uuid: 660bcc01-2750-4a9d-8034-ed578b011e4f
+      :name: Promised Land
+      :segued: false
+    - :uuid: a349212f-ba87-4e04-aa45-d7653fab8c78
       :name: Bertha
       :segued: true
-    - :uuid: 07cc54f6-7a0f-4ac5-8106-e334994a24bc
+    - :uuid: 8fb7ba7e-bc4b-41c3-aa49-3a2227746c34
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: a7df77e1-c39e-44df-91ea-723506a200f9
+    - :uuid: 8d89407d-289a-4125-96d1-9d82fda88d65
       :name: Ship Of Fools
       :segued: false
-    - :uuid: e79c3814-b760-455a-83ce-14ebfb9f7e6d
+    - :uuid: d8693551-56bd-42a8-89a4-be6d0e193a61
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 28252b3d-69ac-4387-af9f-f615764467f4
+    - :uuid: d9dd3738-e16d-4f8c-a55b-ec9ea3766261
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 0ca9a2f9-abbb-464a-b750-e13c8a747f9a
+    - :uuid: 37a0f731-aec2-4cf6-8f8a-e9c790a12358
       :name: Let It Grow
       :segued: true
-    - :uuid: 620be3bd-bc8c-4696-b61f-552a1e0bfcd9
+    - :uuid: b34b55c4-5227-47db-b215-82453fdb1ca6
       :name: Wharf Rat
       :segued: false
-    - :uuid: 96c530ca-b375-4ebe-b345-51d61940ca6d
+    - :uuid: 1ecad59b-d974-4eba-99c2-b7ff1fe773a3
       :name: Big River
       :segued: false
-    - :uuid: f712aa39-8307-4144-8f82-97a3c95c79eb
-      :name: Peggy O
+    - :uuid: e89933be-fe78-422a-8b86-7c48d2a95eda
+      :name: Peggy-O
       :segued: false
-    - :uuid: 62d45e35-d238-425d-b9a5-813f227f4d3c
+    - :uuid: 5ae00459-8cd2-42a3-8d3e-47b7cc2b9308
       :name: Truckin'
       :segued: true
-    - :uuid: 4c29dcd9-8f1e-4023-83d0-2eadc63aa2f3
+    - :uuid: 98d1aa61-45a1-490a-8bfe-2c90de33cb5f
       :name: Mind Left Body Jam
       :segued: true
-    - :uuid: 39b93b29-cc3a-432f-aef9-b2cbfc3e1209
+    - :uuid: ef03e578-55d6-443e-aa88-b2b991cf9c41
       :name: Not Fade Away
       :segued: true
-    - :uuid: e781ee78-04e4-4df9-94c2-972c5336f300
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 0fb2334c-34cc-4527-aa40-86172c7b94c4
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: 4833433e-3f9c-4923-8482-e078d481e66e
+    - :uuid: eb866459-b3c7-48dc-8753-731cbd53fd9a
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 7a7d24db-dfea-4fdc-b828-ffbfd0010351
+  - :uuid: bdf82be0-5ccf-4278-bb25-6a2460b38f7d
     :songs:
-    - :uuid: 42a5c033-a58d-4654-bd73-604e3245e5ed
+    - :uuid: a5516030-7f08-4241-8c54-b5ee1478f325
       :name: U.S. Blues
       :segued: false
 1974/05/21:
   :uuid: dce4303b-3661-4b45-9128-e9b0d03dfc33
-  :venue: Hec. S. Edmundson Pavilion
+  :venue: Hec S. Edmundson Pavilion, University of Washington
   :city: Seattle
   :state: WA
   :country: US
   :sets:
-  - :uuid: 6e615e9e-f01f-421b-8acd-d4ed7ebd7c0c
+  - :uuid: 028acf5f-841c-4c79-aaae-4507a5a11873
     :songs:
-    - :uuid: 4705ee31-2fb4-474f-92ba-94332a8656ce
+    - :uuid: 28fefcfc-6186-41e6-a606-63fb14991da2
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 7c000c64-277e-4069-a077-7eb58712a6c8
+    - :uuid: fe403477-3720-4ff0-8403-1c60e1abb553
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 422aa908-fffd-4650-9456-4579b9e37e45
+    - :uuid: 2b277a0a-2a42-41af-91bb-98fec926f509
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: b1ba02b9-41b1-4c02-9e46-410d806a2471
+    - :uuid: d72591dd-5f47-48c6-b112-eab6fa62b994
       :name: Deal
       :segued: false
-    - :uuid: e3749d08-348c-4623-844f-30eb029e8df0
+    - :uuid: e4c0b626-f6e5-46c0-b829-00cb8d5ca4e1
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 0cfd8f09-89c4-43bf-bd61-28f62938a776
+    - :uuid: 71fcc04b-e05a-47f9-9735-0034008f32b2
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: e0c8b353-b98a-4ac8-ae17-2633b8adbcaa
+    - :uuid: 4e8d9c82-3d64-44b0-a8e4-4320c25f6ca7
       :name: The Race Is On
       :segued: false
-    - :uuid: 14963cbb-6b50-4f78-a6f4-8987a62d895e
+    - :uuid: d5281e2a-9236-4973-9247-768245e2a651
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 9ed946a7-0c76-4d10-84f3-c817c3db9d99
+    - :uuid: 0bb0878e-6e12-4324-aead-e8634a943673
       :name: El Paso
       :segued: false
-    - :uuid: 0f01a3e1-98fd-441d-92d7-b9178a78f7c0
+    - :uuid: a5f4156e-8ced-4c44-a303-9df4a5bbb59e
       :name: Row Jimmy
       :segued: false
-    - :uuid: 3a75bc05-963a-4c97-9e57-f14bae8ef4fd
+    - :uuid: 744ff97a-995c-4a73-a57a-d018e0f469e9
       :name: Money Money
       :segued: false
-    - :uuid: f2aae37b-a7c0-487e-bd28-de4474ed0cdc
+    - :uuid: 088fc8a1-bfea-4b26-81f7-6b6b25584bdf
       :name: Ship Of Fools
       :segued: false
-    - :uuid: a39b3fe4-79e4-43bc-803a-876363ed4872
+    - :uuid: e9b49b9a-4e72-4dc6-8ceb-1b99b131697e
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 1c5c0ce7-734e-4317-87d0-cc23e917b3e5
+    - :uuid: 11a2607c-48ad-425d-87cc-8b4f69545f93
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: a02cda8d-cbe9-42b2-871d-2e10b3a1101f
+    - :uuid: 9c916eb9-e1f2-4c10-b4d4-369d668588fb
       :name: Let It Grow
       :segued: true
-    - :uuid: 9068deef-928b-4747-9e57-5e623f5c96fa
+    - :uuid: b31f5503-5e3f-4f81-927a-6f5772179c4e
       :name: China Doll
       :segued: false
-  - :uuid: 7faea2a4-cce0-4302-a475-5e6adc989fea
+  - :uuid: 380c7d7d-ae71-4b39-b163-87b9e47e6abc
     :songs:
-    - :uuid: b8097373-0bd6-45e4-97cd-fb0a828efe35
+    - :uuid: 3b819e09-a131-4581-a338-bbefe37c559b
       :name: Playing In The Band
       :segued: false
-    - :uuid: 4bf36050-4bde-4439-a84e-4a43cc9829f3
+    - :uuid: 97c7368b-eca7-4a27-97c2-2b04606b731e
       :name: U.S. Blues
       :segued: false
-    - :uuid: 967a556a-4562-420e-bac2-64f975526856
+    - :uuid: 30fd30ed-3c14-4b9b-871d-798242dbccfd
       :name: Big River
       :segued: false
-    - :uuid: ba28d426-90e3-471e-8072-a25e5eeceb9a
+    - :uuid: cc71f32d-2de6-4e22-b5d7-830af1baeb32
       :name: Stella Blue
       :segued: false
-    - :uuid: 7e9625a3-40a7-496c-ac48-6a18c670e348
+    - :uuid: d8b9409d-0aaa-405f-a501-c930e828f5d5
       :name: Around And Around
       :segued: false
-    - :uuid: 5514080d-a299-457b-8a78-0bc69d9b1246
+    - :uuid: 0132b121-67da-4659-ae98-4e251b44a6a7
       :name: Eyes Of The World
       :segued: true
-    - :uuid: 3778ad18-1087-4a08-aa6b-48b20102d6d3
+    - :uuid: 0a714d98-0cc6-4beb-ab30-7fbd9e6e9b5d
       :name: Wharf Rat
       :segued: true
-    - :uuid: 68404df6-cf1b-4bb9-8254-0119a36e9970
+    - :uuid: ec3f8d72-3742-4aa9-9a0b-aafc29cc13cb
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 4698bb4f-49f6-4ed8-927b-7f026dd81a1a
+  - :uuid: bbd40846-86e8-4ca2-a91c-750612b9707d
     :songs:
-    - :uuid: 6a004022-f790-4aa7-9ab7-0da8f70c3b76
+    - :uuid: 24f5ddaa-d0a7-429a-9388-c2503cecb699
       :name: Johnny B. Goode
       :segued: false
 1974/05/25:
   :uuid: 01fa745a-bac8-4569-9651-21b643173902
-  :venue: Campus Stadium
-  :city: Santa Barbara
+  :venue: Harder Stadium, UC Santa Barbara
+  :city: Goleta
   :state: CA
   :country: US
   :sets:
-  - :uuid: 5329d855-1e3b-412e-b2c6-b9ee6d3c28ce
+  - :uuid: 0046a033-c682-471c-bc52-f2ce1f6a891e
     :songs:
-    - :uuid: 913f44d7-dd71-44dd-87b1-84daa30bc0bd
+    - :uuid: 1b328759-c970-420b-9cd3-16a89de6c74e
       :name: U.S. Blues
       :segued: false
-    - :uuid: 6abdcdd6-c5ff-483e-851b-b377d8cb6c5d
+    - :uuid: 196c2cd6-1b30-4f83-b75e-f123e437f9b6
       :name: Mexicali Blues
       :segued: false
-    - :uuid: f5c08dec-d2f9-4bd3-9ab8-e17c9e697a79
+    - :uuid: 501e1369-2ee4-4607-895c-18d07f1588b8
       :name: Deal
       :segued: false
-    - :uuid: 3b0c97f9-91e0-4560-86fc-ca9f7c6cae90
+    - :uuid: c8f8eedd-745f-413c-a328-9427c342401d
       :name: Jack Straw
       :segued: false
-    - :uuid: 4bbec783-5e37-41e5-9bf7-53ce14723411
+    - :uuid: 87b542c0-b618-4d5c-bc80-836a0be72e96
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 1a723bd0-325d-4a47-ae45-139556680001
+    - :uuid: 22fdd9fb-939b-4428-ab64-701b24c0be31
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 98c5851a-9629-41fb-a988-3a5aa3cbb24e
+    - :uuid: 8189eecb-0982-42c8-af0a-ad4951f5d76b
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: ad784dda-1301-4883-9b94-a15a26e975f0
+    - :uuid: 59e7c522-9c0b-4e45-9a97-14a1d8b09ce5
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 9a35b29c-a30e-430d-b47b-933dee2f444e
+    - :uuid: dcfda36e-e7dc-461f-acb7-0aacd7d72df7
       :name: Sugaree
       :segued: false
-    - :uuid: b7e79507-d6d2-41df-b127-f783acdbbf72
+    - :uuid: 762471b8-8b20-4c77-a138-81fae2a7c8ee
       :name: El Paso
       :segued: false
-    - :uuid: 854d276b-72ac-4694-a486-305cd6a7a276
+    - :uuid: fa14d221-91b4-4ef5-abdf-cc47f643fa69
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: 18a72817-d139-4903-958f-8e016fbad5ea
+    - :uuid: 2ddce5c3-92f6-4548-87ff-458db2939cc7
       :name: I Know You Rider
       :segued: false
-    - :uuid: 3fbd788e-2b65-48be-88ba-ef707125a7ed
+    - :uuid: 742e6c60-04ab-4a11-b7e2-b0e687425491
       :name: Around And Around
       :segued: false
-  - :uuid: e0a3dab2-0917-422b-b3a9-843b2d6d179d
+  - :uuid: 4fd6d8f0-7633-442c-88d1-cc5817b1e6c8
     :songs:
-    - :uuid: 406ad306-5a40-47f3-be6f-c33cadd5b616
-      :name: The Promised Land
+    - :uuid: 09b4ae0c-106d-4135-8e2f-05053089586f
+      :name: Promised Land
       :segued: false
-    - :uuid: 21673385-7079-4501-92db-4cd4bdb4a554
+    - :uuid: 7585bdbc-4cab-4c18-958f-1fb08ebacbae
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 4cf2428d-7b60-43b2-b64c-b78efb5fac8b
+    - :uuid: 18bc9605-409c-4dae-a844-5f54014952e2
       :name: Big River
       :segued: false
-    - :uuid: 814a46b9-fced-41c6-bdf9-145b8364342f
+    - :uuid: bccf4d88-f113-4c3f-b87b-23709d7cf09b
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 02c9f5d3-41d2-457f-bee9-fc5fd3cf6f73
+    - :uuid: 7439667d-a4f7-4d23-89d5-0212e2924fa7
       :name: Truckin'
       :segued: true
-    - :uuid: d1d7b3d2-c0e6-4894-bef4-3b76b2b3c713
+    - :uuid: 4fc0836e-2bab-4e55-992c-a2e2b3d238c0
       :name: Let It Grow
       :segued: true
-    - :uuid: 54c2bc79-d18c-4f1b-a7fc-4d32c86155dd
+    - :uuid: 25315c4d-b5ca-4e05-b6a7-bac900e32685
       :name: Wharf Rat
       :segued: true
-    - :uuid: 2a184a8c-469a-417d-9bd0-5c6159a13688
+    - :uuid: 215d33ad-1125-4a12-880d-19a8f1f3007b
       :name: Sugar Magnolia
       :segued: true
-    - :uuid: 05cfef3f-e258-4cf8-961f-8f3ab171f596
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 3773d560-b571-443c-b8d2-c76268976c73
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: 51d32877-e2fd-42eb-97cd-aec52f6b168f
+    - :uuid: c4062546-9e2a-401a-9437-03040cb4c0d5
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 4ef83c9f-50f9-44cb-8937-551a524481aa
+  - :uuid: 99b20715-a756-4f7f-84c4-b92f9eac8638
     :songs:
-    - :uuid: 3848ce14-742f-4736-9fb2-19f6380341f3
+    - :uuid: 17c1ee5c-bb05-4ae0-800f-22009cc36809
       :name: Casey Jones
       :segued: false
 1974/06/08:
   :uuid: e2b73ebf-0524-4c01-96c5-ebcb3899866f
-  :venue: Oakland Coliseum Stadium
-  :city: Oakland
+  :venue: Oakland-Alameda County Coliseum Stadium
+  :city: Oakand
   :state: CA
   :country: US
   :sets:
-  - :uuid: 04101bfc-6cc3-47be-b728-d08b72c7c5f8
+  - :uuid: 8b121173-0ae4-465c-a3c1-e525ae09a21b
     :songs:
-    - :uuid: f6b01e68-599c-47ee-965a-3fcb44642bd7
-      :name: The Promised Land
+    - :uuid: ac34f28d-df3f-414a-9db4-afa128975ea3
+      :name: Promised Land
       :segued: false
-    - :uuid: 39f87ea7-8ed4-4452-8350-712c7329bf5d
+    - :uuid: 17e41522-50d3-4246-9e2b-fab209c14a96
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 7ae92b2c-abf4-40e1-9fab-397f5dbee973
-      :name: Me And Bobby Mcgee
+    - :uuid: 5a2a03bd-3c1e-4278-b0cf-735d2d7858da
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: c7e5984b-5f51-4c3b-a7c1-2f2c4cfeeb1d
+    - :uuid: f2382eed-04dd-4375-88e6-051c320dc308
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: ac6a96ee-eff2-4982-8703-13fd43db5ac0
+    - :uuid: 0257ed08-8506-4267-8379-5f777bb33b7d
       :name: Mexicali Blues
       :segued: false
-    - :uuid: b0c88688-8110-4459-9aad-33221f8cf247
+    - :uuid: 475727ab-900b-4f07-9768-129da71f35e2
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 65ecffb7-3370-4af1-84ff-a2b2e1688bad
+    - :uuid: f992fc45-88c4-41cb-ac98-b7341e261df8
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 09a7a0ba-b88b-4ea7-8d10-06fb61ebbebe
+    - :uuid: 6f66638c-c5d0-426f-b2c7-74400753bd1c
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 6eebafe0-baa7-42be-83c7-34ebff4e9d8b
+    - :uuid: e3b8c758-debd-41fa-a47c-69be53cf3554
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 7570dcea-8425-4ea9-9d5e-8bcc5b1b6f24
+    - :uuid: d9592682-c0bf-457f-8aa6-b06fcdea92fd
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: afa99d24-f50d-4c7f-b708-5291b536b844
-      :name: I Know You Rider
       :segued: true
-    - :uuid: 8aaadb56-927e-4d3a-afc1-414c9e2d406a
+    - :uuid: 84d18e57-886d-4c6b-a5e2-274f04d0c6d3
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 28490db7-927e-4abf-901b-d38fa133d903
       :name: Around And Around
       :segued: false
-  - :uuid: 07613c92-7a81-4c2e-9a20-874437b9104c
+  - :uuid: a85e23b8-173d-4f75-be18-bd079fca9db0
     :songs:
-    - :uuid: 952bbb21-7b04-4593-a794-ea9e6bcedb9a
+    - :uuid: 36a7e00d-5c9f-4807-bcac-3693ee4fe39f
       :name: U.S. Blues
       :segued: false
-    - :uuid: f57a633f-facd-4157-ac27-4b30f5ce59bc
+    - :uuid: c70506a2-34e0-428e-958c-4524b077540d
       :name: Big River
       :segued: false
-    - :uuid: 9101a7b1-e615-41b3-b04e-b82b3e6ef21c
+    - :uuid: a3a834b3-7435-490e-a0b1-64f08fd014a1
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 8e0ff915-717f-4089-90ef-8632e7b593e7
+    - :uuid: b5fadf52-e944-4527-a306-51ba9db207f3
       :name: Playing In The Band
       :segued: true
-    - :uuid: 67c73827-6fb5-4855-ae86-ad9145ad2f9b
+    - :uuid: 0cc22179-d5e8-4df3-b22e-921ab45e8c23
       :name: Wharf Rat
       :segued: true
-    - :uuid: 48b3e7f5-c222-4b62-a9e2-a1d6bc448c39
+    - :uuid: 6fa15af9-44ae-4816-901d-3abdd42f6a37
       :name: Playing In The Band
       :segued: false
-    - :uuid: 48fd18ee-6180-46e5-b510-682e825684b8
+    - :uuid: 1e9fdb34-6439-46dc-bbd4-cbd66425606e
       :name: Eyes Of The World
       :segued: false
-    - :uuid: cb214dc7-6941-4bf1-9efb-d19cf7fef9b9
+    - :uuid: f777019f-38d1-4a20-b73f-7358d4dd9ff9
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 754afa95-9b90-42fb-a6d4-82dec2c8dea9
+  - :uuid: 06857a42-6f1d-4a19-81f3-2877c196c298
     :songs:
-    - :uuid: c51a7ce9-a503-4635-9e45-f29840359b3f
+    - :uuid: 280050f1-0e5e-4344-90b5-9402e3216d49
       :name: Casey Jones
       :segued: true
-    - :uuid: e43dac52-2170-46f4-9c57-2f1775b2b0cb
+    - :uuid: 6aef2a30-0ca1-4143-98ec-599a09aa594a
       :name: One More Saturday Night
       :segued: false
 1974/06/16:
@@ -1028,96 +1064,99 @@
   :state: IA
   :country: US
   :sets:
-  - :uuid: 2451bbfc-6de0-42e3-a8c5-7e0cae29e37f
+  - :uuid: 03117fe1-4909-4b07-85c1-fab7bff5cdcd
     :songs:
-    - :uuid: f217136b-af8d-4871-94f6-0e34208bde60
+    - :uuid: 8f2dd387-b411-416f-8459-753285e48f45
       :name: Bertha
       :segued: false
-    - :uuid: 1fff3b2e-3e5d-4b36-b0eb-52c5e65fb445
+    - :uuid: 7f28af1a-ee34-4637-9db4-e9f6350a5e29
       :name: Mexicali Blues
       :segued: false
-    - :uuid: a1941bc1-f1f4-477e-be33-1d15afc6dbd8
+    - :uuid: 92b7c13f-da94-4bef-b7d0-78be8a3107da
       :name: Row Jimmy
       :segued: false
-    - :uuid: bd5863bc-b597-49dc-b89b-3c446a9c744d
+    - :uuid: 2229e8dc-c899-466e-b94e-017812c2ef7b
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 111a8a90-49fe-47cc-96e0-dc48f8e488bc
+    - :uuid: 3339a321-461e-4f41-80eb-09f5c4e42c24
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 4b402faa-3efc-48cb-8bac-d6e959042582
+    - :uuid: 8b51aecc-84bb-4cf5-ad78-036a35b62124
       :name: Black Throated Wind
       :segued: false
-    - :uuid: 3000733e-e5a9-43e1-927f-825d90ea5fb1
+    - :uuid: edafb0f1-280b-40b4-a9e9-1805a9b8dcff
       :name: Sugaree
       :segued: false
-    - :uuid: a1a202dc-7e6c-4ba9-9541-34b2cf8c1789
+    - :uuid: e1054679-9c28-4b07-bd49-834cf93afd22
       :name: El Paso
       :segued: false
-    - :uuid: a76a31f4-6c74-4040-bcb3-69bb09c59fed
+    - :uuid: c5c96c05-7f45-4149-84bf-811ab20ee6da
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: b14a0557-a6a4-43b8-9388-12f9d1f3b2a7
+    - :uuid: 24dbca2d-3867-4f87-bc9c-258f3f87c814
       :name: Jack Straw
       :segued: false
-    - :uuid: 3e7d5976-3a12-410a-b540-89538f10d384
+    - :uuid: 22142118-c81d-49c3-9a32-2856eaf6f2d6
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: cb3d7cc9-4a6a-4b82-bb66-6f57237b69f2
+    - :uuid: a24fd62c-5695-48f0-8012-ce2f21c7bd38
       :name: I Know You Rider
       :segued: false
-    - :uuid: df9ef0e8-e125-4d94-92b5-d2e688a7408e
+    - :uuid: bf0ad273-03b4-423a-b099-2b59b578ec49
       :name: Around And Around
       :segued: false
-  - :uuid: a52bbc01-3c61-440c-89db-1e3d2841c35f
+  - :uuid: 1020085d-8e2f-46d9-ad40-e0d5fccf8a1f
     :songs:
-    - :uuid: d631f264-737f-426f-8998-f5a4c096359d
+    - :uuid: 8f45d257-94b8-46de-83e0-06dddfd4b648
       :name: U.S. Blues
       :segued: false
-    - :uuid: 018a2e97-2e84-428b-bd19-91c59b2e619a
+    - :uuid: 6168a777-69a9-4843-bad0-0677bc984315
       :name: The Race Is On
       :segued: false
-    - :uuid: c69bc459-8154-4e67-9a7c-18c7785002bb
+    - :uuid: e0e6d95c-35bb-4c1c-ad74-bbc13eb2a0be
       :name: Eyes Of The World
       :segued: true
-    - :uuid: 5e6597c3-7678-4c8f-afd9-8aeff952aa33
+    - :uuid: 8ef1dbef-ef6f-4cd2-8902-5b186d1bb848
       :name: Big River
       :segued: false
-    - :uuid: 42bc45ea-f369-4ea9-bb1d-abd70071c2da
+    - :uuid: 0c636442-d934-4612-933e-4bf194cad4f7
       :name: Playing In The Band
       :segued: false
-  - :uuid: 90b0c5a4-8a23-4c14-b117-a8168662c938
+  - :uuid: f4a371ef-a4e9-452a-821b-3cd949f5a3b0
     :songs:
-    - :uuid: f5f2d99d-fdc6-4be5-ac13-4d6507b1c683
+    - :uuid: 0ddbe2e2-40a6-4634-bc86-746fe5de7a38
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 924178d3-8e52-4ac7-8d1f-a935e6e1229b
+    - :uuid: 68e2e688-8bb5-4a58-89cb-cea4a078bd0b
       :name: Me And My Uncle
       :segued: false
-    - :uuid: fee0fa09-6689-4806-8067-792a433e1c9b
+    - :uuid: 5608f68c-5588-4682-9bc6-fca7a0cd4390
       :name: Deal
       :segued: false
-    - :uuid: f986db90-b7a2-41eb-b07e-f3e9e374c7c8
+    - :uuid: cdb971ca-27ea-4f47-ae71-96e12dfad839
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 33285d9b-a6b9-4b19-b059-e8d7a323f0c2
+    - :uuid: 82859b2c-bae4-4b3a-b38b-f58899d448f1
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 32a1472b-b4d6-4009-880d-ebea1f41460e
+    - :uuid: 438db467-2c6d-4e65-adcc-cdf98759581d
       :name: Truckin'
       :segued: true
-    - :uuid: 53516f0c-afb2-4185-aff6-d00d7bd6ccb7
-      :name: Nobody's Fault But Mine Jam
+    - :uuid: 9b9ce92f-e6cd-48f7-8c90-56981309b8a9
+      :name: Nobody's Fault But Mine
       :segued: true
-    - :uuid: 2f975b5c-cb75-4cc6-8140-98d4f51bb855
+    - :uuid: aec523b5-2fd6-4730-8535-f4beb8238a64
+      :name: Mind Left Body Jam
+      :segued: true
+    - :uuid: 90ff201a-f976-47e8-adcb-a731fa8c0683
       :name: Wharf Rat
       :segued: true
-    - :uuid: ae4d676b-d75b-422e-99c7-83fa85159a76
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: be5d06c4-71da-4e5b-8670-b4c238c979aa
+      :name: Goin' Down The Road Feelin' Bad
       :segued: false
-  - :uuid: 48dd8448-7046-4ee3-bc6d-7f7295a2b1b3
+  - :uuid: 9da3c46b-3680-4837-910b-c2dabfb1b619
     :songs:
-    - :uuid: 29780bac-4a28-4170-9f67-d7106f36db93
+    - :uuid: c9acd91e-efe6-477d-8cbc-d55722bd9576
       :name: Casey Jones
       :segued: false
 1974/06/18:
@@ -1127,79 +1166,90 @@
   :state: KY
   :country: US
   :sets:
-  - :uuid: 1b8d97ce-6f6e-4cff-822b-c62755eeac38
+  - :uuid: aeb1b7d2-9752-4319-a49f-9259afe8d909
     :songs:
-    - :uuid: 431dc9a9-b785-47ca-bdd2-0e12e97615d5
-      :name: The Promised Land
+    - :uuid: b5e46531-6df5-4fee-9d08-40ca8685b4bb
+      :name: They Love Each Other
       :segued: false
-    - :uuid: 65fe6162-d561-46be-9402-04a312d68c5c
+    - :uuid: 545f03c5-430a-4549-8326-3ba5fa6ce89f
+      :name: U.S. Blues
+      :segued: false
+  - :uuid: 9ada97fe-9fb5-4a59-a426-240d818b19e3
+    :songs:
+    - :uuid: 4cbf518e-b791-4d64-8a4b-3caf125d25f5
+      :name: Promised Land
+      :segued: false
+    - :uuid: 831e8848-9c1c-4275-bb64-9224caa7dff2
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 708b1ff5-2021-46bf-bc97-317d15613f9f
+    - :uuid: 3f334f72-7ccd-4a3b-a0cc-64bec6ae33fb
       :name: Black Throated Wind
       :segued: false
-    - :uuid: b03c0f5d-2821-4e6b-ad71-bcc4e75648d7
+    - :uuid: 457cf384-e233-405e-8961-1de0bf209b80
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 8fe25e77-0851-4896-8742-6d686c7aeb56
+    - :uuid: 977581a9-8acf-4f18-9ee6-17a5ada97ae4
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: eb717898-90f1-4330-a8ca-181a021dedeb
+    - :uuid: 8d525174-22b5-455c-9486-e5a82aaafb75
       :name: Loser
       :segued: false
-    - :uuid: 2bce7cb2-9871-4333-95fa-d9e6971f072e
+    - :uuid: f7fa6a86-9797-4a94-9efa-89536871977c
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 78d5b2f3-5eca-4e38-8a74-f0646d737c90
+    - :uuid: 37e1944b-5e30-4368-afee-ff6990a24e10
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 68fb7f62-0b87-48b4-a1ac-572f351cbc8b
+      :segued: true
+    - :uuid: 1e826998-a234-49e3-b5b7-2145eb62c047
       :name: China Doll
       :segued: false
-    - :uuid: 62014ddd-3596-4b84-81c1-530d8e80e529
+    - :uuid: bd9fef13-434b-4ace-889b-d58e4c3fd21b
       :name: Around And Around
       :segued: false
-  - :uuid: 39d69701-db20-437a-b772-020aa1729f9f
+  - :uuid: 100bf715-6f2c-4863-875f-6f8a34ae4b91
     :songs:
-    - :uuid: c3f3876a-2abf-4e93-be44-051e1f70a1e5
+    - :uuid: f29a3f70-80ac-4af5-b232-259d09ee9ff3
       :name: Loose Lucy
       :segued: false
-    - :uuid: a126cf81-1411-4715-a51f-96e7c6ae1149
+    - :uuid: 106564d5-d9ee-4348-9f12-5de13dc80887
       :name: El Paso
       :segued: false
-    - :uuid: d25677b7-0278-4dc2-938e-7b935db09505
+    - :uuid: 7a6cb196-a58a-467d-b3c0-ba4f69f8ca19
       :name: Row Jimmy
       :segued: false
-    - :uuid: fd010ab4-d8ef-4af4-b9df-edbc16beada5
+    - :uuid: ad6286a9-47dd-4764-9a3d-6ad713f9db03
       :name: Weather Report Suite Prelude
-      :segued: false
-    - :uuid: 80841928-ed53-4ca5-820b-813a80f7dd18
+      :segued: true
+    - :uuid: c02bb3f6-ed83-465b-9b46-61bd7a218d9d
       :name: Weather Report Suite Part 1
-      :segued: false
-    - :uuid: 961152a8-511c-4a79-877d-d07d98de5168
+      :segued: true
+    - :uuid: 66820ac9-565c-4e54-8c13-a72d0f93ad6f
       :name: Let It Grow
-      :segued: false
-    - :uuid: 10739985-5599-4eb8-9820-c39a6d9e3bc7
+      :segued: true
+    - :uuid: 76ba352d-8584-4af9-b025-c67ee07b9954
+      :name: Jam
+      :segued: true
+    - :uuid: f4ecf10d-f9c8-4d84-bc3d-13f31558da9e
       :name: The Other One
-      :segued: false
-    - :uuid: e0c51e5b-54ed-4e4c-b0f3-f15ba6418046
-      :name: It's A Sin
-      :segued: false
-    - :uuid: e0b4f853-beea-4601-ae49-f740cd13fb7f
+      :segued: true
+    - :uuid: 08f89c2d-1118-4afa-9167-96f962fb8d4a
+      :name: I Know It's A Sin
+      :segued: true
+    - :uuid: cc426af3-71df-4e2f-a55f-cc83b3f8731d
       :name: Stella Blue
       :segued: false
-    - :uuid: 974d81c0-93d9-442d-8450-21740e59cc86
+    - :uuid: fee3dd12-7f04-455a-b049-33bae35f2249
       :name: Big River
       :segued: false
-    - :uuid: bf89f937-b9d6-4e7c-ac14-fd1989211246
+    - :uuid: 725ca5c2-4abb-4d6d-ac28-95848380d5f0
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 55113e5e-8eba-4b91-a87c-adb6d0427401
+    - :uuid: 73651f95-9c6c-4313-81be-d6b0c6bb16c9
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: a8325ba3-2b2f-411d-82ef-91b4b216eb08
+  - :uuid: 0e1d2c12-ec25-41c6-a3bb-dccde4820595
     :songs:
-    - :uuid: a12395b9-f676-4ed9-877a-e1cbb5dc20e8
+    - :uuid: fae129a5-a76e-484d-bfed-f0de0953ad5d
       :name: Morning Dew
       :segued: false
 1974/06/20:
@@ -1209,229 +1259,241 @@
   :state: GA
   :country: US
   :sets:
-  - :uuid: 408478ac-8a52-4a16-af4b-f4b11dc112ac
+  - :uuid: 70f13882-9ef3-4c62-bf10-f4239735ec76
     :songs:
-    - :uuid: 6b0916fe-91c0-439d-8238-186dee5a1a8a
+    - :uuid: 8804fb99-7f06-499b-934f-8e40a6b50a31
       :name: U.S. Blues
       :segued: false
-    - :uuid: 2fd8fb0e-e117-4578-b004-431f1a8e736e
+    - :uuid: 2670eb72-ee46-4b9f-a24b-44df217b5915
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 89eec4eb-0132-44c8-a9e4-4d0ba8841fd8
+    - :uuid: 93912df5-7354-4404-a7d7-eb1e91b2669a
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 9f6dbda7-861c-4f22-8ae9-6120661d4cc0
+    - :uuid: 97f23f68-af99-49ca-bd0e-8c9d71d46f94
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 6ee29685-4b66-4f57-ab57-074e3962e261
+    - :uuid: f95afff0-94e7-420e-b874-4a7af78ed452
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: d1123745-75df-4052-bcf7-3dc8a89e5baf
+    - :uuid: ddee51c5-9cdd-4c90-b69e-9eef3bf269c2
       :name: Jack Straw
       :segued: false
-    - :uuid: 0cf3ad54-1992-44e9-9641-a6757f2e8679
-      :name: Me And My Uncle
-      :segued: false
-    - :uuid: bac90906-9fbe-480b-9a0a-2ed6211dc2be
-      :name: To Lay Me Down
-      :segued: false
-    - :uuid: 9da96bff-5905-4de8-a1b4-51f6e30fc71a
-      :name: El Paso
-      :segued: false
-    - :uuid: da9061d6-11ae-4045-b551-a5658820b118
-      :name: China Cat Sunflower
-      :segued: true
-    - :uuid: 74a33456-1de4-476b-98e6-eb00f2db7103
-      :name: I Know You Rider
-      :segued: false
-    - :uuid: 378993bd-1a52-4557-83c6-44ee31b84901
-      :name: Around And Around
-      :segued: false
-  - :uuid: fb024a05-dca6-4447-adf7-372f357b1b5b
-    :songs:
-    - :uuid: f5fcd042-52da-49e0-aa65-97870bf31b22
+    - :uuid: e48193ad-679b-46e9-9648-161c8a505ce3
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 1054c0eb-041f-4256-96e6-8b5ac6e3f32a
+    - :uuid: 230fff6a-f242-4dc4-9f8f-3bf0d27dbf71
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 117873df-534c-4fbf-9fdb-baff88ba6ca1
+      :name: To Lay Me Down
+      :segued: false
+    - :uuid: 662eab81-4c5b-4530-99d1-8d10d8c45b66
+      :name: El Paso
+      :segued: false
+    - :uuid: 611eec0a-96d6-4949-a3c6-dd561634c8c4
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 29cf2cb1-5f35-4978-a562-1ebc0ed4d103
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 187ff630-4dd1-45d4-a28a-560879a9a450
+      :name: Around And Around
+      :segued: false
+  - :uuid: cb5930e2-ff99-4d13-868c-5f1361a43d2f
+    :songs:
+    - :uuid: 8c31cf11-4fbb-4637-9ba7-c955e92a6f03
       :name: Big River
       :segued: false
-    - :uuid: 377f44b9-8b2a-490d-aa12-8dc64dd88b3a
+    - :uuid: 71607537-5266-436d-99aa-bfbc415cec25
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 3fa00df0-dd49-4251-b415-3d0db322df26
+    - :uuid: f464a089-2d08-432a-a2cf-8d388c81b55c
       :name: Truckin'
       :segued: true
-    - :uuid: 8b8916e3-6bf9-4475-b3b3-1379d86af1f9
+    - :uuid: 78aa6e07-bddb-472e-8603-053ef169e9ce
+      :name: Jam
+      :segued: true
+    - :uuid: e341154e-911f-4eda-bb79-84c722896d61
+      :name: Space
+      :segued: true
+    - :uuid: bde49e8f-92b4-45a8-95b0-64414b41a19c
       :name: Eyes Of The World
       :segued: true
-    - :uuid: e8daf30d-3dc1-4ea2-9d2f-32f79dfd5e8b
+    - :uuid: 12fcfee8-ce71-4ed3-bd44-4c468d24e769
       :name: China Doll
       :segued: false
-    - :uuid: 462cd068-c642-4952-b446-960ce15229b4
+    - :uuid: e04ba570-e461-4f68-abbf-8e0c96a3fea1
       :name: One More Saturday Night
       :segued: false
 1974/06/22:
   :uuid: 8f7f802d-8ab7-461f-96e2-75c145ad98d4
-  :venue: Jai
+  :venue: Jai-Alai Fronton
   :city: Miami
   :state: FL
   :country: US
   :sets:
-  - :uuid: 26e34d45-d1a0-4709-8023-3ea5d0e1e4d5
+  - :uuid: f233a73c-9a7f-4a8a-8922-6481121e83ec
     :songs:
-    - :uuid: 1aa49bbb-3ede-4f8e-9f6c-d4a4773225ab
-      :name: The Promised Land
-      :segued: true
-    - :uuid: 108d96ab-4924-4dc9-aa2f-f2447313bab8
-      :name: Bertha
+    - :uuid: fefb953f-16c1-4aec-8e13-13e9e02004fa
+      :name: Promised Land
       :segued: false
-    - :uuid: d9268051-5e38-40db-bbfb-1e992b67bb3a
+    - :uuid: c787ffcc-9ebd-4659-b705-54ab8a05c4f7
+      :name: Bertha
+      :segued: true
+    - :uuid: 8aab07d4-701b-4e9a-9700-cf750e9cb06d
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 643ace8a-b79a-43db-8ef0-bc355a70dbe8
+    - :uuid: 3b7ef311-4253-4646-94df-c22609cce4e4
       :name: Deal
       :segued: false
-    - :uuid: 00b4e69f-d62d-4156-a8f2-867917e467f7
-      :name: Me And Bobby Mcgee
+    - :uuid: 30e2d226-eeed-40ce-aee4-abf23a5b6537
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: ec6bcef2-5efe-453d-97cb-7b47ef4e14d6
+    - :uuid: 0b8633ef-8bfd-4734-90b0-18e9311465c5
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 55108248-717f-4ef9-b7c9-cdf929d14ed6
+    - :uuid: a1a38bd5-875f-4cdf-aece-7d04621d8afb
       :name: Jack Straw
       :segued: false
-    - :uuid: 994652a9-6254-487c-9bd4-dd996b68b3aa
+    - :uuid: 3c029758-3fef-4eef-aada-e5f910002176
       :name: Loose Lucy
       :segued: false
-    - :uuid: 96076500-e7b5-47ad-a7c2-d4d24b397412
+    - :uuid: c9ac3747-9472-40a9-bee6-55afb64cb4f8
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 2daba236-612b-4e72-be20-c837dcf0cf1d
+    - :uuid: e5014a24-beac-4f7d-b192-8c228147585c
       :name: Sugaree
       :segued: false
-    - :uuid: 4d0fe520-4f57-46f2-bba4-4c7bf4e2df8b
+    - :uuid: 97f40066-1566-4fd1-b3f4-4eaf7335f234
       :name: The Race Is On
       :segued: false
-    - :uuid: e4371bcc-5acd-43b0-9691-932fc50b1b7f
+    - :uuid: 19db8947-db28-42d8-ade9-2d0eb25be53a
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 95273217-6bfc-4744-809c-c67492ebe134
+    - :uuid: 3f9e072f-a69e-4658-8769-3493ebbb30d0
       :name: Playing In The Band
       :segued: false
-  - :uuid: 569443ef-119c-4441-bad5-ce40703ada16
+  - :uuid: feea5545-b5a9-4542-9094-fb32efae4179
     :songs:
-    - :uuid: a08dda07-c531-4182-8fc6-b8f22e7ac220
+    - :uuid: 8c28fa3a-a306-4cc5-be65-787ccdca7949
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: 47a238ce-8892-4cdd-b30b-1b86e31ae461
+    - :uuid: 6e7c0120-4ccd-4b70-a9a1-ed5276faa7b9
       :name: I Know You Rider
       :segued: false
-    - :uuid: e06a0d92-9ccf-4207-b2eb-f1b5120b2a25
+    - :uuid: fbb06b18-5800-4e4b-950f-16b256f576ec
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 16e172a9-2442-457d-b125-1e2199ad3d0b
+    - :uuid: 1ac7fe50-3876-469f-88ea-932f61624dc7
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 6d6c0ea3-a5a5-4557-8d9f-5acfa8dd348a
+    - :uuid: 05af7969-4fd3-4624-9678-b5e8f26e3574
       :name: El Paso
       :segued: false
-    - :uuid: d7f220f0-0523-4a75-9e92-b61b9ecb70c7
+    - :uuid: 78d1040b-4bc8-432f-bb9f-dd832a0ff9d5
       :name: Eyes Of The World
       :segued: true
-    - :uuid: c34f79ec-e42d-4635-9159-c9b9e753b68a
+    - :uuid: f9f3f56d-2e9b-47e8-83a3-c0df1359525f
       :name: Wharf Rat
       :segued: true
-    - :uuid: c67f1794-dcfb-451a-b8ef-68550e2dad36
+    - :uuid: 901d0fcb-a8a2-4481-b171-a3dcc1d58a88
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 32e09bba-3bea-4078-8f40-5c6b6646a7ae
+  - :uuid: 96c3b0b0-6d5c-4cfb-9095-59fee6473b69
     :songs:
-    - :uuid: cb40bcd1-57e6-456c-b22d-894823147921
+    - :uuid: 0eb49e52-7285-4ee1-8ea9-fdb9d42fb662
       :name: Johnny B. Goode
       :segued: false
 1974/06/23:
   :uuid: aace8b5b-b84d-4dfc-a45d-90f99761ecc7
-  :venue: Jai
+  :venue: Jai-Alai Fronton
   :city: Miami
   :state: FL
   :country: US
   :sets:
-  - :uuid: 8f050c92-ad1b-4adb-bbe0-e5ed0f866698
+  - :uuid: 7df5b195-1bb3-4301-9696-bad4ea2ce012
     :songs:
-    - :uuid: 66c55bba-c3df-4f71-8b06-c90ff27fd21f
+    - :uuid: b23db3ab-bdc3-476a-af45-49752e13d142
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 21b4deff-3a89-42eb-ab8f-9b54686dd3c6
+    - :uuid: 125ca381-ffa6-4a86-879b-f86d1ee758d7
       :name: Black Throated Wind
       :segued: false
-    - :uuid: 5f930ca1-7a93-46d6-9737-422ef360114a
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: e2114f61-d736-47e8-9119-16237eca54a3
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: 2f31a5d6-71b6-4842-b60f-dfcbeb9fd3ef
+    - :uuid: 3bd9899c-039b-4a15-901c-e5e4ea69289a
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 98ca4de4-683f-4198-9d2e-66207fb307a3
+    - :uuid: e7cbf71a-fbd7-4aaa-99f4-772a3bd21fff
       :name: Row Jimmy
       :segued: false
-    - :uuid: 61fbb809-0ab6-4925-8f0f-12e6293e24f2
+    - :uuid: be1d8384-efbb-4925-9ef4-990eed852c7a
       :name: Jack Straw
       :segued: false
-    - :uuid: ea8981f9-2ff7-4373-98fd-8085d1fe9945
+    - :uuid: 5af0216a-8f82-42b8-bccf-a98ba7409376
       :name: Let It Rock
       :segued: false
-    - :uuid: 8ccd44ca-6969-4350-bdb9-d700052b77dc
+    - :uuid: 0be4fa5a-fdc6-445d-bec7-87874afb3835
       :name: Cumberland Blues
       :segued: false
-    - :uuid: c1b297bc-111b-48ec-a148-7c0ffd861874
+    - :uuid: 538ef271-c3e5-45bf-8f91-93c76ebb5e80
       :name: El Paso
       :segued: false
-    - :uuid: bbd68ac3-eb9d-4d0b-8ea2-1d3884dd9565
+    - :uuid: 6d7eeb95-0787-4be3-8dee-37fac60f2363
       :name: To Lay Me Down
       :segued: false
-    - :uuid: ee5ce48d-357b-42fb-9849-6a888f373549
+    - :uuid: b5aaa805-ba01-44ab-997a-8bc203736c74
       :name: Weather Report Suite Prelude
-      :segued: false
-    - :uuid: 925f02cc-6c6a-4541-822c-b910dcee1255
+      :segued: true
+    - :uuid: 644850c5-2c3f-4181-9b11-4a777f635cbb
       :name: Weather Report Suite Part 1
-      :segued: false
-    - :uuid: 3708bf7a-2d21-4505-aa51-b0bf6dad5d99
+      :segued: true
+    - :uuid: e68d2c5b-d766-4050-9690-b2aa29cc370a
       :name: Let It Grow
-      :segued: false
-    - :uuid: a65b3e81-58e1-4b7f-8adf-99bff5caf53e
+      :segued: true
+    - :uuid: 0a3b8453-f6e9-4842-bf4e-4bca63a5d32c
       :name: China Doll
       :segued: false
-  - :uuid: de88c668-8e61-45dc-9fab-71741ff4073c
+  - :uuid: 9b5c8e15-7b17-485d-ab57-740dedd442b5
     :songs:
-    - :uuid: b582212b-0250-4022-a4b4-523b76de45ca
+    - :uuid: f32fadb6-9e71-4b86-93fc-2227ae345d04
+      :name: Seastones
+      :segued: false
+    - :uuid: 01a2ead5-ca7f-4baa-bf98-2910781d6a22
+      :name: Jam
+      :segued: true
+    - :uuid: c5bbe758-6593-4b6a-9b8d-1932f2bfb19b
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 2a37b9dd-d044-46ba-a8d2-c45eb8d0fe33
+    - :uuid: 31f214e4-1983-4aa8-a3ce-a0d4fea727a8
       :name: Big River
       :segued: false
-    - :uuid: 6c5dd717-c97a-4c72-8b1d-66d5c2b9007f
+    - :uuid: 562587d6-61c0-46ea-84cc-a5550c1b1398
       :name: Black Peter
       :segued: false
-    - :uuid: f4c4b0ba-2d9c-47ee-af75-6720c9579a43
+    - :uuid: 833cbfd6-c5d8-40b1-8d28-6ec60e6183f2
       :name: Around And Around
       :segued: false
-    - :uuid: 3cad2cba-8002-4327-a1b6-4893002ba991
+    - :uuid: 31d14f8b-6c3c-4c1e-88c9-5b65b8e1ca32
       :name: Dark Star
-      :segued: false
-    - :uuid: 17b08452-113f-4f53-9629-8669d4ee97a5
+      :segued: true
+    - :uuid: 7de19369-1a05-410d-bf87-e2ea03fe3c59
       :name: Spanish Jam
-      :segued: false
-    - :uuid: 9104217a-a21b-4feb-a1ee-21c61d5eee10
+      :segued: true
+    - :uuid: e9ca7af3-72f7-4e03-b5db-c8ef1151c5bb
       :name: U.S. Blues
       :segued: false
-    - :uuid: 6dd24cb8-ed6b-447c-b76b-6f798aad3201
+    - :uuid: 26c387b4-67b6-4a4b-bc97-13a56bff38e0
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: c5a8eb92-fea4-4936-b0ce-ad31c6a1fea7
+      :segued: true
+    - :uuid: bd48d773-dcb8-4669-be60-f35851c747c9
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 5f4f7087-171a-485f-9395-c52f200a2b27
+  - :uuid: cdf61967-d09d-4c99-a903-1d10fd126dec
     :songs:
-    - :uuid: ecb49827-c3b1-47f0-b2c6-b2945ed0a78b
+    - :uuid: 3dd1aeb2-bbf0-4afa-880a-0d591242604b
       :name: Casey Jones
       :segued: false
 1974/06/26:
@@ -1441,91 +1503,94 @@
   :state: RI
   :country: US
   :sets:
-  - :uuid: 0c33d94b-f265-44c7-93cf-3c19b37b0f05
+  - :uuid: 74574b8d-d3b0-4cf9-8dcf-e3f59a8dd7c3
     :songs:
-    - :uuid: 44cd137a-e78c-4dae-ba7f-9cf19a06ebf1
+    - :uuid: 9b3409ac-5fc8-422f-b32f-bed86e3ea996
       :name: Big River
       :segued: false
-    - :uuid: a77e4302-dabe-49e0-a63f-04f93f7a7f8f
+    - :uuid: ba381fca-b9e6-461a-9e5b-30e43502c3f6
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: d6c58ec8-3b38-4c8a-9a7f-b3bade5c24da
+    - :uuid: 90001095-58e6-4940-b9cd-e732d0eb3eff
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 758c4aa8-95ca-425e-9521-d2402329c1de
+    - :uuid: 0b529493-e0bd-4a3a-ade4-4c6ec9a3d92a
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 79958186-1afe-4621-81fc-2fec671d0180
+    - :uuid: 7bc17a7c-5f02-4687-982e-94ab0a9dffd2
       :name: Black Throated Wind
       :segued: false
-    - :uuid: 92ee837f-08d7-423d-adfb-ca97c6d1ab80
+    - :uuid: 2cfd7125-81f4-448b-8a5d-d4415bc3d128
       :name: Row Jimmy
       :segued: false
-    - :uuid: b0e22d09-078e-4f6b-bfc4-39d1b5b6bbc1
+    - :uuid: 9ffc68a9-ee0f-4195-9b3c-871471830df3
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 88c47229-1df6-4db8-b97b-81e0414a6cf0
+    - :uuid: bebb6be7-f467-4ba8-ae8c-2f1b75bcc28f
       :name: Deal
       :segued: false
-    - :uuid: df20a38a-106c-410e-befa-d4b88a8d7ee6
+    - :uuid: fa910f39-57b5-452d-992e-80ee8ffe9084
       :name: The Race Is On
       :segued: false
-    - :uuid: 8c51a5c5-c28d-4830-8c54-ac5e96e600a8
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: 6b128d7c-3e77-4931-abd8-5d62cce20697
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: a5c4a9e8-2862-4c6a-bc50-5840000d610b
+    - :uuid: f27b3eb3-9700-4202-9d07-4c9a253feeaa
       :name: El Paso
       :segued: false
-    - :uuid: bb00c297-2805-476b-8831-3a058ad72ba6
+    - :uuid: 39c774c7-717d-4cc4-ac5a-2dd698b2c8c9
       :name: Ship Of Fools
       :segued: false
-    - :uuid: f1802760-1e47-405b-8d6f-35b3ca4fac67
+    - :uuid: 267ea6db-2c2e-4a0c-ba02-11d2ebbbc0dd
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: e509bd8e-7ee5-4088-8b09-eaadd7813ff5
+    - :uuid: fef82697-6e10-490c-a0f4-cac6c08758d8
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: bda2c1f7-b963-4e2b-90d1-c9271d64bd7f
+    - :uuid: 36a1ebdf-4b88-47b2-b7a3-e808e1f252cd
       :name: Let It Grow
       :segued: true
-    - :uuid: 2ffbf1c9-9caa-4e08-bc69-4c8dc0030447
+    - :uuid: 0936eeff-461a-40c8-bbc6-2bc7480e9ea6
       :name: It Must Have Been The Roses
       :segued: false
-  - :uuid: 1064c821-c076-4488-a118-a0c5899f6494
+  - :uuid: b39660aa-f54b-4497-a62e-b31c0761f483
     :songs:
-    - :uuid: 06a795fd-1bdd-42c6-871d-7e1b60b66f37
+    - :uuid: 9c8906f1-1618-4b9e-81cc-a2cbba65fe6c
+      :name: Seastones
+      :segued: false
+    - :uuid: e314f0a0-3284-4cc8-845b-ff671303f897
       :name: U.S. Blues
       :segued: false
-    - :uuid: d6fb564a-26a2-470e-8c30-b1c148d297bc
+    - :uuid: b844b915-d2d0-4ed4-bfc3-0e6cb1a742ee
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 8474d055-1759-46f3-b9c1-f05ffdec9411
+    - :uuid: abea1f28-fddb-4878-9dfc-06d4edaffa5f
       :name: Jam
       :segued: true
-    - :uuid: 66896efa-6c9b-4a89-9dd6-413e1df0c645
+    - :uuid: f060f835-378e-41ca-8ce8-12522dda451b
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: ad3f5ab5-7621-4794-b7da-bcf4e5cd1c1f
+    - :uuid: c55beeea-e966-49ef-9d57-75ddbe1946f2
       :name: I Know You Rider
       :segued: false
-    - :uuid: ec816a19-2ab1-47bc-a695-8080ba170bb3
+    - :uuid: ed83d641-ded7-4652-a12a-fdfd4f714d82
       :name: Truckin'
       :segued: true
-    - :uuid: 1d6ab132-d8db-4889-8796-7ee8a11b1a35
-      :name: The Other One Jam
+    - :uuid: e75c81ed-cecd-4ea1-bc49-ec62cdcd1362
+      :name: The Other One
       :segued: true
-    - :uuid: a8b789ff-3f12-4269-bf47-5877db5aa415
+    - :uuid: c0104d92-2e12-458d-8867-2718f07b7beb
       :name: Spanish Jam
       :segued: true
-    - :uuid: 0590570f-642d-4539-9e8e-45cab3fa5cca
+    - :uuid: 96954f8b-005b-4947-a129-62de2fbe2d54
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 2846da79-c2e7-4965-9dab-f91a24bc52be
+      :segued: true
+    - :uuid: 9916d1f4-74b3-4ef7-9a6f-34a74c273d90
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: b8075dad-1e38-4e7d-9bce-63c6603c3a41
+  - :uuid: 704ee97c-e7ca-4dee-97ea-ca6c11e43f1c
     :songs:
-    - :uuid: feffb293-ecc0-4c4e-9321-7ce4bf371315
+    - :uuid: 48586f55-11fa-4f07-a1d1-93904a550c5f
       :name: Eyes Of The World
       :segued: false
 1974/06/28:
@@ -1535,102 +1600,94 @@
   :state: MA
   :country: US
   :sets:
-  - :uuid: 8f194e74-d04f-4806-9740-3fccd06cf13b
+  - :uuid: 95654f56-fe7c-428c-9ba4-bb02026f5618
     :songs:
-    - :uuid: ac2a3950-c818-4179-863a-91e0c50ef92a
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: f8d1bf5b-0140-4b72-b60a-7eae7585026c
+      :name: Mississippi Half Step
       :segued: true
-    - :uuid: ac2df9df-d568-457e-a30e-efe6f58865a5
+    - :uuid: c5e5fb24-94b5-401e-8eeb-2969231a95a6
       :name: It Must Have Been The Roses
-      :segued: false
-    - :uuid: 832b62c7-de05-4a8c-990a-91acc8ff7061
-      :name: Jack Straw
       :segued: true
-    - :uuid: 84064331-49f4-4153-b3d1-e8e35c91b52d
+    - :uuid: a15491f3-3aa3-4dea-8c82-28fc9aa4ab52
+      :name: Jack Straw
+      :segued: false
+    - :uuid: febec491-219e-4b8c-8218-f4b310eaab6f
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 9c3c0d70-09c9-4065-b524-96f685fa4bac
+    - :uuid: b4eefd3f-eab5-4f8b-b212-82cab545607f
       :name: Deal
       :segued: false
-    - :uuid: 08fef8e6-9d75-4213-9d86-efbe10a80360
+    - :uuid: 7dc2fad4-63da-438e-a90c-f3e21990d8ad
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 4a23d973-294d-4072-8151-fbbbaf318cb5
+    - :uuid: 2a1f745f-e6f5-48c5-81e9-344979080aed
       :name: Tennessee Jed
       :segued: false
-    - :uuid: dc452272-f339-44c0-b35b-6b882750bee6
-      :name: Me And Bobby Mcgee
+    - :uuid: e929bfd7-1e99-4b38-b515-633e912eb7ee
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: e86c5201-e83f-4fc8-8c03-be8ede5654b1
+    - :uuid: 11f23ff9-c371-4c0a-a139-c435204042ed
       :name: Loose Lucy
       :segued: false
-    - :uuid: f8dccb0e-3f1a-4856-9508-06444a2514e1
+    - :uuid: 8407fce2-9df1-4acb-b807-b0700543bf75
       :name: El Paso
       :segued: false
-    - :uuid: cef00794-4228-4b28-b0c8-187d9d4fcc52
+    - :uuid: 6ecf9d19-a6e7-4603-8b10-44baff9572a4
       :name: Sugaree
       :segued: false
-    - :uuid: 0b44f0e8-5254-495e-8680-9ee8ba22da96
+    - :uuid: 43b498be-f638-4d12-9ba4-1484714c07e9
       :name: Around And Around
       :segued: false
-  - :uuid: 85b9c13c-5772-4a5d-912f-674b8aab52e6
+  - :uuid: d062fa04-6742-4acc-b2a8-92c6fd6d2f70
     :songs:
-    - :uuid: b4e6e3b3-eea4-42cb-88be-37c19bef309d
+    - :uuid: 4950b031-b720-47fb-992c-a5f6969e718e
       :name: Seastones
       :segued: false
-  - :uuid: bd918f91-0603-4f46-9268-a8d7730f9ece
-    :songs:
-    - :uuid: 869905e1-db90-4cac-af70-283a05fb0c8c
+    - :uuid: 8bca063d-6f29-4785-ba4f-c492e5ea4b63
       :name: Sugar Magnolia
       :segued: true
-    - :uuid: 6fa7cb9c-654f-4242-83b5-3f81fd7b61b1
+    - :uuid: a52ddc65-e154-45cf-b9ca-74d766f1224c
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: f86b9294-0a3d-44ce-9ebf-a019326afc00
+    - :uuid: adcd694c-d54f-4aa6-8f74-ba70ed308595
       :name: Big River
       :segued: false
-    - :uuid: fec5cf03-def1-4060-9561-46e43fd1d91c
+    - :uuid: ec9b5dc6-2d2a-46b3-81c7-1bb348404a57
       :name: To Lay Me Down
       :segued: false
-    - :uuid: e47be082-5410-4c24-a15e-12e6a8dde6a5
+    - :uuid: 2a6ff935-8e60-40c6-99a3-c60d07d95dc6
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 7e62a54f-2c43-41f9-98d5-c288743f80bc
+    - :uuid: 88b9caf9-ad62-4a02-ac17-a29d4fa62c12
       :name: Row Jimmy
       :segued: false
-    - :uuid: 0e11143b-61e2-4494-9308-d439e7547129
+    - :uuid: c02d6212-9136-4c07-a27a-09656c4ebc4d
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: de2a8070-4e82-47d1-b2f6-2e1745b98b88
+    - :uuid: eb0df42c-7836-4cee-a52b-372484cbf1a9
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 09596bfc-bfa3-4ccb-974f-efc7d8a151f6
+    - :uuid: b5b93fc9-c093-4d4b-8413-fec7cac91956
       :name: Let It Grow
       :segued: true
-    - :uuid: 7aac2a4d-3c8d-44bd-83da-022a43b6e851
-      :name: Space
-      :segued: true
-    - :uuid: a1f1f32c-2b8d-4ad5-b9bc-d9a987c58620
+    - :uuid: 3ee96cdd-0661-4c27-80e0-0fc7a8cd3a1f
       :name: Mind Left Body Jam
       :segued: true
-    - :uuid: 837ad3c6-c103-4949-b9e6-0b9b47184b3f
-      :name: Jam
-      :segued: true
-    - :uuid: 43d44025-4532-43be-a968-4ec2b40c613e
+    - :uuid: 3a18a767-b854-4ff6-980c-174cbc2ca310
       :name: U.S. Blues
       :segued: false
-    - :uuid: 5ba50904-4ac0-46a6-b66b-a5ea4eee8e78
-      :name: The Promised Land
+    - :uuid: 815e9718-1a4c-4a5f-852f-6407fec0e21d
+      :name: Promised Land
       :segued: true
-    - :uuid: fb27aeb1-f417-44e9-8f88-295dadf1b63f
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: ad39617c-b9b3-4dac-a8b4-bd5274f88d12
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: 6cfe15fa-4fc7-4f75-a668-f56848edd459
+    - :uuid: 4d158e65-1ec9-44c8-a3ce-af651c6b2d96
       :name: Sunshine Daydream
       :segued: false
-  - :uuid: 03510743-3020-41e5-ad34-88f9b945562e
+  - :uuid: 3368d500-172c-4323-a222-ca5ef9d4f896
     :songs:
-    - :uuid: cbb1e902-49e0-411e-802e-5662feea9b20
+    - :uuid: 97376386-8b5f-45f9-9edb-da7b84e15e97
       :name: Ship Of Fools
       :segued: false
 1974/06/30:
@@ -1640,77 +1697,85 @@
   :state: MA
   :country: US
   :sets:
-  - :uuid: c176e5d0-96b7-4372-bbd0-b7428f89335d
+  - :uuid: 18259017-5ca8-4038-96c2-54fc0da49f7c
     :songs:
-    - :uuid: 0b150a01-4c97-455e-a372-383ff73a3a21
+    - :uuid: 0bc48c13-69dc-4f5a-b6ca-0c5cc76f27d0
+      :name: Ship Of Fools
+      :segued: false
+  - :uuid: 6b275e13-c560-41cb-9657-cc940a4c5305
+    :songs:
+    - :uuid: 19d4a4c1-9bfc-45b9-bcca-98fa2d7c16ac
       :name: Don't Ease Me In
       :segued: false
-    - :uuid: 299d78bd-da5d-41df-9e9d-84caaa821ab7
+    - :uuid: 451414a4-c8f6-4197-b37c-0f5c7194073c
       :name: Black Throated Wind
       :segued: false
-    - :uuid: f4af9f9e-565c-4820-a3bc-c449754059a1
-      :name: Peggy O
+    - :uuid: 0270592d-59a0-4b10-ab28-d7489d04e3bf
+      :name: Peggy-O
       :segued: false
-    - :uuid: 867f3296-1f1e-4bf0-9e09-a352f5b9acad
+    - :uuid: c3d563e5-3a24-4c74-8095-c03dcd760fde
       :name: Jack Straw
       :segued: false
-    - :uuid: 7beaa0d4-2670-45b8-bfc8-7384fc539e22
+    - :uuid: f7ff51bf-9277-4fe5-92c9-7ea8c7daf453
       :name: Loser
       :segued: false
-    - :uuid: cb8e871e-fafb-4157-a0a7-d35f322e9cc1
+    - :uuid: 4d921fe9-7efd-4417-aa58-5e6566f6cb11
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 691fe03e-4aad-4c09-bf64-716b5238e7df
+    - :uuid: bfd97a40-7595-401b-b1c6-106f36f757a7
       :name: Cumberland Blues
       :segued: false
-    - :uuid: 9147fb47-2946-42fc-8637-755ae701b307
+    - :uuid: 354c6b4d-ae8a-46dd-9c6d-3d9bc55e8ded
       :name: Dire Wolf
       :segued: false
-    - :uuid: 23cac9f9-c1c9-4fe1-8def-b72faae0bc8f
+    - :uuid: ecd248c1-2959-45e6-9b6b-60f541079f1a
       :name: Playing In The Band
       :segued: true
-    - :uuid: dce81b7a-a50f-403e-a20f-127df92d34c1
+    - :uuid: 79017aeb-d92d-4c4a-aa60-8d8445906b4f
       :name: Uncle John's Band
       :segued: true
-    - :uuid: 3e95cce5-688a-4ace-b3f5-f8e27f10b161
+    - :uuid: 74d92d51-a9e9-40c1-94ab-45cc6c5fca08
       :name: Playing In The Band
       :segued: false
-  - :uuid: 158f6223-8a14-4bd8-8234-5f28ed2b1135
+  - :uuid: ea2a7860-cc0b-4588-918b-500c88a3ab80
     :songs:
-    - :uuid: 2271e701-b3a5-4d77-9d2d-ff410141f406
+    - :uuid: 80e3d4d5-fe9c-4909-9900-a5a03add85a1
+      :name: Seastones
+      :segued: false
+    - :uuid: 759ff89e-3bfe-406b-bb5f-e3e71f8ff73e
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: 092c5ce0-8fbf-4887-8cf1-7826a87cf967
+    - :uuid: 7f37c7a1-c642-4f59-8902-a3ecc1c83093
       :name: I Know You Rider
       :segued: false
-    - :uuid: 26affa31-20be-4ed0-a3cf-b83cc3f96003
+    - :uuid: bfea7488-cdee-4a53-82bd-eb3e463f9ab8
       :name: Big River
       :segued: false
-    - :uuid: 2469034f-0738-46d5-abbd-191d2be41027
+    - :uuid: 91db21ce-9e55-403e-85cf-7b862888db7a
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 054b2048-64b2-41af-9f80-1f54e2c48a98
+    - :uuid: f267cf0a-1155-4ce0-b619-d3609337f0a8
       :name: El Paso
       :segued: false
-    - :uuid: c36f6cfe-d130-4566-92bf-e0dfcf49f99c
+    - :uuid: 4bc7891c-4f92-43e7-9c98-9b70c40d4727
       :name: U.S. Blues
       :segued: true
-    - :uuid: 93c109b3-ff25-4f2d-9c12-4cd520fd21ce
+    - :uuid: 89825e95-1a25-4acf-bd4f-123627462df4
       :name: Truckin'
       :segued: true
-    - :uuid: cc087e6a-4657-4189-80a5-997e9ca5dae2
+    - :uuid: 4725a18c-0e57-467a-a59c-1d06d2fe60df
       :name: Eyes Of The World
       :segued: true
-    - :uuid: 6b505857-e604-4b9e-aec7-039910a5cd6e
+    - :uuid: 45c8f0a3-a5fb-4ab3-9c3d-fa69f8be8545
       :name: Stella Blue
-      :segued: true
-    - :uuid: 22097a62-cad3-4f26-bf64-87596542fea8
+      :segued: false
+    - :uuid: 88472d61-8fb6-43f7-b0d5-4e4af49e6153
       :name: Not Fade Away
       :segued: true
-    - :uuid: ea0edaae-6d16-4b70-a18f-6641a1ddf1e2
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: b7521483-4ef5-4841-8e52-ba2c8759f2e7
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: a9469b0e-28e7-4417-a11f-a163b1d99031
+    - :uuid: aafd2671-2141-470e-bcca-9e682f74814e
       :name: One More Saturday Night
       :segued: false
 1974/07/19:
@@ -1720,156 +1785,162 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 5ac53026-afd2-47a1-8f93-be77b44beff6
+  - :uuid: a4525355-e91f-407d-a163-d91395b46d88
     :songs:
-    - :uuid: fa04fecd-346d-4192-9fa2-576afe2d3e48
+    - :uuid: aa77fa82-e2ac-41e4-9c5c-e755559e22f9
       :name: Bertha
       :segued: false
-    - :uuid: 991ba52e-3bd8-495c-9b56-6aec2ffe93c3
+    - :uuid: 0e651c3c-a28a-4822-82a0-1719d47cacb2
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 3df14aa0-312f-4e97-981a-931a9453b89d
+    - :uuid: 4122ae22-ad0f-44a8-95bd-808b8135687f
       :name: Deal
       :segued: false
-    - :uuid: 56a56b59-aaf6-4eac-9a5e-1738ab6d6fa3
+    - :uuid: ba6d4fa8-a80c-4830-a847-56ab8ab9cd5a
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 934e8f57-c38c-4565-8bcc-936ed4077cec
+    - :uuid: ec667890-14f3-4ef8-b14c-1518b33ee6dc
       :name: Row Jimmy
       :segued: false
-    - :uuid: 4fa83612-55c0-49e5-b762-f7fdedc5aed1
-      :name: Me And Bobby Mcgee
+    - :uuid: e0af17d8-08d1-4335-9a23-fee47bbc2bcb
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: c08d2012-9833-44fb-b6d3-02d521373edf
+    - :uuid: 06552c75-9ad0-4371-a2b1-8024687a78c0
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: d06d4ab5-57a2-4d17-9cd1-a503cbd4f5db
+    - :uuid: fe65c037-449b-47d5-9c32-645d1a8aef47
       :name: El Paso
       :segued: false
-    - :uuid: 8feffd11-d8cd-497e-8db7-50b0cd50028d
+    - :uuid: ac10689c-30ef-4b1b-841a-254285dda4f9
       :name: Tennessee Jed
       :segued: false
-    - :uuid: eca907bd-06de-4633-8fc6-7827f7946742
+    - :uuid: 8fe38baa-b2bc-4026-824a-ea14938d23b5
       :name: Playing In The Band
       :segued: false
-  - :uuid: b38c857e-334a-412c-b1de-5b109923dca6
+  - :uuid: d9cae5f0-f3fa-4935-92b3-f8f9afbfc748
     :songs:
-    - :uuid: e38fb00a-6d16-48e6-8d36-636887531a0b
+    - :uuid: de57e657-2e3b-4568-898f-5d4bf7de83e3
+      :name: Seastones
+      :segued: false
+    - :uuid: 858807ea-b209-4075-a2f5-0c6eee163fdf
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: ed79d6b7-5374-4f2d-9da0-0a9c83ce6adc
+    - :uuid: 47de1905-7c0f-4228-bf83-17432afd0d05
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 7be835e2-b921-42b3-8a1c-6830e1a81cf4
+    - :uuid: c01758a0-b5b5-4042-9aa9-901005b1910f
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: efbfc5ae-7c99-4c74-9a95-296ebf459174
+    - :uuid: 94ba6c9f-3c6d-40a5-aeb8-b11ae71303c7
       :name: Jack Straw
       :segued: false
-    - :uuid: 5c72374c-5d6b-4fa8-9b3f-7fa5f6e404b6
+    - :uuid: 4ce495d8-f868-42f4-a286-afd201e02ad5
       :name: He's Gone
       :segued: true
-    - :uuid: a97fd004-6ba2-4fac-aa5f-3cbdfc80b60c
+    - :uuid: fa88d9ac-2253-4a37-98ec-b00478692b3e
       :name: U.S. Blues
       :segued: false
-    - :uuid: e3e84005-d9c7-46ab-9603-4b7ab75805a4
+    - :uuid: bdfb6815-4fbc-4de8-b35c-66ed310c8854
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 15d6f0bb-eaae-4590-b43c-eacedea8c565
+    - :uuid: a15eeaba-cd8f-46a0-be2a-fdbd73e53498
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 5a9c781e-97e8-4826-b3d9-bdbff321d430
+    - :uuid: b32c62d8-0611-400d-8fba-ecb3332e4dd9
       :name: Let It Grow
       :segued: true
-    - :uuid: 58d17b77-9f11-4c24-b709-037fb4e72e57
+    - :uuid: 4bd11ccf-f12c-42b0-ae5c-a99e062147cf
       :name: Spanish Jam
       :segued: true
-    - :uuid: 6186a6f2-9aba-4ee6-971c-dc4b1b9c1038
+    - :uuid: a5a5ffe4-1f11-4975-9419-aef9dedda858
       :name: Eyes Of The World
       :segued: true
-    - :uuid: bdb72084-2544-4f2c-a970-e7f207ed7512
+    - :uuid: 820db2ff-49b7-4c04-87b9-8b250d549c9e
       :name: China Doll
       :segued: false
-    - :uuid: 266e43b3-33b2-4619-a568-01a1b3fb636c
+    - :uuid: b0b51d65-2629-4742-996a-8221520028b1
       :name: One More Saturday Night
       :segued: false
 1974/07/21:
   :uuid: 285c7da2-48c5-45f4-ae8d-44dcf125525c
   :venue: Hollywood Bowl
-  :city: Los Angeles
+  :city: Hollywood
   :state: CA
   :country: US
   :sets:
-  - :uuid: 04ead362-da9e-4fa6-b0a1-b151635fc856
+  - :uuid: 90aafda1-5a5e-4d1b-8797-aefb4615b911
     :songs:
-    - :uuid: edbfd550-03c9-4bde-866e-fc3b65e09a76
-      :name: The Promised Land
+    - :uuid: 6eb114ae-2144-4cf3-8b07-dfa42d581dee
+      :name: Promised Land
       :segued: false
-    - :uuid: 382bf27f-56e3-43bc-8605-a5b91c586bee
+    - :uuid: ced54b53-ab5d-423c-84b0-e2f4ce015466
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 0969ee6b-eee4-467e-a421-3ded1ce97f86
+    - :uuid: 12ac5dfc-1ac1-41c7-b0cc-8defd3219e39
       :name: Me And My Uncle
       :segued: false
-    - :uuid: caf5cd14-a890-423c-88b8-f02782547fed
+    - :uuid: b26ec5bc-fe1f-4fa8-aa4c-c1b9bc82a8c9
       :name: Sugaree
       :segued: false
-    - :uuid: bc033ce1-195f-42cc-9fac-e43a64bc4663
+    - :uuid: fe094116-37cf-4763-9349-0d509a005d20
       :name: Jack Straw
       :segued: false
-    - :uuid: f1815e07-6336-4f57-bf41-094d360c6624
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: f6ea47d2-ba7f-41af-987c-4273512252cf
+      :name: Mississippi Half Step
       :segued: true
-    - :uuid: e363d657-0067-4cd9-8703-7c6a4803cc8b
+    - :uuid: a8966e87-3274-4f0e-a1cd-9ca992f38f3a
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 981ac226-29d5-4b70-bb93-ec425a96ba96
+    - :uuid: 19137802-cbbe-4517-82ff-dbccf35c2609
       :name: El Paso
       :segued: false
-    - :uuid: 0aec9853-49c4-4d0c-b7d4-63ebdadbc268
+    - :uuid: c5f96650-bfd4-416a-891b-7dca1a985086
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 8340339f-c9c7-434a-b3a7-3e6057aef2da
+    - :uuid: 51d5b075-bec6-4f30-b180-0877b54ba2f9
       :name: Around And Around
       :segued: false
-  - :uuid: 9e198e6f-d604-4257-bdc1-2de778de693f
+  - :uuid: aa469330-1f53-418c-b9e2-93755b27d832
     :songs:
-    - :uuid: 9cb7933b-d0e1-457d-b56b-5d9c99a5cbf8
+    - :uuid: dcde1163-cdeb-4a5f-a01e-a788415828e0
+      :name: Seastones
+      :segued: false
+    - :uuid: 7f6157e4-9568-40af-a86c-b5973be8abf7
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: 0212e7b4-d762-4c9b-b50b-d5a341e0b6b4
+    - :uuid: 971b43c1-db4f-43a8-bd7d-cebae3e2daf4
       :name: I Know You Rider
       :segued: false
-    - :uuid: 4e12c5d8-3d74-45b7-bb60-d366a38f0a73
+    - :uuid: 0e8ab5e6-ae76-4820-adbd-dda9b4832e5f
       :name: Big River
       :segued: false
-    - :uuid: e0e7769e-5b7e-435a-8f91-30972260fcfb
+    - :uuid: 84442d67-8260-4b84-a496-d0ce912fe97b
       :name: Row Jimmy
       :segued: false
-    - :uuid: a11642d8-1e66-4afe-b321-47127d6f64db
+    - :uuid: c239d5da-b2ef-4eb7-8f95-c1d87730a8dd
       :name: Playing In The Band
       :segued: true
-    - :uuid: eacfb3ad-a2fa-4fc4-b26e-4b7b734d1eae
+    - :uuid: f5e7cf0c-2be8-4b43-8a39-809aa4f79c24
       :name: Wharf Rat
       :segued: true
-    - :uuid: dc82a931-cff0-456d-b1f4-a0c27c984bbe
+    - :uuid: 42eb721b-854b-49d6-a2b2-b91ff1295464
       :name: Truckin'
       :segued: true
-    - :uuid: 9ff13afc-a4a7-4e36-af7f-5fd1de81ff38
-      :name: Nobody's Fault But Mine Jam
+    - :uuid: 31f36e67-db5e-4b59-8b0a-cd73005bab2f
+      :name: Nobody's Fault But Mine
       :segued: true
-    - :uuid: 10c07330-7b37-49d9-bb0d-9c1bd29fa52d
+    - :uuid: b9a8fbf3-c5f7-4f49-83f3-560cf426940b
       :name: Playing In The Band
       :segued: false
-    - :uuid: 23eba1ec-c572-48fc-afa7-6ac6c0fa393e
+    - :uuid: c5b9f9e6-9ba7-483e-a1a1-78d7093eaff5
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 02520269-4542-4c1f-8f88-6295866b8726
+    - :uuid: a70d4a61-35ca-4409-bb94-76ae7688920b
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 0cb765e9-8474-4413-a22b-f8ac07e2b259
+  - :uuid: cb88fc2e-e28a-4a25-9aba-a1b439eb1809
     :songs:
-    - :uuid: 1e9236ec-c36b-45a1-8456-58cad6629f6f
+    - :uuid: c7900ffc-0d5a-4459-a36c-4f9f0322051d
       :name: U.S. Blues
       :segued: false
 1974/07/25:
@@ -1879,85 +1950,88 @@
   :state: IL
   :country: US
   :sets:
-  - :uuid: 64c8cff8-99d2-449f-8c9c-d4e2e0e66376
+  - :uuid: 299ce367-25f4-4674-b70f-626dc940fb35
     :songs:
-    - :uuid: db25b8cf-7bb3-4804-bd02-c9fdf61e6d56
+    - :uuid: e4be5828-4597-4187-821b-d6e0d2b4c2c6
       :name: Me And My Uncle
       :segued: false
-    - :uuid: e3eb5750-37a4-4196-96c4-81648377ea18
+    - :uuid: fccbcd76-97a2-4cba-b530-ad7a7a54bbce
       :name: Loose Lucy
       :segued: false
-    - :uuid: 1fc346ea-2665-448e-a18a-ef7809c7d321
+    - :uuid: 6c3abcc3-a49b-4aca-bd5e-fd4fd9d385e6
       :name: Black Throated Wind
       :segued: false
-    - :uuid: b2cdccd4-5642-48df-9d8b-e1243c956139
+    - :uuid: 2d34a01d-f54e-4af7-ba66-980b2fb8b4cc
       :name: Loser
       :segued: false
-    - :uuid: 59d8b503-e91f-4ab9-8cd4-c6c7e13a3e25
+    - :uuid: 43a1be57-6c9e-4810-b42a-b9c9546d416d
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 36b59295-ebc4-43ac-9160-8152a1b442b3
+    - :uuid: cf5c468e-b329-4863-b6c8-7549be4b5605
       :name: Sugaree
       :segued: false
-    - :uuid: de70d239-de2e-465c-8dc0-c2ba0c81a3ab
+    - :uuid: a67f725b-0e76-4d85-b622-c7bfc243ae23
       :name: Mexicali Blues
       :segued: false
-    - :uuid: e11cefb9-f291-4d82-b6d2-336f13241f64
+    - :uuid: 65c7fa9e-f257-42e1-ad37-fef59750355a
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: eafc6556-23ed-407f-9ee2-f92ef3dd6526
+    - :uuid: a35350c9-92a0-4ecf-809d-a5b5105b98f9
       :name: El Paso
       :segued: false
-    - :uuid: e2300df1-527c-46e6-9a90-a1334932a0c5
+    - :uuid: 7cac5b00-290e-47fa-81f6-045b6ae59e3a
       :name: Row Jimmy
       :segued: false
-    - :uuid: 7638aa5a-4f9a-4efc-81b0-95808d4b1858
+    - :uuid: 64301499-bd50-4b81-a871-f7585a96ac3f
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: ef036f70-e087-4dfa-b5d5-9cb3d69b1ddb
+    - :uuid: aa927791-e8c4-47d7-aa7d-10be26e966e8
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 1da72f8f-56a4-4505-a255-34d7d220cff4
+    - :uuid: 8dd64295-7657-4ed2-9587-0260d1c7f246
       :name: Let It Grow
       :segued: true
-    - :uuid: 5e1e6881-64c3-454b-a15c-09ce292d17f8
+    - :uuid: 5c23f7a8-0a5c-4f81-b7a4-bc2f7705c871
       :name: Around And Around
       :segued: false
-  - :uuid: 253c402f-f1a2-4918-9610-2ce8c8a146b8
+  - :uuid: 26ed4759-354b-4b5e-9bf9-187570f450cf
     :songs:
-    - :uuid: 660268e1-5e31-4697-9142-c2fc149fda8b
+    - :uuid: 43b1fb57-27ce-4f3c-8caa-38f1ae3477c0
+      :name: Seastones
+      :segued: false
+    - :uuid: 19df8eeb-1930-48e0-919d-cdff7e3fb20a
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: a6e3ea0c-2780-4e8a-95ca-b210fd90ec28
+    - :uuid: 0c542ada-934b-4a5e-b996-4c86d953d785
       :name: Big River
       :segued: false
-    - :uuid: 005d5834-66fa-49ff-811d-0d4272515b9c
+    - :uuid: b7854a22-58f3-49ae-a8ef-abdba28be788
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: c8a81a4d-edca-437d-bb2e-ec08a61fa7d1
+    - :uuid: bf314217-3ae1-4ee7-829e-6e2df6915573
       :name: Jack Straw
       :segued: false
-    - :uuid: 0db2d82f-a056-44a9-9f80-8fe9d7c7c91f
+    - :uuid: 2232b2d6-be0c-489b-ba1f-cc087af011e0
       :name: Dark Star
       :segued: true
-    - :uuid: d25c6c13-b0e8-44d9-b72b-d5724935017a
+    - :uuid: 066b4375-9944-45bc-86c7-a41d19fed470
       :name: Stella Blue
       :segued: false
-    - :uuid: aa5c0427-e4d2-430f-a179-1ba6d27d819d
+    - :uuid: 1ce37d52-a716-4414-929c-3c55c926f86e
       :name: Johnny B. Goode
-      :segued: false
-    - :uuid: f5ef4d76-fd5c-45f0-b1f7-9b4da6df8d2e
+      :segued: true
+    - :uuid: 17992406-8b0d-450c-b27d-a2ff380189ba
       :name: Uncle John's Band
       :segued: true
-    - :uuid: 5e5067e9-20c6-4b86-bb7a-7ad41511e6da
+    - :uuid: 514c2e96-e39c-48d0-a2e2-a2c26c5da93c
       :name: U.S. Blues
       :segued: false
-    - :uuid: 6374a0ea-9f8b-4c9a-989d-b07df95938c8
+    - :uuid: 1974832a-5384-4350-9867-705b0626b260
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 28135ebd-86b9-4268-b94e-ba0ffc6007c4
+  - :uuid: c590eaba-2e9f-444f-a036-be9b3a5a4859
     :songs:
-    - :uuid: 554ff7b6-0c44-406e-9ec5-20920090d80e
+    - :uuid: acde6bc6-5450-4667-bf36-c8e6758ad9be
       :name: Ship Of Fools
       :segued: false
 1974/07/27:
@@ -1967,158 +2041,159 @@
   :state: VA
   :country: US
   :sets:
-  - :uuid: eaa76e4b-76eb-4681-bff9-fc671aae4ea6
+  - :uuid: 5557aac1-dc3c-4fcc-a452-b6b942448474
     :songs:
-    - :uuid: c0968c91-8202-4e2b-870a-9eabb64598f6
+    - :uuid: 10f1da4a-f725-4aa7-b75e-335035d25ea7
       :name: Bertha
       :segued: false
-    - :uuid: 2aa9cc73-f671-43ca-ba7f-8bba32318ca9
+    - :uuid: a95ea561-b506-41c5-92ef-105a4c23c4d6
       :name: Mexicali Blues
       :segued: false
-    - :uuid: b2024632-1d73-44ad-af78-7729a01ba5cb
+    - :uuid: 3a6baf20-0639-49e3-ab49-91fecb44348c
       :name: Row Jimmy
       :segued: false
-    - :uuid: e7605fd0-8cef-48df-95c7-84fed2e0e54d
+    - :uuid: 68c612ba-7698-48ad-85b8-7e2519ee7bf4
       :name: Jack Straw
       :segued: false
-    - :uuid: 1708f089-141c-4d6e-90d2-87f542feba63
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: a026d1ac-d669-4132-a814-01f8e3f7ed2a
+    - :uuid: 30d66261-738b-45d2-b020-00ef773382be
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: 776d6bf3-3a06-45f4-ba29-fc575377427e
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: a61e5d9f-ecb7-47c5-b867-7251930dba66
-      :name: Me And Bobby Mcgee
+    - :uuid: f11c5a83-44a1-43f4-831b-a4dcbf1fae32
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: e30dd6a5-99f5-4dfa-a416-72b5d8c53c92
+    - :uuid: ac707e38-636f-4d95-b7e6-fba25600aef9
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 85b0e38e-0878-4404-a503-cfeb0d6990c2
+    - :uuid: 48a44926-88d0-4147-ab65-7e3eeb5210ba
       :name: Playing In The Band
       :segued: false
-  - :uuid: 5b350dd8-d051-449e-9813-a75f4b803fb1
+  - :uuid: 73bed580-c75b-4bf6-a974-e788b6bc1908
     :songs:
-    - :uuid: 2c9a42d9-7b79-4f4a-a853-f9f2ee3cfa7b
-      :name: China Cat Sunflower
+    - :uuid: 24fef761-d46c-4a66-b0c9-e12c60f823d5
+      :name: Seastones
       :segued: false
-    - :uuid: e24cc978-c855-48d3-a116-da4a90d7dc7e
+    - :uuid: fce1bcd6-8bbf-4d76-98b3-52e72807ccad
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 7e6a4a86-ad3a-4b50-b521-7b9f3f30e6e7
       :name: I Know You Rider
       :segued: false
-    - :uuid: 52749620-8417-4d81-bfa7-8cc47a8b9cb5
+    - :uuid: 4e11a002-0faa-4b42-93fa-71fe7867f9e8
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 1a02c271-72ec-445d-addf-cff6c0950140
+    - :uuid: dea7fda8-65bb-4b48-8ed4-df5429acecb9
       :name: Ramble On Rose
       :segued: false
-    - :uuid: c8e366a4-81f5-4ca0-b55b-de8fc2a1d71c
+    - :uuid: 967d909b-2755-4250-903f-5ec5a1bdbb31
       :name: Big River
       :segued: false
-    - :uuid: 8d01c8aa-89e7-4fed-9812-e06df49c34ff
+    - :uuid: b16dc349-5069-4228-8a57-e0c856dfd48b
       :name: U.S. Blues
+      :segued: true
+    - :uuid: 44964a78-ecb2-4194-bf8a-93cefeddbffe
+      :name: Promised Land
       :segued: false
-    - :uuid: 6532da23-570a-4118-93d9-d03e8f92121c
-      :name: The Promised Land
-      :segued: false
-    - :uuid: 50586753-ccc8-47a4-a5d1-136ed109d842
+    - :uuid: c2314f03-421f-4aa1-be98-cd1c302d897e
       :name: Brokedown Palace
       :segued: false
-    - :uuid: f76b5a0b-514b-4fbb-9828-a77cffe4dbf4
+    - :uuid: 70d830f8-0f82-4408-b242-d9f77bb9b655
       :name: Not Fade Away
-      :segued: false
-    - :uuid: 846c116a-e720-45d2-a1f3-92a210681aae
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-    - :uuid: 0ac3c122-6aa4-4df7-8ade-19373236c240
+      :segued: true
+    - :uuid: 6ea5ebff-a4ee-4379-b440-d02d3f3a69f7
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: 4b1265a8-a409-41c1-aa85-9a5fd47f5796
       :name: Johnny B. Goode
-      :segued: false
-  - :uuid: 0ecba584-3d1d-4494-8721-3c71c4069b0b
-    :songs:
-    - :uuid: e412b40e-2a11-493d-9f72-f47d5b2822c8
-      :name: Eyes Of The World
       :segued: false
 1974/07/29:
   :uuid: 78e0fbde-56d6-47ac-bd22-5a94cc82f9df
   :venue: Capital Centre
-  :city: Landover`
+  :city: Landover
   :state: MD
   :country: US
   :sets:
-  - :uuid: e91fbd5b-c7b9-4ade-9757-c35db75e33ed
+  - :uuid: 837df7f9-a267-4ec5-8a46-fd778891d027
     :songs:
-    - :uuid: 9f0c8a35-19b5-458a-95ec-436db59572e7
-      :name: The Promised Land
+    - :uuid: 35f7ec80-4a0e-40ea-960e-bc099436f2bf
+      :name: Promised Land
       :segued: false
-    - :uuid: bee58bba-8938-487a-b250-2b8d4c84bf5c
+    - :uuid: 37e0ba94-c4a3-4af9-b5b9-6084ca6db366
       :name: Sugaree
       :segued: false
-    - :uuid: a3910cfd-69ea-47c4-813e-f5294ec36b01
+    - :uuid: 1c2dd929-70b5-432e-b06e-0ef0e5fc8b66
       :name: Black Throated Wind
       :segued: false
-    - :uuid: b9379cc4-c631-4633-a379-aa5dede447cf
+    - :uuid: 7ee7336d-095f-48d7-8cb9-cc30aec71a3d
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: cf86228e-439a-4d54-96c3-348ed1784b5e
+    - :uuid: da636375-8b92-43dc-ad95-6dc7a0f47136
       :name: Cumberland Blues
       :segued: false
-    - :uuid: eb57699a-d884-415a-97f2-5e398a0be59e
+    - :uuid: 0743328f-a0a0-4947-84fa-625c5e47de1b
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: b5e25c03-797a-4e3a-a0bb-f3124acc63f9
+    - :uuid: 1aa516e7-1c7a-4b49-9a74-a8d7c2c9f4fa
       :name: Jack Straw
       :segued: false
-    - :uuid: bf6039d1-53b1-4bd3-9d57-75816fe8d0b2
+    - :uuid: 174da81e-8b85-4449-a944-8349062f1875
       :name: Deal
       :segued: false
-    - :uuid: 861e82f1-7601-450a-bebb-577a6897b0df
+    - :uuid: 69c95fda-fa8c-47c3-a489-24067a8efdc5
       :name: El Paso
       :segued: false
-    - :uuid: 149c9141-083f-4dbd-8357-a030ea3bbe26
+    - :uuid: 3fa44cbe-2415-4fdf-8b2a-4e5ab7486b78
       :name: To Lay Me Down
       :segued: false
-    - :uuid: ac2549d3-b19b-476c-921c-20b011adae7a
+    - :uuid: 7988fb82-ce71-41bb-bee3-e6084fdcefde
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 22409d7b-cbc0-4583-9452-a8d39f39b896
+    - :uuid: 3d3d85d8-7a6a-42dd-98ff-c4b687dde468
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 3e28a464-7ddb-4c38-9602-638eb6277bd3
+    - :uuid: 35c31528-0371-4bfd-a9f3-773a03a7b95e
       :name: Let It Grow
       :segued: false
-  - :uuid: b99ceeb2-463b-4ec3-b314-750e8fd78b2d
+  - :uuid: b2c05004-e075-4029-b232-8c1bbadf87ce
     :songs:
-    - :uuid: 434eabfb-f54e-41de-8173-f7c4f983798f
+    - :uuid: 12f818d9-eba4-4799-9201-562cbeb345a1
+      :name: Seastones
+      :segued: false
+    - :uuid: 8fb0918f-e2ba-445a-bbd6-69c04e982ae8
       :name: He's Gone
       :segued: true
-    - :uuid: e6af52fc-95bd-4189-a971-9c3a7360dc55
+    - :uuid: 0a756d9a-5dca-49d4-abda-9bdfa2e97ad7
       :name: Truckin'
       :segued: true
-    - :uuid: e0aef634-f0d7-41e5-af30-7acab6db2ef5
+    - :uuid: 8fb288b3-d868-4cd3-97a6-81ff9c051e68
       :name: Nobody's Fault But Mine
       :segued: true
-    - :uuid: 9f21101d-0496-4254-b28a-f0c9b8f14196
+    - :uuid: e7d14880-f527-44dc-9750-32c082e59694
       :name: The Other One
       :segued: true
-    - :uuid: d7f71da1-15d6-43b2-91e6-014e90c33d52
+    - :uuid: 85757272-1d1c-49ed-8a93-3555d2e4a34b
       :name: Spanish Jam
-      :segued: true    
-    - :uuid: 4809b2db-bdc4-4ee9-bf20-90982291db79
+      :segued: true
+    - :uuid: 030c2893-52e4-409a-a903-f9551e52a9a2
       :name: Wharf Rat
       :segued: false
-    - :uuid: f1232be1-d42f-4ad3-8791-9f4473d08f41
+    - :uuid: dc671613-b1c1-4feb-9019-2ca2c5a935c2
       :name: Around And Around
       :segued: false
-    - :uuid: 411502ba-b05c-4043-81d8-97f2e382d3cf
-      :name: Peggy O
+    - :uuid: abde0f6d-71dd-4c83-ad76-f859fd37f6ff
+      :name: Peggy-O
       :segued: false
-    - :uuid: a93e7692-a73b-4bf3-a0ad-a80c05e061a9
+    - :uuid: 36ff6ceb-d4ff-4501-8014-c3b07b1839b0
       :name: U.S. Blues
       :segued: false
-    - :uuid: f8ff472d-0369-4531-bfaa-ac2b9202135a
+    - :uuid: a859b0c7-682c-40a1-9f33-4519769660e4
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 75df90c1-f9b6-4cb4-82dc-2cab51d4c7eb
+  - :uuid: 65b11f6d-7674-4e0d-adc4-f66ff90682fc
     :songs:
-    - :uuid: e4a0c1d7-e488-439d-88ab-d1365f5811c3
+    - :uuid: f4efcbcb-296e-43cb-ac12-01e80c240494
       :name: Casey Jones
       :segued: false
 1974/07/31:
@@ -2128,108 +2203,111 @@
   :state: CT
   :country: US
   :sets:
-  - :uuid: 0c346bc2-9f93-4d90-b011-bbd5febab967
+  - :uuid: b9cde480-9a28-4329-8bda-f1787ed22057
     :songs:
-    - :uuid: c29ad59e-5fe5-420d-bb84-d1b4edfc1263
+    - :uuid: b64e4832-c1b5-49a3-a129-02898d4f7380
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: ab3d64b6-8e13-4ced-a62d-bd597ae78098
+    - :uuid: 82130fd2-2e9d-4e2e-94ca-e3e29ef87940
       :name: Me And My Uncle
       :segued: false
-    - :uuid: f8870e04-cfbf-49bb-84ee-dfab17348c1b
+    - :uuid: 4dc11647-c3f9-4f7c-a80e-89aa3aebd714
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 6d06b84b-dac2-427f-ae6d-626930a1a186
+    - :uuid: 8bdcee05-bcf1-421b-85b5-0dd6444eb594
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 4d2e5830-9ffe-4677-b8d6-1ce1de25eb69
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: 70254776-3f24-4e2f-9eac-cc297781d117
+      :name: Mississippi Half Step
       :segued: true
-    - :uuid: 160adb24-8817-4522-a291-33481fb267b5
+    - :uuid: 6529570e-972f-4a88-bf08-2f3f33750818
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 7f6c31e4-a85b-4ce7-9708-2ff5b4d488fe
+    - :uuid: ff8181ef-14a1-4e3c-8dd6-b479cbefca1d
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 7d99e314-08cc-4a30-81eb-367c377337b6
+    - :uuid: b1634cd2-c6ba-46c9-b726-1a7d6ba6f4fd
       :name: Row Jimmy
       :segued: false
-    - :uuid: e5875240-e6c5-4b6c-966e-fea42b10e4b9
+    - :uuid: b91b0132-2d90-4e6f-a513-da0c146395b0
       :name: Jack Straw
       :segued: false
-    - :uuid: d813000e-11b7-40ac-a424-03a9034bf8c5
+    - :uuid: 6ec0c428-28f9-4b23-91d8-74ab7f44d258
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: c0a3218a-a1ce-46e7-90e3-0ec039711fcb
+    - :uuid: c34dbe20-7014-4084-84d6-dec54119c67d
       :name: I Know You Rider
       :segued: false
-    - :uuid: 3afc0328-58d9-4901-a511-acf8fa0f9ee0
+    - :uuid: 34aa9e65-619e-4e12-a4a3-cce050de44bb
       :name: Around And Around
       :segued: false
-  - :uuid: 498f8dbc-2776-4ee0-8625-050db3396813
+  - :uuid: ca33ffc0-b06d-43d8-b73c-6add4f2fd4ab
     :songs:
-    - :uuid: 388e7cad-9c23-4523-91e8-b81413910f84
+    - :uuid: 6e2ecb38-6860-4594-86fa-26efe9be31ef
       :name: Bertha
       :segued: false
-    - :uuid: 5a49083a-f8df-4f1d-9b78-a93271f96bcf
+    - :uuid: 999fe4f1-d342-4a32-8430-241b4e3e9a61
       :name: Big River
       :segued: false
-    - :uuid: ac213f14-7112-488c-935c-0988f28d212a
+    - :uuid: eaea4d4a-ffa1-4275-8c5e-dc05359a55c5
       :name: Eyes Of The World
       :segued: true
-    - :uuid: fe7df64a-3a49-4ae8-9536-697deb4a003c
+    - :uuid: 524d1735-ea7c-483d-a55a-1b3e6aff357e
       :name: China Doll
       :segued: false
-    - :uuid: 15180dce-59b6-48d2-9918-f98da7a173a6
-      :name: The Promised Land
+    - :uuid: a884cf87-6feb-4291-b1b2-813d1c3ce206
+      :name: Promised Land
       :segued: false
-    - :uuid: 3089d9fa-90a1-4d14-a007-b3e8bf867761
+    - :uuid: bb1d4ce1-a2b9-4ac6-8b91-4bc7cf665b49
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 31a03f09-b075-4a89-ab9e-9ea21916200c
+    - :uuid: 7a1f523f-f63f-4844-bd8a-d64b09bd9ab9
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: b83c5e66-6723-4abf-8599-80304cbe9873
+    - :uuid: 77623c3b-eace-47ce-af06-501c66f08764
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: da74cd49-3abc-4497-9f4d-69172687c8e8
+    - :uuid: 40c9cca1-a8d1-41d5-8dd2-7fd1adf4ae0b
       :name: Let It Grow
       :segued: false
-  - :uuid: 4c284b4e-38c9-4487-88a4-ab68df825761
+  - :uuid: ce53ee11-79fa-45a0-b002-d538b7acf1ea
     :songs:
-    - :uuid: 75e22122-6af1-4378-be54-ebb51aeda1d9
+    - :uuid: e7dcfcb3-0e15-493c-ba91-352af2004e1a
+      :name: Seastones
+      :segued: false
+    - :uuid: c8350ff1-1967-4254-b7a7-4a76552d0175
       :name: El Paso
       :segued: false
-    - :uuid: 03cdc512-5d5d-4ef0-b86c-8694ac975d25
+    - :uuid: 360351f5-96d3-4498-99b1-895fe6b5a6af
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 00f733b9-c06a-4e5c-b4a6-334d0170092b
+    - :uuid: 85f45fd5-7da6-4c22-9316-0c7f6ffa98a9
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: b793f7c6-7c12-4990-988c-0e0bd6d7b33d
+    - :uuid: 2fd1af3f-1b2e-4fde-b49a-aba5a254bec6
       :name: To Lay Me Down
       :segued: false
-    - :uuid: ee06024c-9e90-4e29-ae35-661a4b39efac
+    - :uuid: 8d4d0829-13d0-46fd-8020-b00ed0158e2e
       :name: Truckin'
       :segued: true
-    - :uuid: d9d67ea4-764e-42fb-992e-80c60a6e0e3c
+    - :uuid: e2f93e20-9880-4f29-8913-5d07616e657f
       :name: Mind Left Body Jam
       :segued: true
-    - :uuid: 2ab07ed3-4c2f-4320-b203-299b2b20a26f
+    - :uuid: 86b6db9f-d0cd-4665-9c37-264fa4027fb6
       :name: Spanish Jam
       :segued: true
-    - :uuid: 56924000-413c-4ad9-8492-9dc02cc4966b
+    - :uuid: b0069ddf-3781-47bd-8898-4b79ef2e017d
       :name: Wharf Rat
       :segued: false
-    - :uuid: 2b3587d6-a4e7-459a-893a-bae121ba9278
+    - :uuid: 37a4d73d-d1ad-4d51-81ec-f0fba5257423
       :name: U.S. Blues
       :segued: false
-    - :uuid: c32a90b5-7cbe-4ec8-9302-e54b77575554
+    - :uuid: 0a5c59b3-c910-495a-98fd-71821083ddde
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 0bcf1136-a9a9-4c54-8def-c9a9f052327a
+  - :uuid: bb90cbc0-71eb-46a7-b414-690b8c197dda
     :songs:
-    - :uuid: f1a5db20-d683-41fe-ae4c-42d21d5c26cd
+    - :uuid: f266c169-a0cf-46f5-9d34-feae5264b495
       :name: Uncle John's Band
       :segued: false
 1974/08/04:
@@ -2239,85 +2317,88 @@
   :state: PA
   :country: US
   :sets:
-  - :uuid: baac89e6-4964-4cd7-b269-780077d0ad9b
+  - :uuid: 364483a9-a212-4db5-85db-44a83ea6a994
     :songs:
-    - :uuid: 924ea8fb-4dc7-4ce8-85f1-898a2382632b
+    - :uuid: 72e87999-04ef-4919-bab6-5df01afbe670
       :name: Bertha
       :segued: false
-    - :uuid: fcd96c48-17fa-409a-bff7-a2eedadc5104
+    - :uuid: 8abe5f70-2ff9-4c7f-bb9b-1ed3bf68e6b7
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 3a7c0f6e-9cb4-471b-9402-b6de3dc9f5ec
+    - :uuid: 41058f2f-ae24-46a4-9ce1-f29d7a6f864f
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: f1a9a367-7b2d-462a-a737-1a4d92dcd7b5
+    - :uuid: 819673ef-dca8-4744-8bbe-54f1edf695dc
       :name: Black Throated Wind
       :segued: false
-    - :uuid: 826a8beb-742d-4172-a70b-04543ca7214e
+    - :uuid: e1b59be3-4b90-43ed-a0cf-723a2776b810
       :name: Deal
       :segued: false
-    - :uuid: 21ded0e8-2c07-4039-9e5d-973a452255c9
+    - :uuid: 4a25833b-97f7-4704-b068-5dec2f17f795
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 82aaba5a-457b-4606-af1b-1f36fabf3c04
-      :name: Peggy O
+    - :uuid: ddf8a9ce-053b-4112-bc1e-ab97239dc01e
+      :name: Peggy-O
       :segued: false
-    - :uuid: 0b3d5bc8-67ed-48d1-a0f1-eff5e5942ace
+    - :uuid: f8140da7-a23e-489a-a682-4d90aced4e40
       :name: Jack Straw
       :segued: false
-    - :uuid: 309dae9c-f187-4e82-a7ae-68513637cd0b
+    - :uuid: 3c775774-8188-47ed-935c-cac73ca80275
       :name: Loser
       :segued: false
-    - :uuid: 07017a57-0e4d-4f11-b5d8-d84762703622
+    - :uuid: 30662d4e-18cf-4813-bf23-995e2952d37b
       :name: El Paso
       :segued: false
-    - :uuid: ade1268d-a163-4b7c-9915-5148d797db8d
+    - :uuid: 25196f5a-bba2-4c74-baf2-deae451fcd17
       :name: Row Jimmy
       :segued: false
-    - :uuid: 792190e7-3954-4e6c-90b0-797b1b2ea3e7
+    - :uuid: efe16439-a6b7-42f1-8edc-cb5438491930
       :name: Playing In The Band
       :segued: false
-  - :uuid: c48f0bd6-0dd1-4ff5-b98e-50e954986c97
+  - :uuid: b638d751-7cba-4124-99e3-dbbb0c955454
     :songs:
-    - :uuid: 478cd522-615f-4bc3-a733-a46adf11d2ab
+    - :uuid: 29db5fbd-f96b-4647-9323-7caaa0a8b45c
+      :name: Seastones
+      :segued: false
+    - :uuid: c9952441-fcd0-48e2-8a85-abf265dae545
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 040c69b8-0ce9-4121-884f-b73b2d72e209
+    - :uuid: 80a04f95-a1d2-4329-a05d-f77167d214ec
       :name: Big River
       :segued: false
-    - :uuid: b7255ee0-1152-4543-b544-36cf91a19109
+    - :uuid: 457fda60-65ca-4221-853a-3b0c5040a019
       :name: Loose Lucy
       :segued: false
-    - :uuid: 4984aff5-b5fc-4fed-bedf-8d29bf588d12
+    - :uuid: 7e4bde30-ca21-4b45-bd8c-c360c2fce77b
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 65b4688b-f933-42e3-a48c-f3115e580659
+    - :uuid: cfd69795-0ccf-4a00-8778-997017a75d8f
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: dc9d844c-d0d0-4cd3-8e19-13feecfa1333
+    - :uuid: f579fbab-b797-44b7-bbc5-73746fcc134b
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 417c7cc8-a795-46cd-8c4f-e1e19046e27e
+    - :uuid: 2c5ff13c-43d5-47d6-9b3e-ad7303736932
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 8911fc02-9698-4c87-96db-8fc820ca6295
+    - :uuid: 8ab54eb6-565b-4a24-848a-93a769fbdb22
       :name: Let It Grow
       :segued: true
-    - :uuid: 0684ebf4-3579-44ec-bd9e-b0378ea4c419
-      :name: Space
-      :segued: true    
-    - :uuid: e1dd20f1-dde5-4710-8854-ef1cc09d6aca
+    - :uuid: 87b35771-c2a5-46ac-972b-08d285b4349a
+      :name: Jam
+      :segued: true
+    - :uuid: 0ca26ea2-46e8-4753-8bef-6dedd09ae9a4
       :name: Wharf Rat
       :segued: true
-    - :uuid: 003c06a0-6900-48c8-868a-f389fe15973c
+    - :uuid: f8324afc-572e-4330-97a1-240fbf96410e
       :name: U.S. Blues
       :segued: false
-    - :uuid: 42262c5c-98eb-4573-b8b5-af5a9530b031
+    - :uuid: 6ef9651a-4298-420e-86b3-4f36bcd1d7d7
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: e757dd22-e50c-4bb1-975c-afe251891376
+  - :uuid: 16b48d88-c31b-494f-a11d-e7366332a9fe
     :songs:
-    - :uuid: 8200d685-2f55-40e4-b0cc-e40a91ba4259
+    - :uuid: 1a470fa8-a35f-4185-a249-9b849d84eb51
       :name: Casey Jones
       :segued: false
 1974/08/05:
@@ -2327,79 +2408,91 @@
   :state: PA
   :country: US
   :sets:
-  - :uuid: 991b658f-e832-4196-8434-9f6b0523f1ef
+  - :uuid: bec0c5e0-2d8a-424a-8bec-b8945f87e88c
     :songs:
-    - :uuid: 77fe4585-47a7-4839-81e1-705dca7363cd
-      :name: The Promised Land
+    - :uuid: 07c399d6-9513-4418-a9be-ff4e0b1214d2
+      :name: Promised Land
       :segued: false
-    - :uuid: d29978e2-3e19-4783-ba88-4c084d9593de
+    - :uuid: 3884ad26-1c84-480c-8786-bdaf58950637
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 46f31ee6-7ba8-4a7e-ad5c-77522100dd1b
+    - :uuid: 6b0b0b3a-e912-4d26-bb60-31ac63101206
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: bfbd3efc-2943-4e7d-821b-b407b567f702
+    - :uuid: 362e9b69-72ef-454e-9c1a-da06a0ac4d11
       :name: Dire Wolf
       :segued: false
-    - :uuid: 0e6e9e2d-7c83-442a-8b46-548bbe4bd51b
-      :name: Me And Bobby Mcgee
+    - :uuid: 69692bc8-ea10-4145-b06e-89399dec2ce4
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: b5d0e19a-bb19-4f15-824f-e5de0440a7df
+    - :uuid: 7962ec6b-78b9-4b10-8a2e-c8e2a3640d55
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 8b054a70-52ed-4a7a-a971-108ecd3a28af
+    - :uuid: a9ee1a8e-a7aa-4832-bc32-e4dbeb9f0f8b
       :name: Jack Straw
       :segued: false
-    - :uuid: d53e996b-e5eb-43f3-a88e-461957f8f6d2
+    - :uuid: 3ed71e5b-1e7f-449c-a217-0ccf0f02d8e1
       :name: Deal
       :segued: false
-    - :uuid: 02aabd9f-f35d-4845-b6a1-1ccba611ec0e
+    - :uuid: 77bea36e-05b2-4de6-8b17-007d4a70950a
       :name: El Paso
       :segued: false
-    - :uuid: d881de7a-26f8-4901-bd70-634ee35cc615
+    - :uuid: e95c474f-bb26-425c-b407-ae8f4fb19f7c
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: f2f3d301-b50d-49e0-bdcb-a40dc48a3c71
+    - :uuid: a9f17589-de8d-44eb-bd5d-db6752b22917
       :name: I Know You Rider
       :segued: false
-    - :uuid: 7dd315fa-fb11-4077-9410-5e46582b7e5c
+    - :uuid: 3304b25a-c875-4444-9a5c-825069cf1b6d
       :name: Around And Around
       :segued: false
-  - :uuid: 54a073f1-9ce8-4c0d-9876-c1eeffe105cc
+  - :uuid: fe507374-0997-4ea5-bbcd-874fcba91bd4
     :songs:
-    - :uuid: 0b3baa7b-cf19-4323-b84a-70a13d96552e
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: fbb63614-f4db-4ac3-8eb4-000a190fbc4a
+      :name: Seastones
+      :segued: false
+    - :uuid: ebe3e3de-cb7b-4c6b-8a4f-75755fb5364d
+      :name: Mississippi Half Step
       :segued: true
-    - :uuid: 1391c8e8-d262-4448-8040-309b5141f953
+    - :uuid: ae7a1df9-f8b5-46e1-b18c-c8d5c0cf1ecb
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 0c13e32c-ea4c-47b6-96bb-5881892d16fa
+    - :uuid: 759ecb2c-0587-4a1a-b871-4b04e639f0d5
       :name: Big River
       :segued: false
-    - :uuid: 54ca46ed-6ab3-4329-b246-b29c8fcec037
+    - :uuid: f1b02890-7a26-4738-b144-dc496b37e4cd
       :name: Ramble On Rose
       :segued: false
-    - :uuid: b90495af-55b1-48a8-b52e-ba1d7180816a
+    - :uuid: 64f5676b-e860-42d2-afd3-54243aab5870
       :name: Me And My Uncle
       :segued: false
-    - :uuid: a8085b43-8377-4fe7-a079-db58991b1ed1
+    - :uuid: 3bf54d6e-fb88-4f70-8be1-abbcdb1f0670
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: e4f49dc3-a33c-4d15-972c-1d781e1ec538
+    - :uuid: 5ca6bf19-a5b0-4b3b-bff7-9d1dad89f7a9
       :name: He's Gone
       :segued: true
-    - :uuid: d4862b49-ae02-4455-8ea0-25fe6f36bd8a
+    - :uuid: 95b56263-ce5d-44cf-942d-59912bc2fed5
       :name: Truckin'
       :segued: true
-    - :uuid: d3481158-f81b-4469-bd19-3efa6240a3e6
+    - :uuid: 07e72391-2231-4994-be71-efa1176abea1
+      :name: Jam
+      :segued: true
+    - :uuid: 6b78dc6b-cf15-43f1-8b58-b456274f0ed9
+      :name: The Other One
+      :segued: true
+    - :uuid: 2a2065ae-d63f-48b2-99e4-ca800f3cbdef
+      :name: Jam
+      :segued: true
+    - :uuid: 16f58c64-672f-4a91-81f0-bd61f9d11075
       :name: Stella Blue
       :segued: false
-    - :uuid: d84810f2-6cc1-43bd-86f9-8cd44f8fdce1
+    - :uuid: 186e4c95-fe04-4bf8-8ef6-56a8f70f7d63
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 216fd400-0b61-4d3b-8f32-f6419fc49ce7
+  - :uuid: e31d5151-efae-488d-ac90-06591dcb02da
     :songs:
-    - :uuid: 4c384b82-868c-44ab-9f90-eb568237cc45
+    - :uuid: af23a0d5-3a5a-4841-b110-ecb0e8ef9db6
       :name: U.S. Blues
       :segued: false
 1974/08/06:
@@ -2409,1116 +2502,1203 @@
   :state: NJ
   :country: US
   :sets:
-  - :uuid: d883f268-b03d-4a30-9ff4-36de2b833a33
+  - :uuid: 32d0dc9b-b645-4483-8c68-d025fba0982a
     :songs:
-    - :uuid: 07f01a90-0420-4082-a4e6-02e368cc0d7d
+    - :uuid: b98dbfb8-0c5b-46f9-bbb6-79308005d3e0
       :name: Bertha
       :segued: false
-    - :uuid: f650535c-2faa-48b0-ba2b-5b1638d3e46c
+    - :uuid: 462baf2b-b137-480f-9023-5636d23c827b
       :name: Mexicali Blues
       :segued: false
-    - :uuid: dfa1f731-67d9-42f7-88dd-ac7165168302
+    - :uuid: 57713916-371a-49be-8a60-5105c0fa4916
       :name: Don't Ease Me In
       :segued: false
-    - :uuid: 779583f8-74bf-45bd-af56-58e7430306c5
+    - :uuid: b92c2cc5-0e3a-4631-8f7c-e3ce3640e8bd
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 9a8cd240-98e2-4cd6-8fa7-d4b631d0163f
+    - :uuid: ab8be1b7-e68f-4fda-af0b-63dd031f5b06
       :name: Sugaree
       :segued: false
-    - :uuid: 8ce6d326-d2fb-46f1-a650-4b62b9ad7e95
+    - :uuid: e3d9b42f-e814-4a21-81f0-ce02bfb04b3d
       :name: Jack Straw
       :segued: false
-    - :uuid: f6e018f5-f5fa-4baa-b83a-039167de8241
+    - :uuid: 7aa17722-7437-4e97-9e05-dbd7f6f4a7a0
       :name: Eyes Of The World
       :segued: false
-    - :uuid: d025f5fc-8704-4f3f-83b9-37adbcd99c63
-      :name: The Promised Land
+    - :uuid: dacc110f-f9fb-4d90-8ddc-64d97eeb1327
+      :name: Promised Land
       :segued: false
-    - :uuid: bf646a5e-901b-42fb-b7a4-0aba6a40d95d
+    - :uuid: 3ca9bf1d-dee9-417a-89b5-d4a6c3a09285
       :name: Deal
       :segued: false
-    - :uuid: 1c18523f-8cd1-4fd2-ac7b-431f5aeccbc3
+    - :uuid: 5503bb16-683f-4e51-bb30-a56b4f4e533a
       :name: Playing In The Band
       :segued: true
-    - :uuid: 855207c7-0c5e-4cfd-8207-864f11290ca7
+    - :uuid: 3fbdc5e2-b345-4211-a169-e5f6440c8c64
       :name: Scarlet Begonias
       :segued: true
-    - :uuid: 8fbf6d69-fd1a-4ab7-98af-6b84402270ae
+    - :uuid: a6090d7b-073d-470d-ae3b-2d56471eec57
       :name: Playing In The Band
       :segued: false
-    - :uuid: 1b293b13-a938-4a7a-b843-f9aa27105db4
+  - :uuid: aecd5110-a9af-449c-9c5f-f13c19c247a5
+    :songs:
+    - :uuid: 0916d704-0932-4b9f-a0cc-82d50e4db2bd
       :name: Seastones
       :segued: false
-  - :uuid: 5d10172a-973e-4273-a87e-3fb22ba03bbb
-    :songs:
-    - :uuid: 83eda34e-c853-40ab-9fcc-4766d7e4aa2d
+    - :uuid: dab1cdb8-00f8-4d8e-ad2c-c06b8459ae2a
       :name: Uncle John's Band
       :segued: false
-    - :uuid: 3895b010-0ded-4091-a4b8-451c136661da
+    - :uuid: 3e2ee555-0dcf-4a3d-b305-388e76fc664d
       :name: Black Peter
       :segued: false
-    - :uuid: ea57fad8-806c-4003-8b89-8ffa9466b5cf
+    - :uuid: 52a122a6-b498-48fb-a058-3d28bfd2ff82
       :name: El Paso
       :segued: false
-    - :uuid: 97fc0571-61ad-4aac-a256-c9eb30efa59a
+    - :uuid: 7231f25e-9504-414c-98ce-dedd4adddd8b
       :name: Loose Lucy
       :segued: false
-    - :uuid: a4a603b3-4989-4dd4-845c-293ebb693aa4
+    - :uuid: cac8bfcd-7a4a-4e11-a4ea-5bcef76f0a0d
       :name: Big River
       :segued: false
-    - :uuid: c3077f62-caf5-4bf6-a1cf-2add08fb5534
+    - :uuid: ab63fa8a-2c50-4dec-8fa6-691c147d432d
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 219cd809-331c-4d96-ba53-e1674f8c84b3
+    - :uuid: 06a942ec-99f0-43d7-9e94-a5fa23289ecb
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 8281a927-4b96-4f6c-9db1-71b5b9faaa09
+    - :uuid: 8c6ddb23-72c4-4d88-93dd-8dd44eb2a90c
       :name: Row Jimmy
       :segued: false
-    - :uuid: 5e5248c5-f7d3-4728-bc68-f0fa7d0fbd48
+    - :uuid: 458a77fc-6357-403a-b82b-f99633b15254
       :name: Sugar Magnolia
       :segued: true
-    - :uuid: 8e54675a-3aca-44c6-bd3b-8cce1308a1c9
+    - :uuid: 4bda9c80-41eb-4fa6-8070-83c051ba9900
       :name: He's Gone
       :segued: true
-    - :uuid: 993512b0-5492-4d34-b23d-37a1ded95099
+    - :uuid: 2565aa3f-5155-45e4-9fd0-61b641668ffe
       :name: Truckin'
       :segued: true
-    - :uuid: c9eada4c-68ee-4c88-85a5-952d4b5e1a8b
+    - :uuid: 286780a4-460f-4237-a443-c5f8ed16a61e
+      :name: Drums
+      :segued: true
+    - :uuid: 2de37719-9b42-4157-a1e2-1155e2851964
       :name: Spanish Jam
       :segued: true
-    - :uuid: bf1c79f9-090d-41e9-9b6d-7b2eb3621c46
+    - :uuid: 2f4c0f3e-91d7-4d06-8774-8e9fbb8804ab
       :name: The Other One
       :segued: true
-    - :uuid: 0185b96b-ac54-4817-ab73-24bc53f8a3b3
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: be5d6dd4-7fa5-4e47-9771-7c05783c5686
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: 3647821a-41be-4b77-9c04-0101e16f4c51
+    - :uuid: e086f934-9893-425b-849c-6f1fcd638b6a
       :name: Sunshine Daydream
       :segued: false
-  - :uuid: 7ac8bd95-5fad-4a10-8d78-213d730882b6
+  - :uuid: a77837f3-76da-4090-b0e5-a1477f81a8a2
     :songs:
-    - :uuid: ceba39fb-b43e-4ca2-8554-9d53a78655be
+    - :uuid: 6b55a407-378c-48ef-a6dc-ccdd76186ffc
       :name: U.S. Blues
       :segued: false
 1974/09/09:
   :uuid: 293fe2d6-e915-4a66-b3fb-075a00de6232
   :venue: Alexandra Palace
   :city: London
-  :state: ''
-  :country: UK
+  :state: 
+  :country: England
   :sets:
-  - :uuid: 42484ce1-9dad-413c-b184-f165af6c3078
+  - :uuid: 9684984b-4f9b-499e-87b1-b559d26bf03e
     :songs:
-    - :uuid: 71934ea5-364f-42a7-b59d-ec9313df3c42
-      :name: Bertha
-      :segued: false
-    - :uuid: 994f3bc7-6ef7-4197-97a5-c6c52cc80980
-      :name: The Promised Land
-      :segued: false
-    - :uuid: a7869ee5-8da5-4d6f-bf1b-e6509d78dd06
-      :name: It Must Have Been The Roses
-      :segued: false
-    - :uuid: 26be6fe4-c842-4472-9783-184689cf19b5
+    - :uuid: 28b7d6b9-93d4-4c54-8edc-b4b8b88dac4b
       :name: Jack Straw
       :segued: false
-    - :uuid: 00c06ae8-a272-4968-97d7-4052221fbc68
+  - :uuid: aac251d5-7f19-44d1-8e43-139dbadca4e9
+    :songs:
+    - :uuid: 2bee7da8-95b0-4d92-89de-ea80ef030f19
+      :name: Bertha
+      :segued: false
+    - :uuid: dd7e3e5d-e2d6-40aa-9453-db1e24a2406d
+      :name: Promised Land
+      :segued: false
+    - :uuid: d06fa3d8-61da-4fe9-b188-f256f3df6f4b
+      :name: It Must Have Been The Roses
+      :segued: false
+    - :uuid: e65f2303-4b1c-4f1e-adb4-76089dca1783
+      :name: Jack Straw
+      :segued: false
+    - :uuid: 858593ed-ef5f-4b4d-823b-4ae62361e274
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 7bcd0c8d-3ccb-4415-b86d-a83caafd9a73
+    - :uuid: 6cb27c40-79d6-417f-a8c7-6fe1f2fc3d74
       :name: Mexicali Blues
       :segued: false
-    - :uuid: b852b0a0-d69c-46c3-a8a6-f13db486d4b8
+    - :uuid: 2c804f88-decd-41ce-ab9e-ab6802c7aefe
       :name: Row Jimmy
       :segued: false
-    - :uuid: 62c03beb-15ea-4f61-af86-5584526ca53c
+    - :uuid: 02906761-6c04-4b5a-a356-07b1a54a426d
       :name: Playing In The Band
       :segued: false
-    - :uuid: 57540f4b-7820-4b2d-bb4b-d2c3c3b84434
+    - :uuid: a562f363-d50b-43b2-9ae7-985fbbc9d3f5
       :name: Deal
       :segued: false
-    - :uuid: ef01fe4c-531f-4e6d-8f81-04aa0989aa83
+    - :uuid: 0e5cae0f-9701-4b24-8b4a-9809b87b1dc5
       :name: El Paso
       :segued: false
-    - :uuid: 02be4998-e793-4cd5-8f25-10edb3627664
+    - :uuid: bb791889-4d2a-41b7-8470-70d4727d7d9d
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 3d708251-9938-4f22-8ac3-a8db0857849c
+    - :uuid: 9e4b557e-d6df-454c-bb6b-03dd9a5b4044
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 46ecca89-ee62-44cc-8f38-136645d44d08
+    - :uuid: 7f4408cd-c7d4-49c0-bcf5-fe07860965ea
       :name: Truckin'
       :segued: true
-    - :uuid: 0eb4bfbb-4386-4eea-8671-bb644e445eb4
-      :name: Wharf Rat
+    - :uuid: 53a420e5-86a8-457c-9e18-54d3f008b8bb
+      :name: Jam
       :segued: true
-    - :uuid: 9b76c2bd-5c06-4ab2-9f4f-aadb4b6a105f
+    - :uuid: 1c257945-96de-4f2c-9fe4-4354255b1fa7
+      :name: Wharf Rat
+      :segued: false
+    - :uuid: 344efadc-cb9c-4324-9f11-3f3f83d9eb2e
       :name: Uncle John's Band
       :segued: false
-    - :uuid: 3c0fd9e5-a9a2-4496-aa75-2a4274cbf03c
+    - :uuid: 1f9c6f63-afe3-4860-8bb0-ff3da60004d5
       :name: Johnny B. Goode
       :segued: false
-  - :uuid: 1f94e9fe-f601-4d41-a507-c647e6c0e733
+  - :uuid: bdc76e04-e8ac-431c-ac60-1661199f33eb
     :songs:
-    - :uuid: 88c56f6a-4f11-4aee-ad91-f08d32065680
+    - :uuid: 38ebb13f-7578-4f6b-b412-419a959974b9
       :name: U.S. Blues
       :segued: false
-  - :uuid: 7bdb67f5-e3c1-4b23-b678-bd3927cebe63
-    :songs:
-    - :uuid: 4d6074a4-2465-4700-9e07-65fe94cc0cc8
+    - :uuid: e492332c-9436-44fb-ab0d-fd70c82f1a24
       :name: One More Saturday Night
       :segued: false
 1974/09/10:
   :uuid: ad766fb0-4ff7-4768-9166-678982bf842b
   :venue: Alexandra Palace
   :city: London
-  :state: ''
-  :country: UK
+  :state: 
+  :country: England
   :sets:
-  - :uuid: 5c2d84e9-f7e0-490c-a373-104eb6264c6b
+  - :uuid: 6f60238d-4917-44d9-bd0d-ce1533058e93
     :songs:
-    - :uuid: 98fb85e9-b63a-498c-948a-b9c2f5ebad57
+    - :uuid: 6bfea38d-e89a-402e-95e2-fbefec6356db
       :name: Around And Around
       :segued: false
-    - :uuid: e61d8195-09f6-45c9-a12e-d679f09b080f
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: 496466f1-ba33-41c2-ab68-67c1576c0b3f
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: 9ff331a3-de05-4959-9730-7a8f3cffaf86
+    - :uuid: b09b4df6-8a3c-4c9b-9dcc-e53d8037f510
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 6fae3c4a-bf31-44f2-80aa-8d09bfeca4d4
-      :name: Peggy O
+    - :uuid: eb9c6d8a-cacd-4482-a44c-eeb45cd331b2
+      :name: Peggy-O
       :segued: false
-    - :uuid: a6f217c0-5216-404d-a1a1-e35d4e874df9
-      :name: Tennessee Jed
-      :segued: false
-    - :uuid: f7766141-ec5e-479c-b5e6-1508c247e3a0
+    - :uuid: ffee430c-41a4-4060-a468-5d8c7b820788
       :name: Black Throated Wind
       :segued: false
-    - :uuid: 55664705-4321-4fef-867b-a00e368878ce
-      :name: China Cat Sunflower
+    - :uuid: abdd5672-2ee3-4a57-8cc1-8d977b7a722d
+      :name: Tennessee Jed
       :segued: false
-    - :uuid: 6dabfbd7-63b9-40df-98bf-ad80111039dd
+    - :uuid: ecf8c10c-5c7f-42ce-bd0b-cf7bf5f3a998
+      :name: Mexicali Blues
+      :segued: false
+    - :uuid: 7977cc4c-1898-4bc4-b2b1-2ee41a819635
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: f5990f8a-c084-47b9-ad3a-816b451b57c7
       :name: I Know You Rider
       :segued: false
-    - :uuid: c3e6c70b-8ec4-40ef-9680-e7315c046873
+    - :uuid: ba56f62b-205c-48e5-8a13-2497e679f906
       :name: Loser
       :segued: false
-    - :uuid: 6fcf44b1-4bef-4e72-9155-dd55bc0167a0
-      :name: Black Peter
-      :segued: false
-    - :uuid: 235e0683-4a21-46e0-97d9-2a1a0f3e4522
+    - :uuid: 0a07def7-c80b-48ea-921c-b9c07da2b02e
       :name: Weather Report Suite Prelude
-      :segued: false
-    - :uuid: fd483c70-f636-4748-b0d9-fef9b9abb71b
+      :segued: true
+    - :uuid: 249af8a6-042a-4feb-b5cb-40ced0b5207b
       :name: Weather Report Suite Part 1
-      :segued: false
-    - :uuid: b57709ca-0dcc-4551-946e-2c39b37fd2ff
+      :segued: true
+    - :uuid: ab996bf2-88e0-40c5-ae9d-96c02da5b080
       :name: Let It Grow
-      :segued: false
-    - :uuid: fb1bcea6-59f6-44dd-af22-cccc838285f5
+      :segued: true
+    - :uuid: 478a30d3-38dc-486c-91d0-daa0d37130c0
       :name: Stella Blue
       :segued: false
-  - :uuid: 22ef435e-11da-4bd0-b5cb-4d1f2403afd1
+  - :uuid: d644115d-4861-43cd-a924-da6bb74e8b68
     :songs:
-    - :uuid: b5be0477-4f52-4da9-9e7d-3384931b410b
+    - :uuid: 5b2e7f63-9668-4a5e-89e3-036c25428bb6
+      :name: Seastones
+      :segued: false
+    - :uuid: 516c04e6-331a-4a9c-8a46-e602a5f833f7
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 6e0de9cb-be19-4556-8ae1-a9c658d8a414
+    - :uuid: 095a09a5-0e28-4a32-83ad-127887140fbe
       :name: Dire Wolf
       :segued: false
-    - :uuid: 8a0c3b05-206b-460e-baf5-0fed59e8f230
+    - :uuid: 8c60e953-182e-4839-b0e8-c0d76ee04f7c
       :name: Not Fade Away
       :segued: false
-    - :uuid: f87233ed-b386-45d0-a07c-e93a65e162eb
+    - :uuid: 3a4bd4a7-d291-4168-a4f4-c169cb9faf38
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 6386b975-ac0c-4ae2-ae8b-a1de0d29aae0
+    - :uuid: 19057c75-7698-4e85-8ba3-13f2143c266a
       :name: Big River
       :segued: false
-    - :uuid: dff06a72-b81f-482c-bfd4-697cff4595a0
+    - :uuid: f90d99c4-f4d5-4851-8694-3d9179ec1c7e
       :name: Dark Star
-      :segued: false
-    - :uuid: 0345bb5a-287b-4f31-b77d-1693fde72a3b
+      :segued: true
+    - :uuid: cd1be2f6-a9e0-499c-bbbc-6cc0d190924c
       :name: Morning Dew
       :segued: false
-    - :uuid: 64fec60f-a741-4ea1-a845-511f2344da61
+    - :uuid: 1d256060-ffd2-459d-b322-9a28ae706330
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: e0ba9e6a-36ce-415d-bb43-a6204a5b2cf8
+  - :uuid: 1972fb23-3383-42f6-a5a5-1a0acc603eb4
     :songs:
-    - :uuid: d0916bbe-44ea-44a6-87ba-3b4ecb611475
+    - :uuid: 1e58aa16-277a-49bd-818e-15f0369187e0
       :name: U.S. Blues
       :segued: false
 1974/09/11:
   :uuid: caade566-c36a-47b8-87df-d8a94268a24e
   :venue: Alexandra Palace
   :city: London
-  :state: ''
-  :country: UK
+  :state: 
+  :country: England
   :sets:
-  - :uuid: ad69ff17-329b-455d-be32-5b570f713141
+  - :uuid: 165e5fa8-88b4-4521-a316-78a33effdf71
     :songs:
-    - :uuid: 6095577a-2d66-4296-91f4-4380227ad108
+    - :uuid: d6fbad23-4025-4eec-a1bc-8132604c12a1
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 52857b7a-b619-491d-b938-ca5dc42789a9
+    - :uuid: 30d1bd19-4005-43d1-a1a1-5d547691f850
       :name: Mexicali Blues
       :segued: false
-    - :uuid: a7b0e0e1-f8bb-4b23-bf2d-3527b72c4dac
+    - :uuid: 082f4710-9590-41dc-bf76-5122705ef91f
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 86220a7e-3eb5-4a44-a2f5-59a06f28e73e
+    - :uuid: bc082bf6-6bb3-43eb-a334-16e1cbd1ed3b
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 60e52985-1d37-4198-94fa-cd5ac4a3bd14
+    - :uuid: d65aa965-4ccb-4040-8d4c-eec33cf73dc6
       :name: Sugaree
       :segued: false
-    - :uuid: 8b9ac33d-242b-49c4-b2e9-f2214acdffba
+    - :uuid: 5f797da2-899b-4567-b010-405f1f54c69c
       :name: Jack Straw
       :segued: false
-    - :uuid: 72493b75-05a1-4548-b2b9-7ff0d2d09e87
+    - :uuid: 18108ac2-ac2c-484f-9774-77f93e7fde2f
       :name: Row Jimmy
       :segued: false
-    - :uuid: 9d202e1c-8137-4955-8f27-98055fe2ec84
-      :name: Me And Bobby Mcgee
+    - :uuid: 4fee82a0-fef0-45fb-b932-dc7088185562
+      :name: Me And Bobby McGee
       :segued: false
-    - :uuid: d60631e4-918c-4543-952b-6deedfd597c1
+    - :uuid: e44033f2-aac8-4d4a-97bc-6828595560cf
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 72cdd6c4-3c07-4dc8-976d-722fd053dbde
+    - :uuid: c87bd6d2-7a86-481d-b8a8-af31c7f079e8
       :name: Big River
       :segued: false
-    - :uuid: 7f0cc18f-39e3-474f-999b-092ab1f02fc3
+    - :uuid: 0f8aede9-727d-49ff-b594-58cdbd921e91
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 3c5b08ef-76bd-47a7-ad14-4ee78b56d2f2
+    - :uuid: 02e88c90-d673-443f-b9c2-ea454918ab79
       :name: Playing In The Band
       :segued: false
-  - :uuid: c3894eb2-31a1-481c-a699-d3c725dc8596
+  - :uuid: 436018af-6306-406a-b9ec-927dfe43336b
     :songs:
-    - :uuid: 67d50dd0-1eaa-4ede-8f66-395a17983098
+    - :uuid: 3d2fe341-bf9a-4b43-90f1-7d651ad94ac5
       :name: Seastones
       :segued: true
-    - :uuid: d2f860e9-39c5-451a-bac0-7023891da764
+    - :uuid: bfe2522b-1592-4e84-bd89-f2e7b2ddadd4
+      :name: Jam
+      :segued: true
+    - :uuid: b1f38aae-1ba5-4900-8e26-8c264976de10
       :name: Eyes Of The World
       :segued: true
-    - :uuid: 81b0eccd-93ee-4f50-a9d8-f69cec6f58e3
+    - :uuid: 4a27d092-50bd-40e0-b902-6b766f69ab25
+      :name: Jam
+      :segued: true
+    - :uuid: 036b2662-d70d-4bf2-900b-d885b02652dc
       :name: Wharf Rat
-      :segued: false    
-  - :uuid: 9efacaf0-f79a-4b16-b0d5-d3bf76fb8fbb
-    :songs:    
-    - :uuid: cadd7a89-8eb3-45ba-97e8-26b5efe2006e
+      :segued: false
+    - :uuid: 856073ce-783d-4811-8f34-39db12488ffe
       :name: Around And Around
       :segued: false
-    - :uuid: 74b62c18-16fc-4c75-b129-f3b5837ffbbe
+    - :uuid: 1e96e1a7-178b-49e6-aae1-cfefeedba33e
       :name: Ship Of Fools
       :segued: false
-    - :uuid: f3f673f0-374d-42ca-9124-462a8920e4ec
-      :name: Goin' Down The Road Feeling Bad
-      :segued: true
-    - :uuid: 0f37c75e-6ac9-4140-9aac-31d8cd78f144
+    - :uuid: cc0fd0c5-0f45-48b9-aa1a-edf7d4ee01f1
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: false
+    - :uuid: a1799974-bf63-43d3-ac88-c2542cb78d58
       :name: Sugar Magnolia
-      :segued: false            
-  - :uuid: 936c4960-7e31-4a3e-9e15-5970e4b9fb55
+      :segued: false
+  - :uuid: 65dcba89-00c1-45dc-bb09-660a80615fd0
     :songs:
-    - :uuid: 2674c9e9-fc5d-478f-9a53-0e1af926c8e7
+    - :uuid: 8b554dba-c64f-4506-97b3-adab4356e3db
       :name: U.S. Blues
       :segued: false
 1974/09/14:
   :uuid: 7d7b5990-7114-454b-a960-8e72f17a819f
   :venue: Olympiahalle
-  :city: Muenchen
-  :state: ''
-  :country: DE
+  :city: Munich
+  :state: 
+  :country: Germany
   :sets:
-  - :uuid: 57a36eb9-dc57-45c9-9598-88fb394333e7
+  - :uuid: fe166f4a-f476-4d89-a8e7-52a458f3b6ac
     :songs:
-    - :uuid: 23839fd0-ee2e-4de5-96ef-c341965e369d
+    - :uuid: 961cf84e-dc89-40a8-9262-f14e575d7db1
       :name: Bertha
       :segued: false
-    - :uuid: 260043cf-f95d-41a1-8c11-75bb29c7c249
+    - :uuid: 1f05e002-7141-499c-8c30-08f5322356bb
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 4eff2b79-0b1c-4a06-aedc-6b418e6ccf4a
+    - :uuid: c39ac375-d64c-469c-8103-dcbb7eb4583e
       :name: Deal
       :segued: false
-    - :uuid: 940abfcf-3122-4b58-9707-1a7ee54675ea
+    - :uuid: c48c8620-2082-4ebf-8939-4ca1625468a4
       :name: Jack Straw
       :segued: false
-    - :uuid: dfb65dd0-b000-4b18-a1b5-b16634f789f5
+    - :uuid: 001e4657-aff7-448b-8c43-fa91c39ded30
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: cc1dd399-4141-489f-9b4f-fe03b3c44812
-      :name: The Promised Land
+    - :uuid: ab7fd30c-a0a8-4227-8169-2b4819ec7928
+      :name: Promised Land
       :segued: false
-    - :uuid: 974270ba-1639-410f-ac81-bf62542eb3c0
+    - :uuid: b5cb10b2-020a-4767-9ae9-ad466b2693b7
       :name: Loser
       :segued: false
-    - :uuid: db1bfa85-6dad-4f51-ae3d-d44873f9a788
+    - :uuid: 4400a4b2-ae04-436d-a3a4-719d3a8a16e6
       :name: El Paso
       :segued: false
-    - :uuid: c0539321-1973-484e-8a38-2f78a2d3d05d
+    - :uuid: f8bce489-332e-45fb-a1c4-4baecbe89236
       :name: Row Jimmy
       :segued: false
-    - :uuid: 91ee1fa0-13ae-4af9-a20c-fa8f11c5a631
+    - :uuid: 49887abb-90bf-4072-b26e-eba10ed686ee
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 87558ce0-83d1-4140-a239-6528a0d83507
+    - :uuid: f1c676c1-7e61-4da1-a077-8272a1a58eb3
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 1e997ae8-da97-4b7e-a14c-341d0d4c27bc
+    - :uuid: cce4e77c-3767-4cc8-a944-756671ae95dd
       :name: Let It Grow
       :segued: false
-    - :uuid: 05b7df0e-b49d-4acd-b61e-d4fb7cc1ca96
+    - :uuid: a92a1451-c330-4468-b7ba-d36bb10c9873
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 2e93b5aa-6dd4-4c82-b3ec-dd6644dbaa11
+    - :uuid: 32984d8e-a512-4a1b-b2ac-9c47a7d49c81
       :name: Around And Around
       :segued: false
-  - :uuid: 3d9eda4c-0338-4c35-8647-89320bb697fc
+  - :uuid: 6ba5fae6-b6de-4e3e-b44e-cf5d0e2442c6
     :songs:
-    - :uuid: a746dab6-a9b6-4cc5-a2f2-1ab7af33707f
+    - :uuid: 9d71d0ad-7ab4-4c08-82b9-2402e3b09d57
+      :name: Seastones
+      :segued: false
+    - :uuid: 89e33d5d-fa08-4de7-af13-33e5a65d47b5
       :name: Big River
       :segued: false
-    - :uuid: a1530d0c-4569-4a3e-b997-eebe2d8c372f
+    - :uuid: c9f5f093-f939-47b4-a261-4a26502589e3
       :name: Sugaree
       :segued: false
-    - :uuid: 106cde57-9a3e-46bb-aba9-185582818ed7
+    - :uuid: c6922aa5-0cf6-42cc-b258-f7ac3fc090d5
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 21b662e5-ad0a-4c0f-9640-a8af79d0d61d
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: 8c7b945d-5d02-4c1e-8e16-4e257bc96190
+    - :uuid: 14f52cea-c453-4722-8e7c-f1dbc73ba109
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: d5cc3781-cf3a-4183-be88-824b87dcb8ee
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: af3cc65b-9845-4fb9-a17e-fa1214855ad9
+    - :uuid: 61980863-92b1-49b9-a72e-6ece5ff52587
       :name: Truckin'
       :segued: true
-    - :uuid: ae724e55-a5e2-4a30-bbcc-48665cd78730
+    - :uuid: 6d8356af-f5eb-427a-a154-3d3503f64763
+      :name: Mind Left Body Jam
+      :segued: true
+    - :uuid: 960f29c1-7219-43a3-ba3e-4bf8baeb91d3
       :name: Wharf Rat
       :segued: true
-    - :uuid: a3bf2016-d486-4eca-bc2f-c94312f78c10
+    - :uuid: 38fcb9f5-7fd7-465d-b1a2-4649a490c287
       :name: Sugar Magnolia
       :segued: false
-    - :uuid: bfea89cd-3b0d-47d5-8ff9-316641dafa94
+    - :uuid: 8b9d9853-e57c-40d2-95e0-5fd2dd615409
       :name: Eyes Of The World
       :segued: true
-    - :uuid: f7792dfb-fb42-4602-952c-295fc7aff64d
+    - :uuid: bf93b0d4-8cba-4cf0-b460-3f7a9f0a6b32
       :name: One More Saturday Night
       :segued: false
-  - :uuid: a513d22c-5225-4c81-9930-7eedce649baa
+  - :uuid: a880e902-d173-4aa5-a723-da238de0c9c9
     :songs:
-    - :uuid: ad4972c0-df05-4f82-8f90-202f54d6b9da
+    - :uuid: 63598502-26d9-4b1a-bd9c-14683ac8d221
       :name: U.S. Blues
       :segued: false
 1974/09/18:
   :uuid: 6a594541-efc8-417c-a250-3a5d98995a60
   :venue: Parc des Expositions
   :city: Dijon
-  :state: ''
-  :country: FR
+  :state: 
+  :country: France
   :sets:
-  - :uuid: 6788fb95-17e5-4954-bcbd-652a90740c10
+  - :uuid: 51b7601a-2dd1-4f1f-9956-1dc86dd7a354
     :songs:
-    - :uuid: 99f7150e-650d-48f9-95ce-ab5c02ee6d6b
+    - :uuid: 8e37729f-dd49-4622-a539-2ecb3276f0bf
+      :name: Seastones
+      :segued: false
+    - :uuid: df26deb8-29ea-43e4-a2b2-8340b3432da7
+      :name: Space
+      :segued: false
+    - :uuid: 9a287380-063e-41be-8b9f-da297f753a79
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: f4962998-6af4-4412-bd1a-fd97de87fcf8
+      :name: Brokedown Palace
+      :segued: false
+  - :uuid: 1fb68f3a-c2d0-45cf-ab1e-09a3a25e9d95
+    :songs:
+    - :uuid: a3764d21-becb-4e52-8e38-5f851cf8b12b
       :name: Uncle John's Band
       :segued: false
-    - :uuid: ad9c54ec-be34-45a1-9a56-5639269a0d33
+    - :uuid: 72342586-0deb-441b-bb15-237eae93a899
       :name: Jack Straw
       :segued: false
-    - :uuid: b1f43d62-45fe-4dcf-9e5b-3d5521d9470f
+    - :uuid: 3f7163d7-53ed-486b-b507-31a9de1cfb48
       :name: Friend Of The Devil
       :segued: false
-    - :uuid: 3c850057-e762-460b-9cdc-fcace82a0b44
+    - :uuid: d0440ddd-7e9f-4f86-914e-d2d4a358983d
       :name: Black Throated Wind
       :segued: false
-    - :uuid: 0bf8f651-c469-469e-903c-554601964331
+    - :uuid: 4c1692c8-787f-4524-b772-9494e53806c2
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 62247b60-2d96-47ca-8532-9494823e7809
+    - :uuid: b8d29235-f62c-4ef4-baa1-43e284388b1e
       :name: Mexicali Blues
       :segued: false
-    - :uuid: b818c6b4-1056-4537-81cc-38711619bdbd
+    - :uuid: 107e5c37-aa38-4369-8843-6cd43623d47c
       :name: Row Jimmy
       :segued: false
-    - :uuid: 645e90a1-cca8-4c4a-8eb7-1e74aea35cbf
+    - :uuid: 02bdc82a-f30c-4bdc-b5a8-aa05713c7507
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: d72d5491-e014-4d3e-9f8a-32b35f2da12e
+    - :uuid: 61714671-c941-443c-86e8-f0414cef5b8f
       :name: Deal
       :segued: false
-    - :uuid: f1f3d29f-70c0-4da9-b71e-a341dc44a9a6
+    - :uuid: ac488ac5-6fe0-4bf8-9a2d-b392bb3cfa7b
       :name: The Race Is On
       :segued: false
-    - :uuid: 2b7c7ac3-ef65-4c55-b109-0e558fa2822e
+    - :uuid: afce224d-6d89-48d4-b91d-a7867e3cbed3
       :name: To Lay Me Down
       :segued: false
-    - :uuid: 84562823-6b8b-4efb-98fb-136f98c1df15
+    - :uuid: 42816c43-1389-421b-8352-1081785cc091
       :name: Playing In The Band
       :segued: false
-  - :uuid: 2d056b0e-3617-4013-9ef9-8c6a62395868
+  - :uuid: 74caa725-82b5-4afa-9ae4-03e3f379c7d0
     :songs:
-    - :uuid: a03bbe08-e155-42fe-bb15-5e8afcd14f9d
+    - :uuid: c4cf2067-7625-443d-ae81-64238dc95fc7
+      :name: Seastones
+      :segued: false
+    - :uuid: e1e31159-09b6-4396-bc34-9373e8eba6f8
       :name: Loose Lucy
       :segued: false
-    - :uuid: e341fc39-20cf-4461-8b1d-21757afb37a0
+    - :uuid: 75bd7627-9dbb-496c-b3ae-ad73f78a211c
       :name: Big River
       :segued: false
-    - :uuid: f69595c8-de98-4694-ae08-be47541e0f83
-      :name: Peggy O
+    - :uuid: 9a2411ad-a427-4d47-8759-e6dd5e33cba9
+      :name: Peggy-O
       :segued: false
-    - :uuid: e06ea455-869c-4403-983d-386994d3b8e9
+    - :uuid: c2b9041a-db01-4a3d-9fdf-5432a57e4ac7
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 21242aea-b3f9-46ff-a9fd-58c028f53c10
+    - :uuid: cccf43e3-c72b-42bb-92f9-ae8d2336331b
       :name: Eyes Of The World
       :segued: true
-    - :uuid: bbd6d67c-3aee-4875-9f94-1e129eb8f56b
+    - :uuid: f640b751-f42a-46eb-b630-6ea2273b7406
       :name: China Doll
-      :segued: true
-    - :uuid: 2560d377-7283-4bd1-a4af-5dfe021d0b69
+      :segued: false
+    - :uuid: 3d77a370-fe26-44d9-9ad5-ddf22dec0883
       :name: He's Gone
       :segued: true
-    - :uuid: 268e0fc2-2085-4856-9607-15be823fa04e
+    - :uuid: 60497df4-628d-40ba-b37e-00f9fb936528
       :name: Truckin'
       :segued: true
-    - :uuid: bfbad0b4-c33f-487f-ac7c-f1e209a660f3
+    - :uuid: e35fc384-7957-4362-bf65-4ad0163396e1
       :name: Drums
       :segued: true
-    - :uuid: 9538b1f4-9c7a-455c-b853-2d29e9b7e43f
-      :name: Caution (Do Not Stop On Tracks) Jam
-      :segued: true
-    - :uuid: 4235f0d2-7388-4c59-af13-0e678f2782ed
+    - :uuid: 1e61764a-2ede-4738-bf29-7f6a58866435
+      :name: Jam
+      :segued: false
+    - :uuid: f0614c1d-99b4-4c1e-aaa5-49cfd16c4a50
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 411d90a4-d2aa-434c-85e0-7869b1ac6d97
+    - :uuid: 97e1371b-7ed6-4ad2-8699-c647903f1535
       :name: Johnny B. Goode
       :segued: false
-  - :uuid: 77a5ab63-be27-45e8-9b5c-eb52fbe8770d
+  - :uuid: 14e45b3e-5cd4-4e90-b060-d8bc28854c2c
     :songs:
-    - :uuid: 8891cd9a-7f0a-4358-8fe9-0fd6ca98f06f
+    - :uuid: bf5a3e0b-e963-4340-a5be-2953a2c4caee
       :name: U.S. Blues
       :segued: false
 1974/09/20:
   :uuid: badd4c6e-1441-4e32-a37f-f7137ffa51ec
   :venue: Palais des Sports
   :city: Paris
-  :state: ''
-  :country: FR
+  :state: 
+  :country: France
   :sets:
-  - :uuid: ca57ca96-6417-4502-b3c1-5dc00eb0dd52
+  - :uuid: 97a3c269-d430-4265-8cee-65f6c0387244
     :songs:
-    - :uuid: 7f59923a-8f16-4ea8-958a-27cdc5db9e86
+    - :uuid: b3ec6b75-1eae-4617-af66-d2e5ef185e5d
       :name: Cumberland Blues
       :segued: false
-    - :uuid: d1bb43dc-497b-4ae4-98b4-e60b5beb6d0b
+    - :uuid: 4185f4b3-443b-4d42-8398-acd4e6ad5690
       :name: Jack Straw
       :segued: false
-    - :uuid: 0bb84219-ebdd-4988-bc50-c8de5def8271
+    - :uuid: 0c2a931c-f1de-4f98-8eca-52606264b310
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: b2b4ee6a-64d2-448c-8935-0094c67a4767
+    - :uuid: 479f00f0-6438-4426-8fce-d9602faa21a7
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 4843ed12-df76-4e51-bf22-6fc4606afd9c
+    - :uuid: f397b758-a821-4ae6-829a-f8d9c36c4cfa
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: f4118df1-9006-4b55-a471-3450dc520474
+    - :uuid: 98ee3274-64b4-4ea0-ada8-012290f74286
       :name: Black Throated Wind
       :segued: false
-    - :uuid: e899bdce-403d-4b30-872d-668780d1f577
+    - :uuid: 90b49198-e00c-4c91-9497-ef3662cb5421
       :name: Friend Of The Devil
       :segued: false
-    - :uuid: c7a8b973-cee9-4a9c-ad0f-6a5557b257e8
+    - :uuid: 0a4a639a-09d6-41e6-ab7a-330aa7dc9485
       :name: El Paso
       :segued: false
-    - :uuid: 539e89f4-39e0-4d62-a218-bfa48cb37b29
+    - :uuid: 03dc974b-acec-44bb-83fb-4f923a11d9db
       :name: Row Jimmy
       :segued: false
-    - :uuid: 17f9302a-ce78-49f8-89a1-db75f912acf2
+    - :uuid: 8aa5f8ea-0aea-4c68-9869-02fa2172de7b
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 30ca5d3a-137c-4e6f-917f-5f6fb46c9891
+    - :uuid: 75753070-254a-4fc8-bdca-2a6bad0fca75
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: a48faa72-e6da-468f-ac19-713bddf83f53
+    - :uuid: 50d198bb-2abd-415f-beb1-d2f3c9b25fbb
       :name: Let It Grow
       :segued: true
-    - :uuid: 8a53c459-768b-44bc-bce9-304c228e4d0d
+    - :uuid: a41ac343-fd3c-421e-be2c-60b598569393
       :name: Stella Blue
       :segued: false
-    - :uuid: 51956577-ade6-4b35-bf93-1dc7aead9548
+    - :uuid: 3ba8b655-dfd8-41bc-80b1-6778fcdcc30e
       :name: Around And Around
       :segued: false
-  - :uuid: 0acde4b8-06b9-45ed-9d19-ba7452c102e5
+  - :uuid: 4fe1acc8-7baa-4809-a647-893ab22aa06f
     :songs:
-    - :uuid: 78de0349-8f39-4136-bf8d-341b4fe4325b
+    - :uuid: 6389a87d-994c-46c6-b69e-b87a55b3c335
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: 0e4e9f99-8a85-48c4-8fd2-393765496574
+    - :uuid: 9add1c80-87eb-403b-ba74-4a838170e519
       :name: I Know You Rider
       :segued: false
-    - :uuid: 47a74f69-03dd-40b3-ad22-7c383add5b7a
+    - :uuid: 56c16d1c-cb7c-4132-991c-c0dbdebd7eb0
       :name: Big River
       :segued: false
-    - :uuid: b8252aaf-ad4a-4a34-8851-f860d09c0faa
+    - :uuid: 3cc561f7-3884-43cb-80a1-7e6db84b803c
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 6b056ff6-6142-44e1-ac0b-7a15f7fa59c6
+    - :uuid: 0ea68eeb-a0df-4e52-b89e-57dedde458ab
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 2e1749a9-ea41-4b8b-936b-6eb948837f26
+    - :uuid: e58871c1-63e0-44c2-83ea-c96e973924b3
       :name: Brokedown Palace
       :segued: false
-    - :uuid: d4210bce-a51d-47a8-865f-3e3b859d0888
+    - :uuid: 0b072e4f-42c3-42b9-aa72-5e7d78be34a8
       :name: Truckin'
       :segued: true
-    - :uuid: 513246dd-1eaa-4453-9082-93ea9fae94f1
+    - :uuid: 60a21296-7bb2-42cc-b7d4-772402d601c4
       :name: Eyes Of The World
       :segued: true
-    - :uuid: 68971614-32bf-4bcc-8d4a-30a0e7a5feef
+    - :uuid: e86ec901-b413-4c38-a0e6-e0b17fb8a622
       :name: Not Fade Away
       :segued: true
-    - :uuid: 9b15fbfc-6459-4ee7-97ea-1dce25ba1467
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 5ebab064-56ca-4b08-a46c-8e1f14a40af8
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: ee533bfc-e4b5-4b55-8594-51da75c605f0
+    - :uuid: 4ceb9532-c728-4718-a93a-adb7883b791c
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 5e9ae4db-63e4-4ed7-986a-1b06b75f59d7
+  - :uuid: c1f68890-c04f-460c-81e6-d8c5c2a91d9c
     :songs:
-    - :uuid: 4b7c2532-cd54-463b-9b15-44ab6171070f
+    - :uuid: d1d4bd31-eac2-4f35-8580-906b79ba4c9b
       :name: U.S. Blues
       :segued: false
 1974/09/21:
   :uuid: 640ee65e-4a57-4185-a0fa-a256a1d2d3cb
   :venue: Palais des Sports
   :city: Paris
-  :state: ''
-  :country: FR
+  :state: 
+  :country: France
   :sets:
-  - :uuid: d8d19ad7-99d0-4fde-b409-e9cdad70f12f
+  - :uuid: ed5fc341-3e8e-498b-a040-152c58b25062
     :songs:
-    - :uuid: 08e646a6-48df-4ee1-8a3b-5e7a77a95ece
+    - :uuid: 4f1b54fc-8a0c-41e2-af2e-7b0cbd17c66b
       :name: Bertha
       :segued: false
-    - :uuid: 062841b4-b7d4-4caf-bfb0-38b2bf7e9405
+    - :uuid: 6cfdee11-8144-4ddf-a783-c4ed25ff96d1
       :name: Mexicali Blues
       :segued: false
-    - :uuid: e7a19c30-dbe2-4c5f-acf1-79367f823674
+    - :uuid: 0235f7f1-fc33-441b-9340-7677bd3991e2
       :name: Sugaree
       :segued: false
-    - :uuid: 5f50a3c1-6b7e-4054-84dd-372d6eacdc8e
-      :name: The Promised Land
+    - :uuid: 37c3131e-62bc-49f6-89e4-9c60d24ed1ef
+      :name: Promised Land
       :segued: false
-    - :uuid: 27acf514-6058-4c68-a117-131c5ce5ff25
-      :name: Peggy O
+    - :uuid: 63d2d9ad-e696-46c6-bdb5-e4ce720e23fb
+      :name: Peggy-O
       :segued: false
-    - :uuid: aaab959c-e6b6-474a-aebd-af011f8875ac
+    - :uuid: 2b709e48-59ed-44e1-a1bd-14d344e36333
       :name: Me And My Uncle
       :segued: false
-    - :uuid: af339905-8232-4847-b035-735f5f91ed53
-      :name: Eyes Of The World
+    - :uuid: 33039e0a-976a-48c0-ac06-2bc1e3d40bdc
+      :name: Deal
       :segued: false
-    - :uuid: 38b46afa-c9fe-43fa-b83e-8213dd22c5c8
+    - :uuid: 4494a261-2970-4557-9b00-52f17bdaf18b
+      :name: The Race Is On
+      :segued: false
+    - :uuid: 00164210-5db1-44da-8e5f-32834120534d
+      :name: Loose Lucy
+      :segued: false
+    - :uuid: f555a58f-31fe-40d7-8ad3-fd53ecf81de8
+      :name: El Paso
+      :segued: false
+    - :uuid: 3f6425ae-d3f0-407e-8dfc-de5fba45be51
+      :name: Eyes Of The World
+      :segued: true
+    - :uuid: 387d5e14-ece8-410e-be39-9560f7938e36
       :name: China Doll
       :segued: false
-  - :uuid: 65e2ff8c-1972-4b9f-9c7d-b3a87828b697
+  - :uuid: d3a13ffc-97de-4527-bed4-1a59ad369253
     :songs:
-    - :uuid: 9597a690-096b-46ff-8845-495e4ad2314a
+    - :uuid: 8900c655-7fc8-44fc-81e8-12fc331bc778
+      :name: Seastones
+      :segued: true
+    - :uuid: 51a5f192-4e13-4039-b329-ead3c147cb82
+      :name: Playing In The Band
+      :segued: true
+    - :uuid: dcb20788-3b17-4887-ab11-67dc6037b228
+      :name: Drums
+      :segued: true
+    - :uuid: 67691fc6-888e-4c85-a81c-44223fab6e58
       :name: Playing In The Band
       :segued: false
-    - :uuid: a58e67c1-9f04-4f13-b4ea-271931d3fdd1
+    - :uuid: f9539cf5-528c-41f7-90ea-7a034ff1a667
       :name: Row Jimmy
       :segued: false
-    - :uuid: aa281306-758b-49e8-b276-9394d68f4ad2
+    - :uuid: 93812827-a7ff-4914-9867-2c5d13ff9dcd
       :name: Big River
       :segued: false
-    - :uuid: 05fd0a52-4a4e-43ad-8c4a-9fa8d8ee1b7a
+    - :uuid: 78f0e3fb-2a9e-43e0-91ea-edcf3e8b4da0
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 6b1b1729-f28b-47e2-b6a0-14582561e9bd
+    - :uuid: 167f3a43-d8e6-44f9-b010-49f5fac968c6
       :name: Uncle John's Band
       :segued: false
-    - :uuid: 6fd564c1-ff1d-4872-b95f-2fdefb365e94
+    - :uuid: e85b1b45-223f-497a-ba19-ae5c4d74ad55
       :name: Around And Around
       :segued: false
-    - :uuid: b06c96cc-8324-43ab-8496-4093475b4ce3
+    - :uuid: 5c24e785-9ee9-4315-afef-2d251f14161b
       :name: Morning Dew
       :segued: false
-    - :uuid: 2dbf635d-90aa-4241-9b90-30512c494b04
+    - :uuid: e84226d1-3a15-4b78-b79d-82fa95140432
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: bb39abd7-ea7b-40a9-b32c-0750cf5d9dbd
+  - :uuid: 0c512c07-a8cc-447a-894a-33a1eb9647b6
     :songs:
-    - :uuid: 541c2940-a812-4beb-846d-36c1e5138e3c
+    - :uuid: 2cdbcf12-d330-4061-9dd4-ae441fab5f8e
       :name: Casey Jones
       :segued: false
 1974/10/16:
   :uuid: a4e53be0-7d23-4882-bbea-fd13859ebc26
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: 0a252996-a041-4653-bc97-9a83c5b69a3b
+  - :uuid: d682137f-2607-423f-bc65-74dc43368338
     :songs:
-    - :uuid: 651b380b-3a39-4f16-b24e-26007a904df9
+    - :uuid: ea9fc8da-bf99-44af-b630-606708f428c0
       :name: Bertha
       :segued: false
-    - :uuid: fa24663b-567d-409a-8481-b73cdb98636f
+    - :uuid: 31772f57-6787-48a2-9504-b870b0f128d8
       :name: Jack Straw
       :segued: false
-    - :uuid: 89acb4ee-7d53-4301-abf4-881492886f02
-      :name: Tennessee Jed
-      :segued: false
-    - :uuid: a866604b-4372-496b-b244-a540aace4f80
-      :name: Cumberland Blues
-      :segued: false
-    - :uuid: efe4cd84-f4b3-48d0-97f8-07efc2a701f2
+    - :uuid: 6bedf115-8c1d-4242-8a84-a14bee3cb331
       :name: Deal
       :segued: false
-    - :uuid: 75f4f08d-d424-49e8-a28b-b1d813d8ce76
-      :name: Me And Bobby Mcgee
-      :segued: false
-    - :uuid: c26ee37e-572b-405d-8221-d6c5e9f3ed7f
-      :name: It Must Have Been The Roses
-      :segued: false
-    - :uuid: 6a180261-8503-41ab-9a90-1b902689de12
+    - :uuid: b73d4bb0-898d-4d2d-aa8d-db315ee8590a
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 06abbdf4-22a3-4d60-9b99-23a27ab2ec72
-      :name: Row Jimmy
+    - :uuid: 53f4d4a7-f8ed-4f57-a357-6b23f15c918d
+      :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 163fb60d-f210-4a80-b747-b0a899e7d09d
+    - :uuid: 62bbcf73-cde7-4bdd-81b6-bfc76ec06710
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 2af3220b-26d6-4816-bf2f-4bd1e24f316d
-      :name: Ship Of Fools
-      :segued: false
-    - :uuid: 687bbcd7-3987-48a7-aa54-db19df67acfb
-      :name: Playing In The Band
-      :segued: false
-  - :uuid: 62dd0876-3128-4ec6-8b34-cb1dbc4b191f
-    :songs:
-    - :uuid: 5335eef9-6e84-476c-9fb9-73c1193a81be
-      :name: Seastones
-      :segued: true    
-    - :uuid: ff2fb5d2-6f27-42d5-adbf-c37c3ba152d4
-      :name: Wharf Rat
-      :segued: true
-    - :uuid: 01d694b2-ef6a-4b01-b97f-27531379f98c
-      :name: Eyes Of The World
-      :segued: false
-    - :uuid: 93b148bb-f0d9-45d9-943a-84eaeb45a366
-      :name: Big River
-      :segued: false
-    - :uuid: a06c26a8-85a5-4c4f-b90f-4b76c03f1b80
+    - :uuid: d5c6bbca-f03b-4438-b8a9-fb61b1aa6819
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: ed08d1eb-be73-4fa8-b386-51cafad892d7
+    - :uuid: 53a32e8d-d1ea-4495-bf3b-35a4a7e3826e
+      :name: Me And Bobby McGee
+      :segued: false
+    - :uuid: 6168bba6-9b45-4b0f-bc68-7a77150f2a45
+      :name: Tennessee Jed
+      :segued: false
+    - :uuid: 2527ea8e-579d-4c43-a47c-3651481a30dc
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: 9966d8ce-9280-4298-9e84-6d30134fef95
+      :name: Row Jimmy
+      :segued: false
+    - :uuid: f37a0fc9-3860-4454-8a87-6bf0d1cf449b
+      :name: Playing In The Band
+      :segued: false
+  - :uuid: 1493f4c0-8609-4218-93aa-477ac715b580
+    :songs:
+    - :uuid: 2c9a5654-e53e-46de-867c-db31164072fd
+      :name: Seastones
+      :segued: true
+    - :uuid: 81133a7d-8fa1-4fe7-9174-1206091a2ee9
+      :name: Jam
+      :segued: true
+    - :uuid: 5b36e642-f153-43e5-a60a-3a81932713e7
+      :name: Wharf Rat
+      :segued: true
+    - :uuid: fcf40787-afc5-4c3e-b86f-927cf7d89db5
+      :name: Space
+      :segued: true
+    - :uuid: b5aa9661-6894-4d58-9cf4-47684af2094a
+      :name: Eyes Of The World
+      :segued: false
+    - :uuid: 2694c9ab-5728-48a2-b244-f695f1a51aac
+      :name: Big River
+      :segued: false
+    - :uuid: d7161aeb-9e6f-4f32-befe-9ed09702205c
+      :name: Ship Of Fools
+      :segued: false
+    - :uuid: 158bb291-6e37-4d5c-b824-71e4ca4be4e7
       :name: Truckin'
       :segued: true
-    - :uuid: 371ff05f-5125-4b40-a777-e39c0bc35524
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 4ad93f56-ada8-4abb-8258-96a2e76b5632
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: 4b0b36e9-781e-46d5-9f47-149faa4293a0
+    - :uuid: 0daf0967-533d-4457-be75-a4b89750adf5
       :name: Uncle John's Band
       :segued: false
-    - :uuid: 91336ec1-ac77-417b-afa6-3d63e0f7e6d7
+    - :uuid: ca11638b-ac88-453e-8a28-1351d1c2a884
       :name: Johnny B. Goode
       :segued: false
-  - :uuid: 9ae2259b-0f4f-4e5b-9fec-8197f6dbfe5a
+  - :uuid: 1c2c9175-6992-4e42-ae12-40ba74204a0d
     :songs:
-    - :uuid: fee4f3b0-9caf-4675-94ac-d5e3bd8422f8
+    - :uuid: a59d43cf-d7f5-40ff-9887-3821012e2ead
       :name: U.S. Blues
       :segued: false
 1974/10/17:
   :uuid: 4b924bfb-cd7a-45e7-a993-1d6c4eff75b7
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: 29f7a138-6706-41ce-9a00-8e65f33f8951
+  - :uuid: cc3fd428-ef04-4e48-81b1-8cb4625ede35
     :songs:
-    - :uuid: b07b1012-d491-4033-a460-d749a0051929
-      :name: The Promised Land
+    - :uuid: d9f79480-db73-4430-a8fb-f8aa01714966
+      :name: Promised Land
       :segued: false
-    - :uuid: b587c5ce-aa5c-42d7-88dc-b61e4313f61a
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: 156150aa-e8a1-4d5d-81af-0015b02cf2c8
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: 8dfc6aeb-e5ca-4aed-8035-3c07d5b0572f
+    - :uuid: 87d706f9-4c6b-47d3-946a-442a557f12b8
       :name: Black Throated Wind
       :segued: false
-    - :uuid: f9df441a-ca0d-4103-bb0f-41b6afa732c5
+    - :uuid: 28dd16a0-c458-4a51-8977-465f793befda
       :name: Friend Of The Devil
       :segued: false
-    - :uuid: 84805fab-3405-44c7-a474-f2ff7357653d
+    - :uuid: 0fd4d4e7-17fb-48e8-8a3e-ced364aefba1
       :name: Jack Straw
       :segued: false
-    - :uuid: 4981fe2a-309c-4060-8aa4-f88c34e68fb6
+    - :uuid: a965edec-ff3c-40b6-900a-0f008d9192ea
       :name: Loser
       :segued: false
-    - :uuid: 30e8b0cb-0a24-40e2-b3ed-1ec4d2657272
+    - :uuid: 773058ae-9889-43d0-9a72-1f83ae2be99d
       :name: El Paso
       :segued: false
-    - :uuid: f3e00561-49d5-4ee6-b7af-1dc294510fa3
+    - :uuid: d835c996-3019-401e-bdaa-636e3204d92a
       :name: China Cat Sunflower
       :segued: true
-    - :uuid: eccf4636-336f-43b1-a3f7-f21d8e605d8e
+    - :uuid: 63049ecb-9a84-4e74-a18c-494556cd4099
       :name: I Know You Rider
       :segued: false
-    - :uuid: 91a5fa91-55cd-4675-a09d-468a6e5d480b
+    - :uuid: d68bbd8c-d072-4fa5-b092-2458922fcdb9
       :name: Me And My Uncle
       :segued: false
-    - :uuid: f0d7bfc7-0c57-4768-8076-1afa3b43e2bc
+    - :uuid: c08f435c-88f3-4473-bd2d-e26974c34550
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 49307f1a-baad-4874-90d9-cf8056030eaa
+    - :uuid: 1533c026-a98e-498c-aa52-092be0dee3e2
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: 4d71945b-c75f-47dc-bbf5-06cb70debb65
+    - :uuid: cf4d1a23-3214-41ee-9954-fb421eb83751
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 36e25fc3-94c0-4fe2-9d7c-8176e88c488a
+    - :uuid: 9fa4a843-27ae-4d62-85c3-edce7c1449cb
       :name: Let It Grow
       :segued: false
-  - :uuid: 181492be-9ada-45ef-8d7b-bbca6661aa11
+  - :uuid: 58d033a3-ad63-403c-9f86-7ff680a87aa7
     :songs:
-    - :uuid: f0602419-b320-42db-b683-757b2f91daea
+    - :uuid: 24dbc1b3-3e06-4d9d-9e71-5f41d7f2144d
+      :name: Seastones
+      :segued: false
+    - :uuid: 5beb032a-1ba3-4725-b0d5-4dc3586e86cb
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: b47ab549-0edd-4727-b236-96acb3291441
+    - :uuid: 7a654697-a51d-49aa-93fa-d0dc467825bd
       :name: Big River
       :segued: false
-    - :uuid: 232e8194-7265-4739-97ae-63e5a682ac1b
+    - :uuid: 953a54bc-1e3a-4471-9cb3-62ccb6fa692c
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 15a53037-e6a4-46b7-9310-05c7a78a72f4
+    - :uuid: 093fd76d-e03d-4b1e-a199-863e0ba9d00c
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 52f70ff1-7803-4071-8696-f1251f55b89f
+    - :uuid: fd7539db-9b20-478c-b1d1-7ee2e029e7d2
       :name: He's Gone
       :segued: true
-    - :uuid: 757eed58-ae69-48a8-b0d7-3a24193a8956
+    - :uuid: 49d439cc-bad8-4ad4-9be0-95ecffd4783b
       :name: The Other One
       :segued: true
-    - :uuid: aababac0-dbfe-4d21-9f0b-942d751b2691
+    - :uuid: c881425c-817d-4164-bf0f-fe26404a4e53
       :name: Spanish Jam
       :segued: true
-    - :uuid: 26fe8315-266e-443a-97a5-fecf0427d79d
+    - :uuid: 8afa8773-5e56-425f-a41a-5d45c1242244
       :name: Mind Left Body Jam
       :segued: true
-    - :uuid: f0395e2e-d62b-46e2-ae96-73f59760ceff
+    - :uuid: 04cc9c69-681b-40c6-b422-c479d66dba67
       :name: The Other One
       :segued: true
-    - :uuid: d9e3d0db-9c1a-4524-8989-78d8048aac4c
+    - :uuid: 22bd7c28-7ab2-4dec-8aa0-35f304fc14b3
       :name: Stella Blue
       :segued: false
-    - :uuid: c3006f00-b82c-4eaf-8da7-ebdabd201908
+    - :uuid: f7929065-8980-47c6-937b-94a5ee390c1a
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 582e068d-f0d3-467b-ae20-a5bfbbbaef51
+  - :uuid: b4aa6b9e-69d4-4489-b6f7-a344b530e9bd
     :songs:
-    - :uuid: b147e2a3-53f5-4101-be87-4f135d43e0eb
+    - :uuid: b028d9ea-2e27-4bd7-9daf-23ccf229e335
       :name: Casey Jones
       :segued: false
-    - :uuid: 1c9aa396-ab77-4701-b222-071faffe3cf5
+    - :uuid: 9069da4b-a02f-4bae-b7ec-acbdc144b803
       :name: U.S. Blues
       :segued: false
 1974/10/18:
   :uuid: 47c6f92a-95ea-4f74-bdca-e2a3d4bf3624
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: 5e6fa3ec-d70e-4432-bd3b-7c2f00e7f534
+  - :uuid: 913db448-a308-4d58-9164-fd08c0669ccb
     :songs:
-    - :uuid: ddf544d3-1f5d-4279-ad20-72e4894283ec
+    - :uuid: 0c635eed-c369-4ea5-a6a5-872cecd388a0
       :name: Around And Around
       :segued: false
-    - :uuid: c030ec96-ab4a-4729-9fb1-4677098d4f9a
+    - :uuid: 0f82b559-a245-41ed-87c2-86cc492554f1
       :name: Sugaree
       :segued: false
-    - :uuid: e2140b82-e01d-4863-96cb-8ec42cb64318
+    - :uuid: 41268b22-37bf-48a5-8e8b-7267a7e5229a
       :name: Mexicali Blues
       :segued: false
-    - :uuid: b3e0e182-ad13-4904-9576-9b1f338fea5f
-      :name: Peggy O
+    - :uuid: e9cc3edf-b34a-4756-87eb-1fdf70b8ef51
+      :name: Peggy-O
       :segued: false
-    - :uuid: 6179dfe4-3a6f-4cb4-8252-e2ae81aa4794
+    - :uuid: 8d47f02a-1294-46cf-bb6b-c8abcbb1bb1b
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 510915b9-bbeb-42b3-8fff-ae675569de1a
+    - :uuid: 88b86472-599c-43f7-ac70-f335e277ae8a
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 82368007-0901-4909-866f-03ad37c9318a
+    - :uuid: 1558e4e3-59db-4a76-849c-31171332768d
       :name: Cumberland Blues
       :segued: false
-    - :uuid: 2e89c51b-5cf1-476e-bf43-b2e2d2b0f187
+    - :uuid: 2bcd22a8-40af-401b-9b8c-0b205a46a370
       :name: El Paso
       :segued: false
-    - :uuid: caf7f260-e655-4aec-8e14-c8ba82829988
+    - :uuid: c8df79d3-7a1c-48c5-9465-3654615b14cf
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 6735c79e-02fa-41ba-8e40-94fe51146fcd
+    - :uuid: 7d05214c-281b-4fca-8100-d5068ea5b0ea
       :name: Jack Straw
       :segued: false
-    - :uuid: 6fcc8723-31f0-4a92-914f-13be02ed9b17
+    - :uuid: 6c457188-0c8d-42ab-86da-0b10a354a636
       :name: Row Jimmy
       :segued: false
-    - :uuid: 6db5ca00-81db-4b45-a3e9-9311ff7d1a57
+    - :uuid: 8f1e8d41-f65f-43d7-8d65-b835d619a4af
       :name: Weather Report Suite Prelude
       :segued: true
-    - :uuid: cedc0aec-310a-49c3-9c8a-15027caddc9f
+    - :uuid: 2637a1be-fe66-440f-95f5-5ed6be0aef4b
       :name: Weather Report Suite Part 1
       :segued: true
-    - :uuid: 0ceaf0fe-2ecf-49ad-940a-8b3ae3373c8b
+    - :uuid: 993f78a3-d9c9-488f-a58f-379b4d3d5b20
       :name: Let It Grow
       :segued: false
-  - :uuid: 243e6241-82d3-4d17-a4f7-12a97a664c63
+  - :uuid: ed30d9b2-d525-42ef-8acb-18ba1374c866
     :songs:
-    - :uuid: 7946bdae-1e47-4aff-8909-acf9f6477402
+    - :uuid: 8b75ec30-276d-4182-a2df-abda8d74a5ca
       :name: Seastones
-      :segued: true    
-    - :uuid: e2e8873e-eafa-46a3-ad6a-877d50e8cd63
+      :segued: true
+    - :uuid: cabf87f6-1c35-448c-a066-f5670c6fb287
+      :name: Jam
+      :segued: true
+    - :uuid: 7f3ad62a-8298-450e-adc5-dfa15f6510e0
       :name: Dark Star
       :segued: true
-    - :uuid: f2f7156f-019e-444c-9da6-3400647c489f
+    - :uuid: a1f7ad92-cbac-45c5-bdac-7c879fde0fd5
+      :name: Drums
+      :segued: true
+    - :uuid: a1af2e7d-eba3-44d0-8e59-06d5dd6d56f9
+      :name: Dark Star
+      :segued: true
+    - :uuid: ad804906-559e-4498-81ae-ee049957c68c
       :name: Morning Dew
       :segued: false
-  - :uuid: eafc6829-3f54-470f-a55d-c0f353487a61
+  - :uuid: 23c99425-825d-4949-a0a4-53ec18d9ca25
     :songs:
-    - :uuid: f7170aa4-63ac-4392-a9c8-538c4e6da16a
-      :name: The Promised Land
+    - :uuid: e661f7fc-01d6-452f-972c-b7c29b7519fc
+      :name: Promised Land
       :segued: true
-    - :uuid: c72c0939-cc53-4334-81eb-0a9814be9a85
+    - :uuid: 52bd6015-8a5e-4ced-b63e-0694a3074aa3
       :name: Bertha
       :segued: true
-    - :uuid: b3658f0a-4695-4f57-a2c1-26be99ea5663
+    - :uuid: 4d8a75a1-6cc6-4c20-a8e7-fb7faae19ba0
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 461020a7-f68b-46c5-b3b9-98cc0987d1a4
+    - :uuid: 6139c6b3-51c5-4636-8d38-f0e6615dc5d6
       :name: Ship Of Fools
       :segued: false
-    - :uuid: c2187617-5c25-419d-9b1b-057614ef1108
+    - :uuid: 6dd0ef24-ef46-49c2-9fcd-eb193f758f2a
       :name: Not Fade Away
       :segued: true
-    - :uuid: 545cc6fb-b5dd-4b3f-9208-a4a5ce10f051
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 1d309bcd-266c-4f1f-b858-91d661a43889
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: 84a7cfac-41ff-47c8-8db0-4df56e7d63aa
+    - :uuid: 07a22b86-996b-495f-ac1e-97e2dea846c8
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 00fe1b74-3e08-43de-bbc9-88c1852add8b
+  - :uuid: 255078f4-95df-4790-829d-12bf17078d3e
     :songs:
-    - :uuid: 81f416c4-5ce5-47fb-86a6-9694a1b94d31
+    - :uuid: 46cca24c-7a69-49f2-ac79-a86b478f623e
       :name: U.S. Blues
       :segued: false
 1974/10/19:
   :uuid: f7f51001-6344-41cf-a3df-cbb25cda9812
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: 9ce93bc3-f578-4951-804e-d5a3440ccf6d
+  - :uuid: d37dfe74-7cc1-48fb-aefe-3bec732018ed
     :songs:
-    - :uuid: 61376d4a-a698-4876-b98b-1bf55d24f4c9
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: fa6c4823-bbb8-4def-ba77-947cd00129e9
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: 28df68bc-7d1d-4fa1-b457-45d880a035cc
+    - :uuid: 1b908955-c26b-4539-9000-b7af45d05a16
       :name: Me And My Uncle
       :segued: false
-    - :uuid: e27e1512-3b8b-47a9-a8e8-e8d0fdf73a56
+    - :uuid: a6b55a62-42d6-4c4a-b561-c12cfc63cd94
       :name: Friend Of The Devil
       :segued: false
-    - :uuid: 63d3ec57-8354-46ba-a2dc-704869a3fec4
+    - :uuid: a3c0caf4-ab97-4c9f-b1ce-0a176b59f404
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 5c46ab28-a29e-4997-9a68-05c04aa7e8bb
+    - :uuid: a0273f74-2d52-46f3-9660-ca390e559d0c
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: cd8a09eb-a41d-4855-971c-0e59106dd9af
+    - :uuid: 221ff199-1136-48f6-830a-94f58a828d21
       :name: El Paso
       :segued: false
-    - :uuid: 83d57950-bed0-4f9f-9a30-abb66761da43
+    - :uuid: 0016054d-f733-47da-a9b8-3cf494fc0094
       :name: Loose Lucy
       :segued: false
-    - :uuid: 602f10b0-dd61-4d50-9571-915229e79813
+    - :uuid: d4409a5c-efef-4890-a3a8-bd65779530d4
       :name: Black Throated Wind
       :segued: false
-    - :uuid: 115648f5-3274-48b1-9076-004c363493d4
+    - :uuid: 2c809895-d742-4ca1-bf33-bde0c0e1465f
       :name: Scarlet Begonias
       :segued: false
-    - :uuid: 157aed64-7f41-47ac-9f3b-92de135d2bb9
+    - :uuid: 3387cc3b-f1a9-4d4c-b9d8-646cddc4c183
       :name: To Lay Me Down
       :segued: false
-    - :uuid: 0e0241fc-7da5-4b60-b8d9-8e33d7e9b987
+    - :uuid: 97a0b021-bab3-41a8-aeb7-2f4019e457cb
       :name: Mama Tried
       :segued: false
-    - :uuid: b95e7627-b1a6-4d43-93e1-d0bddd5df119
+    - :uuid: 14968c62-bbc0-43f3-befa-8ffe06aa25d2
       :name: Eyes Of The World
       :segued: true
-    - :uuid: a5634cd3-f915-4649-900a-194aa96b41da
+    - :uuid: 5e0f962e-eb03-4244-bab4-54aeda55c3a2
       :name: China Doll
       :segued: false
-    - :uuid: 659cd002-4395-4212-a932-636d0536ab70
+    - :uuid: 3d6358ca-8602-45bd-88b0-8bc27456f3df
       :name: Big River
       :segued: false
-  - :uuid: 1f02c172-264a-4fb6-87c5-86fa404efac8
+  - :uuid: 2f8ff115-c43b-4b02-9390-971e995ae3c8
     :songs:
-    - :uuid: ca658925-ff72-49ae-a846-42f62f1590e7
+    - :uuid: 05b1cb82-3405-4ff5-8dab-60d021143f64
+      :name: Seastones
+      :segued: false
+    - :uuid: 6c3777ac-f40b-4f90-8148-9d72d1fd17c3
       :name: Uncle John's Band
       :segued: false
-    - :uuid: 7a717ff1-6e2b-4a88-abca-525a9f2b9519
+    - :uuid: f4cb1103-b097-4b40-86f4-546eddaf401c
       :name: Big Railroad Blues
       :segued: false
-    - :uuid: b50e4799-8360-4619-8871-4fae8d3e422b
+    - :uuid: 77a4ff8c-18d8-48ed-9491-24c76549b775
       :name: The Race Is On
       :segued: false
-    - :uuid: 678ea36d-cdba-4b8a-a37a-9f2fbfa30687
+    - :uuid: 1b9ccdec-ab3b-4968-99df-ea7869d961e6
       :name: Tomorrow Is Forever
       :segued: false
-    - :uuid: cee250cd-fe76-4d41-a939-298bc5d65387
+    - :uuid: deb2ef19-2a54-428d-8466-b0f87c2af80e
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 9b77aa5f-6a94-4faf-a259-7380caaacc97
+    - :uuid: a58276b0-1140-471d-90b7-911aa2f32ed8
       :name: Dire Wolf
       :segued: false
-    - :uuid: 6a1f93bb-eabe-472f-aec8-89cd2087595d
+    - :uuid: 1349646b-b615-445b-9e2d-1aa76b5623e3
       :name: Sugar Magnolia
       :segued: true
-    - :uuid: 79236aa9-772b-4ddd-915a-76c679c29aa2
+    - :uuid: afd54abf-7cde-4fcd-a608-0a9071aa91c3
       :name: He's Gone
       :segued: true
-    - :uuid: 2fad264a-6fd8-4b6b-bc93-47d519f149f6
+    - :uuid: 5c821f07-dc05-4739-903a-e411ae874e5a
       :name: Truckin'
       :segued: true
-    - :uuid: 8ceb5e4f-21a0-4458-93e9-6aa2fbadd5e5
-      :name: Caution (Do Not Stop On Tracks) Jam
+    - :uuid: 0a9d8071-f7dc-4118-a2d7-08ada9280387
+      :name: Caution
       :segued: true
-    - :uuid: 4a9c3d64-5996-4937-b917-e3f66c40c286
+    - :uuid: f41d2530-21b9-412b-ba65-c28a3c5e25c6
       :name: Drums
       :segued: true
-    - :uuid: ef238ad5-c76e-4653-a69a-336f6c596c2b
+    - :uuid: 16124f86-145a-4a8f-a607-31c2099267f6
+      :name: Space
+      :segued: true
+    - :uuid: 44b88a22-1577-4c18-b41a-39a43209aa6e
       :name: Truckin'
       :segued: true
-    - :uuid: 6b9584aa-ff42-4522-a6d2-8f49ee7160bb
+    - :uuid: 46ec8888-7788-49f8-a4c8-21b87fab52dc
       :name: Black Peter
       :segued: false
-    - :uuid: 9384efaa-f816-445b-99c2-af31d490cfd8
+    - :uuid: de42f292-737b-4c1b-bc81-e6843498e053
       :name: Sunshine Daydream
       :segued: false
-  - :uuid: bbfd201c-c397-4fe7-ab89-31311d0352be
+  - :uuid: 60218693-05a2-4b65-a6b3-b0ce3cc2a583
     :songs:
-    - :uuid: 026f6875-f13b-4d81-aeb1-536f18c2191c
+    - :uuid: 96f096ab-fed2-4061-a268-6ceed1849c97
       :name: One More Saturday Night
       :segued: false
-    - :uuid: 35113145-a9de-4f9f-a2dc-161100a00f2e
+    - :uuid: fdc73957-ac75-4008-83b2-4cfb8a09b81b
       :name: U.S. Blues
       :segued: false
 1974/10/20:
   :uuid: 9c206a2b-d29f-4e98-9651-68eb0731322e
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: 31ebd13c-eb5d-4e4b-8bc5-0223bb82010f
+  - :uuid: bc96eb9e-05ef-4054-80f7-274084862fcf
     :songs:
-    - :uuid: 0ae0fe0d-a066-46df-b239-b01210474242
+    - :uuid: 4a6824f7-6af1-46eb-a408-010f21bae065
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: bd41a1e4-6fc4-435e-be75-6d1a44e00280
+    - :uuid: 0ef33264-87d1-429a-ba36-d4604fce20de
       :name: Mama Tried
       :segued: false
-    - :uuid: 2ab6efb3-0aa9-4013-a63c-0d94be52598e
+    - :uuid: 04bfe198-ed4a-4126-bf37-2c898bc02165
       :name: Deal
       :segued: false
-    - :uuid: 3632d4e1-1e12-4c21-965c-b2cc73aecbb7
+    - :uuid: 36a084d7-4398-4d2b-9da4-ba813c5a3253
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 22f2b1f9-8840-4a3a-b888-0846613f3b73
+    - :uuid: def9645f-9638-446f-a0c7-aedee0235ee2
       :name: Loser
       :segued: false
-    - :uuid: 3a70310d-6a60-48c7-a681-44a38ec3d0ce
+    - :uuid: 9a7151a8-0f06-481c-9be3-a7ebcd040510
       :name: Jack Straw
       :segued: false
-    - :uuid: ea2135df-0885-43d7-a5a0-3a824c23baf3
+    - :uuid: 61f6e710-01dc-4070-aea1-99763576715d
       :name: Tennessee Jed
       :segued: false
-    - :uuid: b9f62475-4440-4349-9105-cb27d14348ea
+    - :uuid: 404240a5-0657-401c-bb16-1b545c80e433
       :name: El Paso
       :segued: false
-    - :uuid: a8f48ead-5c85-48a8-998f-4b440fa2d1b4
+    - :uuid: 6ca2490e-b178-446a-b768-63b3f956c4f6
       :name: Brokedown Palace
       :segued: false
-    - :uuid: 94ab640f-6b58-4962-8c20-f16b5f81802d
+    - :uuid: 016e2593-e1f1-4c69-8fd0-0f9860da5525
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 61374c01-c20d-4d23-be46-132ad7d90588
+      :segued: true
+    - :uuid: 4c54d100-06e7-4664-ba47-a70e55813fae
       :name: I Know You Rider
       :segued: false
-    - :uuid: e7cbc428-7c27-4f9f-ab27-35eaf89b6cf8
+    - :uuid: 584ca649-3794-482f-aa11-34460b982804
       :name: Around And Around
       :segued: false
-  - :uuid: 3c14a28f-1b0b-478a-9e51-f273c5d4ce97
+  - :uuid: 30e9492a-cdc0-48e0-850d-0889c43d6d20
     :songs:
-    - :uuid: 2d9a045a-2fbf-4947-8ca3-345dfb8d480e
+    - :uuid: 364f8bcb-af3e-4cd8-8eb6-32c7a1b41b93
+      :name: Seastones
+      :segued: false
+    - :uuid: 9e27bfb2-38af-42db-aace-483ce19d7419
       :name: Playing In The Band
-      :segued: false
-    - :uuid: bc673375-4d0c-440f-9dea-1a26459fa368
+      :segued: true
+    - :uuid: 98b7f322-fb67-45b4-834f-647eeeb6dae7
       :name: Drums
-      :segued: false
-    - :uuid: 12dac480-b82f-41d4-86d9-a0a07ec8ea15
+      :segued: true
+    - :uuid: 28afd574-938a-476f-8858-accfdbc1772e
       :name: Not Fade Away
-      :segued: false
-    - :uuid: 8d9a1a33-50ce-49f8-9e22-0d0896a917c8
+      :segued: true
+    - :uuid: 9f5cd9c8-f34d-447c-9e89-f54173fd5bc9
       :name: Drums
-      :segued: false
-    - :uuid: 70faee9d-48db-464e-a909-9ff3ec8a9e8f
+      :segued: true
+    - :uuid: 62ce2337-c390-46a5-8024-ff2044b2873f
       :name: The Other One
-      :segued: false
-    - :uuid: e3138eb4-4b59-4659-9c0b-bec9fd3a703c
+      :segued: true
+    - :uuid: 58b97751-991f-483e-9c0d-0ccb27b0618d
       :name: Wharf Rat
-      :segued: false
-    - :uuid: f9d74f0d-2594-47e6-b8f6-e41457e38207
+      :segued: true
+    - :uuid: b2f8eade-35f5-4a7e-9418-31a5978ce3dc
       :name: Playing In The Band
       :segued: false
-  - :uuid: 3702a442-318d-4704-8b2b-f870900edcf1
+  - :uuid: 8f7f39a9-b98e-4870-8ed0-9d42cbf629be
     :songs:
-    - :uuid: b746787c-9fd2-4fa3-a989-c742243a7403
+    - :uuid: 07c4d3c0-4e9b-4224-b156-e90de5015c9a
       :name: Good Lovin'
       :segued: false
-    - :uuid: 4299c23b-7c88-4e57-8a1b-33fe704b9450
+    - :uuid: 807e52de-5095-41af-b55a-ee6ff929c528
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 98501d3e-3b6b-4538-a543-a44d9ab050da
-      :name: The Promised Land
+    - :uuid: 5d859304-eb73-4a49-9be5-ea7cd9a56bfc
+      :name: Promised Land
       :segued: false
-    - :uuid: 81806672-2c96-4b44-b0c7-7bb9faf23e19
+    - :uuid: de91b8dc-ee96-42e8-b201-202882b902d0
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 9f731a20-e415-4125-9fa6-de8bc25c3f8d
+      :segued: true
+    - :uuid: 3f74f8d9-b8d3-44d3-8df5-43337b400d8f
       :name: Stella Blue
       :segued: false
-    - :uuid: 2e371e4c-9a10-49a9-be6d-0f9b88e59c1a
+    - :uuid: 3a4db368-d89b-4ff6-9e9d-3214abe7cc62
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: cac4c238-8c70-4820-bdbd-950760344044
+  - :uuid: 3340b997-341b-4344-a5b8-227e710d7bbb
     :songs:
-    - :uuid: b84ee62b-68e9-4bef-a434-2851de44b053
+    - :uuid: b26bd424-4824-47d9-bed5-570f5744f291
       :name: Johnny B. Goode
       :segued: false
-    - :uuid: bffd5163-f773-480d-947a-102821896787
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: 1c73ef30-f388-4650-99b1-9a70959e7162
+    - :uuid: 7b8c7c18-98a7-45a9-b13a-3f9a8216342a
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: ac324246-ff6f-4dd1-bb2e-43f0bef91f0e
       :name: And We Bid You Good Night
       :segued: false

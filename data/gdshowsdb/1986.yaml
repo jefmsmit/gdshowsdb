@@ -6,62 +6,68 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 6ffc2ec2-5cd7-456a-898a-25a15cc745e3
+  - :uuid: b894f06d-59c1-4c39-928a-0ca6619ae249
     :songs:
-    - :uuid: 32f2d7e6-2b50-4552-b976-a5c98c374357
+    - :uuid: bdcb0fae-d6b8-45ac-975d-9fe49b8793a8
       :name: Iko Iko
       :segued: false
-    - :uuid: cd8443fd-285c-4c9e-8570-a4246ea5ce8c
+    - :uuid: 2585b882-f419-4921-be2f-db59551c2d2e
       :name: Little Red Rooster
+      :segued: true
+    - :uuid: 764ffb9a-cb6e-4733-a49b-926c53015223
+      :name: Peggy-O
       :segued: false
-    - :uuid: c4ec55e6-1ac8-40a6-8a3b-59df5a28594d
-      :name: Peggy O
-      :segued: false
-    - :uuid: 8c8d125a-82f6-4c82-ad1c-a2057e4e4c16
+    - :uuid: 422b6c36-7bf2-4a53-9512-87474f3e2a86
       :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: e1cee72a-63c6-4576-93c3-b59f7d94a18c
+      :segued: true
+    - :uuid: 6d21291c-4e68-4209-a3ca-f161deeda327
       :name: Stagger Lee
       :segued: false
-    - :uuid: a163764a-21ec-4348-b394-3bc8eecf9aa4
+    - :uuid: 68cda4b9-9d3f-4c2e-a9e4-d7ec05340b0a
       :name: It's All Over Now
       :segued: false
-    - :uuid: 4f2e9351-b678-49c7-9bb5-b959ad1b3afc
+    - :uuid: 9c9cdea0-f155-4201-aef8-1929ae534b94
       :name: Bertha
-      :segued: false
-    - :uuid: 63eeea5f-c408-4786-9e69-0ca16e7f8eb5
+      :segued: true
+    - :uuid: f6324a86-3c33-4065-8075-3982b6f7fd7b
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 6205edcc-e7f3-4de7-a3e4-289a6c934155
+  - :uuid: f77bfe08-4ece-461f-b5c5-ffee6d4ccc00
     :songs:
-    - :uuid: 5c8f7390-f372-451b-b94a-528193c2f3fc
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: 88d52cf8-7ddf-41cd-a384-36053ad78540
+    - :uuid: f2fa5bad-1dbd-4c9b-a7f5-7fcb5e9bdf78
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: 5deb5f3c-6ce0-44d1-a350-01c39927a0df
       :name: Franklin's Tower
-      :segued: false
-    - :uuid: 9885f725-a252-4b5b-9e9d-09a7c5294196
+      :segued: true
+    - :uuid: 0ad7b378-510f-455b-9599-427a49e2af93
       :name: Playing In The Band
-      :segued: false
-    - :uuid: d3ff932c-f854-4749-a697-accf3858adca
+      :segued: true
+    - :uuid: 0953002e-251c-4319-b704-047f9597e700
       :name: China Doll
-      :segued: false
-    - :uuid: 09213c16-96d6-45f4-9d34-f3326b89a11c
+      :segued: true
+    - :uuid: 82735e00-94fe-4740-a940-bb44c9dc8c5c
+      :name: Jam
+      :segued: true
+    - :uuid: d78509e6-741c-44b5-82dd-98bba8f7c42e
       :name: Drums
-      :segued: false
-    - :uuid: d272cffb-3adf-4ff0-a20f-9bc397f83806
+      :segued: true
+    - :uuid: a1397cae-865c-4ed0-aa1f-941fea1cf834
+      :name: Space
+      :segued: true
+    - :uuid: 27d4e95a-4f16-4bbb-ab62-56e12eb0e0b7
       :name: Gimme Some Lovin'
-      :segued: false
-    - :uuid: 11ca9a51-cbed-4e0d-be68-085e498df2f5
+      :segued: true
+    - :uuid: 0157faf2-0bcc-4094-b5f2-c05486ba5dbf
       :name: Black Peter
-      :segued: false
-    - :uuid: ba4ba4ea-a234-4c1d-aad0-c530ac8344ef
+      :segued: true
+    - :uuid: 4398eeee-41f5-40c2-9f74-483c0ff4947b
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: f633949c-73c5-477b-a16e-b82bfd7b946e
+  - :uuid: 2a66813a-c52b-4764-86ed-c7a7eda5e92f
     :songs:
-    - :uuid: bce1ca6c-fd16-49d3-86ad-3e9dbff1e0b6
-      :name: Keep Your Day Job
+    - :uuid: 15c39bf3-026d-46b1-a9b6-7b8cdfefd23d
+      :name: Day Job
       :segued: false
 1986/02/09:
   :uuid: 3ed855f8-c14c-4d01-89c3-34b07a40261c
@@ -70,59 +76,65 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 1b0b0cf0-1bc9-4375-8668-5d58fac6492f
+  - :uuid: bf7f2e55-0e69-46ac-a894-a37169ed79b9
     :songs:
-    - :uuid: aab19ea4-b2d2-4715-a0ec-12a9f6134b7f
+    - :uuid: 88bbd280-1a2c-4dbb-a856-1557ddf9294e
       :name: Jack Straw
       :segued: false
-    - :uuid: b82882ac-c57e-4be1-8c42-387df51b61c4
+    - :uuid: a8fdac93-ef9b-48d3-9bf0-cc1a4dcd5f7b
       :name: They Love Each Other
       :segued: false
-    - :uuid: ff6047e7-ccbe-45fc-a4ad-76779e086340
+    - :uuid: c111fc95-9257-4a07-9051-79165abe0595
       :name: C.C. Rider
       :segued: false
-    - :uuid: b55af854-d074-4ad2-8939-4a52de873f09
+    - :uuid: 4fe5fe49-b2c4-4407-9c46-402ad3d5d56e
       :name: Loser
       :segued: false
-    - :uuid: 8edeb701-64e7-497b-bcb4-2f266d514657
+    - :uuid: 132ba012-5a71-42ff-88e5-7d2b9eb08eed
       :name: Man Smart (Woman Smarter)
-      :segued: false
-    - :uuid: 6ff9c1ca-b26a-4c5d-9634-97a6ffd39094
+      :segued: true
+    - :uuid: 9eb3ddf9-f683-44d4-8c5c-053adf5c925b
       :name: Deal
       :segued: false
-  - :uuid: 87858407-722e-46e7-9831-5de392183967
+  - :uuid: 4c78a136-ded8-4a2c-ad4a-bbbced5e5a21
     :songs:
-    - :uuid: d0d05eb6-ecef-483c-875e-97b257ed3a97
-      :name: The Mighty Quinn (Quinn The Eskimo)
-      :segued: false
-    - :uuid: ff013287-818f-4e53-8f14-469f9c79ac6d
+    - :uuid: c58fd408-b053-403b-a4c2-35a172f3f8ea
+      :name: Quinn The Eskimo
+      :segued: true
+    - :uuid: 2a4bd6e3-8ca5-421a-b346-38d30c5ab534
       :name: Samson And Delilah
       :segued: false
-    - :uuid: 19d5bde8-43bd-44de-a5c7-317c1ee2ab07
+    - :uuid: 8b85dfa8-9501-4331-9695-6ce8f06abc70
       :name: He's Gone
-      :segued: false
-    - :uuid: 813e5f35-518a-4860-8f3e-064acabd723a
-      :name: Smokestack Lightnin'
-      :segued: false
-    - :uuid: a44e55ed-f24b-43e2-8bb8-ac45f1ba8c5b
+      :segued: true
+    - :uuid: 0b7e5600-3ac2-4a70-948f-0a69184346d8
+      :name: Smokestack Lightning
+      :segued: true
+    - :uuid: 64fb86c6-3d64-4ce2-9f6a-e00f74196f03
       :name: Comes A Time
+      :segued: true
+    - :uuid: 0c0337fd-93be-454c-858f-f2b6057e0b3f
+      :name: Jam
       :segued: false
-    - :uuid: c3bc8704-cfae-4c1f-b39d-5a4e6a29947d
+    - :uuid: f7c69e0e-77dd-41b3-891d-89519aba0c22
       :name: Drums
-      :segued: false
-    - :uuid: fbafa7b7-defc-405f-be39-20850cf9d9ca
+      :segued: true
+    - :uuid: 61dafff5-ffde-498d-b9c7-1d6ef9839559
+      :name: Space
+      :segued: true
+    - :uuid: 94004817-d0da-4db6-9504-6fd9cb3d38fe
       :name: The Other One
-      :segued: false
-    - :uuid: 986366d8-d08a-49f3-a441-90739476641b
+      :segued: true
+    - :uuid: 9adfc39f-5bb2-44d9-8eac-80fdf7764a66
       :name: Around And Around
-      :segued: false
-    - :uuid: 0352c988-90b6-4781-b1d0-cfc225579913
+      :segued: true
+    - :uuid: 863c75fc-5f29-4b50-bf13-cad27843ef25
       :name: Good Lovin'
       :segued: false
-  - :uuid: 82629fe7-74a3-44cb-ab63-e2930f15f230
+  - :uuid: 6a6422de-cfed-4939-bf6f-0967ecc6193b
     :songs:
-    - :uuid: 96abdbca-2c4e-4fe7-a40a-026567859c2c
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 941ac4ec-5923-429c-b710-bdf496a80b27
+      :name: It's All Over Now Baby Blue
       :segued: false
 1986/02/11:
   :uuid: c4aca477-a1f2-4a7f-b391-dc73b783e1b0
@@ -131,68 +143,71 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 38105a99-4ef3-4812-9d56-99dba6cbec3d
+  - :uuid: 6ed4de53-7580-4b2b-8768-c420aeb9a9a9
     :songs:
-    - :uuid: a11a2cb6-2736-4f77-8c8b-44d566359f21
+    - :uuid: 975b3ac4-7704-48f2-af98-967185259790
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: f6a28f1b-6809-48ab-a5a5-6a8ff54cd818
+      :segued: true
+    - :uuid: 5f45ef7d-7648-415a-9ca2-de6e9e8bff44
       :name: I Know You Rider
       :segued: false
-    - :uuid: d52fca2f-b677-4cdc-a87a-a9439c099869
-      :name: New Minglewood Blues
+    - :uuid: 6d33af72-2cb2-4654-a94a-335333d177e0
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: fbd2f8aa-58ae-43eb-9600-00796728ec7d
+    - :uuid: 3a37b3a8-ff66-4b55-bfbc-55a4cf7f1982
       :name: Dupree's Diamond Blues
       :segued: false
-    - :uuid: c8f8feeb-0b3a-4fa4-b45a-7c0ca37bee53
+    - :uuid: 7d23f8b1-850e-45ad-af24-271f8158031e
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: 22c8b82d-3416-4e86-ba7b-4258717d6daa
+      :segued: true
+    - :uuid: 67ab8f49-700d-47d5-adcf-ff4450542566
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 65c6da0e-34b0-4285-af90-e8a8dfa2ac7d
+    - :uuid: 76c363c3-4323-4204-b8af-891e322831b2
       :name: Bird Song
-      :segued: false
-    - :uuid: 78b9d0d4-7265-425b-89ab-a6ea15f42c15
+      :segued: true
+    - :uuid: 5376cdcb-2242-4e6a-81da-1adabc21a9a1
       :name: The Music Never Stopped
-      :segued: false
-    - :uuid: 1b96616b-d5ce-404c-ba76-d1d2d0a579a8
+      :segued: true
+    - :uuid: 7d3a6005-4770-4035-9a86-06ef4a3c3e7e
       :name: Might As Well
       :segued: false
-    - :uuid: 1c4ff672-8078-4dce-829b-0c0344de1677
-      :name: Drums
-      :segued: false
-  - :uuid: e8a9622a-f994-4422-9610-1ecedfbbf7e3
+  - :uuid: b0002563-003d-468a-a23b-510f0a622334
     :songs:
-    - :uuid: 58f81d33-4797-4708-a75d-192761063b29
+    - :uuid: a4f94d4e-0892-4287-8f8f-3b333e912183
+      :name: Drums
+      :segued: true
+    - :uuid: 7261227b-d728-45db-9071-449422f4d8fb
       :name: Iko Iko
-      :segued: false
-    - :uuid: 65283393-3fe1-4bd9-94f3-286887634279
+      :segued: true
+    - :uuid: 7f427777-ef2a-436d-bece-662a47af88e5
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 11b25ab0-5d65-4186-a92a-02da46516c61
+      :segued: true
+    - :uuid: 904349af-b46e-40a2-a8d5-9c9f44e9737e
       :name: Drums
-      :segued: false
-    - :uuid: 5878242f-a3cf-42c7-8890-e7e0f7e3cc1f
+      :segued: true
+    - :uuid: 8789c651-aeb2-45bb-a521-81b3744ad7e6
+      :name: Space
+      :segued: true
+    - :uuid: 6da9dcfe-af1e-4f52-a220-2def2ec5661c
       :name: Truckin'
-      :segued: false
-    - :uuid: 3362b1e2-82c3-4e10-815f-09a1c06512c1
+      :segued: true
+    - :uuid: e9c5c530-4297-47bb-a9b9-44bcfea94078
       :name: Stella Blue
-      :segued: false
-    - :uuid: 6b85ec42-d455-4027-8367-9261fa4bd402
+      :segued: true
+    - :uuid: 343475bf-dd6e-46e2-b3f8-ce471fd74ed2
       :name: Not Fade Away
-      :segued: false
-  - :uuid: 85f66001-c3ca-4535-bc6d-4967d2b46a18
+      :segued: true
+  - :uuid: 85ef8f6d-9c0c-4c27-adb7-88c80cd8e7f4
     :songs:
-    - :uuid: ca52cfb1-b66b-4be6-94b5-65a0f7b52cb4
+    - :uuid: 73ec2553-a3cb-478d-85b8-a21af98b77cd
       :name: Not Fade Away
-      :segued: false
-    - :uuid: 94bdaf58-05eb-4cdc-9a50-53ea8877fb2b
+      :segued: true
+    - :uuid: ef7f001c-83bc-476c-9ab8-902f703b196c
       :name: Hey Bo Diddley
-      :segued: false
-    - :uuid: 6811d8b2-9211-4567-b556-84f6e20f3fb2
-      :name: Goin' Down The Road Feeling Bad
+      :segued: true
+    - :uuid: f8bf1d54-0c2e-4d33-ba8a-bde0e998dac2
+      :name: Goin' Down The Road Feelin' Bad
       :segued: false
 1986/02/12:
   :uuid: 132f49ad-c0dc-4f4c-9119-aa7a1e7459bd
@@ -201,58 +216,58 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: c2a8fd2b-303c-43d0-8b5e-0e3ef7d032e6
+  - :uuid: b7199c5a-666b-4caa-8a8a-5590c6093753
     :songs:
-    - :uuid: ad5d0d2e-1824-4ce8-86b0-cde8c0bada9d
+    - :uuid: 6eebc193-2c78-40e4-b6a7-80588362b0af
       :name: Hell In A Bucket
-      :segued: false
-    - :uuid: f359ac9b-c82b-4a4e-982d-48a8a437b965
+      :segued: true
+    - :uuid: 716eaa33-24a4-4f20-8267-6d2be287de18
       :name: Sugaree
       :segued: false
-    - :uuid: bad50220-601e-4c4b-a2ea-182cf6cc9249
+    - :uuid: 2ec35e85-6ec4-4d13-a7e6-b082b44c32bd
       :name: Tons Of Steel
       :segued: false
-    - :uuid: 21266016-dad4-4c23-8214-7f519483df4e
+    - :uuid: 91e45294-4748-4323-bbc6-18f870d9f3f2
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 1e24dfb2-3652-41d9-8268-bb3e1d807b91
+    - :uuid: ba4e0d54-fb9d-42c4-8004-9789a373a33a
       :name: Cassidy
-      :segued: false
-    - :uuid: 136e9ee8-466f-459e-bc25-08465f076fb8
+      :segued: true
+    - :uuid: e637a338-b3a7-401d-8c60-f8986b4d1eee
       :name: Don't Ease Me In
       :segued: false
-  - :uuid: f77c0036-1a5e-4b75-aacc-e85a9a7bd694
+  - :uuid: 7c4098b5-6feb-4118-ae6a-3bb90edcc7a3
     :songs:
-    - :uuid: 532dd4cf-4f83-442d-b352-d5e5fa6076da
+    - :uuid: b0c97c22-3bea-4531-a84c-b5c4a7a48628
       :name: Scarlet Begonias
       :segued: true
-    - :uuid: 38421c17-f262-4cc4-8419-f8b1b2e29adb
+    - :uuid: 4c535d26-f084-4e75-9bb6-fd7dbec96eae
       :name: Fire On The Mountain
       :segued: false
-    - :uuid: 558f95b6-52dc-4374-bccd-aab362c0e99f
+    - :uuid: 540423c7-d158-4f82-a813-058d42812988
       :name: Estimated Prophet
       :segued: true
-    - :uuid: 935df141-efeb-47b6-9634-06a52a299df1
+    - :uuid: 49870657-fa7c-4bf6-bbd7-27718c7bc689
       :name: Drums
       :segued: true
-    - :uuid: 72d56e95-34d1-4dcb-b928-ed3b0e1e642c
+    - :uuid: 03fa1f9d-1399-4df7-8a09-0fe48e937b9d
       :name: Space
-      :segued: true    
-    - :uuid: cf415d80-0de5-4b58-b2ed-a3e5b089fd80
-      :name: Willie & The Hand Jive
-      :segued: false
-    - :uuid: eb9fe0ea-036e-43f1-9110-d7d2e6b6af60
-      :name: The Wheel
-      :segued: false
-    - :uuid: 89053c6e-dd14-472d-a079-a8ca14997ce4
-      :name: In The Midnight Hour
       :segued: true
-    - :uuid: 50febe99-401f-43fc-9763-557e3ffa619f
+    - :uuid: b2a5e5e6-a490-4687-826b-54b375375b33
+      :name: Willie And The Hand Jive
+      :segued: false
+    - :uuid: 2f829374-f5b7-4844-9f70-fe2bca5f9720
+      :name: The Wheel
+      :segued: true
+    - :uuid: 644355d4-603b-4584-9fc9-4329eca042b3
+      :name: Midnight Hour
+      :segued: true
+    - :uuid: e9d1ff6a-9751-41d2-872f-a3446b71a9bf
       :name: Johnny B. Goode
       :segued: false
-  - :uuid: 4eeed61b-d246-4ff1-9ca0-8d88e07a9ec7
+  - :uuid: 1ff96fca-2491-49cd-aae7-b6ee68757253
     :songs:
-    - :uuid: 9d086487-bc90-485c-bac1-7632dd74b683
+    - :uuid: b77df6ab-6f98-43fa-a291-51f7f3adadff
       :name: U.S. Blues
       :segued: false
 1986/02/14:
@@ -262,70 +277,66 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 11edf18f-cebf-41d2-8f03-fa87af0c45db
+  - :uuid: 6da0b995-c15e-4f88-b530-9be9845e8ab0
     :songs:
-    - :uuid: 58528e08-8146-4e84-a6ac-6c507201d20e
+    - :uuid: 8fb13c9a-d2c4-43b7-95f1-e437c7a2c5e8
       :name: Feel Like A Stranger
-      :segued: false
-    - :uuid: a8406852-fe9e-41a9-97ae-2b09f6eb403d
+      :segued: true
+    - :uuid: 8df79141-9d27-4f3d-bc74-10022ea4a091
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 16c55307-4fec-4a1e-92f1-c01482f0c1bf
+    - :uuid: 4ea5484f-63a4-4a04-9cf1-66fb86f5ef33
       :name: Mama Tried
-      :segued: false
-    - :uuid: 0f1c9ce2-ebc2-4f52-8901-ad6064552f67
+      :segued: true
+    - :uuid: 329f8922-6544-4fb9-aac9-85bf8ec26709
       :name: Big River
       :segued: false
-    - :uuid: f487869b-238b-4b78-ba9e-52920d1a34ca
+    - :uuid: 9fa7546d-1968-481e-81b3-499137cc9b7e
       :name: West L.A. Fadeaway
       :segued: false
-    - :uuid: aad80de3-6502-42f9-93e1-adcc8a22aaf0
+    - :uuid: 95953a85-261b-4164-b9f1-e52b9c7b9fc8
       :name: Looks Like Rain
-      :segued: false
-    - :uuid: 816e61a1-2460-4e2d-9770-459f20fcdc78
+      :segued: true
+    - :uuid: 74ef15b0-8b32-410c-949f-cee1fdbd435d
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: fb7cb948-99f2-4aea-a819-0159da28639f
+    - :uuid: 2fd08bb4-740e-4af9-bcf5-abaca2715440
       :name: Let It Grow
       :segued: false
-  - :uuid: 799b4720-5c0f-42d5-8570-4607bcde102d
+  - :uuid: 3e006877-5d85-4e69-9c32-849166d86619
     :songs:
-    - :uuid: 66aa017a-fe03-4471-8ecf-47be34f83272
+    - :uuid: a05e8d85-dbb6-4579-81a0-aa950f6b15a3
       :name: Keep On Growing
-      :segued: false
-    - :uuid: 77a512a7-3a72-4a17-b317-047aaf9dc8c3
+      :segued: true
+    - :uuid: 4e3d4c6f-66e6-4cfe-a39b-dceef47b34b0
       :name: Lost Sailor
-      :segued: false
-    - :uuid: 31288b35-b838-474d-9a1e-156a6608b0ef
+      :segued: true
+    - :uuid: 0a1e1f5a-15ee-4cb8-8b60-2b2c6d26f17c
       :name: Saint Of Circumstance
-      :segued: false
-    - :uuid: 8df2b6ce-1527-4fb1-acdb-ecb8ff2f3714
+      :segued: true
+    - :uuid: 7217ae2a-8396-495a-a7a6-fbaa2158374e
       :name: Terrapin Station
-      :segued: false
-    - :uuid: 1a270837-3fb5-4264-a6f3-dcea0bfae159
+      :segued: true
+    - :uuid: 9a9857ed-1f41-470b-b17f-776e600cbb6b
       :name: Drums
-      :segued: false
-    - :uuid: 35d3e709-883b-4351-a576-d7aab09a9979
+      :segued: true
+    - :uuid: bc5e544f-33c2-4f89-9e04-4b8d6f92e5bf
+      :name: Space
+      :segued: true
+    - :uuid: 693ea454-7c0f-4ef9-bb07-ba5def3fee7b
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 32f6bf25-8fe8-40f7-b406-0373be2449b7
+      :segued: true
+    - :uuid: 421e1383-6daa-4acc-9dbc-bcb28ab3996f
       :name: Throwing Stones
-      :segued: false
-    - :uuid: 5bf708c4-3982-4bbc-b26b-1b4b456563a4
+      :segued: true
+    - :uuid: d6d53f8f-67c9-4e0c-bf54-da9c7d77ae69
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: 29b00384-ae4b-4ad2-8803-7176ca199520
+  - :uuid: eddaa25d-c03c-4442-8a94-95f208835b92
     :songs:
-    - :uuid: 73193b0f-ab52-4229-875d-f39e4eb4973e
+    - :uuid: dc763fda-5d2a-436f-8d34-505d9bf8fb6c
       :name: Brokedown Palace
       :segued: false
-1986/03/09:
-  :uuid: ed46f37b-b5cc-481c-8916-54e3f624b1ef
-  :venue: Henry J. Kaiser Convention Center
-  :city: Oakland
-  :state: CA
-  :country: US
-  :sets: []
 1986/03/19:
   :uuid: 3a894132-5da1-4a09-82f1-668203733ba4
   :venue: Hampton Coliseum
@@ -333,71 +344,74 @@
   :state: VA
   :country: US
   :sets:
-  - :uuid: 48639786-17b2-41a7-8d71-589b252e630f
+  - :uuid: a2bf51c4-df0a-4b35-bac1-67888341d45b
     :songs:
-    - :uuid: 107c610c-3645-4df7-989f-bd1bc0097b35
+    - :uuid: 1c1c0bc3-14a6-4038-9724-51e3e1c65e7c
       :name: Hell In A Bucket
-      :segued: false
-    - :uuid: d78f3463-c065-4c83-b21f-acfe2d5ce6d9
+      :segued: true
+    - :uuid: a806d034-9166-4552-96e8-313a2dc6a98b
       :name: Stagger Lee
       :segued: false
-    - :uuid: 57709720-7088-4381-b3b7-50082cd6f4dd
+    - :uuid: e4f2898c-82ed-4c1b-92f7-479cb9a3f04d
       :name: C.C. Rider
       :segued: false
-    - :uuid: 8a75556b-5291-42a9-87c5-9d7dce63fb64
+    - :uuid: 0fe59e8f-b99c-466e-94aa-d7a794532ad9
       :name: Cold Rain And Snow
-      :segued: false
-    - :uuid: c6bef681-22f9-4857-a51b-6566bb5e62c4
+      :segued: true
+    - :uuid: 0b294cfc-7cc0-4a35-ae76-08c12746b5f8
       :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: 67f5885d-8808-49cb-b068-3474b8b46183
+      :segued: true
+    - :uuid: 2a533d33-7efc-49aa-b3bf-f2dbd12d44e2
       :name: Big Railroad Blues
-      :segued: false
-    - :uuid: b690e4d9-47bb-452f-9ed1-d6e72f526297
+      :segued: true
+    - :uuid: 99e6eb18-798a-4471-99ee-be0f9e3deb73
       :name: Looks Like Rain
       :segued: false
-    - :uuid: f1d2f64d-2116-4d01-8be5-5589d7df89e3
+    - :uuid: 4e557e68-d88c-412e-a166-ac803678e141
       :name: Visions Of Johanna
-      :segued: false
-    - :uuid: 3f927f47-b747-4e9c-9df4-f239546310f2
+      :segued: true
+    - :uuid: 93cff394-4525-4a3a-ba16-ec2e597ff42f
       :name: The Music Never Stopped
-      :segued: false
-    - :uuid: 129fe41d-5ffb-46d3-9a0c-d744823c8a01
+      :segued: true
+    - :uuid: 854cc520-9b0d-4790-a70a-46b32e380d3e
       :name: Don't Ease Me In
       :segued: false
-  - :uuid: f3a1b652-b861-4f56-91f6-9c372afc73c9
+  - :uuid: c5e9aef7-f1a8-413e-875a-2e17c8d06297
     :songs:
-    - :uuid: c9c3dc55-b5f4-45c8-939b-8b306df7f056
+    - :uuid: d16eb3e0-217c-45f3-9f9c-995ad063b67c
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 5cee4027-3f09-4054-9223-2e226003be17
+      :segued: true
+    - :uuid: 182ee421-691a-408a-829b-1110d66a93c1
       :name: I Know You Rider
-      :segued: false
-    - :uuid: b5555c83-a718-44cf-8e63-54646e4909b4
+      :segued: true
+    - :uuid: 94cb6551-2324-4366-9bdc-454bdd282cdc
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 76b3bf21-605c-43ea-8bdc-e6110ed71ce7
+      :segued: true
+    - :uuid: eb266ee2-a669-4c43-9ff1-8cbc96cf7b73
       :name: Drums
-      :segued: false
-    - :uuid: cfa304d3-59ba-436a-9b3a-5845b760598d
+      :segued: true
+    - :uuid: cd2451f4-fccc-4064-b7a2-fa8ddeb8e7bb
+      :name: Space
+      :segued: true
+    - :uuid: 15e49c68-dc61-4f4d-b451-ae3a6fb8f0fa
       :name: The Wheel
-      :segued: false
-    - :uuid: 7d13d515-9110-4c28-ae2d-9703313fcb9a
+      :segued: true
+    - :uuid: a44ef516-81dd-4f3d-b296-d8eeb06c4115
       :name: Truckin'
-      :segued: false
-    - :uuid: a3fc70d2-3a43-4ef0-bd13-44696371b970
+      :segued: true
+    - :uuid: c02beaef-c839-45fd-a0e5-fc885f089dfc
       :name: Black Peter
-      :segued: false
-    - :uuid: d4c67d78-549a-4cab-9afb-132ad1ae5694
+      :segued: true
+    - :uuid: 601bc643-b1f3-43c6-a32a-4254a8e37dc3
       :name: Around And Around
-      :segued: false
-    - :uuid: 0f956c2f-e59e-4464-9bbc-33f0fbe735ea
+      :segued: true
+    - :uuid: 6cce9dd7-e220-4849-afbc-69772ea5ca66
       :name: Johnny B. Goode
       :segued: false
-  - :uuid: 70c0ce3e-af54-419e-95cf-27cb8317d5e0
+  - :uuid: c5ef4b1c-9904-4265-8cab-24b5e7764be6
     :songs:
-    - :uuid: f9821e9b-2749-4f7c-8dc5-c87f3f6c0628
-      :name: The Mighty Quinn (Quinn The Eskimo)
+    - :uuid: 9785fc08-9563-4b59-b83f-0bec7abe6602
+      :name: Quinn The Eskimo
       :segued: false
 1986/03/20:
   :uuid: b34068d3-7fda-45cf-aa8a-cdb2f3659736
@@ -406,61 +420,67 @@
   :state: VA
   :country: US
   :sets:
-  - :uuid: dfeeddb1-183c-4750-9929-5c12c47de96d
+  - :uuid: 4b388df9-ba6a-439a-bdb4-8a454a7d3c3c
     :songs:
-    - :uuid: 408f97b6-3f83-42f9-98c4-1e0b2fb579ca
+    - :uuid: b96d88bd-7222-4d59-8121-2e2c754660a1
       :name: Touch Of Grey
       :segued: false
-    - :uuid: 6d241457-9eda-40c6-81a4-128b661d28cd
+    - :uuid: 6405514b-9690-4207-b468-4c8a2701256a
       :name: Little Red Rooster
       :segued: false
-    - :uuid: c700e3ce-9eb2-415a-b1aa-626b6819628c
+    - :uuid: 02c3d637-a956-4912-aea3-3539ff8959cb
       :name: Friend Of The Devil
       :segued: false
-    - :uuid: d85ea0e8-8399-46da-acef-7d2f4d515369
+    - :uuid: 93416425-93ef-4694-a0bd-3e1763ffc8eb
       :name: It's All Over Now
       :segued: false
-    - :uuid: a4decb0b-960f-4c3f-ba23-c94a1502ef08
+    - :uuid: 3f98e78e-be64-40ed-b2a7-56b3bcab419e
       :name: Row Jimmy
       :segued: false
-    - :uuid: 4b5096b3-92fb-4cb2-911e-11d30d6afb8d
+    - :uuid: b0fa88a6-90fc-4ce4-8415-2bbeb5662eee
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: f46a7f0b-692f-43ab-8ac9-0d6251b7c3ba
+      :segued: true
+    - :uuid: 77a77d11-e5c2-449c-9300-227724d9f5f9
       :name: Mexicali Blues
       :segued: false
-    - :uuid: f33e5589-4e7f-41d9-b083-8eaa560c1bbc
+    - :uuid: 8ffd7859-fd11-4ad8-91db-7e9c6f4fa162
       :name: Althea
       :segued: false
-    - :uuid: e6d6ec15-0b15-499f-b85b-9ce9151729e5
+    - :uuid: 39a0eee8-9d5f-4a0a-aac5-c9e5afd90cfa
       :name: Box Of Rain
       :segued: false
-  - :uuid: e1db37e3-cc2a-42f4-a1d4-c56190951c04
+  - :uuid: 52e2aa21-8a02-4f26-881b-1d6420354f89
     :songs:
-    - :uuid: 473b32f6-36e4-4385-a3c8-73a6eb7a592e
+    - :uuid: 1324d016-a9a4-4dd1-a1e9-4d0752d87ef3
       :name: Iko Iko
-      :segued: false
-    - :uuid: 56f5e733-6fa8-432c-ab1b-573f0b526850
+      :segued: true
+    - :uuid: 0dbce27c-1537-4639-bd27-93415868a1c3
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: dd9dc2ab-6a99-48db-9b2b-5847eddc00a2
+      :segued: true
+    - :uuid: 7091d409-8f57-4511-a98a-586621dc3f5d
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 09fdfad7-4281-41f3-bf0f-e2701aef6b33
+      :segued: true
+    - :uuid: 8dadbefc-8748-4c5a-98e1-929c42014aba
+      :name: Jam
+      :segued: true
+    - :uuid: ecfabeb6-0fad-4abf-8bb1-9fb743ae56dc
       :name: Drums
-      :segued: false
-    - :uuid: 4c22fdca-b8b4-4ccd-9f15-c89e4ed6edb8
+      :segued: true
+    - :uuid: 451d3265-0db5-4655-9151-4e4beb743c6a
+      :name: Space
+      :segued: true
+    - :uuid: b5228616-44ae-4a18-98d0-38a95084719a
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 75fcc1af-364f-444a-aa68-10f7b8133d4c
+      :segued: true
+    - :uuid: 624c3a6a-27d0-4141-bf12-fae81832ab29
       :name: Throwing Stones
-      :segued: false
-    - :uuid: da8520fe-8ca5-4331-a882-cabfab0a55df
+      :segued: true
+    - :uuid: 98f65b3b-472c-4caf-982d-a5c3d23d0012
       :name: Not Fade Away
       :segued: false
-  - :uuid: d1510c11-58ba-493f-aac4-a0832da878c1
+  - :uuid: f3f6c917-0c1f-41e7-a45a-1cc5f7c3bf70
     :songs:
-    - :uuid: 10e217cf-0345-4ea1-a34f-2543393f9b26
+    - :uuid: bd15f4d4-b42a-48f7-852b-c70ba2809064
       :name: U.S. Blues
       :segued: false
 1986/03/21:
@@ -470,253 +490,267 @@
   :state: VA
   :country: US
   :sets:
-  - :uuid: 41590954-4782-4edb-9766-ed5d869386e1
+  - :uuid: eeabc2db-ede4-48d4-b815-570373e6d64b
     :songs:
-    - :uuid: e2a790ca-5856-49bc-be4c-5b64f0dcb4ad
+    - :uuid: e0718aa4-f6d3-4a9d-afda-df24ffcbdb5a
       :name: (I'm A) Road Runner
-      :segued: false
-    - :uuid: 34572471-b35f-4145-b932-9072fa4ed82a
+      :segued: true
+    - :uuid: 9c69d90e-bad7-4bfa-ac9a-158653e33cdf
       :name: Dupree's Diamond Blues
       :segued: false
-    - :uuid: b0d48e8a-2848-4c29-a272-5a0e056b4154
-      :name: New Minglewood Blues
+    - :uuid: 26e2b6e5-51f3-4fee-978a-321b94bc287e
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 0d7eabe5-eab6-4c46-8917-04409a2d93c1
+    - :uuid: 3d74a240-9654-48bc-a33d-194accf4a68a
       :name: Bird Song
       :segued: false
-    - :uuid: 402461d7-880d-409c-8222-35cb1702bd6f
+    - :uuid: be7f351a-2916-47b2-bfbf-3b883b3fdd57
       :name: Tons Of Steel
-      :segued: false
-    - :uuid: fb3b464f-ab30-4ad7-82bb-5418c81bc3ae
+      :segued: true
+    - :uuid: 97baa661-1056-4d2f-be4d-cac231ad97cb
       :name: Supplication
-      :segued: false
-    - :uuid: 256d6be0-05d7-4456-b4d5-e43b6a0336ac
+      :segued: true
+    - :uuid: 7fa85848-5b37-434c-a550-07615668f1e8
       :name: Let It Grow
       :segued: false
-  - :uuid: 80b9d279-a305-47f0-89a3-c2e6271a9fb4
+  - :uuid: aeb3d274-1e25-4748-b203-8ef408d1a441
     :songs:
-    - :uuid: 089896a0-9b66-4ade-9198-1ebf35ab10af
+    - :uuid: d0604a3a-6401-4b0d-88c7-cd10076c64be
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: bc614048-52f3-4423-949f-1bec8aea5e7d
+      :segued: true
+    - :uuid: 1ff3202a-bbf7-4611-a744-bfa5f9f511df
       :name: Terrapin Station
-      :segued: false
-    - :uuid: 9c2de109-d288-46a5-ac2d-b4b6d6380755
-      :name: Playing In The Band
-      :segued: false
-    - :uuid: 66518c8d-9f74-4379-b727-c85db220919b
+      :segued: true
+    - :uuid: a9b0e5f6-c116-4cac-a044-8b6a86d3dd3c
+      :name: Playing In The Band Reprise
+      :segued: true
+    - :uuid: edc1fac6-9dab-4ae3-8aa4-d52b5817077a
       :name: Drums
-      :segued: false
-    - :uuid: b5db8026-b770-43c6-a341-9d5396c0dd6d
+      :segued: true
+    - :uuid: ac163562-05d6-4d55-82b1-b323d18a7f96
+      :name: Space
+      :segued: true
+    - :uuid: 52de72bc-4b83-4faf-9273-1f7f0c880008
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: 1ca5a421-f83c-430b-9af7-07156985c789
+      :segued: true
+    - :uuid: ac44bc51-5bb3-4f9e-8fa5-6344e42c3f94
       :name: Stella Blue
-      :segued: false
-    - :uuid: 5757d2a0-e43e-41e8-a59f-32650167435d
+      :segued: true
+    - :uuid: b2ccb1b3-35b0-4d86-8fdc-74513ebd35b9
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 3870c002-8b56-4acb-92fb-bfd6f77b3fdb
+  - :uuid: 8fd9524e-14dc-4a22-8ae6-634da76db7db
     :songs:
-    - :uuid: c6a62e83-fc37-4ab8-a716-2eb829d3fde6
-      :name: It's All Over Now, Baby Blue
+    - :uuid: d480bbaa-9bae-4e7d-a364-cd4c931583f5
+      :name: It's All Over Now Baby Blue
       :segued: false
 1986/03/23:
   :uuid: 3fd86e63-a44b-43e2-bc2c-a10495d5cae2
-  :venue: The Spectrum
+  :venue: Spectrum
   :city: Philadelphia
   :state: PA
   :country: US
   :sets:
-  - :uuid: f9acd9b6-2ba5-4261-9aed-7bff40b1f390
+  - :uuid: 03e7a8ca-e193-4719-bb65-120c8e36a332
     :songs:
-    - :uuid: 7b95ddf7-18e7-4912-b6f9-ace033cda591
-      :name: Gimme Some Lovin'
+    - :uuid: 3be62083-1fc2-4401-81ac-28e36aa66217
+      :name: I Heard It Through The Grapevine
       :segued: false
-    - :uuid: f8693feb-d439-4474-87b4-18b589c1ac58
+  - :uuid: a775f61a-000c-4e5f-88b5-383013dbf248
+    :songs:
+    - :uuid: 59d623ff-9df0-4468-befd-8c0162de4702
+      :name: Gimme Some Lovin'
+      :segued: true
+    - :uuid: 34407eb5-52ee-4983-9359-17abfa304b79
       :name: Deal
       :segued: false
-    - :uuid: d04040a0-a5c6-4bb0-8aec-2125527aab24
-      :name: Willie & The Hand Jive
+    - :uuid: 7673e865-a5da-4f0a-9e2d-f92141b88062
+      :name: Willie And The Hand Jive
       :segued: false
-    - :uuid: c742e95a-442d-4de6-acb1-61fc2daf751e
+    - :uuid: a51fabdb-662c-47d4-86e0-67d8ad9d34c5
       :name: Candyman
       :segued: false
-    - :uuid: 73e7ff18-e7c8-44b8-9051-195245c8d36b
+    - :uuid: d9e01568-9dc2-4f83-8615-863df2bb482f
       :name: Cassidy
       :segued: false
-    - :uuid: 288804c8-0f8e-461e-b31b-780f1c5af58e
+    - :uuid: abb76291-6e98-4f14-bdf6-f8b8f84679be
       :name: West L.A. Fadeaway
       :segued: false
-    - :uuid: e5e26307-82dc-470f-872d-ee1b3d7f7c47
+    - :uuid: 5bdaff34-cad3-43d4-96be-64a1c5b35d4e
       :name: Mama Tried
-      :segued: false
-    - :uuid: 54c7c014-6fbe-4855-a4fd-4400a2a4c7f9
+      :segued: true
+    - :uuid: 5ed262d8-1d62-457f-9616-7682fc0dd902
       :name: Big River
-      :segued: false
-    - :uuid: 1e29c18f-d549-4c43-869f-241ec9db5c70
+      :segued: true
+    - :uuid: b0b7a40b-a4bc-44c9-9b94-a2988fb6e022
       :name: Might As Well
       :segued: false
-  - :uuid: 7a73a6d9-a058-41bc-91f7-2110a3927291
+  - :uuid: cdeea9a7-55e8-4130-8e03-1762d90f25d0
     :songs:
-    - :uuid: afa11a62-f855-4029-8528-c25cf47c053f
+    - :uuid: 6a744364-4beb-4d3c-9ab9-f8c644cdd2a3
       :name: Shakedown Street
-      :segued: false
-    - :uuid: 80bcc7d8-b8c4-4f03-a483-f6a7874b7062
+      :segued: true
+    - :uuid: bab3d882-f409-4d9d-bdc5-b9ebd20b5017
       :name: Samson And Delilah
       :segued: false
-    - :uuid: 6946c1e1-459a-43c4-a040-f88d1d4fa9d0
+    - :uuid: d9f7f1ae-3d09-4f2e-8bed-282ab85e0bb6
       :name: He's Gone
-      :segued: false
-    - :uuid: 7d9583de-80f4-4475-9c4e-30fc5b45b131
+      :segued: true
+    - :uuid: 98c1dba5-0748-4f19-98a4-fe0cc77b1d59
       :name: Spoonful
-      :segued: false
-    - :uuid: cdd0117c-d936-4b2e-8668-7accac2208a7
+      :segued: true
+    - :uuid: ab87ae47-2f61-4bb6-bfea-755874130676
       :name: Drums
-      :segued: false
-    - :uuid: ec28e38f-b1fa-4db1-83d8-f38a4f031334
+      :segued: true
+    - :uuid: 2a21e6fb-42f2-4aec-8bc4-d66b2b2f6c7a
+      :name: Space
+      :segued: true
+    - :uuid: 56d1a681-7856-403d-bc1f-121ab162c1d4
       :name: The Other One
-      :segued: false
-    - :uuid: 9a1c4b7a-7fa9-4dfc-a2e3-88b60e6b63dd
+      :segued: true
+    - :uuid: 5a651574-2cdd-447a-aee1-bb61c321541e
       :name: Comes A Time
-      :segued: false
-    - :uuid: 57e5cc2b-5302-4e3d-9cd4-697407bdfac3
+      :segued: true
+    - :uuid: 8516ab94-6adb-4d53-9c81-8d5f83a41b7d
       :name: Good Lovin'
       :segued: false
-  - :uuid: 2864b42c-934d-4dc6-b874-9b87a8c3f238
+  - :uuid: 3de0e7b9-10a2-4d05-b4fd-2a6661f21b55
     :songs:
-    - :uuid: a08c6310-9263-4afb-919d-9e997e2342d6
-      :name: Keep Your Day Job
+    - :uuid: 999fa0db-0ebe-4df0-a278-3bcdef1a30f4
+      :name: Day Job
       :segued: false
 1986/03/24:
   :uuid: f8acf96d-57ea-45ae-844c-ffe9ba20798b
-  :venue: The Spectrum
+  :venue: Spectrum
   :city: Philadelphia
   :state: PA
   :country: US
   :sets:
-  - :uuid: 60389d97-32bd-4d29-95df-4d07263cfbfb
+  - :uuid: fac71203-2a97-41c9-925e-86876a3c89d6
     :songs:
-    - :uuid: a99cdb78-d919-45b2-8f19-26357256e8d8
+    - :uuid: 33200a41-46c9-44ab-bf9e-d18e0539d720
       :name: Alabama Getaway
-      :segued: false
-    - :uuid: 2ed5e920-b449-4632-85d2-b5ef708b3f6b
+      :segued: true
+    - :uuid: d769bc41-24ef-4407-ab28-78f3042f28c3
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 572e27ef-ff29-48cb-9df1-4feab4b20dce
+    - :uuid: 3455bcfc-74db-40bd-99a3-ca36ca34213c
       :name: Dire Wolf
-      :segued: false
-    - :uuid: 19edc207-39ca-402a-9984-f0e021ff980e
+      :segued: true
+    - :uuid: 9fc2881e-bc64-4ee8-9d35-4ab5035b116b
       :name: Little Red Rooster
       :segued: false
-    - :uuid: da1d20f3-f025-4b06-b705-52fafcaae585
+    - :uuid: d50ef8b9-506c-448a-bd60-8cc9a4c6dce2
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 122a34c9-9501-42f3-a251-6665ebb949a9
+    - :uuid: 29aad799-5116-4d21-a787-ea11e819331b
       :name: My Brother Esau
       :segued: false
-    - :uuid: 15b34eba-6022-449b-b90d-5be1ff984a19
+    - :uuid: dab33439-40d8-446f-9d72-ea2b0f17ec75
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 2d7b5b60-f594-4802-92c4-a9d2c82eed86
+    - :uuid: b8db7800-7314-4382-8572-a0a9cacc04b0
       :name: El Paso
       :segued: false
-    - :uuid: 61d800f0-c060-4cb2-b006-062d21abfded
+    - :uuid: cb382c75-4c2d-403d-af9b-11af21a0b6ca
       :name: Box Of Rain
       :segued: false
-  - :uuid: 9ed4a6b3-66e6-4c36-a02b-af6ed950fc8a
+  - :uuid: 1db65875-bece-44b3-94be-4f0882887740
     :songs:
-    - :uuid: 36beef65-c2df-4854-a6fc-bd41eeb294b1
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: 3d35a040-2555-4aa2-aa03-c6b54a65ee8e
+    - :uuid: 435b8410-b590-4a9d-9d3c-de46b2af3656
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: fca3246d-eb73-4358-842b-c040b2d73112
       :name: Man Smart (Woman Smarter)
       :segued: false
-    - :uuid: 42795990-ff66-43cd-8c56-ec09cc7287a2
+    - :uuid: ddd964e0-a802-4572-842a-26bc606f9be0
       :name: High Time
       :segued: false
-    - :uuid: 7dbc62c8-2940-49e7-a983-49f54690123f
+    - :uuid: e1e58045-73d0-4176-9434-816562b42562
       :name: Lost Sailor
-      :segued: false
-    - :uuid: 31ae9908-bc12-4eb4-8bd9-134050bfd6ac
+      :segued: true
+    - :uuid: 429f55de-8e75-49f7-afe3-61d625155be8
       :name: Saint Of Circumstance
-      :segued: false
-    - :uuid: 65f1539d-d4d6-4cb2-82d1-8afc36771905
+      :segued: true
+    - :uuid: 06642fa3-8e05-4d41-8066-dd6bb3b38633
       :name: Drums
-      :segued: false
-    - :uuid: fa4a66a6-3579-4caf-bcdc-b224695eaa5f
+      :segued: true
+    - :uuid: 6020e1c9-0d17-4337-8792-3c883af33dc7
+      :name: Space
+      :segued: true
+    - :uuid: bcf7b24e-955c-448d-a40a-c703e9c43ca7
       :name: Morning Dew
       :segued: false
-  - :uuid: 0268c298-777c-46bd-975d-87e18962d773
+  - :uuid: 86e922f1-ea51-4746-babb-9b04633fb8d0
     :songs:
-    - :uuid: 1f039eef-0556-4b17-b0df-da412733794d
-      :name: In The Midnight Hour
+    - :uuid: f283db24-2a8e-4a9b-b46e-6b22c9cbdc2c
+      :name: Midnight Hour
       :segued: false
 1986/03/25:
   :uuid: c588d9af-1092-4914-85d8-2245112697dc
-  :venue: The Spectrum
+  :venue: Spectrum
   :city: Philadelphia
   :state: PA
   :country: US
   :sets:
-  - :uuid: cdefd3f6-443a-4cd3-8e2e-4a34372509b4
+  - :uuid: a7034ee7-a4f1-4e5b-b2d8-c5f12f3b96b3
     :songs:
-    - :uuid: 018355cb-579b-4b17-93f1-a71034cb2000
+    - :uuid: 233b1f64-2632-440f-b01d-cac6c844379c
       :name: Feel Like A Stranger
       :segued: false
-    - :uuid: 3d88e3d5-fea5-4eaf-b8fa-76815397c369
+    - :uuid: 8420754f-3ca2-43eb-8208-516e97ff92f9
       :name: Tennessee Jed
-      :segued: true
-    - :uuid: 0e626289-6401-4cc2-8885-c32654ca40f5
+      :segued: false
+    - :uuid: 3487fd47-56d2-4a48-95a3-8f819e14bb6c
       :name: C.C. Rider
       :segued: false
-    - :uuid: 27b82411-8c49-4be8-aa24-da3c3e125ce9
+    - :uuid: 076fca17-5ea7-41eb-a0ce-2fe204e2e742
       :name: Tons Of Steel
       :segued: false
-    - :uuid: 4cd05f20-74d8-4a69-bfd4-28db75c937d2
+    - :uuid: cecb8905-a2e1-47d6-b904-0ea166571fff
       :name: It Must Have Been The Roses
-      :segued: true
-    - :uuid: 834a7398-5857-4d3d-8b22-3b88e39abf7a
+      :segued: false
+    - :uuid: 610b0627-87e1-4d0f-b20c-fe9d8dab7465
       :name: Desolation Row
       :segued: true
-    - :uuid: b2521e27-0f5d-4ae5-b905-bad8d5e56e79
+    - :uuid: eb54b44e-a5ea-495d-8933-7fcc2fa2cdea
       :name: Don't Ease Me In
       :segued: false
-  - :uuid: 344fec5d-de42-4fad-b38c-66c4eb9cbec1
+  - :uuid: b899d09d-23df-4a28-b7c0-6c6159803462
     :songs:
-    - :uuid: 50a61346-1427-42e4-88c4-3dabb39d263d
+    - :uuid: 68cb1ffb-cb27-446b-adc5-57c673674507
       :name: Scarlet Begonias
       :segued: true
-    - :uuid: 091edd90-8421-4b03-892f-509beb7ab790
+    - :uuid: 74d4f62f-5773-411c-8950-900669a9ae27
       :name: Touch Of Grey
       :segued: true
-    - :uuid: d5119c98-54bd-4e5d-b647-495e52bec112
+    - :uuid: 764605d7-4689-42c4-9bb4-005d677c00a4
       :name: Looks Like Rain
-      :segued: false
-    - :uuid: 5a9ede61-e4d2-4d85-abf3-04baa9e7e0f9
-      :name: Goin' Down The Road Feeling Bad
       :segued: true
-    - :uuid: 60af02e8-97c1-4190-9149-d8ae759737f2
+    - :uuid: 0cf9ecae-63be-4651-b8db-85e3e0af5995
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: c712921b-733b-4d56-8528-f0460d2d90a1
       :name: Drums
       :segued: true
-    - :uuid: 76f52e40-c6e2-499a-bc4a-7a2a55c271e4
+    - :uuid: 14549c74-d493-47f5-960f-1c717f57eef4
       :name: Space
-      :segued: true    
-    - :uuid: 08716b6c-39db-402d-8197-2962ed4cf019
+      :segued: true
+    - :uuid: 2b7fb30e-6bac-46a4-a130-78120098d9eb
       :name: Just Like Tom Thumb's Blues
       :segued: true
-    - :uuid: 88526cee-0f38-444d-ab8b-a70fcc1b6fe3
+    - :uuid: 0f293a63-b938-46f4-972a-b5fa9abe7ccf
       :name: Black Peter
       :segued: true
-    - :uuid: 737a92b4-af2c-4b83-80cf-e34257a6e033
+    - :uuid: 7322f62b-07fd-402b-8a69-a553412fb960
       :name: Throwing Stones
-      :segued: false
-    - :uuid: b775305e-2756-4236-8c6a-40300db7aee5
+      :segued: true
+    - :uuid: 90f0d86b-5b83-4d11-a17b-4dc3375bdefa
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: 270823f5-c1d1-43a6-95ea-4e1c96012064
+  - :uuid: 944e4e08-d24e-46e5-8071-5b4bb2e925a1
     :songs:
-    - :uuid: 7741cb64-9d86-4a67-84e7-6852b549993f
+    - :uuid: a5b91f72-6695-429a-9ec1-aa8fd2d370d2
       :name: Brokedown Palace
       :segued: false
 1986/03/27:
@@ -726,68 +760,71 @@
   :state: ME
   :country: US
   :sets:
-  - :uuid: ffb7f207-77a3-4a08-b35e-01163a136e72
+  - :uuid: 1278f3ab-deeb-4421-b915-60193483471f
     :songs:
-    - :uuid: e5c423c2-a3c4-44a8-bfd9-7ebb8512a698
+    - :uuid: b1caf6f8-e585-4906-b7d3-0709bed3c26e
       :name: Jack Straw
+      :segued: true
+    - :uuid: d081f8f4-ec02-409b-8c99-cb62332b490d
+      :name: Peggy-O
       :segued: false
-    - :uuid: 29f7e7da-67d5-48a2-ab21-2f3fa60144c7
-      :name: Peggy O
+    - :uuid: b59338fd-d51d-480b-8fa4-3177efff579c
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 2f0c5d19-2a7b-4e84-8059-d3e75a01a569
-      :name: New Minglewood Blues
-      :segued: false
-    - :uuid: 1408d357-b871-4235-9955-c5d69a1c4225
+    - :uuid: 50e5b520-4bba-424a-9fd7-8ef7dc06f0f2
       :name: Revolutionary Hamstrung Blues
-      :segued: false
-    - :uuid: 78808b06-1b1d-4896-bc50-990f0a043321
+      :segued: true
+    - :uuid: ea92de81-c5f0-46d5-9231-3a3a890fb56b
       :name: Bertha
       :segued: false
-    - :uuid: ffb384fe-3ef3-4ccb-94c0-51bc51b73b85
+    - :uuid: dce672e3-1ede-41e9-8bf7-fe532b55d60d
       :name: Wang Dang Doodle
       :segued: false
-    - :uuid: 54d4ec77-bcae-486b-8f92-bdfe96b34d0d
+    - :uuid: a2e09c9e-3e41-4b88-827b-2a45f5a0249c
       :name: Big Railroad Blues
       :segued: false
-    - :uuid: f33eab4a-a7c4-4d98-9131-1c93028f39d0
+    - :uuid: 07b25b4c-aaa4-420f-a0d4-9354b38d35fa
       :name: Supplication
+      :segued: true
+    - :uuid: 8ef2d8a5-896c-4565-abc6-362fe5a1c4e7
+      :name: Promised Land
       :segued: false
-    - :uuid: 76bedfab-68fd-4bc3-9ad0-759d3365c5f5
-      :name: The Promised Land
-      :segued: false
-  - :uuid: 90b76e1c-4651-4482-b9c2-61a9e0761e22
+  - :uuid: b0093172-07c8-4ab9-83be-8fe0d5f14bf9
     :songs:
-    - :uuid: e3e14f5e-24cf-48e8-84c7-293f70ea403a
+    - :uuid: 1cb2fe24-f050-4e52-80ad-e0c27b8222c0
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 1de0c35b-0fc7-415c-a2f8-d9e39d65e9c7
+      :segued: true
+    - :uuid: 50b9fd2c-b27d-4c33-aeac-3a18520b6eb5
       :name: I Know You Rider
       :segued: false
-    - :uuid: 7f3b32a2-71f9-44ec-986b-d498c01f6bbe
+    - :uuid: bf72f5bb-c59d-4444-b21e-3f01307fdead
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: 361ebaa5-4925-49de-a310-e2eb9190634b
+      :segued: true
+    - :uuid: ec37876f-8e84-4fc6-8570-e9d42cf0a7a4
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: f70d4994-955f-4dbd-8cbe-12772a9c3c2d
+      :segued: true
+    - :uuid: d59e0ae3-cb37-476d-be1e-9ffee4314c6f
       :name: Drums
-      :segued: false
-    - :uuid: 16524f45-3a2e-42eb-9a94-3d1360047808
+      :segued: true
+    - :uuid: 25c370e2-1c3e-4ff5-8207-9c475ca97108
+      :name: Space
+      :segued: true
+    - :uuid: bd029032-9f41-47a3-840b-eeff7876ff7c
       :name: Spanish Jam
-      :segued: false
-    - :uuid: edc91523-96ac-4c6d-b7ab-1dd19b61a30f
+      :segued: true
+    - :uuid: ca4197f3-b3c2-4f3b-8f8f-19825fb29d54
       :name: Truckin'
-      :segued: false
-    - :uuid: 632fe265-cc07-4500-adcf-c7267566f663
+      :segued: true
+    - :uuid: d47a5df4-a965-490e-96c9-14fea858b0a6
       :name: Wharf Rat
-      :segued: false
-    - :uuid: da681468-6312-4fca-947c-238b90a7721b
+      :segued: true
+    - :uuid: 7f45ba03-6981-415f-b932-c725a8b8c05b
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 2a943bf1-61c4-4552-8950-66445b7947f9
+  - :uuid: 61a6e672-5b54-43de-8a89-81e3f0e472cd
     :songs:
-    - :uuid: f40700c9-4895-43f5-8464-81c983bae17c
-      :name: Keep Your Day Job
+    - :uuid: 5da1bab2-749a-42b1-85cc-9e4f31240b6e
+      :name: Day Job
       :segued: false
 1986/03/28:
   :uuid: 9c358bc6-1f02-4944-a801-68bb9c4af730
@@ -796,68 +833,71 @@
   :state: ME
   :country: US
   :sets:
-  - :uuid: 0a0624ca-5191-4685-8aef-c3d0039e8256
+  - :uuid: 7cb26430-e75d-4550-be9f-1334cc62cdb4
     :songs:
-    - :uuid: c9bf92ee-bc51-4ce1-9f4d-a23f199a7164
+    - :uuid: 0d60a8a9-a4a3-4939-9e5d-c7d20066a261
       :name: Iko Iko
       :segued: false
-    - :uuid: cbc9d450-35f4-4053-ad64-14b15e408ef8
+    - :uuid: ed1ebb37-ba0c-4232-b948-e86e39fe457f
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: f4c80cb9-ae6f-484f-b1a6-cb986e74a139
+    - :uuid: c37be338-8719-42bc-9585-82364776ebd6
       :name: Loser
       :segued: false
-    - :uuid: e8e72074-1b12-4ec8-b9f9-6bd0ebd4d25c
-      :name: Never Trust A Woman
+    - :uuid: 2a288a1b-5c8f-48db-9b8f-60a2d873b393
+      :name: Good Time Blues
       :segued: false
-    - :uuid: becb7a4d-1b7d-4af4-8f74-828e0dd79ed0
+    - :uuid: f9d498b2-074b-4465-8f0a-b24d249d92b7
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: 7cb53bbc-c30d-49a4-bb63-d7403cdfb2a2
+      :segued: true
+    - :uuid: 0b295dcd-bfbe-4545-bd46-a97a9003e415
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 9e2fd5c7-fed0-4e86-9624-260ae46bf02a
+    - :uuid: c5c503db-9195-40bd-8eb7-373ad9ea74f2
       :name: Althea
       :segued: false
-    - :uuid: efc671de-1060-4da4-9b64-501d71e9901e
+    - :uuid: 814d8637-c53a-4d2e-8501-abc79108e689
       :name: Box Of Rain
       :segued: false
-  - :uuid: 5b6571c7-1d1a-4062-8b9a-87b5fa7a009a
+  - :uuid: 92f4c049-2b01-4526-9734-d30a2a3345a4
     :songs:
-    - :uuid: 37e75d3d-50eb-4e7b-aeaa-b63a81cac630
+    - :uuid: f6dec0ab-e958-48eb-9987-b98702af65e5
       :name: Playing In The Band
-      :segued: false
-    - :uuid: e2de4d94-dbe4-4211-a6d4-1c2053f112f4
+      :segued: true
+    - :uuid: cbd01092-15bf-4f00-a1ae-0088dcf54ef6
       :name: Franklin's Tower
-      :segued: false
-    - :uuid: 86b842d6-d8b0-4b77-a4c0-9535e44da066
+      :segued: true
+    - :uuid: 023c7959-8115-40af-b601-ae81a08d2b4d
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: ae64183c-49eb-46c9-b692-f7c787e6520d
+      :segued: true
+    - :uuid: 4ba8d817-659f-49b2-8f32-401fe2b0f5ba
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 68c185d9-2bae-4746-b693-74f4d563978f
+      :segued: true
+    - :uuid: 4f325239-0fbd-4686-985f-03eaed6235f9
       :name: Drums
-      :segued: false
-    - :uuid: 173d8be0-6825-4907-ab73-605bc600d02e
+      :segued: true
+    - :uuid: bef64cff-8b60-43c3-80b3-9c5e601d9494
+      :name: Space
+      :segued: true
+    - :uuid: 8c99ef54-7496-4007-a77e-59008f547174
       :name: The Wheel
-      :segued: false
-    - :uuid: 9a58bfcd-16df-408f-9e66-2ef67797dd17
+      :segued: true
+    - :uuid: 324175f0-3a61-4373-80c8-d2284edbfe5d
       :name: Dear Mr. Fantasy
-      :segued: false
-    - :uuid: 5aa735dd-e274-41b0-9b6e-5dcdad101b84
+      :segued: true
+    - :uuid: ad97f602-0e5d-4c4d-83d5-23b1254bdb93
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 1b12da46-c1ef-4331-9a98-865828f1fd6c
+      :segued: true
+    - :uuid: 7b0ee963-5258-451f-ab1b-f971c85eb1cd
       :name: Around And Around
-      :segued: false
-    - :uuid: e247a8be-b3ac-4fe5-bc2e-2bc0b43b045b
+      :segued: true
+    - :uuid: 84786188-f52a-4ad8-9545-d76d17b742ea
       :name: Good Lovin'
       :segued: false
-  - :uuid: 3b77b618-fc72-41c5-9367-64b910ec5e72
+  - :uuid: 8384a8ef-a711-434f-ad07-7c05bd3a86dc
     :songs:
-    - :uuid: 10357035-f6d4-41e4-9f85-c1311783844d
-      :name: It's All Over Now, Baby Blue
+    - :uuid: da0d7156-7967-42a0-9355-b18c1f65cf97
+      :name: It's All Over Now Baby Blue
       :segued: false
 1986/03/30:
   :uuid: a4c8f987-cf59-49dd-9e76-d5a538ab1a76
@@ -866,71 +906,74 @@
   :state: RI
   :country: US
   :sets:
-  - :uuid: 952df8d6-c907-47eb-a096-b233088b3aa8
+  - :uuid: a7e86178-c6b1-4d74-92af-ab0ca89a109f
     :songs:
-    - :uuid: f3cb5069-a159-49d3-85a5-91a99225a22f
+    - :uuid: d68f18e9-129c-4f4a-9d10-a3cba4959109
       :name: Hell In A Bucket
-      :segued: false
-    - :uuid: 2f978636-d2c2-405a-a34d-01c20e50083a
+      :segued: true
+    - :uuid: a423fe00-235a-4b0e-a143-ef2ac35df908
       :name: Sugaree
       :segued: false
-    - :uuid: f3498e74-3dc7-4120-9cfc-b016bba2ec83
+    - :uuid: cf017952-f85b-4336-b8d5-a23add802c8e
       :name: El Paso
-      :segued: false
-    - :uuid: e4279776-90db-4fc3-8555-d115bc2b0c6d
+      :segued: true
+    - :uuid: 354f9c6f-c55b-467d-8640-569759c280e0
       :name: Cumberland Blues
       :segued: false
-    - :uuid: 7a959b03-6b92-49ed-9ab9-41953a52cfee
+    - :uuid: 652e0eb8-1c90-4f03-9736-120528558766
       :name: Tons Of Steel
-      :segued: false
-    - :uuid: b80ee035-df4f-41fe-abfd-4bcfb654f0ab
+      :segued: true
+    - :uuid: c89406cf-f87a-4770-a853-f93fe572b21f
       :name: C.C. Rider
       :segued: false
-    - :uuid: 484b4111-37e3-4758-8320-b40f584d5150
+    - :uuid: 76132ee1-db07-4a75-a4d2-b73ef1daf518
       :name: Dupree's Diamond Blues
       :segued: false
-    - :uuid: 7fdc622e-7d12-4235-983e-bef8c2e06753
+    - :uuid: e4e27982-a2cd-4348-a743-d07491671cc8
       :name: Just Like Tom Thumb's Blues
-      :segued: false
-    - :uuid: ba322f64-4558-4d3e-90c3-44ef6313934e
+      :segued: true
+    - :uuid: 6f2fb1df-c317-437b-bce7-2b12d4db878a
       :name: Deal
       :segued: false
-  - :uuid: b6588b6d-563c-4e86-929c-c99a0dc80edd
+  - :uuid: a338ba4a-56ac-4668-9c06-fdadb9c7e001
     :songs:
-    - :uuid: c18b9c06-37b7-4db6-86ac-a6080e12f4e5
+    - :uuid: c8f768df-9b78-45be-9f16-99c45db72fcb
       :name: Touch Of Grey
-      :segued: false
-    - :uuid: 48fdc84e-96ab-4e5a-bb15-187af5674a57
+      :segued: true
+    - :uuid: df6a67dd-ba77-4a21-8655-c712dc997d29
       :name: Samson And Delilah
       :segued: false
-    - :uuid: 5a43b543-c9a1-4c5f-85cb-a9fa13b49402
+    - :uuid: 9e3de5ed-0720-416e-9338-bf6175ea22c3
       :name: Terrapin Station
-      :segued: false
-    - :uuid: 699bbe97-bd92-40c7-9840-5c71008d73ea
+      :segued: true
+    - :uuid: 9aaa1375-1e2b-4364-bee9-4105436b34dc
       :name: Man Smart (Woman Smarter)
-      :segued: false
-    - :uuid: 1cc9530e-7aa0-42ad-b6eb-297a96734310
+      :segued: true
+    - :uuid: 14ebb4d6-ee9a-4996-93ad-dfcc73f91bf5
       :name: Drums
-      :segued: false
-    - :uuid: 9f9f40dd-f1ba-4459-8840-67e2e92476a5
+      :segued: true
+    - :uuid: bac671a5-be19-4f85-855f-e9ab90147938
+      :name: Space
+      :segued: true
+    - :uuid: 805742dd-a654-4a55-9628-b267a22ae1f9
       :name: Why Don't We Do It In The Road
-      :segued: false
-    - :uuid: 6cc7d6e6-fafd-450b-b916-1b2ed609d1da
+      :segued: true
+    - :uuid: 735831fd-39e4-435f-ba62-5dca6ae1fdd7
       :name: Stella Blue
-      :segued: false
-    - :uuid: 43ef27ae-a294-47af-aaaf-aca5ee370503
+      :segued: true
+    - :uuid: 3b2c09ae-e646-4f76-9f97-08e002050540
       :name: Throwing Stones
-      :segued: false
-    - :uuid: a21ca8b6-8ddc-48a2-9c6c-29bf32f9e0ed
+      :segued: true
+    - :uuid: 0dd353c6-071a-43f7-831c-ef7e6b46b68b
       :name: Not Fade Away
       :segued: false
-  - :uuid: 5a1fcdc8-d88e-4fb8-b712-446441ec4050
+  - :uuid: df7cfe05-f455-48e4-a109-5efaee528c06
     :songs:
-    - :uuid: 4a0418eb-7486-4514-9d0b-e509f05bd280
+    - :uuid: e07b4824-f7cd-46d7-8364-30878b9696aa
       :name: Not Fade Away
-      :segued: false
-    - :uuid: 8da704b0-c002-49b8-953e-0cc93f1aec78
-      :name: The Mighty Quinn (Quinn The Eskimo)
+      :segued: true
+    - :uuid: 4f4a0085-df50-4b4b-92a3-9cc0df55a485
+      :name: Quinn The Eskimo
       :segued: false
 1986/03/31:
   :uuid: ae9b4f98-3a18-4e31-9956-b25cc9ee77fb
@@ -939,53 +982,59 @@
   :state: RI
   :country: US
   :sets:
-  - :uuid: 7b5a1302-a329-46b3-b0fc-12bbb69cfa54
+  - :uuid: 155319d4-2e76-4047-9c8b-d79ccbfe67bf
     :songs:
-    - :uuid: 9a3622f6-f221-4277-9631-8879d5ede63a
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: 0133b60d-78c3-438c-a31e-7edc2b08ac8d
+    - :uuid: 77f606ad-3cc3-4433-b9ee-94bebd564cdf
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: e9d39c8f-96f6-48fd-8e5b-57428928cbc5
       :name: (I'm A) Road Runner
-      :segued: false
-    - :uuid: e6fa0cb4-c83f-4cc0-bf54-64a838ea8f6a
+      :segued: true
+    - :uuid: b9ce5933-e029-4376-8648-7fe1e7c4b10b
       :name: West L.A. Fadeaway
       :segued: false
-    - :uuid: 6d9376ef-6221-44ef-955d-7556f3723c2b
+    - :uuid: 901c9efe-221b-45db-91a4-7436a21e7b17
       :name: My Brother Esau
       :segued: false
-    - :uuid: 6d5b0d6c-df06-4fe6-80d1-47d2d5a81404
+    - :uuid: d6fb7996-f54a-47d3-930c-639d255b486d
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 1419169d-b396-453a-af5e-923952bff2ff
+    - :uuid: e00f7271-a7a0-4088-aa41-5a93629b8144
       :name: Desolation Row
-      :segued: false
-    - :uuid: 5a765190-741c-455a-8acd-c472e5793e6c
+      :segued: true
+    - :uuid: 6aa9c1aa-f41b-4385-aa4a-0792242d7fc3
       :name: Might As Well
       :segued: false
-  - :uuid: bab789ac-beee-4229-890d-57dbbe49fe2f
+  - :uuid: 92fb55f2-3684-4d30-ba3e-aae5a5367d49
     :songs:
-    - :uuid: 27d72f03-9b96-427b-bcd2-9225571f45bc
+    - :uuid: 7f7b2c76-2909-4ce4-aefd-63112bca63d9
       :name: Feel Like A Stranger
-      :segued: false
-    - :uuid: 5c7013a4-c03f-4621-9bb1-c1ce90c977da
+      :segued: true
+    - :uuid: 7a70149e-317c-44f7-87ed-d6c21b8fb9a4
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 51c9d3be-b337-46c7-ad84-d444828d7979
-      :name: Willie & The Hand Jive
-      :segued: false
-    - :uuid: 0d02c42b-dac1-4d0b-94be-9b4ffc4506a6
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-    - :uuid: 2eec034e-1e92-4f74-b4a9-02634f2add97
+    - :uuid: d198cef8-3555-4bf6-928e-d30a8da25f72
+      :name: Willie And The Hand Jive
+      :segued: true
+    - :uuid: 08e6fc0f-372c-4566-a9de-0095edd2b63a
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: aba25228-4819-4fa7-8735-ce899b2c639d
+      :name: Jam
+      :segued: true
+    - :uuid: d81ed286-8f6b-49b1-8741-6e94ac70398e
       :name: Drums
-      :segued: false
-    - :uuid: 4c14ae4d-cc72-47d2-922c-ab1847c6de12
+      :segued: true
+    - :uuid: bb9b7e1b-0021-4416-a522-38e22a92d3c3
+      :name: Space
+      :segued: true
+    - :uuid: 8b4d4b34-7a36-42fe-81e4-3c8fe4d32987
       :name: Comes A Time
-      :segued: false
-    - :uuid: fc2deae4-01bf-4c1d-8935-69586ae72c8c
+      :segued: true
+    - :uuid: 735e79f8-a070-4ede-a2c5-ac8229e1d162
       :name: Truckin'
-      :segued: false
-    - :uuid: acf1d6a8-5638-49cc-812d-7d82e58a9765
+      :segued: true
+    - :uuid: 78cbeb13-1591-485a-a426-c4caf8b51e52
       :name: Johnny B. Goode
       :segued: false
 1986/04/01:
@@ -995,58 +1044,61 @@
   :state: RI
   :country: US
   :sets:
-  - :uuid: c9b46fd0-b915-42fa-987e-c74cc8395dd4
+  - :uuid: 9bd4d0d7-7772-435c-b8b9-043a669a736f
     :songs:
-    - :uuid: ca6dc09f-3d36-4d67-bc02-fbdf06a2b269
+    - :uuid: 005ff06d-d5d6-4f8b-9a97-ca3a04fd9380
       :name: Gimme Some Lovin'
-      :segued: false
-    - :uuid: fb927e7f-9769-404c-bb84-72f1e2c391f3
+      :segued: true
+    - :uuid: 54198261-0222-4939-925f-c70cd2a41174
       :name: Little Red Rooster
       :segued: false
-    - :uuid: 9ae21417-bb4d-4f31-8d0d-09624b03c6bc
+    - :uuid: 0075809e-0432-46cb-989c-f1621d662dac
       :name: Stagger Lee
       :segued: false
-    - :uuid: 1743c202-5af3-4c52-addb-39d32198e25a
+    - :uuid: e56768e2-846d-4122-852f-96ca88b241fd
       :name: Cassidy
       :segued: false
-    - :uuid: e3ad90a7-c92f-40a6-8ed7-5104171ea2ee
+    - :uuid: edc07444-65e2-4330-aa9f-c84a390926cc
       :name: Tennessee Jed
       :segued: false
-    - :uuid: adcf07ce-3061-4415-abf5-ad786ab72a2f
+    - :uuid: 2a7b7181-515b-46d2-8926-2ce267562bfb
       :name: Looks Like Rain
-      :segued: false
-    - :uuid: d1233aef-88f0-4770-826a-93e91d8327a1
+      :segued: true
+    - :uuid: d3088f7e-72b5-4163-817b-b24bbe7dc2e3
       :name: Big Railroad Blues
-      :segued: false
-    - :uuid: b8c2b952-ac5b-4513-9d45-ed882b7092df
+      :segued: true
+    - :uuid: 70b81674-af8a-4415-bda0-1eed9b350b5e
       :name: The Music Never Stopped
       :segued: false
-  - :uuid: 1730a7e3-b703-4310-ba28-77b9278c0495
+  - :uuid: 20149382-ef64-4dc9-8930-44a8a723d9b9
     :songs:
-    - :uuid: a816ca17-0d9c-45f9-9fe6-665b561588a2
+    - :uuid: 8e4e4380-b734-4c1f-b204-fd78bc9f32b2
       :name: Shakedown Street
       :segued: false
-    - :uuid: 6a63d00e-04a4-4690-922a-adc11a05731f
+    - :uuid: c189b018-b3f3-411b-b5dc-0275277f2e1d
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: 939b4b49-1283-4d11-a6db-0d06442a2e97
+      :segued: true
+    - :uuid: b540fb94-4deb-4a2d-9c49-5b56f13c8780
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 89c5e7ad-b217-45c9-b40e-cfc50d2f86d7
+      :segued: true
+    - :uuid: 2da93f88-5a1a-41a2-a3eb-a6f9869d7649
       :name: Drums
-      :segued: false
-    - :uuid: 50f7c998-ed19-4ba0-915d-c19261554fb3
+      :segued: true
+    - :uuid: 4f52c6e7-084f-412f-a773-3a75c0980131
+      :name: Space
+      :segued: true
+    - :uuid: c645bbb3-be65-480b-a3c2-bfd178279131
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: fe57676b-7e5e-4994-82f3-3a02dfb3c4e2
+      :segued: true
+    - :uuid: 207ff910-9765-4b85-b56e-308d6a34ec7a
       :name: Black Peter
-      :segued: false
-    - :uuid: 17f90ce5-b5c4-4336-b370-44d020eec89f
+      :segued: true
+    - :uuid: 660a3953-ff9b-41eb-a95c-52629717eeaf
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 6558edfc-37cf-49ee-962b-d99f19a1f82e
+  - :uuid: 976638c0-1d22-43a6-b595-e037cb4e9bdb
     :songs:
-    - :uuid: ad7718f8-e4d2-46f8-a43d-b86367074410
+    - :uuid: a5c4aaf6-974a-4433-ba50-116702e7b737
       :name: Box Of Rain
       :segued: false
 1986/04/03:
@@ -1056,65 +1108,68 @@
   :state: CT
   :country: US
   :sets:
-  - :uuid: 1b3660e1-f82d-49a4-b3a0-0de28a453b35
+  - :uuid: e0e2ac5d-42da-4ad7-83eb-8926a2b7615e
     :songs:
-    - :uuid: 96bbcbc4-25b4-457d-8d7a-b995d0ba58e6
+    - :uuid: 477e15e3-46b9-4568-b2a4-ccafda2b404a
       :name: Iko Iko
       :segued: false
-    - :uuid: 6ee17d3c-ba7a-4bbb-b908-e9cb79301857
-      :name: New Minglewood Blues
+    - :uuid: 3cec3fed-d3bb-486d-87f2-41d2e31789f9
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 859baa86-fca0-4ff1-b563-88d9f9b2d064
-      :name: Peggy O
+    - :uuid: a7272eb6-9fa3-43d5-ae8d-e84d08ae549a
+      :name: Peggy-O
       :segued: false
-    - :uuid: 0fa3a382-cc2f-4636-9dc8-0cf4bcf0add5
+    - :uuid: 27d47614-545c-4611-b9a6-9aa03f1cb3a6
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: 5f967cee-c1b3-4572-abb1-89c8109a3bc5
+      :segued: true
+    - :uuid: cd1dcddb-66c1-4b74-a7c8-31319e1e443a
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 39137d29-5240-4e50-a193-00710b3df3be
+    - :uuid: 8265d8db-bbaa-4862-9aa7-4f7104cccc98
       :name: Bird Song
       :segued: false
-    - :uuid: e7ab1d3e-82c6-486e-b621-d98811fe525b
+    - :uuid: 902b349e-c9a6-44c8-a492-31fc6e4e29a4
       :name: Supplication
-      :segued: false
-    - :uuid: 3c4702ac-fc13-4da6-97b9-637d9e36c52a
+      :segued: true
+    - :uuid: d24b3eed-c688-4f79-8e6e-349062efb03a
       :name: Let It Grow
-      :segued: false
-    - :uuid: 48911914-d4d1-4b9b-8da6-a299618b028c
+      :segued: true
+    - :uuid: 6964c375-0081-48a3-ac3d-87b3affb3878
       :name: Don't Ease Me In
       :segued: false
-  - :uuid: 96c39324-e136-4dd3-8c74-5ac6bc74463e
+  - :uuid: 506dac46-85f7-4238-8548-970bbe690f2a
     :songs:
-    - :uuid: 01392c24-9e1e-4c27-b406-33caf4eb1262
+    - :uuid: d2aa3ea7-bc78-429f-b4c9-4aad448d7578
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: 84a9bb1d-5c12-4f75-8305-d94b6e584a4f
+      :segued: true
+    - :uuid: 8d1d1dae-4c42-40e6-963c-929fc2b77d7c
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 7d89558a-3d65-489d-bab6-0c3aff92be53
+      :segued: true
+    - :uuid: 5d67d72d-d662-4ab2-b98c-e42a77cce615
       :name: Don't Need Love
-      :segued: false
-    - :uuid: 9297e7cb-5bba-4e6e-a785-1bf8255279c4
+      :segued: true
+    - :uuid: 92626f45-a71f-4b25-8b8d-c9e1baff2b8d
       :name: Drums
-      :segued: false
-    - :uuid: 13428213-0d48-4d23-b717-a200e816c936
+      :segued: true
+    - :uuid: c59a9004-2956-46ef-b3b0-4ded1d98f903
+      :name: Space
+      :segued: true
+    - :uuid: c2f80be3-8720-4f8b-9af6-6ee1a8da5a22
       :name: The Other One
-      :segued: false
-    - :uuid: e82cdf07-8b06-4d76-97b5-d07f64054cb6
+      :segued: true
+    - :uuid: 6af5c9e0-03fd-49e2-8739-6bfe94b83a65
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 16fa0374-3f54-412e-87e1-39f25b6c2927
+      :segued: true
+    - :uuid: ac1d04c6-05fc-41e2-8af5-6014d0cc68ad
       :name: Around And Around
-      :segued: false
-    - :uuid: 03577046-156f-41a3-a820-3c6e8d9f06ad
+      :segued: true
+    - :uuid: e5c76f78-329f-4d9a-9828-e2dcf5fbf4d9
       :name: Not Fade Away
       :segued: false
-  - :uuid: 675e2630-793e-4dbe-bdeb-86521e069358
+  - :uuid: e96e9591-c8d8-45a0-a6ec-0b836a4c758b
     :songs:
-    - :uuid: a0b3dfd0-6695-453b-aa5e-c6f7ce618478
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 2292062b-f253-44b6-a9e0-f6cbe8adaf92
+      :name: It's All Over Now Baby Blue
       :segued: false
 1986/04/04:
   :uuid: d172eb15-7762-4764-a755-8a11fbc2d3cb
@@ -1123,64 +1178,70 @@
   :state: CT
   :country: US
   :sets:
-  - :uuid: f330274e-765d-478d-8b29-27a5c79c7300
+  - :uuid: f9482161-0fa5-42cb-9221-eef8dc0f11c6
     :songs:
-    - :uuid: beed7c34-35d2-4b18-bb91-e51370b7f2d3
+    - :uuid: 131f70ff-7819-44c9-9a1b-dea5e239520f
       :name: Jack Straw
       :segued: false
-    - :uuid: 764efdc3-6e99-4930-8320-d17fe40831a7
+    - :uuid: ca49d829-9063-4687-8ed3-99ce9f70e6bf
       :name: Dire Wolf
       :segued: false
-    - :uuid: b68e8a19-a5dc-4fc8-bb5c-12a12d7b2357
+    - :uuid: abea9913-36ee-4942-9658-34660f64ee0e
       :name: C.C. Rider
       :segued: false
-    - :uuid: 087bd3ec-d962-4c5c-999e-a486d1ae51c8
+    - :uuid: 0f87ac54-e6af-4e86-9536-e28f0ded250e
       :name: Candyman
       :segued: false
-    - :uuid: 032e1a4a-b676-457c-bbcc-607942e36168
+    - :uuid: c123c066-3430-43be-88a4-bbdebf200ada
       :name: It's All Over Now
       :segued: false
-    - :uuid: d08eb610-b389-441c-8e64-d36b4ec896cb
+    - :uuid: 56a4be40-a776-4cbd-8e81-8b4cb5283975
       :name: Crazy Fingers
-      :segued: false
-    - :uuid: f2b9b93f-2527-4183-8de6-f2b768d19cb7
+      :segued: true
+    - :uuid: 958e9705-6e99-4f32-8f8d-d1e4890852ae
       :name: Greatest Story Ever Told
+      :segued: true
+    - :uuid: e38fa4e1-9f22-4826-8560-19e96c1dfa89
+      :name: Day Job
       :segued: false
-    - :uuid: b2374c3e-5ed1-4621-aae8-5c6445001da4
-      :name: Keep Your Day Job
-      :segued: false
-  - :uuid: 442d7c6d-a4d6-482d-8e9a-e0f7b25faf09
+  - :uuid: 8a5adf46-6ce4-4173-9763-a3e0dee0e3a2
     :songs:
-    - :uuid: 9cb371fd-fad3-4760-8484-440d03c45eac
+    - :uuid: 29b12851-6022-4659-8d8c-8ffdfc184129
       :name: Touch Of Grey
-      :segued: false
-    - :uuid: 8b3b1cee-2aec-4ece-9573-ef467b8cf933
+      :segued: true
+    - :uuid: 5b38a4d5-a2b1-41f6-8971-19e34749e0f4
       :name: Looks Like Rain
-      :segued: false
-    - :uuid: 75cc5246-ddf3-4ea4-88ba-689a76bd7091
+      :segued: true
+    - :uuid: 9d3fef69-b27d-43c6-93c1-2756ae10310f
       :name: He's Gone
-      :segued: false
-    - :uuid: fdc8d957-e172-41d3-ba82-716912d89bc2
-      :name: Smokestack Lightnin'
-      :segued: false
-    - :uuid: 0e0b4a61-5c37-4ba3-a23b-5ab87202d289
+      :segued: true
+    - :uuid: 805a7d36-2009-4417-8f57-ea342716a278
+      :name: Smokestack Lightning
+      :segued: true
+    - :uuid: 7889ba9e-79df-4722-a9f7-a86532840718
+      :name: Jam
+      :segued: true
+    - :uuid: bc300f53-d10f-44e3-a33c-7d86e0c75ba2
       :name: Drums
-      :segued: false
-    - :uuid: 1317767d-0a15-471e-8d32-7ee0a8eae01b
+      :segued: true
+    - :uuid: c3a052c0-8660-4eba-9f08-d967cea18591
+      :name: Space
+      :segued: true
+    - :uuid: 5cf325d6-579a-4303-a774-2ded195a0ba6
       :name: The Wheel
-      :segued: false
-    - :uuid: 260cf395-b0c2-4854-8897-77ee1d57f695
+      :segued: true
+    - :uuid: 4f2dd4ff-ff19-4ea2-8e0e-90a0ebb47aa3
       :name: Stella Blue
-      :segued: false
-    - :uuid: dd0242b3-3828-479e-b89f-1c1bc972f8fb
+      :segued: true
+    - :uuid: bf2c72e3-a4f3-47ed-88f7-7cf57f1f4da3
       :name: Throwing Stones
-      :segued: false
-    - :uuid: 3f9dd862-a933-442f-b359-2f53bb116d51
+      :segued: true
+    - :uuid: c43d30cf-5dd2-4be9-9b96-bd69e385d851
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: de417877-f055-4e62-b9c2-09a80c80f724
+  - :uuid: be32e726-c4b9-418b-9fc2-ba4c635293fe
     :songs:
-    - :uuid: 66f2af4f-7e2e-44a4-a7d6-adaf000d189f
+    - :uuid: eb381eb5-1348-4288-9ed0-1c839ecc9b75
       :name: Box Of Rain
       :segued: false
 1986/04/12:
@@ -1190,65 +1251,68 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 21917e80-94c9-4835-b4f1-c56f0ccdbe18
+  - :uuid: 3b5cb9ef-91d0-4a96-90fb-f5292bdc9ad9
     :songs:
-    - :uuid: 9ece7ffc-79c8-4a55-84d1-a9518442ea93
+    - :uuid: 85d8c424-59da-4a4a-bb23-237af4357d94
       :name: Hell In A Bucket
-      :segued: false
-    - :uuid: 807dc668-361f-429f-bb1e-025b70e5c057
+      :segued: true
+    - :uuid: a3cbda93-420d-4e07-a1ea-798beeb8b57e
       :name: Bertha
       :segued: false
-    - :uuid: e7a139f9-6c17-45ad-bacc-c3b8ad1b53ed
+    - :uuid: 6ecef0f0-c1d8-4618-a94d-6f7a191aea40
       :name: Little Red Rooster
       :segued: false
-    - :uuid: 5d1d03b8-d0f8-4406-8d2f-b4f5f1537e16
+    - :uuid: 90bf6d97-0f19-4932-99c5-59becc9b9ccd
       :name: Loser
       :segued: false
-    - :uuid: 4debad36-85c2-4576-be5d-42754f6a1111
+    - :uuid: d78e5930-fd39-46ad-bbff-491a3955b1e7
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: bddce10e-c049-4c4f-a835-7a5328756333
+    - :uuid: 8a6e06b8-4ea7-4d7e-917c-916ff076fc4b
       :name: Althea
       :segued: false
-    - :uuid: 12507da5-bf16-4c8d-9699-2325bdbb6f1b
-      :name: Willie & The Hand Jive
+    - :uuid: 8b33e7fa-ec4e-40f0-91f7-5cd34b55703b
+      :name: Willie And The Hand Jive
       :segued: false
-    - :uuid: f98edf6c-b0d8-4c7e-9c56-de5c10d2965f
+    - :uuid: 595f45f3-1cf1-4c25-804d-1b378fb0ebcf
       :name: Row Jimmy
       :segued: false
-    - :uuid: 3fdc1ff7-0f74-4710-b544-91f2710dd088
+    - :uuid: 0b1032da-8d23-4429-b342-a5deb2c68f20
       :name: Jack Straw
       :segued: false
-  - :uuid: f300a831-7106-439f-9a9f-7e2ec513190e
+  - :uuid: 57c8cdb8-ecf1-42e3-8dd1-cfb5a5c58330
     :songs:
-    - :uuid: 1a002996-97f2-4d24-8223-78408080b501
+    - :uuid: 37b6a162-6290-4dc9-b9d7-2aeddabd0306
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 3f0da476-1df1-4d67-9062-be71e7c5eb36
+    - :uuid: 8871c8d3-cc06-440b-899f-6b82bdfec0b1
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: f5da4617-d5d8-4c8a-abd5-a10b031039a1
+      :segued: true
+    - :uuid: bc537142-9dbe-483b-8854-3c4ea23a1712
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: c37ca479-be57-40ee-81c1-5ce875c4147f
+      :segued: true
+    - :uuid: 45d43128-3b00-410a-a870-72f113bfe565
       :name: Drums
-      :segued: false
-    - :uuid: 1d638e71-c680-447d-8ca4-6c09e8db67a2
+      :segued: true
+    - :uuid: fd5b890e-ca13-436a-8e5c-47b3c23c6aad
+      :name: Space
+      :segued: true
+    - :uuid: c0e12d8e-0494-4606-978d-98cb59978bef
       :name: Truckin'
-      :segued: false
-    - :uuid: 6d23c7d8-7853-42f3-98b4-c4a281b7ef41
+      :segued: true
+    - :uuid: 96da67b2-b8b6-4529-8a0e-46550aa3823c
       :name: The Other One
-      :segued: false
-    - :uuid: ea4c7f61-605e-42f3-8c32-8ea6ac1f1a6a
+      :segued: true
+    - :uuid: 80d90f15-5609-45c7-8c97-aa69ee0f7558
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 9269818e-e67e-4a6e-b169-0b7d0ea8ef21
+      :segued: true
+    - :uuid: d0a2a2f6-bc60-4896-99ef-e278d448ff29
       :name: One More Saturday Night
       :segued: false
-  - :uuid: 00dba9bf-d66a-42bd-b3c8-b2f16e94d368
+  - :uuid: 4c3d2887-3ab8-4a2f-9270-8abb982a1df8
     :songs:
-    - :uuid: 18460a80-f461-443b-afa4-a2291814d840
-      :name: The Mighty Quinn (Quinn The Eskimo)
+    - :uuid: d35f7312-72d6-4ddd-99e7-fc4a12db075a
+      :name: Quinn The Eskimo
       :segued: false
 1986/04/13:
   :uuid: 3886770d-b630-406c-ba86-b8d92135bbe2
@@ -1257,323 +1321,344 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: a84e2796-f8ea-4498-893f-6fd21859204e
+  - :uuid: b2359bb0-f95f-48e0-b9f6-0a88687aca6d
     :songs:
-    - :uuid: fc3b9738-2a33-4721-b54a-3b5337ad3869
+    - :uuid: d97d3d96-f56c-48dd-8cfb-3af1727f7c90
+      :name: Iko Iko
+      :segued: false
+    - :uuid: 28469f0a-a3ec-4599-b4f8-39b6cb4eaeda
+      :name: Minglewood Blues
+      :segued: false
+    - :uuid: 6ee28811-e10f-4866-ae3d-43e80dd8326d
+      :name: Peggy-O
+      :segued: false
+    - :uuid: 3befa03a-ffb8-4a20-91eb-c98fc3466594
       :name: Desolation Row
       :segued: false
-    - :uuid: 9f68e5f6-d6f4-46f9-a67f-9a6cdd4eda1f
-      :name: Mississippi Half Step Uptown Toodeloo
+    - :uuid: 3de19830-b5b5-420c-ad9f-430f1c96aa9a
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: fc4a4e2b-3298-4ce5-bacb-5c3df146308b
+    - :uuid: 88433e7f-6e60-4ae8-837f-5e290d5e205b
       :name: Supplication
-      :segued: false
-    - :uuid: f03a0fdb-c371-4433-b09b-38e5044b91b4
+      :segued: true
+    - :uuid: 7b688573-b57e-450d-8dc6-121a0a21bdd2
       :name: Let It Grow
       :segued: false
-  - :uuid: 1725f708-6b56-49d0-ab3e-c656571df497
+  - :uuid: 9b225649-a88b-430e-8576-b973034f36ce
     :songs:
-    - :uuid: fd44413a-3de4-4791-96b1-7ef1f0f01eb8
+    - :uuid: cfaf6ab1-f95c-42d7-a3be-e68e1ebee1c4
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 261a98e4-4abf-4233-86ea-badfc778451c
+      :segued: true
+    - :uuid: 2464acb7-2b4c-4559-8421-6d6a610a992c
       :name: I Know You Rider
-      :segued: false
-    - :uuid: 75c55a50-ee2f-411a-809b-4b0318e6b556
+      :segued: true
+    - :uuid: b5995f30-f62e-4839-9fc5-7c620d676e7a
       :name: Looks Like Rain
       :segued: false
-    - :uuid: 3412c025-424c-4dfe-9b78-c5bb8d50984a
+    - :uuid: af5cff34-6858-49fe-94b2-ad7ef13fbf29
       :name: Terrapin Station
-      :segued: false
-    - :uuid: dd9b013b-8b34-4f54-9e58-0bee460fb776
+      :segued: true
+    - :uuid: dd688876-8c02-4576-b52f-ea9cdc5aabc1
       :name: Don't Need Love
-      :segued: false
-    - :uuid: 84eb628d-907c-47b5-92d3-8c15b8b4e20a
+      :segued: true
+    - :uuid: e7c6076a-5a7f-4703-9fe1-8187c7907172
       :name: Drums
-      :segued: false
-    - :uuid: a81e04a8-02fb-4e66-b839-2f2bf91ae03d
+      :segued: true
+    - :uuid: ce766621-a099-46f2-9d2b-3991e666c755
+      :name: Space
+      :segued: true
+    - :uuid: afb9a4bd-4c8d-471e-939c-e8b3498c9fc3
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: 8290d7c4-5d3b-4a78-a2c9-1567285abfc2
+      :segued: true
+    - :uuid: 43c045c9-6e3e-4aab-8f4b-45887c98d42c
       :name: Black Peter
-      :segued: false
-    - :uuid: cb03e591-0670-492e-9461-e0b17d5d965f
+      :segued: true
+    - :uuid: 7e2c89b5-1bca-48dc-8fbe-e11159f98771
       :name: Throwing Stones
-      :segued: false
-    - :uuid: 46600ee9-bfb5-42f9-8293-f9d58200bba2
+      :segued: true
+    - :uuid: b716102e-c470-4670-a185-f8381b175fd6
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: e297453c-2089-4399-bc04-e943a0d5cb66
+  - :uuid: 9075b989-35c1-453b-addf-448ac545d971
     :songs:
-    - :uuid: 164b54f5-d21a-4feb-b74e-35dce8810793
+    - :uuid: 25dac5b8-9c59-4b66-b642-fcba44db1f3b
       :name: Box Of Rain
       :segued: false
 1986/04/18:
   :uuid: c2f83776-520f-4721-a581-b37e6b8fa52f
-  :venue: Berkeley Community Theatre
+  :venue: Berkeley Community Theater
   :city: Berkeley
   :state: CA
   :country: US
   :sets:
-  - :uuid: a1a4042d-3d56-4fcf-a79b-5df69b1e3dcb
+  - :uuid: 10bf5b64-8ede-44b6-b3e8-ed7438fbbacf
     :songs:
-    - :uuid: ddbb45cd-f110-4852-937c-8df6b022b024
+    - :uuid: 25c35b32-96da-4926-945e-20f9cc4603d5
       :name: Alabama Getaway
-      :segued: false
-    - :uuid: 180b181f-935f-492d-bf5e-f0c4a8fee8bf
+      :segued: true
+    - :uuid: d492f8b7-01ff-45f9-8eab-18b4232cc991
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: e2151370-afa1-4699-aaf8-0d1b9cf53ace
+    - :uuid: d683ca9d-ff8a-43bb-820b-f9a1fdcf47ab
       :name: West L.A. Fadeaway
       :segued: false
-    - :uuid: a988493e-7f7f-45ca-b777-c8773ab10ca3
+    - :uuid: a76cb53d-5b30-494b-9696-27351a0cfed5
       :name: C.C. Rider
       :segued: false
-    - :uuid: d6492777-4a44-4d4d-a97e-89b62ec6aa6e
+    - :uuid: 6ae59f2b-a2bf-450f-aa50-45e012974d2a
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 028cc5e2-e8c5-4f43-a844-b40d6af8da52
+    - :uuid: f33070b2-1a73-4410-9b80-58a35469c4a1
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: c2dd8f87-eaa9-4b00-9af8-92d2d92bb57c
+      :segued: true
+    - :uuid: 14d4a9f0-2ab6-42db-8f06-f9456b69249c
       :name: Mexicali Blues
       :segued: false
-    - :uuid: f1ed4ffc-3091-48c2-ab7d-6ba11f452385
+    - :uuid: ab85921c-af78-46c5-b284-d05a08a6fe98
       :name: Tons Of Steel
       :segued: false
-    - :uuid: d03e759f-fe7b-4e7a-b6c2-065439970820
+    - :uuid: 0a17230c-dd31-4646-9565-081975b601fa
       :name: My Baby Left Me
+      :segued: true
+    - :uuid: 56653677-5034-4cd3-9a23-c62cdec200ef
+      :name: That's Alright Mama
       :segued: false
-    - :uuid: a466a13a-5764-45ba-b7d1-0c8349becd0e
-      :name: That's All Right, Mama
-      :segued: false
-    - :uuid: 71db3c6d-6f9c-45be-a9ca-19c56837a06e
+    - :uuid: 3bc3a4cd-fb03-4331-a62a-c9dcb3c90a21
       :name: The Music Never Stopped
       :segued: false
-  - :uuid: 06b2c5cf-c43c-4155-9ff2-c2a9c9ae9737
+  - :uuid: f0dc1632-c169-4cfd-a8a8-4a4f438f38d6
     :songs:
-    - :uuid: 744e4068-594b-470f-88ec-c277881b2a02
+    - :uuid: 02d4b506-c92e-4b81-b410-bae3b1db2080
       :name: Shakedown Street
       :segued: false
-    - :uuid: 69c15b7d-caa8-4869-a273-f1bdc3d59209
+    - :uuid: 250449dc-3a11-4407-97a9-7720f77a4301
       :name: Man Smart (Woman Smarter)
-      :segued: false
-    - :uuid: 4731bf3f-06fb-46cd-a1ee-8f51c0c765b2
+      :segued: true
+    - :uuid: 59477ad5-8121-4112-ae25-d15c1690898a
       :name: He's Gone
-      :segued: false
-    - :uuid: 4c93a2dd-eddc-43cc-99d3-ef7a1b87738b
+      :segued: true
+    - :uuid: 79e86d2b-419d-425a-8523-6ce1e8069112
       :name: Drums
       :segued: false
-    - :uuid: d95e3640-06ac-44a8-b77c-4b4898793981
+    - :uuid: d7e14e06-1f03-4631-a023-1d2fc003311e
+      :name: Space
+      :segued: true
+    - :uuid: 88a28960-114f-453d-9c9f-f889f0bd098f
       :name: The Wheel
-      :segued: false
-    - :uuid: 73aabc45-93e8-45b6-81d1-157c25a29ac7
-      :name: Smokestack Lightnin'
-      :segued: false
-    - :uuid: 25831602-3239-4435-81d1-38c54120fbcd
+      :segued: true
+    - :uuid: 4aa68885-3abb-45c2-88d2-72c46826612e
+      :name: Smokestack Lightning
+      :segued: true
+    - :uuid: 19a14466-6ada-4f6b-811e-6d300ed6ad89
       :name: Stella Blue
-      :segued: false
-    - :uuid: 5a10234d-a262-482b-a083-c43425bc26d6
+      :segued: true
+    - :uuid: 7b4c37bb-01d7-40c1-abf7-72e64e2e1294
       :name: Around And Around
-      :segued: false
-    - :uuid: 6356e11a-88a2-40bc-a016-781833a6eddf
+      :segued: true
+    - :uuid: 48ce7c9e-2449-4cea-8207-84dac9e0a3c8
       :name: Johnny B. Goode
       :segued: false
-  - :uuid: 5ab4080f-e0af-41e3-beec-7e61aa61756a
+  - :uuid: ea19c457-a977-412b-a10d-25228e494575
     :songs:
-    - :uuid: 6ddda4b4-62af-4685-be05-6b567cec716e
+    - :uuid: c9f82d5a-f5ea-46e6-bee8-c87becaec458
       :name: U.S. Blues
       :segued: false
 1986/04/19:
   :uuid: 1ec1ead2-aa2b-43ae-840e-17eaf5d009c1
-  :venue: Berkeley Community Theatre
+  :venue: Berkeley Community Theater
   :city: Berkeley
   :state: CA
   :country: US
   :sets:
-  - :uuid: 5b2a1727-9b39-45e0-9be6-d15e5b954f22
+  - :uuid: 28f6922b-d303-4d8c-983e-6aaea6949e75
     :songs:
-    - :uuid: 732a0f28-fa7d-4a94-9dd4-e276ef622ca5
+    - :uuid: 2913178f-dda7-4ede-b3f3-f150abbe7115
       :name: Feel Like A Stranger
       :segued: false
-    - :uuid: 9d9dcf9d-201f-4ada-adc1-231e0b004a55
+    - :uuid: ade54af4-acd8-4534-98af-729ff1859642
       :name: Stagger Lee
       :segued: false
-    - :uuid: b2c2efaf-ca26-44de-add4-ee3d349d5b1f
-      :name: New Minglewood Blues
+    - :uuid: 8779d0b6-03f7-4223-8329-4c212943e7b4
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 27c896d5-045d-40b7-b230-2e2996ded6ec
+    - :uuid: 960ec868-3115-4a13-9b3c-44f0894077ce
       :name: Friend Of The Devil
       :segued: false
-    - :uuid: 54a02b98-59b9-4ed0-bd78-78871f2d5a40
+    - :uuid: 38650067-0f5d-425d-b803-969fb5f1cc48
       :name: Cassidy
       :segued: false
-    - :uuid: 86e00d8b-a93d-46c9-8589-92b78116f717
+    - :uuid: 87328c12-d308-4d2b-bf99-80fdf17aa957
       :name: Big Railroad Blues
       :segued: false
-    - :uuid: e5a2df64-f0d4-46c9-9504-ad1336dcd77c
+    - :uuid: 675297bd-86d9-4a9b-8cd4-2d0fd1e78dca
       :name: One More Saturday Night
       :segued: false
-  - :uuid: b724884a-9ccb-45be-847e-d201276e4988
+  - :uuid: a761735e-f946-4ec7-b400-d68fc5236f7b
     :songs:
-    - :uuid: c446931b-c55c-4c03-929d-af6681a358ba
+    - :uuid: 9bc64491-4033-4436-b38d-9d898f7dd903
       :name: Crazy Fingers
-      :segued: false
-    - :uuid: 81921ce8-ac8f-481b-98b5-2a5459e7870f
+      :segued: true
+    - :uuid: 57f5a1b1-ab1d-4bc5-8aa9-8bac8884ec56
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 5e43a42a-2536-47cd-bf48-29dd72aa6831
+      :segued: true
+    - :uuid: 8fd98379-d103-4448-b6e4-c94e6fbaa16a
       :name: Drums
-      :segued: false
-    - :uuid: 7a9536b9-f718-4a90-a5ba-3047fb3d591e
+      :segued: true
+    - :uuid: 555825bf-d123-4952-aa35-9d1d3ad8af54
+      :name: Space
+      :segued: true
+    - :uuid: ef4ab1f6-eeb9-4dee-bcd2-45b2eb9830fa
       :name: The Other One
-      :segued: false
-    - :uuid: 1764726f-14b9-44fb-b083-f308312c8c8e
+      :segued: true
+    - :uuid: 0a0c9933-b6a1-418d-9afb-47bc028d65dd
       :name: China Doll
-      :segued: false
-    - :uuid: 774f46d2-cc9a-4660-b32f-4c146c73d114
+      :segued: true
+    - :uuid: 9f4d1f35-b74d-4844-8b39-4917829b6213
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 7a0b7e23-f28f-4567-aef4-c71caec830b8
+      :segued: true
+    - :uuid: 40180e13-ff05-4ff2-8dc7-8f90aa93945a
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: c5de0d05-70ce-48f6-a3c2-d6439e7623d6
+  - :uuid: 80ea4072-5cc3-4ef7-814d-4364a10f2c2f
     :songs:
-    - :uuid: 260cd248-cdce-4ac1-b98f-b99c45856095
-      :name: The Mighty Quinn (Quinn The Eskimo)
+    - :uuid: 54ecb08f-f7b9-4e1a-9dcc-5fb71ded960e
+      :name: Quinn The Eskimo
       :segued: false
 1986/04/21:
   :uuid: 00602175-c32e-4d33-b325-c80fe3d88b52
-  :venue: Berkeley Community Theatre
+  :venue: Berkeley Community Theater
   :city: Berkeley
   :state: CA
   :country: US
   :sets:
-  - :uuid: 8530f9bf-62c0-4396-b14a-4650674c2ba9
+  - :uuid: ea937d14-e7da-4908-8f64-3659bb88241a
     :songs:
-    - :uuid: 02b11779-34e1-4b22-8825-fcd15891c9fa
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: f894ba61-774f-4563-959b-e49633cb9b38
+    - :uuid: 74b81687-1b30-478a-8a1a-f3bbbd628d11
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: 1cfb8f61-deb0-47ee-a330-3896ed561d76
       :name: El Paso
       :segued: false
-    - :uuid: 3ef8003c-fe26-4bf5-a407-30abce8272a6
+    - :uuid: f4e44239-0f39-4eaa-ac39-6dfd62366efe
       :name: Row Jimmy
       :segued: false
-    - :uuid: e3373b40-eba9-4054-925d-8482ef3d0705
+    - :uuid: 98d38ec3-5059-4e72-9d83-1f7d2b2365a7
       :name: My Brother Esau
       :segued: false
-    - :uuid: 77576ebb-3edc-4fbf-978c-48c969c76026
+    - :uuid: df2abb12-3551-4a99-b011-72a74c0dd6b4
       :name: Cumberland Blues
       :segued: false
-    - :uuid: 72f0eb11-bb18-43d6-9079-ce3472e61d82
+    - :uuid: 4bc46200-df00-4312-a01b-dbf1f9020d4b
       :name: Desolation Row
       :segued: false
-    - :uuid: a6c76bc0-80f5-420e-bacb-898029634124
+    - :uuid: d25521e8-ab04-4bcf-810f-ecb39e769983
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 7931475a-a7c8-4a98-b78f-1427e66fadc6
+    - :uuid: f5fe561d-b9f7-4642-8a44-c7650c6b512d
       :name: Let It Grow
       :segued: false
-  - :uuid: 68459dbb-ef5f-48b6-92ed-6502f64f02cd
+  - :uuid: 780bf362-adce-45c4-8fe3-219479374beb
     :songs:
-    - :uuid: 60cb1d29-7127-4628-8583-3a9c1ff301b7
+    - :uuid: 36696ca5-6e06-4765-857b-772e53fefa84
       :name: Touch Of Grey
-      :segued: false
-    - :uuid: 90ef71fb-c910-4ae8-af16-30e7c0e30d0a
+      :segued: true
+    - :uuid: 398f715c-649d-4d9e-bdaf-761d69735eb6
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: a981a695-ddf0-4021-a40d-8fd9784758a1
+      :segued: true
+    - :uuid: e4b850db-55e4-4709-86ef-64dfe17984aa
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 4d3df899-f4ce-41eb-bdfe-bbb48b40bfe4
-      :name: Drums
-      :segued: false
-    - :uuid: 581ab277-caec-4cf9-b669-aeefcccf8202
+      :segued: true
+    - :uuid: 59c1104c-2dd8-4f4c-9968-38475c23a619
+      :name: Jam
+      :segued: true
+    - :uuid: 8306edb2-2400-4447-b431-c07be882bef2
       :name: Maybe You Know
-      :segued: false
-    - :uuid: 1092bc18-eb7e-4086-9109-4db2fad9f1ee
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-    - :uuid: 36c0dae9-320f-436d-b663-4ee24125262d
+      :segued: true
+    - :uuid: 600f2880-e7a5-4db0-bd5e-41a00fb6f727
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: 2e73a08f-83b1-4678-b39e-70f1d6b0301b
       :name: Morning Dew
-      :segued: false
-    - :uuid: 45fe43f4-f06e-46e9-af0a-e144582a420f
+      :segued: true
+    - :uuid: 1ae93d58-f2a1-4689-b46b-1a7df9f49a0d
       :name: Around And Around
-      :segued: false
-    - :uuid: 1572d450-cc46-4fd9-b14c-5704166ec44f
+      :segued: true
+    - :uuid: 9cbefcb5-f7f4-4d02-8f3f-60cc1e913d1d
       :name: Not Fade Away
       :segued: false
-  - :uuid: a96a6566-2aa7-446f-87b0-0039af1d8fbf
+  - :uuid: 90513feb-05bc-48b7-bb2e-041832db2634
     :songs:
-    - :uuid: 696898d1-7285-4b40-9194-d1f098768173
-      :name: Not Fade Away
-      :segued: false
-    - :uuid: 25ac6ee4-d508-4b40-a71c-d67c0c639bab
+    - :uuid: 424b2ec7-571c-4b12-a8e9-5cc538788833
       :name: Don't Ease Me In
       :segued: false
 1986/04/22:
   :uuid: 05fbdc3a-932b-454d-ac74-738c9f3ee98b
-  :venue: Berkeley Community Theatre
+  :venue: Berkeley Community Theater
   :city: Berkeley
   :state: CA
   :country: US
   :sets:
-  - :uuid: 961d068c-034e-4b4e-8a6c-dc2059ce28cc
+  - :uuid: 208605ac-e9cf-4862-bb64-5c6f9ebddda7
     :songs:
-    - :uuid: f97b8491-cad5-484f-bb48-9844a5bf6dba
+    - :uuid: 1e05da7b-f1dc-4ba5-8c64-23eb163b279e
       :name: Box Of Rain
-      :segued: false
-    - :uuid: 526cd8e0-d9cc-4ab8-9410-944a6ef32ad8
+      :segued: true
+    - :uuid: e0184764-2355-4b56-bc9a-6926283eb7cf
       :name: Visions Of Johanna
       :segued: false
-    - :uuid: e1d5b609-d8a1-44ff-abbe-090f61d290f7
+    - :uuid: 79d57591-460c-46c0-b5aa-2f2b144b3ce6
       :name: Mama Tried
-      :segued: false
-    - :uuid: 58b5639e-eaad-4252-99d5-91e1c52b1bb0
+      :segued: true
+    - :uuid: d9f1888d-41eb-4922-9369-861abfba31a9
       :name: Big River
       :segued: false
-    - :uuid: 8c25e4ac-4a46-4e08-a165-b37c2351c364
+    - :uuid: e927d5f5-5009-4c84-8291-1ced2dfb5af7
       :name: Bird Song
       :segued: false
-    - :uuid: c6fe2cac-3387-46d2-a9a2-47d2248aaff2
+    - :uuid: 6297f709-35d6-4924-878b-d236dccbd9c4
       :name: Little Red Rooster
       :segued: false
-    - :uuid: bb6f7ceb-c163-414a-a67f-a23e605ee307
+    - :uuid: 6db101c3-4a0b-4d12-9528-06c1bd57fd3c
       :name: Deal
       :segued: false
-  - :uuid: bc0adf16-3592-4dd6-b2bb-3d17ed15d5eb
+  - :uuid: d60c3418-35af-4582-bb75-63cffd955be2
     :songs:
-    - :uuid: bf6853fa-7020-4c68-a984-3fa2e5f267a0
+    - :uuid: 35bb2476-1e42-4e41-98b6-ac9303fb99e8
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 19ae4160-d15b-4be9-85d4-c4460ec4f463
+      :segued: true
+    - :uuid: 1f82ad33-16d1-4ab3-af00-a04b8dc0cb16
       :name: I Know You Rider
-      :segued: false
-    - :uuid: 586d85aa-7fac-4f4f-becc-76ab764e8db5
+      :segued: true
+    - :uuid: 7e4293fb-7c57-4094-996e-cf52b5de778d
       :name: Looks Like Rain
-      :segued: false
-    - :uuid: abe84ddd-363c-4e7f-8e64-06614aefd638
+      :segued: true
+    - :uuid: 344264bb-a08b-47bc-b6d8-2682ff71f9a8
       :name: Terrapin Station
-      :segued: false
-    - :uuid: 451e6939-faf3-4269-9c60-7eec54d75652
+      :segued: true
+    - :uuid: 673a20dd-eb9e-45b9-8335-8a63bb03a1d0
+      :name: Jam
+      :segued: true
+    - :uuid: 12e919cd-7277-4bce-b79f-e8690b34d43b
       :name: Drums
-      :segued: false
-    - :uuid: 485ed4a8-8d02-420d-a875-804a32d7d0fd
+      :segued: true
+    - :uuid: 223f1fc9-b62f-4a2e-a610-88e605129527
+      :name: Space
+      :segued: true
+    - :uuid: 934c04bd-84e8-4389-936c-c9306744b2ea
       :name: Spoonful
-      :segued: false
-    - :uuid: 2f73e20a-a541-4766-8787-8fd5677b7bf0
+      :segued: true
+    - :uuid: 89048f48-8d8a-48bf-825e-b332da4a8cc4
       :name: Throwing Stones
-      :segued: false
-    - :uuid: a09e335a-fdcf-49fa-9ff0-42501956a361
+      :segued: true
+    - :uuid: 6e85efe5-bdce-4eea-8457-c6901ee3597e
       :name: Black Peter
-      :segued: false
-    - :uuid: c3c7a7b2-fd5a-4676-a403-931c9389cee1
+      :segued: true
+    - :uuid: 9f7717c3-1f64-4e43-822b-5d5ef6c9a299
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: f957e335-ecb3-407b-ac9f-584ac03078e1
+  - :uuid: 82852c08-8f32-4018-b1dd-e9507725bdd1
     :songs:
-    - :uuid: 7afde6ff-a648-4ed6-9c92-a7ad896edcfc
+    - :uuid: be6a758d-9b4f-4fbc-88b4-3a910ea4a0cf
       :name: Brokedown Palace
       :segued: false
 1986/05/03:
@@ -1583,62 +1668,59 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 3d315d4f-a9b6-4d44-8ad5-42b6237246f7
+  - :uuid: d2d3d71f-0bee-48b6-9fd7-9ed22aa0418e
     :songs:
-    - :uuid: 8d300a98-0aed-40d6-abea-2fbdaf78f984
+    - :uuid: fc561257-dfc0-42a0-a0af-d355f5c49e38
       :name: Cold Rain And Snow
-      :segued: false
-    - :uuid: 88c67db4-ad4b-4122-b5b6-fe2897859a7d
+      :segued: true
+    - :uuid: 4eeb1f13-2102-4062-8f1a-6e717187d79a
       :name: The Race Is On
       :segued: false
-    - :uuid: c86cdd9c-3f16-4968-a97a-9de058402869
+    - :uuid: 65d92db8-ea47-4435-8b6f-9acda1debb3a
       :name: They Love Each Other
       :segued: false
-    - :uuid: dab96f17-eb27-4b6b-937a-f734b22fdb36
+    - :uuid: 25771438-3c7f-4d51-81c4-30536ebb300f
       :name: C.C. Rider
       :segued: false
-    - :uuid: c2278031-f79d-4829-aeab-91771f4ea12c
+    - :uuid: 325d993a-3d79-4196-8ff6-89220908e489
       :name: High Time
       :segued: false
-    - :uuid: 6fe2383f-2622-4dc6-a5a0-2174c6210613
+    - :uuid: 7f4f0930-7b8b-44fa-9932-dab4ac36ee48
       :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: 16a5bc7e-0bf7-4f9a-90e6-56e111931c33
-      :name: The Promised Land
-      :segued: false
-    - :uuid: 6d6b19db-a647-41e8-b44a-93bb56275e70
+      :segued: true
+    - :uuid: ebd8c5c4-55c6-4a5d-9317-22feb1ef36b8
+      :name: Promised Land
+      :segued: true
+    - :uuid: c6316f54-a648-4d96-9239-ddc79c6923ad
       :name: Deal
       :segued: false
-  - :uuid: 3476dcc0-2db2-42fc-8298-b56566cb2fc0
+  - :uuid: 50ca52e2-2dbf-44fe-8494-8735ff454e14
     :songs:
-    - :uuid: 46cced1f-e182-4855-bcc6-6b512138e5ab
+    - :uuid: 69234c3e-9817-4ab2-befc-cdc5098304d3
       :name: Scarlet Begonias
       :segued: true
-    - :uuid: 39a7c6f5-70d1-4bf4-94d0-9115ccc3ac70
+    - :uuid: 2e94b419-b8cd-497f-87e6-22549a308e8e
       :name: Fire On The Mountain
-      :segued: false
-    - :uuid: d2225924-0f97-4c44-92ee-77000a4e9d80
+      :segued: true
+    - :uuid: d242aefe-6745-4c3b-9022-4137642ee59e
       :name: Man Smart (Woman Smarter)
       :segued: true
-    - :uuid: 4d71fd3e-b825-40ff-b5d8-0205f254aa63
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 70f3a29b-c8fe-4cee-b05c-1c8481d72753
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: 75927c00-2381-4236-8cd7-1da1b8ee2b29
-      :name: Jam
-      :segued: true
-    - :uuid: 24271f4e-2d46-48ed-bab1-61fcbdc2ac33
+    - :uuid: 4e04f8bb-ae9c-4fdf-8f76-7f9c3a7d0af1
       :name: Drums
       :segued: true
-    - :uuid: ae7e0da5-d01c-4d88-a9ea-e5ff819fb2f5
+    - :uuid: fbbc022b-846f-4892-ac50-7126d1a332e2
       :name: Space
       :segued: true
-    - :uuid: 58c514c7-d071-49e8-8dc8-c65876deb43c
+    - :uuid: 337d52cc-6517-4eaa-b60b-3b1dba838906
       :name: The Other One
       :segued: true
-    - :uuid: 7e937bc9-b70c-4596-af95-a1f851f93fc6
+    - :uuid: c1fd8caf-5699-43ae-af2b-45eddb507843
       :name: Comes A Time
       :segued: true
-    - :uuid: 3245d931-05b4-46bd-8d52-e2f43a9e6023
+    - :uuid: ba5a715c-190f-4d21-860c-ef3119583195
       :name: Sugar Magnolia
       :segued: false
 1986/05/04:
@@ -1648,414 +1730,432 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 31def807-c064-4b8c-840e-9cae67ca8494
+  - :uuid: 0aa6e5f5-70b5-4516-b66b-c59325cdbecc
     :songs:
-    - :uuid: 4b980804-d72b-4f9d-ab62-d8a7d82d0201
+    - :uuid: 1f39c23e-9e50-4a85-95d3-0a672e4cd432
       :name: One More Saturday Night
-      :segued: false
-    - :uuid: 5820d237-dc58-4dba-94a1-539428c85616
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: 9b4886d6-14b5-4123-9031-781b64eb69d9
+      :segued: true
+    - :uuid: 696d80b2-697c-4550-99a3-89561fb8dd99
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: a8d33180-a33f-46cb-8910-c81f619d4bd2
       :name: Little Red Rooster
       :segued: false
-    - :uuid: a3a18a54-f8fb-4206-9eb7-fd9afe25dbea
+    - :uuid: 73a418e6-5f00-4136-8623-a64434aa7cd8
       :name: Candyman
       :segued: false
-    - :uuid: dfd3ccd9-b6cd-4da9-8f19-67cb2485b79c
+    - :uuid: 6530cc1a-1b09-4140-9f74-e1a20113fee8
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: 883ccb99-47a8-4c60-b5ac-cb21c34064a6
+      :segued: true
+    - :uuid: 46a6dcab-e99e-4837-8568-0f7c095250ef
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 34cc02f6-be5f-4be7-9cc4-1196df9297a1
+    - :uuid: 00ec8f94-52af-4f48-9fd8-8d0b5e9c1f9f
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 5a2831cb-69cd-4b90-931c-766cb5b4f5e9
+      :segued: true
+    - :uuid: fb070d96-55ee-4219-8133-6944d44e14b2
       :name: I Know You Rider
       :segued: false
-  - :uuid: adf23723-c655-4fc5-905a-6f095a7a3df8
+  - :uuid: 4cb4490c-27c8-45be-805d-3bafc6310ac1
     :songs:
-    - :uuid: 4679157d-a4e0-4c44-a509-b27c1bc4f9e6
+    - :uuid: 57085f1f-fd4b-4d32-8423-b18c1cac8fe4
       :name: Gimme Some Lovin'
-      :segued: false
-    - :uuid: 548a54d8-c351-481b-bbd0-0355039d35b3
+      :segued: true
+    - :uuid: a505418d-7c03-4421-98d1-436be868e55b
       :name: Playing In The Band
-      :segued: false
-    - :uuid: f8e2528c-57a5-4a90-8871-4d4d5f76cb3f
+      :segued: true
+    - :uuid: 50e8b15c-5613-4e3a-bf4a-e496079b66a1
       :name: Drums
-      :segued: false
-    - :uuid: 0929677e-b837-448c-abce-78793798fef5
+      :segued: true
+    - :uuid: 5e9dcce8-8b17-4c36-b760-28b42f705ca7
+      :name: Space
+      :segued: true
+    - :uuid: bcb6d92a-7071-4103-a932-c674819b39f0
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: 90b23c71-4ead-4187-bc1b-7e8d9f964904
+      :segued: true
+    - :uuid: 8f7715d7-8bc0-4c89-9c78-44aaf55e414e
       :name: Playing In The Band
-      :segued: false
-    - :uuid: fda8076c-761e-4ef3-a7b6-a6c8a0f5d024
+      :segued: true
+    - :uuid: daec648e-cbc5-45cb-acf4-b630d8b0b5d8
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: aeaa7c82-f9ac-4d92-86ac-4eec44ff2ba2
+      :segued: true
+    - :uuid: fa519f7c-84a1-42e7-a806-42b6ea6a2ccb
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 6d3f4ca2-f7b9-4c77-ad6e-c5ed9d7de345
+      :segued: true
+    - :uuid: 8f44ce9c-2319-4523-8a6e-3a774e961cd5
       :name: Around And Around
-      :segued: false
-    - :uuid: 8a807cdb-4f85-415c-a223-e6cfac4da66c
+      :segued: true
+    - :uuid: 0be1f17d-eab3-4c44-8e40-01a0193e4f54
       :name: Good Lovin'
       :segued: false
-  - :uuid: f48943fb-c948-41a9-ad50-0c2535a89568
+  - :uuid: 021afa19-7d86-4f67-997f-968016e907e9
     :songs:
-    - :uuid: 613d89a2-510b-41fc-99e6-f703d1036887
+    - :uuid: 7f5b7b0d-5731-4f65-94b3-b04feef67fc4
       :name: Box Of Rain
       :segued: false
 1986/05/10:
   :uuid: 45b67d13-f72d-489d-9763-b5fc91f3a063
-  :venue: Frost Amphitheatre
+  :venue: Frost Amphitheatre, Stanford University
   :city: Palo Alto
   :state: CA
   :country: US
   :sets:
-  - :uuid: fce4aa9a-c9eb-4245-ba5f-4945ae435721
+  - :uuid: 70b10756-cb10-4d93-8048-650e8829564c
     :songs:
-    - :uuid: 86efa4b3-eeb5-4646-abd4-c58a312622d2
+    - :uuid: b0b43f09-6670-4ed2-8490-35e3cf64249f
       :name: Bertha
-      :segued: false
-    - :uuid: 0de41a5f-a9a8-4407-b1a5-aed2b9c7d173
+      :segued: true
+    - :uuid: 6bba3f8e-3003-4865-b292-8873d2764ac0
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 89ca56d3-a0fe-4faf-b95a-269b8a3778da
+    - :uuid: dfe0560a-7f47-438c-ae71-be2ce3f0191d
       :name: West L.A. Fadeaway
       :segued: false
-    - :uuid: 11de7c1b-e381-425f-a257-028e8bd0b28f
+    - :uuid: e10c7bd8-f3e8-467b-8116-eda7bba57078
       :name: Desolation Row
       :segued: false
-    - :uuid: 54baa490-4162-4901-9b73-c6e6edf053c9
+    - :uuid: cb212c4f-50a9-4764-9f9c-e49d35340506
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 462cf968-9353-478b-9dbc-a30f0d4667aa
-      :name: New Minglewood Blues
+    - :uuid: ce5a6d53-651a-4f37-aa7d-cdd278d24b7d
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 1d59da05-d207-4a0f-80f9-56649a4d6e75
+    - :uuid: 1f9be8dd-79b9-44c7-9e39-b0a068837114
       :name: Big Railroad Blues
       :segued: false
-    - :uuid: d5e4e069-36e2-4a41-a374-f9076eda9597
+    - :uuid: 59edaf22-b69b-44e7-8bd8-95aacf5ecee8
       :name: Let It Grow
       :segued: false
-  - :uuid: 67900bc4-d635-4dba-ada4-8341f867d394
+  - :uuid: 42f9ddb5-9ac0-4680-b35b-6c9110228982
     :songs:
-    - :uuid: 6e886d20-8f26-405e-ba40-4c8ae8b11823
+    - :uuid: cd23632e-f73d-4611-a169-fb91c0b28de1
       :name: Hell In A Bucket
-      :segued: false
-    - :uuid: 25621faf-11ba-49d9-bbc7-4302a58e529c
+      :segued: true
+    - :uuid: cc1b1bcf-b5dd-4821-990e-5b4c1646c27f
       :name: Sugaree
       :segued: false
-    - :uuid: e7e356d1-1b67-4206-8cf2-45cf2d7a88ae
+    - :uuid: 6f71fe05-8525-450a-9c85-b4c40c8793c2
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: 91cb379a-8f87-4386-9e50-186092c3c247
+      :segued: true
+    - :uuid: ec88de0f-82ea-49a9-8701-8da6cb4855b1
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 242b96f9-dde4-4342-b961-3bd933e04d33
+      :segued: true
+    - :uuid: 35ebd466-1180-464f-897d-9f68c1b1947f
       :name: Drums
-      :segued: false
-    - :uuid: 202081a8-0a23-4005-a437-7a7191f34e5f
+      :segued: true
+    - :uuid: 5e67b6e5-63f0-42ba-ae78-a883db5cad74
+      :name: Space
+      :segued: true
+    - :uuid: 4f6d30b8-df51-4660-9577-e8b266f1022b
       :name: The Wheel
-      :segued: false
-    - :uuid: 2166dee1-f2ca-4a7b-84f6-b77f403ac557
+      :segued: true
+    - :uuid: dc534947-1c31-45b2-9ff8-cd2a73712821
       :name: China Doll
-      :segued: false
-    - :uuid: f204b3f3-0bed-4214-9b25-bc8fa290deda
+      :segued: true
+    - :uuid: 6a2fa927-514c-4820-8d1d-bd83dec009b5
       :name: Throwing Stones
-      :segued: false
-    - :uuid: eddaabf9-6941-4989-96fd-b60f14501741
+      :segued: true
+    - :uuid: c3f36eac-d201-45a2-a2a6-faf859e9d932
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: f953934e-66fd-4bd9-b5a6-570eb1da3009
+  - :uuid: 4202b07f-548f-4df8-b2a2-da554ee937ca
     :songs:
-    - :uuid: 949bea39-9ba6-45d8-9b47-9f0fac565395
-      :name: The Mighty Quinn (Quinn The Eskimo)
+    - :uuid: c9f5bee1-4452-42e9-9043-9fbb6440f57e
+      :name: Quinn The Eskimo
       :segued: false
 1986/05/11:
   :uuid: c29001b6-ce5e-47f4-b80e-ae82586c3d8c
-  :venue: Frost Amphitheatre
+  :venue: Frost Amphitheatre, Stanford University
   :city: Palo Alto
   :state: CA
   :country: US
   :sets:
-  - :uuid: 0e23949e-ce6a-41df-b380-0b3ee401ed71
+  - :uuid: b9d460db-93e5-4e26-b724-8a863d070f9a
     :songs:
-    - :uuid: d624e227-5d33-4d30-8110-d56ff524e604
+    - :uuid: 12758f0e-c4a0-44cd-81dd-ed20a8066dd2
       :name: Gimme Some Lovin'
+      :segued: true
+    - :uuid: 1be28028-94cd-409f-8433-8e93ad866033
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: a6bcf758-6fc7-453b-b5bb-b484ca91ed8d
-      :name: Dancing In The Street
+    - :uuid: ed63aea7-79b8-475f-b7bd-54b862aebbee
+      :name: Good Time Blues
       :segued: false
-    - :uuid: 8abcebba-c05c-4907-a37a-b46c2dcef3c1
-      :name: Never Trust A Woman
-      :segued: false
-    - :uuid: cef7e819-e216-44ab-b6d6-7b2b2c48d94e
+    - :uuid: db7e808c-1ec9-4ef0-89f4-9ba3138fdcab
       :name: Iko Iko
       :segued: false
-    - :uuid: ca246988-8a1b-4e55-8310-85af337eb0e6
+    - :uuid: 97ee1ee9-b96b-4db6-85cf-394e8f3b0d5e
       :name: My Brother Esau
       :segued: false
-    - :uuid: c6d813db-d372-41d1-bc38-5eab0be43f47
+    - :uuid: a2cc5b4e-706c-409e-a971-31cb7a1234bf
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 7b0a473e-8251-4698-b5ff-e063085ced56
+    - :uuid: c8df6228-b2fb-48e8-92ab-42dde9bad911
       :name: Cassidy
-      :segued: false
-    - :uuid: f16984df-c102-4804-b4a5-f1a94734fc5d
+      :segued: true
+    - :uuid: cc1836af-bc8a-4738-aa4f-b7ad991eb12c
       :name: Might As Well
       :segued: false
-  - :uuid: b86c2724-05b3-4e71-b611-abc01d8a6fc3
+  - :uuid: 9c5cd93e-aac6-4793-9698-3be71bb6fb65
     :songs:
-    - :uuid: e9394610-2bd2-4bdf-b01e-30db501e708a
+    - :uuid: 26e4fde3-6952-4b88-a1ca-e68daa405fd3
       :name: Samson And Delilah
-      :segued: false
-    - :uuid: 4d153caf-4d43-415c-aac0-154693eb6ae2
+      :segued: true
+    - :uuid: 523bc3dc-1488-4252-9c2e-35fe996f0630
       :name: Crazy Fingers
-      :segued: false
-    - :uuid: 5ba876c6-dd1c-4498-ae65-1e50c42242fb
+      :segued: true
+    - :uuid: b2578e72-46b7-4e11-bbd9-a663797fddc4
       :name: He's Gone
-      :segued: false
-    - :uuid: 34fb3a0b-0512-4fda-b08e-a7dcfd3a48c5
-      :name: Smokestack Lightnin'
-      :segued: false
-    - :uuid: 0faf727b-0ea8-44d1-a7ef-a3e5ca29e35c
+      :segued: true
+    - :uuid: befe0010-88bc-4008-b79c-e92ba994c0d3
+      :name: Smokestack Lightning
+      :segued: true
+    - :uuid: 06521f1a-1ee2-4ca0-b66a-4090883d51d9
       :name: Drums
-      :segued: false
-    - :uuid: 5bdffd4e-bc2b-42e8-9540-6337b11553cc
+      :segued: true
+    - :uuid: 5114c8bb-d84a-4edf-98be-2d19d24714ec
+      :name: Space
+      :segued: true
+    - :uuid: 794967f0-d213-4958-b8bb-99af3ce10c78
       :name: The Other One
-      :segued: false
-    - :uuid: 433d27d5-deab-4c89-a83e-4af6450ea522
+      :segued: true
+    - :uuid: 7b63d6b1-f104-400b-bdca-4abe31307c2b
       :name: Comes A Time
-      :segued: false
-    - :uuid: 71ed96bb-7880-4b19-b87c-8f987a2704ca
+      :segued: true
+    - :uuid: d8451913-c7a4-45bf-a4a4-ce06e8789c3b
       :name: Around And Around
-      :segued: false
-    - :uuid: 84c73642-07fd-45d5-b2cd-b0e74151bfe5
+      :segued: true
+    - :uuid: 995fe4e8-04ce-4a43-aba3-dc722e11f32a
       :name: Not Fade Away
       :segued: false
-  - :uuid: da690a96-a6f2-4b03-9e95-6c64e1b4e850
+  - :uuid: 396a0669-789f-4111-8cec-551d937fc6bf
     :songs:
-    - :uuid: 103c813a-7f19-4c66-ab0d-00797d1eba16
+    - :uuid: 5822e2dd-3b55-443b-a539-2e5f3e698580
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: d371f963-d43a-40af-8ccf-8d00963e1d29
+      :segued: true
+    - :uuid: 142a7078-06f1-4003-b6df-92a9b7629e06
       :name: U.S. Blues
       :segued: false
 1986/06/20:
   :uuid: cfb06daf-d392-4f23-a598-779f3a58dc4a
-  :venue: Greek Theatre
+  :venue: William Randolph Hearst Greek Theatre, UC Berkeley
   :city: Berkeley
   :state: CA
   :country: US
   :sets:
-  - :uuid: 291ff798-1b62-4858-8302-0f2b1b4946aa
+  - :uuid: 44ce8ce0-aa62-4570-aa46-77907e33d0e8
     :songs:
-    - :uuid: e09a2517-eaff-404e-97d2-a43415896393
-      :name: In The Midnight Hour
+    - :uuid: e680504c-7a46-4e1c-b66a-785f2b10f3b9
+      :name: Midnight Hour
+      :segued: true
+    - :uuid: ce95d6b0-9d1c-436d-931a-1c0228ccd6ba
+      :name: Mississippi Half Step
       :segued: false
-    - :uuid: f1ebb2f3-7f2f-47ec-87b0-06b1942d04e0
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: d47696d5-91c7-4fc0-956a-ee3cda9a4214
+    - :uuid: a974b28b-c701-4f5d-ad49-bbce13c35b76
       :name: El Paso
-      :segued: false
-    - :uuid: f6cbf826-2323-4519-96f8-ba0dfb141ad9
+      :segued: true
+    - :uuid: c50f49d1-5614-4e21-ad8b-b9eda1abf69b
       :name: West L.A. Fadeaway
       :segued: false
-    - :uuid: d27adc13-a5d0-4ea3-9529-931158262982
+    - :uuid: 23d49ce3-1466-4fb0-bbdb-e22385670ea5
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: 0056bf1b-a1bf-492f-8c20-b10bd809c8e4
+      :segued: true
+    - :uuid: a000f5ff-653f-4678-8397-7b8601b5973a
       :name: Mexicali Blues
       :segued: false
-    - :uuid: c57f5446-6786-47e1-b324-13962704c556
+    - :uuid: 5d07c5ee-2c89-48e1-a52f-0decdb86db5b
       :name: Candyman
       :segued: false
-    - :uuid: 8221329d-0a84-4cbf-96b5-e9a9f6f52a77
+    - :uuid: 9f5f5e77-43e3-4057-8795-75842ab8d607
       :name: Let It Grow
       :segued: false
-  - :uuid: 02bc9aae-8690-47cc-a0e1-e119597d0ab3
+  - :uuid: 68030024-4369-4910-9ee3-85f941a6d263
     :songs:
-    - :uuid: 4bd0ec68-f5fd-4049-a60e-8c83089fb232
+    - :uuid: 6e4a6015-f6b2-4b1b-a4f6-19d48053eec3
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: c89a5f90-f5ed-4dd9-9034-7937d2d1b0fd
+      :segued: true
+    - :uuid: 4dc56f7d-ec39-460d-8d85-57c03971499d
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 442bcf40-158b-446c-8bcf-4b0f1ec001c6
+      :segued: true
+    - :uuid: 43c19a08-860e-4368-a115-acf705af32f5
       :name: Comes A Time
-      :segued: false
-    - :uuid: 334d0891-5339-4e51-a055-82e794809e41
+      :segued: true
+    - :uuid: e625b1d6-1379-4183-b33b-7a85ed374ce8
       :name: Drums
-      :segued: false
-    - :uuid: c67be49b-676f-4a3a-92fb-14a2f2ec4a7e
+      :segued: true
+    - :uuid: 90078ee8-e89d-48ba-82eb-34457ddb6bce
+      :name: Space
+      :segued: true
+    - :uuid: 60cd0d87-f3e5-44f2-b8db-c11366bec4c5
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: e61d6a90-9ee9-4e7a-9a63-de9b4eb7bbe2
+      :segued: true
+    - :uuid: bb157343-6eb9-40d6-a894-ee7b55ac51a2
       :name: Black Peter
-      :segued: false
-    - :uuid: 9b79e6b9-4ece-4186-aece-e738ff7c89f5
+      :segued: true
+    - :uuid: 73990680-6ba8-46a8-b6bc-bfd778717f5c
       :name: Around And Around
-      :segued: false
-    - :uuid: 70d57ef4-8d11-4ae9-a821-2460fcaad81d
+      :segued: true
+    - :uuid: b7bbc4cf-37df-4298-8058-1e93b0a7ce4a
       :name: Good Lovin'
       :segued: false
-  - :uuid: d2ba1007-260f-46d3-bf92-a4d2d6f7ffb3
+  - :uuid: c7f0d572-da66-4c15-a142-b4666e671dc7
     :songs:
-    - :uuid: e73427bc-7f8c-4eb5-a018-290387a28572
-      :name: The Mighty Quinn (Quinn The Eskimo)
+    - :uuid: 90171fed-470b-4cd7-a6c0-904b16220628
+      :name: Quinn The Eskimo
       :segued: false
 1986/06/21:
   :uuid: 442e3983-c533-40d3-b0d5-78f3eb0373ea
-  :venue: Greek Theatre
+  :venue: William Randolph Hearst Greek Theatre, UC Berkeley
   :city: Berkeley
   :state: CA
   :country: US
   :sets:
-  - :uuid: d389aa77-cba1-4ddd-973d-159f53acf32b
+  - :uuid: 8447271d-5bbf-49d8-9705-8ef37a85187e
     :songs:
-    - :uuid: 713fef36-3eb9-43ba-b36a-69b50b7ad21d
+    - :uuid: 1487ef3b-18f0-418d-9416-1aaa3a050e50
       :name: Alabama Getaway
+      :segued: true
+    - :uuid: 752a4b23-03e7-42f2-b145-48eab3c5e6bc
+      :name: Promised Land
       :segued: false
-    - :uuid: 531616ae-ea6c-4ba3-a31e-5a1e2c123ceb
-      :name: The Promised Land
-      :segued: false
-    - :uuid: fd6a30d9-6c23-4ce9-8f6d-84fd415a1cc9
+    - :uuid: 341a0744-8c0f-4838-b8ad-86160c1a33a9
       :name: Friend Of The Devil
       :segued: false
-    - :uuid: 83752998-af18-4e64-a535-28fba62019e3
+    - :uuid: 99132133-38fa-4287-b56b-fc33d62f7262
       :name: C.C. Rider
       :segued: false
-    - :uuid: 40d23194-09bf-4e27-8c00-d73e7939c347
+    - :uuid: 7c7ed88a-699a-4b74-9228-0f2520ccd7de
       :name: Loser
       :segued: false
-    - :uuid: 6a27c220-00ac-40dc-aa1d-77c32c4dc6e8
+    - :uuid: e86e4eb3-bf13-45ec-888d-9e870efbc954
       :name: Desolation Row
       :segued: false
-    - :uuid: b4477ebe-2c99-4834-beb1-e3a8bc920f27
+    - :uuid: 3572ddd5-9d6b-4da6-aa14-61f07fa1edb9
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 84e1a49d-244c-4089-8aba-896987958122
+      :segued: true
+    - :uuid: 0b265181-c435-4ffd-887a-01d769da9cfd
       :name: I Know You Rider
       :segued: false
-  - :uuid: 841752fe-865a-480f-aba2-e4ea903417e1
+  - :uuid: 69143899-dc62-4933-ae71-ba95f5c5085f
     :songs:
-    - :uuid: 53910429-2d21-4792-b0f9-2b1fc14c83e8
+    - :uuid: bb5f2776-ebea-43ec-9d0a-4cc5b0ac0712
       :name: Saint Of Circumstance
-      :segued: false
-    - :uuid: 2ba72564-d566-45d1-aa96-3f02756917bf
+      :segued: true
+    - :uuid: bd52f65b-731f-4c11-be73-f5f494b3e738
       :name: Gimme Some Lovin'
-      :segued: false
-    - :uuid: e9ca4e5f-93be-45f8-bfd9-b33a1da36b79
+      :segued: true
+    - :uuid: b4fe2f98-5669-4d21-8375-27f0c706b0b0
       :name: He's Gone
-      :segued: false
-    - :uuid: b9a6a218-7241-4fe5-9805-4c2782d764c3
-      :name: Smokestack Lightnin'
-      :segued: false
-    - :uuid: 3dc290b8-7d2a-4880-b248-23c62c7b67f1
+      :segued: true
+    - :uuid: 94fc8aa4-29d6-468f-950b-7c589684c60e
+      :name: Smokestack Lightning
+      :segued: true
+    - :uuid: ae47482b-91b5-400a-9727-86e019996441
       :name: Drums
-      :segued: false
-    - :uuid: f5eba1fa-2b7c-4b17-8a87-1eb7459848f7
+      :segued: true
+    - :uuid: 3148e167-f3e1-4868-bf95-3a6ffbd4c743
+      :name: Space
+      :segued: true
+    - :uuid: 7b186f28-fe89-4f1e-9ec7-3e8661a5b72a
       :name: The Other One
-      :segued: false
-    - :uuid: 18cffc65-c13b-46f1-9b39-65856fb0fdb8
+      :segued: true
+    - :uuid: 58e6e92c-e54a-4939-a4a9-12b67f4b7caa
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 3681e2ba-3cdd-4b3f-878f-e56a390d3183
+      :segued: true
+    - :uuid: ec2b8cb6-65cc-4069-bf77-65fa231e9444
       :name: Throwing Stones
-      :segued: false
-    - :uuid: 2c645b56-520b-4df3-8f24-426ccf91516d
+      :segued: true
+    - :uuid: 29aae0dc-3a98-49d6-bb81-b3e2d5f8ec57
       :name: Not Fade Away
       :segued: false
-  - :uuid: a75df94c-6780-4bb7-8e75-5e268ed36ead
+  - :uuid: 02b95b97-b415-4c18-b915-f0465c063665
     :songs:
-    - :uuid: 3f0629ae-bee7-4d2e-b16e-30a02c404155
+    - :uuid: 36ddf8dd-b884-4932-9641-49abb2ae7d2d
       :name: Not Fade Away
-      :segued: false
-    - :uuid: fbf1d1b7-cd3d-4a00-9979-afaeccf1ddb0
+      :segued: true
+    - :uuid: 0c847287-8735-48d4-b1a2-45ded07c3b33
       :name: Brokedown Palace
       :segued: false
 1986/06/22:
   :uuid: fa3ea4dd-b20d-4ebb-82a4-5e3941ce634a
-  :venue: Greek Theatre
+  :venue: William Randolph Hearst Greek Theatre, UC Berkeley
   :city: Berkeley
   :state: CA
   :country: US
   :sets:
-  - :uuid: 14b6b2d4-e0c4-4862-bcef-a2ebf291a115
+  - :uuid: f822e59f-230d-4fe8-a659-bef5da5de343
     :songs:
-    - :uuid: 6dc97993-0736-44b0-bc14-46ddd23794ee
+    - :uuid: 07e88f62-668f-47cd-ad2f-d3035718c8f1
       :name: Jack Straw
       :segued: false
-    - :uuid: 707e3460-066e-407e-8023-7d8cf50ea8c8
+    - :uuid: 75f86fb2-8afa-4af2-b487-25a3da590911
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 8c3a36e6-2f92-425f-8a21-3d0cbc4989bb
+    - :uuid: 8e944671-1dc3-4363-9d98-a982314828ab
       :name: Cassidy
       :segued: false
-    - :uuid: 40e92edd-43fa-439a-9739-9bdb78fcc3eb
+    - :uuid: 5658780a-861a-436f-882e-d13b2cf8a03b
       :name: Row Jimmy
       :segued: false
-    - :uuid: 3e40962a-c42e-4957-9e65-aa45f6f9c49f
-      :name: New Minglewood Blues
-      :segued: false
-    - :uuid: c857d051-23d8-4744-94b5-9bef8d598efe
+    - :uuid: 70ffafb8-6ae0-47b2-b3cc-c8e9b7ae5605
+      :name: Minglewood Blues
+      :segued: true
+    - :uuid: a0aedc71-d77a-443d-b39f-8500858a335e
       :name: Big Railroad Blues
       :segued: false
-    - :uuid: d4857db5-29f9-45e3-b906-aad87d8aaba9
+    - :uuid: f5d666ed-d189-4fae-8eba-3609039e6643
       :name: Mama Tried
-      :segued: false
-    - :uuid: 002e19cf-ee08-4314-8a47-d9cd0c1577cb
+      :segued: true
+    - :uuid: 75a1c198-968c-4a6f-bed2-5af013c5688e
       :name: Big River
       :segued: false
-    - :uuid: de92ad8f-13cc-4d25-b09b-1f0f67ac8e84
+    - :uuid: 066d3820-f678-48e0-a7d0-4ed473dac245
       :name: Stagger Lee
       :segued: false
-    - :uuid: efbc55af-d7a9-470c-969a-cea90f65d92f
+    - :uuid: f83bd21c-763e-4f51-bf77-dcbddbf1d254
       :name: Hell In A Bucket
-      :segued: false
-    - :uuid: 961d1b01-0268-4f85-b7eb-51d56b056e4f
+      :segued: true
+    - :uuid: 05461873-7867-4747-aec8-ff51a40f918c
       :name: Might As Well
       :segued: false
-  - :uuid: cf86dbd6-ea6f-4a6e-a52c-6bcde2879b12
+  - :uuid: 4e7a6d5d-44ab-46dc-a0fe-977783d623f9
     :songs:
-    - :uuid: c5b0cd3a-ac90-4995-a410-76b84e0c30af
+    - :uuid: 312f9e56-7c16-4ff5-9dfa-8bdba9351a50
       :name: Fire On The Mountain
-      :segued: false
-    - :uuid: 5175ba83-c29b-4e66-882c-d1f289e77023
+      :segued: true
+    - :uuid: 7b588660-663f-43db-82ed-ed2df09059a9
       :name: Samson And Delilah
       :segued: false
-    - :uuid: a95527a7-56a1-4e9b-83a2-0c93cab6ed66
+    - :uuid: 30912cec-456c-4403-9d27-163d78a325b7
       :name: Ship Of Fools
-      :segued: false
-    - :uuid: 8e529dd0-ca0f-49f1-be51-0593a7e854d8
+      :segued: true
+    - :uuid: b026a78d-c244-4080-b542-2cd667521872
       :name: Man Smart (Woman Smarter)
-      :segued: false
-    - :uuid: ba5e2b7c-aaab-4204-b5fc-f9f7f8227f99
+      :segued: true
+    - :uuid: 0b97d836-e538-4f0c-95c7-414666e2994f
       :name: Drums
-      :segued: false
-    - :uuid: 82c8f4e2-76f1-4931-a1e3-21874f0de5fe
+      :segued: true
+    - :uuid: d3f00d62-bd29-45e0-8070-dfa0d94dba9f
+      :name: Space
+      :segued: true
+    - :uuid: 3f6b1661-14e6-4202-aa2d-07245bc8a7de
       :name: Truckin'
-      :segued: false
-    - :uuid: 868cc245-e845-442b-9743-f5d8233d8098
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-    - :uuid: f24abb7a-cf41-43e8-8dac-5a87ac29bf27
+      :segued: true
+    - :uuid: 4ada627b-ef34-4079-b0e9-2f6c0a6eb6d6
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: 103c6848-1dee-454c-8487-f1cc1b604ba3
       :name: Stella Blue
-      :segued: false
-    - :uuid: 7e06ff2e-1a3c-4d60-aa88-efeda34e7ad2
+      :segued: true
+    - :uuid: c6932fe4-9d5b-4e22-a48f-3167262a88e4
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: e2f1fb99-1101-4deb-94b2-cb23621dec53
+  - :uuid: 75d4f9ce-a1cb-4aa6-8b9e-b1dcce04d3ef
     :songs:
-    - :uuid: b9b11bff-881c-4e6e-847e-38743edc6d8b
+    - :uuid: 3416f6ba-2e00-4e4d-aafb-a55e8fa498c7
       :name: U.S. Blues
       :segued: false
-    - :uuid: 0ebbcbab-5fda-422b-9418-167be2130287
+    - :uuid: aa99ffd5-f2f3-47e0-bd32-267a9954720f
       :name: Box Of Rain
       :segued: false
 1986/06/26:
@@ -2065,61 +2165,62 @@
   :state: MN
   :country: US
   :sets:
-  - :uuid: b723f1cb-00ee-41c3-9d4e-2e0ea1868465
+  - :uuid: 24256d6c-542d-4645-adcd-af2e9df302a0
     :songs:
-    - :uuid: 30cef33c-796a-4513-bb9e-d3bfea48e92d
+    - :uuid: 21bb13cd-8883-497d-9de5-a583c58f2cc3
       :name: Gimme Some Lovin'
-      :segued: false
-    - :uuid: bd684c32-ad91-45e3-8115-54dab30c4676
+      :segued: true
+    - :uuid: aeecb484-6705-4bd1-a817-5db84d810f63
       :name: Sugaree
-      :segued: false
-    - :uuid: 6b7f1991-ef06-45f8-a652-5b3f5e380d9c
+      :segued: true
+    - :uuid: 50cd0a0e-affa-4115-b868-96e0e0547fa2
       :name: Little Red Rooster
       :segued: false
-    - :uuid: 1c7cde5e-a77b-41ba-8a6e-cf362e7e2464
+    - :uuid: ae65c5a6-44b0-449c-824c-22363e559fed
       :name: Iko Iko
       :segued: false
-    - :uuid: 58d3e14f-fb4a-4814-a7cf-d2bb81a3a3a0
+    - :uuid: 15cdb5ac-97b9-4a23-a56f-6986e7c948f8
       :name: My Brother Esau
       :segued: false
-    - :uuid: 717ce33c-71c9-49e7-9ca0-88d9563ad6a6
+    - :uuid: 93503c09-3fa1-4ab5-a9ea-eb91cd7fb471
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 9df6b5b3-5618-45f1-9f17-744ee13a05e7
+    - :uuid: e3ad8a6f-6bf3-4fa1-90a1-c4cb750ea756
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: c4fd0e1a-a39c-4369-ac30-3c3501a8df89
+      :segued: true
+    - :uuid: 4e6c7d2b-971b-4ef1-b719-75352f0161fa
       :name: Mexicali Blues
       :segued: false
-  - :uuid: 2c35397b-36d4-4011-8d0a-9f03fecbbac1
-    :songs:
-    - :uuid: 494ecb9d-329c-43e1-8c2f-2be023a8722a
+    - :uuid: 7d37f919-a40b-418a-9929-3f60d603780e
       :name: Terrapin Station
-      :segued: false
-    - :uuid: d5502612-7dab-495b-83e3-2c309bc944d6
+      :segued: true
+    - :uuid: 74afa14d-62fb-4893-8070-d17edf4f7ea3
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: 1c45784a-d5f3-4f56-adbc-8e633bb12282
+      :segued: true
+    - :uuid: 5697ee49-f4d7-451f-bdaf-41f8a9f021ae
       :name: Drums
-      :segued: false
-    - :uuid: 0a4c3ff1-a954-4b77-ba56-f7fca3bd9be5
+      :segued: true
+    - :uuid: 32c6dcec-807c-4e2f-8113-02ea6e7f84b1
+      :name: Space
+      :segued: true
+    - :uuid: 3640942b-35ee-4088-a977-310a88fd7e7e
       :name: The Wheel
-      :segued: false
-    - :uuid: bbea3e5a-2461-48a9-8f33-d14a83df4fcb
+      :segued: true
+    - :uuid: 8fae96a8-cf63-49aa-a888-f9b18f23e889
       :name: Truckin'
-      :segued: false
-    - :uuid: 631dc9b4-47bc-4465-8144-42c2c84b5d19
+      :segued: true
+    - :uuid: 23f3cb4d-9f0c-4dc6-aaa0-c0ad5ab8e89f
       :name: Black Peter
-      :segued: false
-    - :uuid: db59a2e8-307b-4c2c-89d5-fba0a735161b
+      :segued: true
+    - :uuid: dbc1428e-3512-428a-b1f0-13964945c68d
       :name: Around And Around
-      :segued: false
-    - :uuid: 0645e010-1c59-43ac-baac-f78d93baf2da
+      :segued: true
+    - :uuid: 518685f0-3c01-46f7-8f82-83ada127ddbf
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 9e51d79a-e3d4-4f6f-a2d1-f0515caa51a3
+  - :uuid: a803fe23-b5a3-4dcc-acc9-c46025dcef2e
     :songs:
-    - :uuid: 1c48ef97-4d38-4e6b-a189-7f04f874bc25
+    - :uuid: 94c490d3-8e36-445e-b5a7-be096e2e23d6
       :name: Brokedown Palace
       :segued: false
 1986/06/28:
@@ -2129,59 +2230,68 @@
   :state: WI
   :country: US
   :sets:
-  - :uuid: bc01fc1a-59e2-4b20-81ae-a781306d17e7
+  - :uuid: b2c40c08-dc71-431f-ac5d-a876605a7e7d
     :songs:
-    - :uuid: 4d4b11dc-832e-4012-aec1-9e9d351e8a7d
+    - :uuid: 4f4626c2-68c6-49f5-815c-17f337b11b9c
       :name: Hell In A Bucket
       :segued: false
-    - :uuid: 940fa842-d26e-44fc-b0d8-3be92f210acb
+    - :uuid: 4728f2cf-7932-4f3f-b7bf-8e6a86fd50fe
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 9a757472-d3f6-4a88-ae10-c28eb54fb41c
+    - :uuid: d34c4ab9-9a76-4c52-9abf-10d1135612fd
       :name: C.C. Rider
       :segued: false
-    - :uuid: 916e0d30-5308-4759-ae4b-760b3ad9bc4a
+    - :uuid: 09b447d3-d779-4a63-bdad-b4f5e954c414
       :name: Row Jimmy
       :segued: false
-    - :uuid: f34e53db-6a81-47bc-b79c-2f72b6156247
+    - :uuid: 7ffe3c2b-db09-4034-8d85-c3f13ac28e24
       :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: 88c9f193-df93-4945-9da4-9ec25ff72498
+      :segued: true
+    - :uuid: 9bc69c20-93ac-4517-a9ee-478830fb110a
       :name: Touch Of Grey
-      :segued: false
-    - :uuid: 1a872d01-a0b1-4eee-9669-d5c5f11e1a28
+      :segued: true
+    - :uuid: 4a7b8829-94a9-44b0-b7fa-e468f1e8a5cb
       :name: Looks Like Rain
       :segued: false
-    - :uuid: 9c8d050f-7218-4164-936c-17ae8cad441c
+    - :uuid: 4a8a853f-d6e9-4512-8ec7-ae6b3745dba1
       :name: Don't Ease Me In
       :segued: false
-  - :uuid: e9ce50e7-b7a1-4bd8-a711-4bfa0571f302
+  - :uuid: 03ca0cd2-f56a-4fcf-af12-e8a9064c175b
     :songs:
-    - :uuid: 12d3c30a-25af-45cf-b112-1637169f0613
+    - :uuid: 05e14233-583f-4361-8385-65903dfa36bd
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 879c06e8-c401-4481-9c74-a1db53864b8b
+      :segued: true
+    - :uuid: 55a9156f-909f-40a5-853a-547a4c1e2110
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: df250984-6286-4ce8-906b-f8d28706b67d
+      :segued: true
+    - :uuid: b43b66bf-c25d-4643-924c-3b9867c8afbf
+      :name: Jam
+      :segued: true
+    - :uuid: 478c5f93-5595-4ffd-9cab-d870cc90f214
       :name: Drums
-      :segued: false
-    - :uuid: e3b02b75-44ee-49e6-bbb3-7ff5baa8b896
+      :segued: true
+    - :uuid: cc8d2b13-c8d7-45b7-95df-443065234794
+      :name: Space
+      :segued: true
+    - :uuid: 8043ccfb-a417-4899-9b6f-2ef54a262260
       :name: China Doll
-      :segued: false
-    - :uuid: fd2ce5f8-ef7f-4df1-be18-5b9c70a02c5d
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-    - :uuid: 31fd877a-c279-4031-962c-ce4a3e1dde4e
+      :segued: true
+    - :uuid: 44828b1d-750f-4363-b19e-f5423d212266
+      :name: Playing In The Band
+      :segued: true
+    - :uuid: 9d3906dd-fcfc-40ac-a13d-5736104877fb
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: ca439eec-45ae-4cc9-8fa3-cc1ceb5d4e87
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: 5a9c73f4-6ca2-4ed6-8e33-14c8e1efecd6
+  - :uuid: 13ce6640-86f3-47cd-8695-c1529dfca311
     :songs:
-    - :uuid: 4269283b-8dc8-4a98-b312-8bc8ea6d5b65
+    - :uuid: fa5a54d4-0d7c-4475-b728-615f3b40b679
       :name: One More Saturday Night
-      :segued: false
-    - :uuid: def093d2-a903-4cde-8361-b4af6151e204
-      :name: It's All Over Now, Baby Blue
+      :segued: true
+    - :uuid: 86541b34-476c-43df-af3e-fd691bc12872
+      :name: It's All Over Now Baby Blue
       :segued: false
 1986/06/29:
   :uuid: 0150e8c4-0beb-4d34-bcbd-a259a2a3747f
@@ -2190,612 +2300,633 @@
   :state: WI
   :country: US
   :sets:
-  - :uuid: b4b0b716-2f97-4f1a-bd2a-f94fab9a6398
+  - :uuid: 98d88666-9a5e-4a4c-ae50-f4f9dba19405
     :songs:
-    - :uuid: bb94d264-9417-4862-9b7d-d0d697b9498c
-      :name: Mississippi Half Step Uptown Toodeloo
-      :segued: false
-    - :uuid: 69743e58-eb65-43aa-afca-18c017b8218d
+    - :uuid: d0f0d361-d165-4ccc-8301-f74a284f2c56
+      :name: Mississippi Half Step
+      :segued: true
+    - :uuid: 2cd77036-c656-46ee-8f24-a30bbcbeb55d
       :name: Franklin's Tower
+      :segued: true
+    - :uuid: 65ac9ad2-6171-425e-9101-09801e69d5d7
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: f2f4db36-280f-4983-8803-8b5362a85189
-      :name: Dancing In The Street
-      :segued: false
-    - :uuid: 74401a00-a899-4fd8-a6b5-653a5f651402
+    - :uuid: de8ae22a-1810-4399-979d-1a5dfd0ae5fe
       :name: Brown Eyed Women
       :segued: false
-    - :uuid: 57609ed7-76bf-4e12-934c-504c1e1a5012
-      :name: New Minglewood Blues
+    - :uuid: 820c04c4-25b3-4a11-89aa-c772cef5ae7c
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 5f413047-57a6-4a0e-9eda-c6a079728225
+    - :uuid: b6fb34be-df63-47a1-9156-1e18794f8991
       :name: Just Like Tom Thumb's Blues
       :segued: false
-    - :uuid: df8c34bf-f9b5-410e-8445-841f75e4b46b
+    - :uuid: 87e55319-1d6f-46b0-8747-77e5146209c3
       :name: Stagger Lee
       :segued: false
-    - :uuid: 3865c8aa-a43c-4d58-a686-146c32b7a272
+    - :uuid: 65d192a5-e03c-4974-83d4-36c874330252
       :name: Samson And Delilah
       :segued: false
-  - :uuid: f98cdfcb-4a2e-4897-8ad3-649ec13bd40f
+  - :uuid: 7f605080-dcd4-4928-ae07-b2d887abed25
     :songs:
-    - :uuid: 40b53e3e-acff-4d7a-b201-1c6b26f58510
+    - :uuid: 96e9e9b1-acc2-419e-a9bc-abb2382bb0a7
       :name: Shakedown Street
       :segued: false
-    - :uuid: b1697774-b14b-4e5d-b813-f5fb122637aa
+    - :uuid: 5987b50d-1b3d-4deb-ab4e-45310321e296
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: 21ee4831-b9fb-432c-aa69-1f678eac7c7f
+      :segued: true
+    - :uuid: 927ebdd1-bc29-4deb-80a9-9b9906babf4f
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 96e95d34-75a9-4595-832b-dd899a0cd136
+      :segued: true
+    - :uuid: e65ab56b-1a98-4563-aa7d-c5e56c118f05
       :name: Drums
-      :segued: false
-    - :uuid: f2ce6141-a36b-4e31-9b76-da8b91d8d12d
+      :segued: true
+    - :uuid: 4655ad9a-f4b5-4af7-87af-d13230835f6e
+      :name: Space
+      :segued: true
+    - :uuid: b192ff7d-3079-4e65-91a5-3e57fe7826ec
       :name: The Other One
-      :segued: false
-    - :uuid: 458419e4-42d0-44ce-bf10-059ac0d582fe
+      :segued: true
+    - :uuid: 0cc08d86-c164-4093-97f2-9f11c6a05ff4
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 7d3cc4a0-90d9-46e7-b975-0e2433d57e35
+      :segued: true
+    - :uuid: 2cf12f21-a746-4036-946e-326659b56a40
       :name: Throwing Stones
-      :segued: false
-    - :uuid: a32a5514-4ca4-46f9-8f62-e3ff6c893bad
+      :segued: true
+    - :uuid: f620793c-e017-4715-ae85-9a34d6ae0c5c
       :name: Not Fade Away
       :segued: false
-  - :uuid: 3afd19ce-9edf-49b0-ad18-eb7eac502038
+  - :uuid: 8c5fdfa6-ecf0-4770-98ac-110053738c02
     :songs:
-    - :uuid: 33d65268-3cfe-4574-90a9-d16f69b175cc
+    - :uuid: 726c30c2-286d-4184-a72f-b638418f39d4
       :name: Not Fade Away
-      :segued: false
-    - :uuid: 94112f86-3258-4c3c-9ca8-8be88b753922
+      :segued: true
+    - :uuid: 3db34d78-5e08-4fba-a915-767a6aef2b64
       :name: U.S. Blues
       :segued: false
 1986/06/30:
   :uuid: b4c998f2-1c4c-457a-a747-ae0aa372c1ca
-  :venue: River Bend Music Center
+  :venue: Riverbend Music Center
   :city: Cincinnati
   :state: OH
   :country: US
   :sets:
-  - :uuid: 2f75f4ad-7419-4b99-9c49-217c115775af
+  - :uuid: d3ac6328-c5bd-4e00-b746-d814f01b967f
     :songs:
-    - :uuid: 5a2efc31-daf0-48b0-9acf-2c57944fd069
+    - :uuid: 944597c0-4f8d-47ed-96df-f10068dab51f
       :name: Feel Like A Stranger
       :segued: false
-    - :uuid: f5baca03-253c-42d4-803b-48244e8084be
+    - :uuid: fcb85df0-4ac7-4028-ab97-3e24d54a512c
       :name: Friend Of The Devil
       :segued: false
-    - :uuid: db3f7f6c-99d2-4d74-bae9-64589503733d
+    - :uuid: f390e8c5-c3d6-4ea1-a50c-747a68fbbb8b
       :name: Mama Tried
-      :segued: false
-    - :uuid: 135d9227-bdbd-4c11-a358-e12420af1435
+      :segued: true
+    - :uuid: 386f8ad3-17a1-49b9-b60b-9557a5ca33e4
       :name: Big River
       :segued: false
-    - :uuid: 3328df8d-46fd-49ee-849c-c9650fd01fb3
+    - :uuid: 3a731ac5-9ab5-4c98-86a7-49750b61993d
       :name: Loser
       :segued: false
-    - :uuid: 7b40f3ce-513f-48a9-a9b3-e4626972c9f2
+    - :uuid: d2509e88-157f-4f56-ba61-86486a1b9f3e
       :name: Cassidy
       :segued: false
-    - :uuid: 516c0bbb-b377-4892-ad09-2638559192e7
+    - :uuid: 850f649a-be00-4294-9599-5b812536251d
       :name: West L.A. Fadeaway
       :segued: false
-    - :uuid: 02cef199-8aa7-4ee1-b111-801095e32085
+    - :uuid: 009969af-5b1a-46d8-870b-d7e305406ba5
       :name: Let It Grow
       :segued: false
-  - :uuid: 399f9523-305d-4d99-aef8-31146713e52a
+  - :uuid: 1a14268c-6f0a-4913-b9c1-e2f3d16bc644
     :songs:
-    - :uuid: a1d07b20-db1e-42cd-b1de-224808a7151e
+    - :uuid: f8b70771-115d-4e00-9e47-ebaed3764182
       :name: Bertha
-      :segued: false
-    - :uuid: 9f357879-31e9-4598-875a-22dba85ab4dc
+      :segued: true
+    - :uuid: 53b2cfa6-f4b8-4b13-9bed-e1b4e30179c9
       :name: Man Smart (Woman Smarter)
       :segued: false
-    - :uuid: d644eaee-c53c-4087-8e31-0afd37f81166
+    - :uuid: 9b6d757e-61da-4eba-8555-1e63077ea096
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 426e4854-a0e7-4107-baf1-ea1bf41c165c
-      :name: Smokestack Lightnin'
-      :segued: false
-    - :uuid: cef5a34a-6e75-45cb-ba7e-c77bb3acb7f3
+    - :uuid: 906977d9-50a5-43f0-9efb-f4fc6d3eb248
+      :name: Smokestack Lightning
+      :segued: true
+    - :uuid: 31b44e8f-124e-464f-bd47-79a5898b80ac
       :name: He's Gone
-      :segued: false
-    - :uuid: d6736166-c560-4f25-b217-8877156fbe71
+      :segued: true
+    - :uuid: 50d1a4df-1a50-4d46-9ef0-21b3e3a102ed
       :name: Drums
-      :segued: false
-    - :uuid: 91581dec-d7a5-4fbd-8ae1-71379e2287bd
+      :segued: true
+    - :uuid: a660af78-e870-437d-a689-d951bc99b5f5
+      :name: Space
+      :segued: true
+    - :uuid: 5c11a05d-3bf6-4468-b06d-34c3dc56a04c
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: b388b35b-fbc6-4649-a68e-693d5a54530b
+      :segued: true
+    - :uuid: 73389f88-1a36-424b-ab6c-33a2d84c0df9
       :name: Stella Blue
-      :segued: false
-    - :uuid: a9fd7dca-3cc4-4bb6-94f7-66f539faa4d3
+      :segued: true
+    - :uuid: 0b9807a7-c992-4940-aea2-827e6f662552
       :name: Good Lovin'
       :segued: false
-  - :uuid: 3f1f004b-04f6-4581-b781-bb36029de385
+  - :uuid: a5ff29b9-8bb8-4537-ad21-757f8d1d017a
     :songs:
-    - :uuid: 9bbd39a1-38ba-4948-82e1-59782ae025c3
-      :name: The Mighty Quinn (Quinn The Eskimo)
+    - :uuid: a654689a-082f-4f04-a2e8-d04deb5798cc
+      :name: Quinn The Eskimo
       :segued: false
 1986/07/02:
   :uuid: 74f1a7b7-8a52-42ea-84ce-d4761e0e2ac9
-  :venue: The Rubber Bowl
+  :venue: Rubber Bowl, University of Akron
   :city: Akron
   :state: OH
   :country: US
   :sets:
-  - :uuid: 7fc6255e-09b3-45d8-8fd2-4c7cdfd647ba
+  - :uuid: 551c625e-5f6e-49c5-8b9e-42b6041b1a05
     :songs:
-    - :uuid: 24b97aed-91ba-48ed-881b-a1b7baca780b
+    - :uuid: 7171fcf8-3a11-45a1-a824-4dfe6b47c78b
       :name: Alabama Getaway
-      :segued: false
-    - :uuid: a32d4717-8f21-453e-9a3f-56018ec00838
+      :segued: true
+    - :uuid: 0898335d-6d69-4628-b261-e754cc35c943
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: ee690689-2b82-47e0-b7ed-69e48dbfa9bc
+    - :uuid: 3901a3d8-9e62-45c3-a8f0-b9a316df9cf9
       :name: They Love Each Other
       :segued: false
-    - :uuid: e382b517-beca-49dd-92f5-aa92be76a189
+    - :uuid: 55492abe-9b01-4d01-a44d-093db8d1e9d7
       :name: Little Red Rooster
       :segued: false
-    - :uuid: 7167a8c2-22f1-4199-a483-43040341bc39
-      :name: Don't Think Twice, It's Alright
+    - :uuid: 4bfacf03-263a-45be-8feb-f91dcb85011a
+      :name: Don't Think Twice It's Alright
       :segued: false
-    - :uuid: 9e69df7c-17ac-46dd-823d-6e59815de1b5
-      :name: It's All Over Now, Baby Blue
+    - :uuid: dd81226d-64cd-404b-a8b5-b433ba8edaac
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: c9649e68-e479-433b-9828-328fffe8adbb
+    - :uuid: 01a70ea9-edcb-4015-9a5d-b2616b43108b
       :name: Candyman
       :segued: false
-    - :uuid: 94672c37-2fa6-47a1-bdc9-74622a340d8b
+    - :uuid: 0ac4b36f-5ac4-4af3-815f-35a3142d1c9f
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: f44fa232-4937-4625-a051-9c29526d0368
+      :segued: true
+    - :uuid: c1b33326-4f30-45cb-9885-b03e5a770f59
       :name: Mexicali Blues
-      :segued: false
-    - :uuid: cbde6c57-4850-4f48-bee9-808f50f18d12
+      :segued: true
+    - :uuid: 1ee61d67-88d4-4bb7-9301-f4184e6603a6
       :name: Don't Ease Me In
       :segued: false
-  - :uuid: 6b1f0143-913d-4b4f-bcc8-73e8c7a72555
+  - :uuid: 41c0999c-ce28-4878-910d-79a66694c097
     :songs:
-    - :uuid: d2ed48fb-05ed-438d-a81b-32b9ef688dd4
+    - :uuid: 682373f2-24bd-43f8-89d5-df0f4a1a5790
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 7d873681-0138-43ee-862e-36950e79c8fe
+      :segued: true
+    - :uuid: 7f7ac89e-1980-4ed8-8147-01c324ce738f
       :name: I Know You Rider
       :segued: false
-    - :uuid: e521f127-6dcf-4918-a947-369b844d6c45
+    - :uuid: 35aab595-33bf-49d7-8a27-efe568398eb7
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 2ab7d8af-1c29-4d8a-9286-873b0949932f
+      :segued: true
+    - :uuid: 34bff850-6a09-4d41-92d7-5d8490cbc13e
       :name: Desolation Row
-      :segued: false
-    - :uuid: eacea516-0c06-4018-a3c3-68112c41d065
+      :segued: true
+    - :uuid: 9fe165b5-4fa0-437d-9a01-d6f826be9d12
       :name: Drums
-      :segued: false
-    - :uuid: d55481aa-d7e4-4c57-a03b-077422902ebd
+      :segued: true
+    - :uuid: 6ca71ec3-9ef7-499e-baf6-ad14d25d67a0
+      :name: Space
+      :segued: true
+    - :uuid: 8c1c3249-9c9b-48fe-af6e-7f6896b61b0a
       :name: Truckin'
-      :segued: false
-    - :uuid: 3bfba8c1-30e8-4505-becf-5b02a6524672
+      :segued: true
+    - :uuid: 4d2439dc-aaf2-4f61-bb09-cd8e5169928c
       :name: Black Peter
-      :segued: false
-    - :uuid: 43eb603c-84fa-471d-b84b-9541f0361bb8
+      :segued: true
+    - :uuid: 2cbac61b-8da7-4df1-b968-26629767ffad
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 0ca05e13-8b4d-490d-8eac-2d4adf6a2ffa
+  - :uuid: a8e89ee9-86df-4285-8bc7-a6fa927c9560
     :songs:
-    - :uuid: c4512786-5f55-4127-b93a-d8ec729e981e
+    - :uuid: dbc34db3-ee49-46ae-b63d-3007bd137e31
       :name: Box Of Rain
       :segued: false
 1986/07/04:
   :uuid: 1efb26f7-8684-495c-b792-72302fb5b318
   :venue: Rich Stadium
-  :city: Orchard Park
+  :city: Buffalo
   :state: NY
   :country: US
   :sets:
-  - :uuid: 31839c5d-4ea4-4781-b0a1-9fa8cf33b37c
+  - :uuid: 73915c10-9f54-4af2-88c4-fad10c9c558b
     :songs:
-    - :uuid: 354acc43-48f2-4139-9366-83bf9835663b
+    - :uuid: f273f5dd-bf79-4d74-8e06-c700a8ce945c
       :name: Jack Straw
       :segued: false
-    - :uuid: f7c5db7e-917e-4c00-b371-f327f907ca38
+    - :uuid: 2bf994e5-3065-442f-9ad1-78080d14538a
       :name: Dupree's Diamond Blues
       :segued: false
-    - :uuid: b1dec4cd-6f3f-4eb7-aaea-ddc01db41810
+    - :uuid: 70466c43-f595-4c06-bd4c-6c1e1c48d150
       :name: C.C. Rider
       :segued: false
-    - :uuid: 1416bfa7-079b-447f-9c18-6d5e7815d157
+    - :uuid: 7e585c67-76c0-490c-be13-56c553a69abd
       :name: Tennessee Jed
       :segued: false
-    - :uuid: 404f0412-df6b-4228-9a54-74cc9b8a093c
+    - :uuid: 43e219b9-0605-4de3-99f7-2f861b6e7a5f
       :name: My Brother Esau
       :segued: false
-    - :uuid: b8423b8a-e408-495d-929a-5a9b29139091
+    - :uuid: b7c22745-2eb5-4190-a168-6661fed31674
       :name: Touch Of Grey
       :segued: false
-  - :uuid: 6b5d9b3d-11e9-45b9-a844-63ab4ed4a962
+  - :uuid: 5508cb99-5770-4893-a9e9-ff39c568072c
     :songs:
-    - :uuid: 539000ea-5d2a-4616-b6ef-54e05b42a75c
+    - :uuid: d8152a7d-4e9c-4fbc-92c7-ac8a5859bd9f
       :name: Cold Rain And Snow
-      :segued: false
-    - :uuid: 8b264021-87eb-48fe-9f96-f33a248cd2a8
+      :segued: true
+    - :uuid: 6c34b754-ee5f-414d-8a7a-4907a41176d3
       :name: Fire On The Mountain
-      :segued: false
-    - :uuid: 39bc6b17-b834-4835-bad5-a309123989cd
+      :segued: true
+    - :uuid: 00fd34f0-0821-442f-a708-88cd27433adb
       :name: Samson And Delilah
-      :segued: false
-    - :uuid: 7c9a9131-9903-4605-a966-8dbf9697295e
+      :segued: true
+    - :uuid: 27ee6de9-2ed4-4c9f-8ab2-6e3dd4ccc02f
       :name: The Wheel
-      :segued: false
-    - :uuid: f9321099-2f5c-430b-abb7-021690d99750
+      :segued: true
+    - :uuid: bc2834c3-9fc1-40bd-92c4-ee3940c51fc9
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: febfe661-d4a5-4c6c-b15c-a247d2332c9c
+      :segued: true
+    - :uuid: 1484d2d4-ccd2-4b13-9e9f-a73dce5de775
       :name: Uncle John's Band
-      :segued: false
-    - :uuid: fe479073-c83e-4bf3-93ac-f2b6da4e253a
+      :segued: true
+    - :uuid: 00f61109-ccaa-4510-a2ed-0693b2ef00a0
       :name: Drums
-      :segued: false
-    - :uuid: b8e26e9b-70df-4385-97d0-e7a5ca743e1c
+      :segued: true
+    - :uuid: 4103c5a7-6fdf-4a5d-9f08-10e883a15bea
+      :name: Space
+      :segued: true
+    - :uuid: bc8614c9-4490-427e-a1a5-c491dc2586da
       :name: Gimme Some Lovin'
-      :segued: false
-    - :uuid: b07a3d46-50fc-4a34-a087-760ca75ca491
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-    - :uuid: bf4759dd-c59c-44a3-86fc-2f3cf93a3543
+      :segued: true
+    - :uuid: 4d49da36-6e5c-4711-bc10-51c96b8c0d04
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: e3aa2eb9-3842-400c-9ed6-1541611089f6
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: 78d70ddd-4c6b-4ee3-8d67-53a5a261baa2
+  - :uuid: 2dc80ccb-4de7-4ee6-a6ca-a20756e95cdf
     :songs:
-    - :uuid: a00d0757-0fb8-4b17-9859-a39520d478fe
+    - :uuid: 9419e5e9-337e-4098-bd23-479cab93af59
       :name: U.S. Blues
       :segued: false
 1986/07/06:
   :uuid: 13f36215-7ded-4aab-b252-c5d3028ff677
   :venue: Robert F. Kennedy Stadium
-  :city: Washington, D.C.
+  :city: Washington
   :state: DC
   :country: US
   :sets:
-  - :uuid: bad8a660-9615-4e36-9e5b-bce600fc17b8
+  - :uuid: 84733c3b-5521-403b-ac06-8b7ae7d1c4c2
     :songs:
-    - :uuid: 2cea9308-7e7b-46d1-b189-89e4a0e24d42
+    - :uuid: bd39fa7f-b3fd-4567-a1f0-c9eef31e40ad
       :name: Hell In A Bucket
-      :segued: false
-    - :uuid: 50a19b36-83e8-4520-8c7c-76a78588cdd0
+      :segued: true
+    - :uuid: 3e31a9fe-ed56-499c-9bb4-3e4164f29b62
       :name: Sugaree
       :segued: false
-    - :uuid: 0f9fa452-31de-413e-bb93-039498d942ce
+    - :uuid: f61a72c1-3190-4ffd-8738-adae65a39d82
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: 58972348-1f08-409c-97ff-3f794ac20f93
+      :segued: true
+    - :uuid: 5811ed90-c68b-44da-b962-1ea615f16810
       :name: Big River
       :segued: false
-    - :uuid: a090a211-f765-454a-abea-92e885eda555
+    - :uuid: c6837326-7ea2-45cb-8928-a1e5cd55b7ed
       :name: Row Jimmy
       :segued: false
-    - :uuid: 7d666faa-9de2-442e-8bb5-d2cb3804fe10
+    - :uuid: 64685216-6d78-4a26-b692-ede1372a19bb
       :name: Cassidy
       :segued: false
-    - :uuid: 21f1892f-729f-4962-994c-2618606fb07b
+    - :uuid: 2ac384d8-9b13-408c-9cf3-df74aa46eb18
       :name: Althea
       :segued: false
-    - :uuid: f04f978e-cd1e-4be8-b655-09a5a84ed797
+    - :uuid: 910faac4-0b50-48f9-b5b9-fd75ef881657
       :name: Let It Grow
       :segued: false
-  - :uuid: 50769a13-8ab1-4a1f-a402-cd5268b2efa3
+  - :uuid: f414b8bb-3a99-4219-926d-38026d92ee60
     :songs:
-    - :uuid: ea9c1915-d28c-44e3-a05b-6730174f02b4
+    - :uuid: 392da4c1-add8-43ae-887f-ad23df4878a3
       :name: Saint Of Circumstance
-      :segued: false
-    - :uuid: 8da59338-9e12-4a1d-ab5e-6e41a3b56e74
+      :segued: true
+    - :uuid: b4862de2-730a-430e-a7ae-e88df11d439a
       :name: Iko Iko
       :segued: false
-    - :uuid: 5470a565-02b9-4192-9d1b-95cbee11d510
+    - :uuid: ad29d900-b109-4557-a50e-10c9d61c0bb3
       :name: Looks Like Rain
-      :segued: false
-    - :uuid: 61b2ad63-79cf-4381-bfc3-d3be49544d15
+      :segued: true
+    - :uuid: 3a8d88cc-1393-4601-976d-ec6ab0d16620
       :name: He's Gone
-      :segued: false
-    - :uuid: a23b5e5b-5cb2-4bb8-8e94-550ce1f23cde
+      :segued: true
+    - :uuid: 82d9ac7b-7009-43ee-b491-8f3caaeaf04e
       :name: Drums
-      :segued: false
-    - :uuid: 14d79a1f-2be9-41e4-92a6-bbd38cffd15e
+      :segued: true
+    - :uuid: 0853860b-cf21-4893-9a2f-966d73be076d
+      :name: Space
+      :segued: true
+    - :uuid: 28ce513c-bfc8-4506-aa1a-d3aa229d60b0
       :name: Stella Blue
-      :segued: false
-    - :uuid: 4105e966-98ac-4885-a477-5d7fae87d07b
+      :segued: true
+    - :uuid: 3a1bded0-1063-48e4-a929-38d8494dd1cd
       :name: Throwing Stones
-      :segued: false
-    - :uuid: 6f7d9a51-8338-4d75-bc82-88bdb19f5b52
+      :segued: true
+    - :uuid: 9b82910f-de8c-4248-b065-e2bddec620ed
       :name: Not Fade Away
       :segued: false
-  - :uuid: 074fe349-b589-4219-a7d2-f141ccce7089
+  - :uuid: f595ff78-b765-4083-bd00-07fbb766b495
     :songs:
-    - :uuid: 22e2e1a5-0c81-458c-b008-f4f6535c165a
+    - :uuid: 33021eb5-b6a5-4da4-981f-16735aeb0f48
       :name: Brokedown Palace
       :segued: false
 1986/07/07:
   :uuid: 47a49ddd-37b6-409e-b064-d3b3d4bba799
   :venue: Robert F. Kennedy Stadium
-  :city: Washington, D.C.
+  :city: Washington
   :state: DC
   :country: US
   :sets:
-  - :uuid: 54dd4335-6cd9-4ccd-9c93-ae93e095cb8c
+  - :uuid: 7c8062e5-f50c-415b-aa7c-86de79188833
     :songs:
-    - :uuid: e1af2878-772b-497d-9106-ffb5e2a2a100
+    - :uuid: 055b8cd7-a268-4d2e-aee8-406a82c2c9f0
       :name: Ramble On Rose
       :segued: false
-    - :uuid: 5a7a63a1-b82b-40f2-bc0d-a92155bd5630
-      :name: New Minglewood Blues
+    - :uuid: f1ce8a27-b45f-48d2-b0fc-dd45420f439a
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 4392c3e2-9f8a-48a2-8250-eb9dd67de95a
+    - :uuid: 476936e4-4099-4a31-8662-1df010e8c0d3
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 3eb5ee9e-40da-42fe-ad85-aaa3f996b224
-      :name: It's All Over Now, Baby Blue
+    - :uuid: ea30d59d-a767-424b-b5cf-9bb3f145a25c
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: 2724b681-f2ac-4f68-b991-295e66090582
+    - :uuid: d8106bc5-73da-4c36-b342-08394a00500b
       :name: Desolation Row
       :segued: false
-  - :uuid: 11db3355-0034-4de9-aebf-3c5bf5e377cd
+  - :uuid: 84fee4e8-2f86-42b9-9fd7-f6e2cfe0c09e
     :songs:
-    - :uuid: a8948a72-0dc7-4794-b813-d26b785014b1
+    - :uuid: 3c0633fd-108d-407a-a754-54b98e8f9fab
       :name: Box Of Rain
       :segued: false
-    - :uuid: 17b77a1c-621c-420e-aaab-f635067667d9
+    - :uuid: fd510311-a7ad-4ba3-b716-52a1eb6d4508
       :name: Playing In The Band
-      :segued: false
-    - :uuid: e7e6e758-dfc7-4906-9067-ee56a5ffca00
+      :segued: true
+    - :uuid: bc655bd5-dc1d-4077-9b4b-536ba5394aad
       :name: Terrapin Station
-      :segued: false
-    - :uuid: f803d170-c7ca-4313-ad40-8f7f83a5ae8f
+      :segued: true
+    - :uuid: cdcd693b-9746-49b3-9e4d-b0dd65fd6b8e
       :name: Drums
-      :segued: false
-    - :uuid: efa06e2a-db55-44a3-89a7-5d07f5ae40ac
+      :segued: true
+    - :uuid: fa76ced9-a5be-4a8b-9ae0-f9f8546fedac
+      :name: Space
+      :segued: true
+    - :uuid: a17c2905-5e29-4ea6-a3bc-9e588b9132c6
       :name: The Other One
-      :segued: false
-    - :uuid: 31afdeb8-d0cc-4ddf-b7f4-2d962220b158
+      :segued: true
+    - :uuid: 726f28a9-1583-401d-9b18-a52c3ab26f74
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 51ec374a-de54-4d8a-947c-e725bb193a7b
+      :segued: true
+    - :uuid: b5971579-4e82-44a6-87ec-b1371a16141d
       :name: Around And Around
-      :segued: false
-    - :uuid: cda168dc-a485-4329-b96b-fef2877c3f53
+      :segued: true
+    - :uuid: 3a83bd0e-9070-4bb9-b305-ed225933253d
       :name: Good Lovin'
       :segued: false
-  - :uuid: 2a6bb79a-a879-42ee-8c0e-7e28a2d04090
+  - :uuid: d629d628-82db-4ae9-b129-7da383861180
     :songs:
-    - :uuid: 4f89a191-b903-49ca-a727-d10b223f9f48
-      :name: (I Can't Get No) Satisfaction
+    - :uuid: c2ad3655-7d97-4efb-bdae-6a7bad148ee6
+      :name: Satisfaction
       :segued: false
 1986/12/15:
   :uuid: 03874e1d-ca02-46af-b9a3-3f2fab228ea9
-  :venue: Oakland Coliseum Arena
+  :venue: Oakland-Alameda County Coliseum Arena
   :city: Oakland
   :state: CA
   :country: US
   :sets:
-  - :uuid: 4912c63a-3948-4800-8fec-e13d6835df1c
+  - :uuid: 9683d141-02b2-4362-8e37-01d49776c051
     :songs:
-    - :uuid: 2b710f35-d260-4704-b357-36f55f137fb4
+    - :uuid: 9d28c34d-7c6c-47e8-b803-db58626195cc
       :name: Touch Of Grey
       :segued: false
-    - :uuid: fed71a64-a1c6-42bb-84a6-fdbea64f7583
+    - :uuid: 9a4ae431-893a-4733-8cb3-ed66188c9799
       :name: C.C. Rider
       :segued: false
-    - :uuid: 19e81556-c8a3-40a4-984b-095d7b4819c0
+    - :uuid: 43a58b03-bf68-4fac-a94e-616fbd1aad25
       :name: When Push Comes To Shove
       :segued: false
-    - :uuid: 8788d677-0739-45b9-8013-7c88063d59d2
+    - :uuid: a8af518d-f649-46fa-b928-a61e9913ede0
       :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: f2ea18f0-7eeb-4b79-ab52-8b37f3ae6b3e
+      :segued: true
+    - :uuid: a0aa9b28-284f-4bba-96f0-245376ff6c0d
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: 6d07182c-b111-4f02-b2cf-922686e15d1d
+    - :uuid: 52aea45b-16e8-4e56-acd9-2249c19ef4d9
       :name: Loser
       :segued: false
-    - :uuid: 2668c568-31c4-40ab-a1c0-56842a817603
+    - :uuid: 677af46d-20ba-4f92-9831-b775463daefb
       :name: Cassidy
       :segued: false
-    - :uuid: 2961c702-3add-4357-9d00-2378df55ede5
+    - :uuid: deaa9ec1-c718-4777-a0c4-930ac8131cc5
       :name: Althea
       :segued: false
-    - :uuid: 346d4bfc-58e3-4e19-a460-eb9b38909e20
+    - :uuid: 41391ccb-9d5a-4a58-a4c9-0aedcbe1a1f2
       :name: My Brother Esau
       :segued: false
-    - :uuid: 61ca7be8-bfbc-4a88-ba9e-251407d69432
+    - :uuid: 99ceb4a6-31ce-4967-98c1-19db9009b29c
       :name: Candyman
       :segued: false
-    - :uuid: 14a5ee8a-409c-4acc-94a4-a023f05fbb2e
+    - :uuid: b70bc6fa-baf8-467f-bf9a-13d65c0d04be
       :name: Let It Grow
       :segued: false
-  - :uuid: cd6e6e82-7088-41ea-8e0f-233c9fc934fb
+  - :uuid: 9c9cea67-0899-484f-9ddf-d492b4cc5054
     :songs:
-    - :uuid: bdbda500-5360-471f-a5ee-62036e3c8438
+    - :uuid: 48099bb5-f9a6-4be8-8e93-6a175224a49e
       :name: Iko Iko
       :segued: false
-    - :uuid: a24b62b2-f1a7-464c-83dd-ac984dafb47f
+    - :uuid: a82cb9d0-655c-42b2-95f2-c8241ace5597
       :name: Looks Like Rain
       :segued: false
-    - :uuid: 5971dadd-82fd-4242-af1c-a8f98086a128
+    - :uuid: 7bc3b74a-fc43-476d-b37f-048f65d72e40
       :name: Black Muddy River
       :segued: false
-    - :uuid: 5d4eb9ea-cfb2-4d07-b327-e6115d06e635
+    - :uuid: 86b3d085-0c72-43c2-8c22-b3656acbacac
       :name: Playing In The Band
-      :segued: false
-    - :uuid: a1ef5348-3633-46ff-b418-d4eccb1be84b
+      :segued: true
+    - :uuid: ffd7aaed-5708-4bd1-8709-abeda2f0e34f
       :name: Terrapin Station
-      :segued: false
-    - :uuid: 02360e05-6154-44db-a29b-e35914fa7a4a
+      :segued: true
+    - :uuid: 69c02057-6bb2-4827-a83c-7456be316535
       :name: Drums
-      :segued: false
-    - :uuid: 6a9c5a98-7701-43df-8b4d-458e05b04450
+      :segued: true
+    - :uuid: f919cba1-5411-4a90-80e6-68a0e1c5d14e
+      :name: Space
+      :segued: true
+    - :uuid: 2a308c01-a1a7-4128-8c78-c64670e58c77
       :name: Truckin'
-      :segued: false
-    - :uuid: d8f2c4e7-6fae-4c6f-9b81-5185e4d976bc
+      :segued: true
+    - :uuid: eb4a62b8-6c9f-4695-81f5-87b6febf4469
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 1976b1ac-0544-4e6b-9f6d-ba12ec6c963d
+      :segued: true
+    - :uuid: 351be50e-d3e2-4267-b784-9048335864d0
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 3463bfa4-3a42-4faf-b58e-058bbc086e3c
+      :segued: true
+    - :uuid: fceffa61-e41a-4dfc-be3f-edf822fa55b7
       :name: Good Lovin'
       :segued: false
-  - :uuid: 1d3ec5ab-c84f-48ea-b40e-f362cb678231
+  - :uuid: 6a656dae-96d5-4f1d-a1cc-c5d93dd5ed65
     :songs:
-    - :uuid: d6eb8863-4d37-4c7c-90ba-961630997a7b
+    - :uuid: bf18fea9-45d8-4397-87a9-d7e454509926
       :name: Johnny B. Goode
       :segued: false
 1986/12/16:
   :uuid: af8650e6-18c7-4f32-99d0-8ddc55ce7b84
-  :venue: Oakland Coliseum Arena
+  :venue: Oakland-Alameda County Coliseum Arena
   :city: Oakland
   :state: CA
   :country: US
   :sets:
-  - :uuid: 99dcf6b4-e210-44a6-bec7-0daa892368ce
+  - :uuid: bbbdd604-1c6c-4a94-9eb8-69fdc59e751f
     :songs:
-    - :uuid: 21620b63-adb8-40c4-85b7-c0ee70fa89fd
+    - :uuid: c3d12838-2002-4e8f-a3d3-82416cd5f1b0
       :name: Hell In A Bucket
       :segued: false
-    - :uuid: 8d7a8ecf-e882-427f-babe-8baa84835ad4
+    - :uuid: 01d45140-8cce-4200-9f2d-157826b74af7
       :name: Row Jimmy
       :segued: false
-    - :uuid: 3a9f5107-2ac5-4657-b337-ed84fddf608f
+    - :uuid: 2a01306d-e6c9-4405-bb4a-c3c0d7080d6d
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: 6fa92d80-5238-4279-9630-b0013deacbdc
+      :segued: true
+    - :uuid: a102416a-a038-4f02-8f7b-e87afbe16f66
       :name: Big River
       :segued: false
-    - :uuid: 54648f44-2aca-4141-8503-1c04e45c0b0d
+    - :uuid: 3e31a3a0-488a-487c-83f3-fd68178e425e
       :name: Stagger Lee
       :segued: false
-    - :uuid: 4c9c27fe-71b1-490c-8c27-a1e56ca478ad
-      :name: New Minglewood Blues
+    - :uuid: a4ea7e41-4c64-4894-a39a-3f7b2ed877b7
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: b113e6f0-14c8-46b7-8cc8-1475f07df103
+    - :uuid: ee803148-b418-43ae-be40-fdd42af2453a
       :name: When Push Comes To Shove
       :segued: false
-    - :uuid: efd01cfc-ffb6-4d08-a418-a28dd6127bc4
+    - :uuid: b8f91b90-607c-4984-a3fd-2ebfc557a0ae
       :name: Sugaree
-      :segued: false
-    - :uuid: 5bfb4e69-e04d-4e22-a208-06cb622c914b
+      :segued: true
+    - :uuid: 5361c508-6b87-437b-90ef-1e846cf818ec
       :name: Jack Straw
       :segued: false
-  - :uuid: aee5622a-74be-4426-ab40-e0244d9322b2
+  - :uuid: 17cc8f60-0155-4c33-81e9-001907885fcc
     :songs:
-    - :uuid: 779d1b3c-d981-4cbd-a830-c45907fadda1
+    - :uuid: 3ba72400-b055-458c-b32a-99b9a291a470
       :name: Box Of Rain
       :segued: false
-    - :uuid: fa3103d4-aa6c-4465-98ae-e5ec4ebcfe1d
+    - :uuid: 16705f79-7f4b-4a93-8611-ad1271470936
       :name: Crazy Fingers
-      :segued: false
-    - :uuid: 311375e7-398d-44f2-84df-b8ae6feef5f9
+      :segued: true
+    - :uuid: f71fa9d2-116b-4e63-aa35-789d034f58f7
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: d100a2b4-17ae-4dcf-8ddc-615d75f29079
+      :segued: true
+    - :uuid: 8254918f-b56d-4d79-9b20-31fd7b2f36fa
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: b4eae1d3-084c-4d3a-9855-089ea88c2227
+      :segued: true
+    - :uuid: 62d13aa9-28da-4af2-8beb-d28f768dfc7e
       :name: Drums
-      :segued: false
-    - :uuid: 9c1eca0e-51a7-4a49-b4ea-949875d338eb
-      :name: Willie & The Hand Jive
-      :segued: false
-    - :uuid: b77f557f-4a4f-44f9-a61f-71a3dc83c062
+      :segued: true
+    - :uuid: 45c098f3-9e05-4a34-ae3e-5af99cfe3414
+      :name: Willie And The Hand Jive
+      :segued: true
+    - :uuid: cb58a5aa-2fd6-4f6a-baf9-9c37127deb28
       :name: Iko Iko
       :segued: false
-    - :uuid: 400512aa-77c6-41f8-96f7-1b5b48530a47
+    - :uuid: 34fd734b-76b8-4ebd-85f8-c3a8bc6e5d57
       :name: Stella Blue
-      :segued: false
-    - :uuid: 8c730aff-ef30-4b58-8e44-a3005e6f9fbe
+      :segued: true
+    - :uuid: 9fdd70e1-d7da-4710-bcd5-5e071d5c2595
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 41d3b0bd-9e9a-4e2b-887f-621037ac11a1
+  - :uuid: 1a7c5caf-6a02-4130-9bd6-d61c0ae43aab
     :songs:
-    - :uuid: 8e1aa6d0-a71d-41f5-8b76-37c871b7ab8f
-      :name: In The Midnight Hour
+    - :uuid: 4424138f-0c1b-4f3d-9c06-3925d82520d9
+      :name: Midnight Hour
       :segued: false
 1986/12/17:
   :uuid: b82d4198-0444-4fce-8eb1-05a43335e24e
-  :venue: Oakland Coliseum Arena
+  :venue: Oakland-Alameda County Coliseum Arena
   :city: Oakland
   :state: CA
   :country: US
   :sets:
-  - :uuid: c6947d30-e8e6-49ed-8958-da04839164cf
+  - :uuid: 2aa7df58-c0f6-41f2-b199-618e3ee0b3c6
     :songs:
-    - :uuid: f0203d81-9a98-46bd-b7e5-e214768bca7e
+    - :uuid: f22371be-b806-4463-a0f5-021dc1f8dd9b
       :name: Alabama Getaway
+      :segued: true
+    - :uuid: 01b60222-a368-4c15-b447-7a3947879812
+      :name: Promised Land
       :segued: false
-    - :uuid: 1efb8827-dd29-44f2-83d0-8895e14101ac
-      :name: The Promised Land
-      :segued: false
-    - :uuid: d0838883-049c-4899-b63d-60819ce56376
+    - :uuid: 8bab3273-e376-4d76-b7e7-30a737ad6902
       :name: West L.A. Fadeaway
       :segued: false
-    - :uuid: 16abb219-7a49-45a2-8bb8-03e62138f66b
+    - :uuid: 9e3aaef8-0508-4af9-ad53-cf978853019e
       :name: Tons Of Steel
-      :segued: false
-    - :uuid: b053456a-5bb3-4bd5-9af6-1c1f5a7a102e
+      :segued: true
+    - :uuid: 4e63940a-1438-46ba-a32e-595387710e81
       :name: Little Red Rooster
       :segued: false
-    - :uuid: 8204104e-79e0-4983-bb0d-779171f586d2
+    - :uuid: c9043fd5-c585-4936-acf3-03b5b6c426b7
       :name: Tennessee Jed
       :segued: false
-    - :uuid: dffdcc5d-2f9c-4901-8278-86c225d484e7
+    - :uuid: 8d58d12d-fd02-4788-982f-0d0771034ab8
       :name: Desolation Row
       :segued: false
-    - :uuid: 4af31e85-a304-4233-a2b3-75d63b5a8869
+    - :uuid: 34961443-be9d-452d-bb15-a72f6dcf1337
       :name: When Push Comes To Shove
       :segued: false
-    - :uuid: e9733a66-a4aa-4f8b-a796-811a35d2ce27
+    - :uuid: 0cd938c9-612c-46b3-a2f4-e620652402e9
       :name: The Music Never Stopped
       :segued: false
-  - :uuid: 87f7f5d8-c297-4417-8525-7880bc1c5898
+  - :uuid: 9ccfc48f-ac13-473c-b3bf-5ab041b805db
     :songs:
-    - :uuid: b1e474bf-f962-41cf-8d8b-cab73827427a
+    - :uuid: df0f56cd-cb5e-444b-84e0-b7a7494b8ee7
       :name: Saint Of Circumstance
-      :segued: false
-    - :uuid: 46ef8181-e401-4266-a6b7-fa5590cd15ad
+      :segued: true
+    - :uuid: 3eaa8ccb-292d-412e-85a7-a111e7e6281c
       :name: Cumberland Blues
-      :segued: false
-    - :uuid: 1f139ed7-62b5-4a76-a9e6-6dc3288df336
+      :segued: true
+    - :uuid: 878c7b18-825b-42d5-831c-6bd8ac718bcd
       :name: Samson And Delilah
       :segued: false
-    - :uuid: e05cebf6-c4e2-414e-9df0-cbd42c2eaf9a
+    - :uuid: e145a4fc-eb80-45af-b7b3-42fe5d6ad885
       :name: Ship Of Fools
       :segued: false
-    - :uuid: ac2f0ab6-1242-4f58-816e-9cc0e3989b7f
+    - :uuid: 1aa5ceda-7514-417a-a4f6-ad837351a13a
       :name: Man Smart (Woman Smarter)
-      :segued: false
-    - :uuid: cbce364a-7db4-4c65-8696-dfd72bbfdd30
+      :segued: true
+    - :uuid: 6e066a5a-d75c-4bfd-9ae2-28be6cbee7ab
       :name: He's Gone
-      :segued: false
-    - :uuid: e54c3cf8-b45a-4bd3-a226-8d6db3acbac6
+      :segued: true
+    - :uuid: c4b3090e-5252-49cf-b408-c6aa983d6a73
       :name: Drums
-      :segued: false
-    - :uuid: fdc9a338-9942-4335-9312-4f40dfc3b011
+      :segued: true
+    - :uuid: ea66a147-f629-41df-8461-68ed72fad561
+      :name: Space
+      :segued: true
+    - :uuid: 5e9ec915-de38-483e-b9de-d5210dfb33e6
       :name: The Other One
-      :segued: false
-    - :uuid: 6f444143-097b-4e1f-bc2b-a71aa4b875c5
+      :segued: true
+    - :uuid: 9b8ce979-b72c-4b7e-bb6c-dd9a62f333e8
       :name: Black Peter
-      :segued: false
-    - :uuid: 298653be-cfb1-4c80-b8ac-7260ec40f76e
+      :segued: true
+    - :uuid: b1a347b9-7322-417a-8603-039db94dbd79
       :name: Throwing Stones
-      :segued: false
-    - :uuid: 59be5e2e-a229-407c-ac99-35e48feb835d
+      :segued: true
+    - :uuid: cb8008aa-73ee-4392-9c69-1ab811accdee
       :name: Not Fade Away
       :segued: false
-  - :uuid: 8f1987eb-e356-48bb-9a92-58931da5301e
+  - :uuid: 632f1471-ce65-45e5-8434-3a8ab0379f71
     :songs:
-    - :uuid: 132029b9-1580-46ce-9c74-e951e40c5399
-      :name: Not Fade Away
-      :segued: false
-    - :uuid: 7747c528-785e-4bd5-a5e0-836e0495468f
+    - :uuid: 346233d4-6cca-4aca-9045-2efd1713d6d3
       :name: Brokedown Palace
       :segued: false
 1986/12/27:
@@ -2805,67 +2936,70 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 6f83c1a3-df16-4f8a-85eb-3d97ff947fd5
+  - :uuid: a7d44092-735c-4caa-bca6-35e0f560f617
     :songs:
-    - :uuid: 7f12698c-fc85-46c0-9673-e4eeba7f6628
+    - :uuid: 873c6e6e-d1ca-4f92-b74b-936763e5df3b
       :name: Playing In The Band
-      :segued: false
-    - :uuid: 222eb0dc-de87-4964-9992-960c8efda30a
+      :segued: true
+    - :uuid: e4ffac78-29a2-47b4-ae95-c570d5314d9e
       :name: Bertha
       :segued: false
-    - :uuid: 8428d64e-ac1d-49d9-8814-6cb47460b1e1
+    - :uuid: 7dcfc355-c0f2-4e8b-bdd0-1a5a61a1f3dd
       :name: Mama Tried
-      :segued: false
-    - :uuid: 5dec7f6c-a3de-4158-bddf-4b2741fee719
+      :segued: true
+    - :uuid: ba1e7ee0-4675-4a65-a620-b8117437ff56
       :name: Mexicali Blues
       :segued: false
-    - :uuid: d22daaf4-6a57-494f-9b1e-79149cec9329
+    - :uuid: 68db09e4-92d7-4465-adea-08b5ea0ff3fa
       :name: Ramble On Rose
       :segued: false
-    - :uuid: dd53e374-e5eb-4c11-9749-1d2f537ff64a
+    - :uuid: 842aea71-76bf-4633-acbd-185091740bd6
       :name: Little Red Rooster
       :segued: false
-    - :uuid: 2eba8557-c198-4938-bcc1-611b3aa7e402
+    - :uuid: acf528d4-3f2b-4f94-9ed6-5e1e188dbcb4
       :name: Bird Song
       :segued: false
-  - :uuid: b3fca648-8aed-4066-814f-6904d1b914b6
+  - :uuid: 69f399cf-9699-4e27-9a81-f122bebcecab
     :songs:
-    - :uuid: 9b7b6c5b-af73-4462-bf4d-c4fcdb408f58
-      :name: The Mighty Quinn (Quinn The Eskimo)
+    - :uuid: f8fe16c2-8243-47a0-9075-731d7e9d81d6
+      :name: Quinn The Eskimo
       :segued: false
-    - :uuid: 1563a17b-8fee-409a-95ff-e0d2eada33b4
-      :name: Dancing In The Street
-      :segued: false
-    - :uuid: d3008e0b-8c3f-4079-a272-14baba4e8f11
+    - :uuid: b0bd086f-d820-4435-ace3-e1a1769cad22
+      :name: Dancin' In The Streets
+      :segued: true
+    - :uuid: ec83d12b-6e86-4711-b2d0-583b53f3d91f
       :name: Black Muddy River
-      :segued: false
-    - :uuid: f42c3e6b-b9c2-4b53-8731-0622bf750471
+      :segued: true
+    - :uuid: 141a32e4-85ab-4619-914c-78f13c3decb6
       :name: Playing In The Band
-      :segued: false
-    - :uuid: b107c349-fb7b-4509-a691-fcfcfc9330d4
+      :segued: true
+    - :uuid: 9de90fc6-ee49-4093-b54f-a1ae25266a07
       :name: I Need A Miracle
-      :segued: false
-    - :uuid: 8150dd7c-9713-4f66-ac1e-2c9315ccf7be
+      :segued: true
+    - :uuid: b862baf8-3b32-4e2c-94e8-b5dd46b682bc
       :name: Drums
-      :segued: false
-    - :uuid: 44aa53f7-e205-45d1-8502-fc0d9a1e6d8e
+      :segued: true
+    - :uuid: 1b6fe84d-302b-45ff-b107-75147216e26b
+      :name: Space
+      :segued: true
+    - :uuid: 29f5b9ca-46a5-4a3c-be92-aa13eca74224
       :name: Truckin'
-      :segued: false
-    - :uuid: 506e9eb5-94a7-499f-935b-0c413bf755ca
-      :name: Smokestack Lightnin'
-      :segued: false
-    - :uuid: b7df132c-f4b9-4d03-b39b-97ba27a8cc9b
+      :segued: true
+    - :uuid: 15ca10df-807e-4f5b-a174-f5efbb00d903
+      :name: Smokestack Lightning
+      :segued: true
+    - :uuid: 71dc1809-1ebf-4f41-a06c-05846dc84a6a
       :name: Comes A Time
-      :segued: false
-    - :uuid: 549d513b-a5af-4742-ae55-867b00a85188
+      :segued: true
+    - :uuid: d06546c8-6bad-4a55-8523-565b36d19a1f
       :name: Around And Around
-      :segued: false
-    - :uuid: 8f50c9ac-b571-43bb-b3c4-3933624ab375
+      :segued: true
+    - :uuid: fbd0e6e8-f818-41fb-90e3-7e336bfcac93
       :name: Playing In The Band
       :segued: false
-  - :uuid: 2817e9b5-da26-46aa-b29d-718e2fa6134f
+  - :uuid: a1ae67f9-d760-436d-af97-f6eb30dafd1e
     :songs:
-    - :uuid: 40d6f322-a99e-41dc-a949-26cc3cb460f7
+    - :uuid: 72a2eee9-21de-4732-b5c0-162ad814e564
       :name: When Push Comes To Shove
       :segued: false
 1986/12/28:
@@ -2874,7 +3008,67 @@
   :city: Oakland
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 114082cd-7a46-4416-b28d-603065d80000
+    :songs:
+    - :uuid: 236e2c08-71bb-410a-824d-b41b02fced82
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: a36c79e9-d05c-48bf-9ace-c34a0218002f
+      :name: Minglewood Blues
+      :segued: false
+    - :uuid: 84950ea3-df6b-4ed0-9de6-215198776c41
+      :name: Row Jimmy
+      :segued: true
+    - :uuid: 4066a3ee-2e5c-471a-b92e-e52289481419
+      :name: El Paso
+      :segued: false
+    - :uuid: 658ef844-decb-49d3-86f9-75069be41dbf
+      :name: Stagger Lee
+      :segued: false
+    - :uuid: c1a49ffc-ad73-448c-8eea-7cdb63776472
+      :name: Box Of Rain
+      :segued: true
+    - :uuid: e73e60b4-50bd-4847-a57b-f80e35bdda9f
+      :name: Big Railroad Blues
+      :segued: true
+    - :uuid: 325149b1-a949-4907-849d-c59f6b924d55
+      :name: Promised Land
+      :segued: false
+  - :uuid: c94cffc5-4519-456a-9c00-c601610fcb65
+    :songs:
+    - :uuid: f714d55e-242b-47ee-9af3-41772d950743
+      :name: Scarlet Begonias
+      :segued: true
+    - :uuid: 24853d1f-dcbf-4b45-8a07-355205be474e
+      :name: Fire On The Mountain
+      :segued: true
+    - :uuid: fb8d1945-d5aa-4cda-ad1e-1d1da14f7d9a
+      :name: Looks Like Rain
+      :segued: true
+    - :uuid: 0297320f-631c-4c30-a170-5cd932fbb415
+      :name: He's Gone
+      :segued: true
+    - :uuid: 796dec0e-5198-4e16-8dde-7e8cf0a166c6
+      :name: Drums
+      :segued: true
+    - :uuid: 5d0e596a-4851-4020-a321-51534440955d
+      :name: Space
+      :segued: true
+    - :uuid: b271bdb1-9de9-4940-a063-6e00ee47a7d5
+      :name: The Other One
+      :segued: true
+    - :uuid: 54d75ab9-7931-4d0d-8264-786165d5a088
+      :name: Black Peter
+      :segued: false
+    - :uuid: 8a036fba-7f5e-470d-a33a-7988097996d5
+      :name: Sugar Magnolia
+      :segued: false
+  - :uuid: 6c011e47-e220-4809-b83e-1a28501c8bd2
+    :songs:
+    - :uuid: 884f07af-90cc-4fa6-9667-2cf456daede6
+      :name: It's All Over Now Baby Blue
+      :segued: false
 1986/12/30:
   :uuid: a8b5598d-bcf7-44c2-a5ca-bda081fe530f
   :venue: Henry J. Kaiser Convention Center
@@ -2882,79 +3076,79 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 704df97e-88e5-4ac7-ad0d-9f12c2af1f61
+  - :uuid: f3ed5413-712c-4dfe-a620-c09bc40e5f7a
     :songs:
-    - :uuid: 9b653de5-771e-4c4c-8d50-a79758dc2fbb
+    - :uuid: eec085a3-66de-46f7-81e6-2538f68d3de9
       :name: Hell In A Bucket
       :segued: false
-    - :uuid: 29cd5530-1dd6-4ef2-8dd2-0cd4e263abbd
+    - :uuid: 0a2a7716-30d1-4ba0-a93e-729fbc98bf6a
       :name: Althea
       :segued: false
-    - :uuid: 0b81acc7-0006-409b-83eb-118afbb55ba5
+    - :uuid: fdb98da3-89e5-4c12-84bf-4306de90be2e
       :name: C.C. Rider
       :segued: false
-    - :uuid: 7ce442a1-872a-4793-a1a3-2a7a9305ae89
+    - :uuid: 34f7c102-5bc3-47a8-bf80-dd0ad730080f
       :name: Cumberland Blues
       :segued: false
-    - :uuid: 6e706ae1-0b4c-4363-8798-ddac7055d595
+    - :uuid: d4f4f67d-2d43-4d79-9971-8142be51efa0
       :name: My Brother Esau
-      :segued: false
-    - :uuid: 4d8cf2b2-c8a6-4ef9-985a-d69f6d2c06fb
+      :segued: true
+    - :uuid: dadf0890-0218-4e62-8737-b4548dea1da9
       :name: When Push Comes To Shove
       :segued: false
-    - :uuid: 5dad628f-5110-4501-9523-ac8326fa00b3
+    - :uuid: 004251e9-5fb0-4797-92e5-82d7c951b6e5
       :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: 24a4ac50-6f3e-4ef1-8c4f-5e0db4449eeb
+      :segued: true
+    - :uuid: 03407f71-bdb7-4c21-9c87-00e25f44ccbf
       :name: Greatest Story Ever Told
       :segued: false
-    - :uuid: cb47dceb-5056-4db8-a1d0-7e65a34d1413
+    - :uuid: 5bb0f897-f7d0-468b-8ea3-2e89f29ad91e
       :name: Don't Ease Me In
-      :segued: false
-    - :uuid: c5fcdc9d-cc1c-41da-98ab-461bc111381d
+      :segued: true
+    - :uuid: 93a70d94-a8ac-49f6-999f-d95fe851e9ce
       :name: The Music Never Stopped
       :segued: false
-  - :uuid: 4b4f6652-add9-432f-9253-94b0f04e9ec5
+  - :uuid: 705e1bb7-c0f7-493c-8b40-ea5f31f03d4c
     :songs:
-    - :uuid: 460e3f21-81c7-4d9a-81af-136ea22ec34f
+    - :uuid: 57e07cd7-ebcc-488c-9f8f-5959c10cb725
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: e4d3c131-2741-4c6f-9326-cb9f8445237d
+      :segued: true
+    - :uuid: 9897a931-089d-4980-89b8-d87ca172e4cc
       :name: I Know You Rider
       :segued: false
-    - :uuid: 1a7db223-7494-4842-9d13-b875a3f81125
+    - :uuid: 16392d9b-fb46-4167-8de2-1b694ad8d178
       :name: Saint Of Circumstance
       :segued: false
-    - :uuid: 0a509755-41f4-481a-bfb4-b86e41590f7a
+    - :uuid: 4ab9cc76-481f-4bef-8413-fbd7b557b066
       :name: Ship Of Fools
       :segued: false
-    - :uuid: 39f11be8-5fc3-41fb-a7ff-22f247aa2c37
+    - :uuid: 886aceb2-d46e-48b4-89e9-97d86a000a6d
       :name: Estimated Prophet
-      :segued: false
-    - :uuid: d5f008f6-78b4-4c5d-8b4c-9f3521e4606d
+      :segued: true
+    - :uuid: c23cc731-53ae-4337-b1fa-f6c46efce92c
       :name: Eyes Of The World
-      :segued: false
-    - :uuid: 2de15bce-4ee4-44a7-bc59-2842330fb74e
+      :segued: true
+    - :uuid: 1d95373d-d5d4-45a5-8284-9bb1d5e5c47b
       :name: Drums
-      :segued: false
-    - :uuid: 069cbd1f-e97c-44d0-ac12-be0afdcb3ab2
+      :segued: true
+    - :uuid: 0e5b7987-88d2-4295-bc90-bd55dd552282
       :name: Iko Iko
-      :segued: false
-    - :uuid: f7e18a0b-6a24-47c9-9f3f-ce7fcc90d8af
+      :segued: true
+    - :uuid: e7c99235-c93f-4335-954f-1860ca95fb35
       :name: Man Smart (Woman Smarter)
       :segued: false
-    - :uuid: e00d63aa-12cb-4dc0-8581-b8168853d3b0
+    - :uuid: 85741081-31a1-4875-b4df-79042624f8be
       :name: Stella Blue
-      :segued: false
-    - :uuid: 73f391b0-347b-4311-ad73-5c825731e4c9
+      :segued: true
+    - :uuid: 0a2aaa2a-8f27-4f63-b02d-2d64d36d8d1b
       :name: Throwing Stones
-      :segued: false
-    - :uuid: 81fbd155-69cb-4178-9952-6e21aa5b6cbd
+      :segued: true
+    - :uuid: 88cf730d-e59b-4624-97d3-fc6301c40a8c
       :name: Not Fade Away
       :segued: false
-  - :uuid: 10b34836-e8d3-43fe-9f8d-53164d0e62b6
+  - :uuid: 38ad9fb6-d76d-4164-9266-03fd2595ccc8
     :songs:
-    - :uuid: dd00a7d3-a2b2-418a-bf66-a55127f4b24e
+    - :uuid: 01b98293-a613-4e4d-bdf7-d6edb6cefc5d
       :name: Johnny B. Goode
       :segued: false
 1986/12/31:
@@ -2964,72 +3158,75 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 6eacd5c7-a91e-41d8-89bc-3594e2419834
+  - :uuid: 0328a1ca-ac92-47c9-82f2-101cf8513c35
     :songs:
-    - :uuid: 8c6414fe-fc16-4986-b1d4-6df92afa035b
+    - :uuid: c9697070-d3cd-4128-a7f6-43bc25b1b74f
       :name: Jack Straw
-      :segued: false
-    - :uuid: 58db679d-a59f-4a57-909e-8b99dd292e90
+      :segued: true
+    - :uuid: f099fcb0-f9bb-4f1d-a03d-a1da6bde74e4
       :name: Sugaree
       :segued: false
-    - :uuid: 50d24bb1-7fab-4e8c-84fb-69ffbdc25c8f
+    - :uuid: c840646f-a4b0-488b-ad6b-c4c85896a484
       :name: Me And My Uncle
-      :segued: false
-    - :uuid: a8d76668-2ebf-4044-9a27-8190a147e8db
+      :segued: true
+    - :uuid: 6c21f947-38f1-47e4-9399-3adac6477731
       :name: Mexicali Blues
       :segued: false
-    - :uuid: 7c0029b8-3d94-4f76-9a28-83bee68f8727
+    - :uuid: 249b29c4-c7eb-4f7e-ba59-1309e4f00577
       :name: Candyman
       :segued: false
-    - :uuid: cdb53b45-f56d-4b24-8b97-a845b3104634
+    - :uuid: 9689cf56-9c50-42e4-b2cd-5dd05fe0c2ec
       :name: Desolation Row
       :segued: false
-    - :uuid: 2a193ce0-6ea8-41d2-be30-1560992f50eb
+    - :uuid: 710a8481-847e-417f-b3e7-8ca8333d8c8a
       :name: U.S. Blues
       :segued: false
-  - :uuid: b18adafe-7029-43b0-88ed-dabf6c2e5067
+  - :uuid: 9289e77a-4e8e-4318-957d-d1495a1b2c6b
     :songs:
-    - :uuid: ce9cb991-52d0-4717-a56e-a819faeacf61
+    - :uuid: d732e9e9-af6a-433e-bbf4-1c3d429fc46d
       :name: Touch Of Grey
-      :segued: false
-    - :uuid: 7103941a-d639-499e-9fbc-f0577ea36e0a
+      :segued: true
+    - :uuid: 1003eedd-cfd2-4170-af62-243cf3e1b33a
       :name: Let It Grow
       :segued: false
-    - :uuid: c821bf2a-bdf6-4da2-9d6b-b8fb4df52cea
+    - :uuid: 1c790631-81cc-450c-94cf-a8b75df53d91
       :name: Black Muddy River
-      :segued: false
-    - :uuid: a8e4a7e4-951b-4360-bf31-8d66c939de2e
+      :segued: true
+    - :uuid: 7681a259-446b-460f-a862-93c9f62ec38b
       :name: Samson And Delilah
       :segued: false
-    - :uuid: e3b383ff-f30d-4406-b12d-9f0eb15eadf3
+    - :uuid: 16a336ef-073c-4c79-ab06-a070d64c5700
       :name: Terrapin Station
-      :segued: false
-    - :uuid: ae4bf7ed-5eb4-4ffc-8022-cb3ab25e1fcd
+      :segued: true
+    - :uuid: f13f1185-945c-4e04-a237-43f43431ec1c
       :name: Drums
-      :segued: false
-    - :uuid: a627d43b-a598-4d36-a7d9-dfc1034a01fd
+      :segued: true
+    - :uuid: 28daf7f6-c240-41d5-9b65-e5b849856e1e
+      :name: Space
+      :segued: true
+    - :uuid: 9abdbee8-4be9-4726-beb3-e9c7b0b6f155
       :name: Wharf Rat
-      :segued: false
-    - :uuid: 13a12302-287d-4f99-88ca-83de2c9a6cbd
-      :name: Goin' Down The Road Feeling Bad
-      :segued: false
-    - :uuid: fe2b32ba-b323-4383-a0e9-f840d037d30f
+      :segued: true
+    - :uuid: 197517d9-1577-494b-934e-b4cf72b9b3ad
+      :name: Goin' Down The Road Feelin' Bad
+      :segued: true
+    - :uuid: 91a5fee4-7644-44f2-8fda-3e53202d581d
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: c0997a14-ee76-42d0-99f9-4b7b946812e1
+  - :uuid: ae11902e-0d50-48b4-84e1-49a2718f41e8
     :songs:
-    - :uuid: ce85a416-4fdc-4caa-b477-9a33d4dad198
+    - :uuid: 12b7c50d-29dd-43f9-82d5-dfaa786eeb6c
       :name: Gimme Some Lovin'
-      :segued: false
-    - :uuid: f7b6bf69-f01e-4014-b8c2-d6555e6d5958
+      :segued: true
+    - :uuid: 11a906eb-1d7f-414d-b99d-4dd42499f2fe
       :name: When Push Comes To Shove
       :segued: false
-    - :uuid: c079e903-6ee7-4e5a-817e-cefd772c0f46
+    - :uuid: afaca3e3-309b-4c86-9d4d-910aaaeeedb8
       :name: Box Of Rain
       :segued: false
-    - :uuid: f30b96d6-556f-458e-aaaa-dfbb597ab8a6
-      :name: In The Midnight Hour
-      :segued: false
-    - :uuid: 5cc436f0-280e-426f-ab6d-b6afd39bf21d
+    - :uuid: 62e88185-bbdb-4c7f-840d-56139692bc2f
+      :name: Midnight Hour
+      :segued: true
+    - :uuid: 23014dbe-6e97-494f-9c87-b6a6f5006c25
       :name: Brokedown Palace
       :segued: false

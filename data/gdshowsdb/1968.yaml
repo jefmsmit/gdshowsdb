@@ -1,137 +1,312 @@
 ---
-1968/01/14:
-  :uuid: a5289930-8875-4d41-8760-a0af193aedac
-  :venue: Bakersfield Memorial Auditorium
-  :city: Bakersfield
-  :state: CA
-  :country: US
-  :sets: []
-1968/01/16:
-  :uuid: f3ca30cc-2bde-4bbb-aaec-f2d82601c3ec
-  :venue: Carousel Ballroom
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 2614c206-4e4c-4061-889b-2efb586551b4
-    :songs:
-    - :uuid: d4b25a6f-cdee-475d-88d2-e1f94971940e
-      :name: Turn On Your Lovelight
-      :segued: false
-    - :uuid: a336067a-06c4-42e0-9026-23af9f375ad0
-      :name: Dark Star
-      :segued: false
-    - :uuid: da5a5c9b-687b-4f3e-9a14-941a86ce4bbb
-      :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 45d90caf-9196-4c69-afc4-0a18906c0f6e
-      :name: The Eleven
-      :segued: false
-    - :uuid: 87118434-5374-4aea-85f6-cd189b4d357e
-      :name: Feedback
-      :segued: false
-    - :uuid: c63bb4b4-d08f-49df-9bef-1ad1a6849c50
-      :name: New Potato Caboose
-      :segued: false
-    - :uuid: 659c65e1-6ea0-4cf6-a958-c250f8e540ef
-      :name: Born Cross Eyed
-      :segued: false
-    - :uuid: 8e6f0605-4529-4f5c-a970-1ee437af7437
-      :name: Feedback
-      :segued: false
-  - :uuid: 5711b820-a5a9-4f65-abba-41381ea0422e
-    :songs:
-    - :uuid: b59eb5d3-c175-4510-80ed-f0d20f9ef010
-      :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: aeca76b5-6a37-4310-a9b6-d4f712907d29
-      :name: Morning Dew
-      :segued: false
-    - :uuid: e02274ef-3376-4f30-8777-3a18d4de3d95
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: dd9a54bc-a838-49ff-9764-9a92f3bfa862
-      :name: The Other One
-      :segued: false
-    - :uuid: 34a57c35-3ab2-4f3c-98ec-d63f1633b9d6
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: 03f3ee40-c993-42a8-8d50-645fd8688c84
-      :name: Good Morning Little Schoolgirl
-      :segued: false
 1968/01/17:
   :uuid: 92b5edae-d6d8-4014-909e-719ad0dfaa0e
   :venue: Carousel Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 262bdb9b-7bb7-47b6-8946-322580124d7c
+    :songs:
+    - :uuid: 706c86af-892b-4df9-b602-8a47b10b17ff
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: c179b751-9a24-40b0-bf0b-c5b582768f79
+      :name: Dark Star
+      :segued: true
+    - :uuid: 1a29a841-071e-4f38-920e-4a2304cd4184
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 2b850b3d-d69e-4afc-90b9-4670560ae188
+      :name: The Eleven
+      :segued: true
+    - :uuid: bd613f8d-60ee-4bb5-a9c9-860fed25776c
+      :name: Feedback
+      :segued: false
+    - :uuid: 6aed4b03-b948-4627-9d37-3f921e443d9f
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: b0fd250e-2f15-4019-b84e-e2006d886834
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: f83d641f-51e5-4f28-ba04-bd17da9f8a3a
+      :name: Feedback
+      :segued: true
+    - :uuid: 9989a6c2-e760-46d6-92c7-78fd0e7fed83
+      :name: Spanish Jam
+      :segued: true
+    - :uuid: 6f0b0b38-dde4-4275-bd8a-cf57ca65bd49
+      :name: Feedback
+      :segued: false
+  - :uuid: e1313891-850d-4134-ab17-01c1aa50e8ca
+    :songs:
+    - :uuid: 329f6065-3b81-4a00-8f1d-da373ff079d7
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: e29e66e8-2be2-4e74-b0ae-a01e34e5f102
+      :name: Morning Dew
+      :segued: false
+    - :uuid: be8b34de-b514-40e7-9f9c-ac06eb96f2fd
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 6b0397cf-3c09-49e7-9fd9-487acbcaffde
+      :name: The Other One
+      :segued: true
+    - :uuid: 234d5f70-9c3f-4ea1-9675-6ba92033c6ec
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 8b9d44f4-311f-492f-bf9b-f967a383456b
+      :name: Good Morning Little Schoolgirl
+      :segued: false
 1968/01/20:
   :uuid: 307814d5-509e-4115-93b7-1f5165304d00
   :venue: Eureka Municipal Auditorium
   :city: Eureka
   :state: CA
   :country: US
-  :sets: []
-1968/01/22:
-  :uuid: 364c1f00-b6c1-47e3-b2f9-ae2302d79f33
-  :venue: Eagles Auditorium
-  :city: Seattle
-  :state: WA
-  :country: US
-  :sets: []
-1968/01/23:
-  :uuid: 6570a1e1-3eea-43c8-a30c-31af5e3fc29b
-  :venue: Eagles Auditorium
-  :city: Seattle
-  :state: WA
-  :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2397f0d7-1841-4f2d-96f2-b7fb6050d91f
+    :songs:
+    - :uuid: 14ea6d6e-3314-499d-8473-f5f5d5253d5e
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 2481fd84-db62-4150-af6c-2f9b9796eb63
+      :name: The Other One
+      :segued: false
+    - :uuid: d189a104-2ad0-45d3-9fcf-e9e06d8e83a5
+      :name: Clementine
+      :segued: true
+    - :uuid: 74facdca-b7e7-4c7a-af6e-c1b225156439
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 708259cb-1a25-452d-9fe0-606a0c366757
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: 6b583c99-888a-478a-9052-f2c8f2505d25
+      :name: Feedback
+      :segued: true
+    - :uuid: 723e478d-3238-4b35-b864-628acd8fa286
+      :name: Spanish Jam
+      :segued: true
+    - :uuid: 83e4a5d5-45d8-40bf-967c-81ab5523117d
+      :name: Caution
+      :segued: true
+    - :uuid: 94f43992-7c3c-41f7-ba25-7fa9c845c7d7
+      :name: Dark Star
+      :segued: false
+    - :uuid: a71f6af1-33bb-4ccd-8f22-4851f9d2b55b
+      :name: Viola Lee Blues
+      :segued: false
 1968/01/26:
   :uuid: 61c2d049-e08c-4e81-bb9d-7094d325a5d0
   :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 0d1b8099-9c28-4587-9262-39364a555a80
+    :songs:
+    - :uuid: 82b90586-9179-490a-b20e-0e2e2030a5d5
+      :name: Alligator
+      :segued: true
+    - :uuid: b1482523-9429-407c-9cf3-600e073add08
+      :name: Drums
+      :segued: true
+    - :uuid: 86e150d8-7425-4666-aed3-e50801fa5a4e
+      :name: Alligator
+      :segued: false
+    - :uuid: 4f95c3b3-c9c4-4610-82d8-f9f1703abf5d
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 51b17a12-5620-47b6-a2fc-35d182deca11
+      :name: The Other One
+      :segued: true
+    - :uuid: 6f5de1f3-9a10-4e5e-beec-9fc6ea07936f
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: c2d4518a-397b-410b-b890-6a33578eaedc
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 8191cc28-d2d4-4da6-a647-cf11ea241667
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: ad948140-32a3-4196-83c9-76f84aa45e68
+      :name: Feedback
+      :segued: true
+    - :uuid: fc62df7f-69ea-441e-ba0c-d4378764ac7f
+      :name: Spanish Jam
+      :segued: true
+    - :uuid: 808075d9-cf38-44df-b924-a95c9511ac95
+      :name: Dark Star
+      :segued: true
+    - :uuid: 79669323-7464-4d0b-84ce-8b630f5f7bf6
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: ce8bd4a2-cea7-45f9-9e3e-af7c43ee2a78
+      :name: The Eleven
+      :segued: true
+    - :uuid: 8667bda0-e35d-48ff-a8e8-14d61dfee991
+      :name: Caution
+      :segued: true
+    - :uuid: baa6085a-a573-44aa-adc7-1a5476f19c62
+      :name: Feedback
+      :segued: false
 1968/01/27:
   :uuid: e2c53b26-e9c5-4aa5-8f36-2d8a43762e28
   :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 8ea0a79c-75c8-487a-95c7-10ac2b0ca0e4
+    :songs:
+    - :uuid: a4b4f148-a43d-4140-aadb-d4eaa09d5fff
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 02b80346-0822-4c04-aa74-538bae0e5ba1
+      :name: Dark Star
+      :segued: true
+    - :uuid: 9b79872c-edba-4e1e-90a9-948e9619393d
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: d40e1b24-b4fc-47ee-bca9-c8e05250ae7d
+      :name: The Eleven
+      :segued: false
+    - :uuid: bdd3d1e1-5b27-4531-af68-4185f337fbcf
+      :name: Viola Lee Blues
+      :segued: false
+  - :uuid: a5c8ed01-2454-41c7-9a82-39b7296f8920
+    :songs:
+    - :uuid: e520ae0a-63b7-4ce6-822d-7e06e3d8b216
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 05bbe6d5-514e-4591-a98d-bfeb09f3576f
+      :name: Hurts Me Too
+      :segued: false
+    - :uuid: 12ab6c16-5903-4f55-b176-ca9ef6273886
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 95b62182-9633-468c-9029-c962fea91b99
+      :name: The Other One
+      :segued: true
+    - :uuid: c9883d67-b8c9-4528-871f-057a9714b49b
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: fb324a38-711f-4b31-8458-f831c3d70a2b
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 8e772797-02db-4ffe-a666-f44b2010ee49
+      :name: Spanish Jam
+      :segued: false
 1968/01/29:
   :uuid: 8d9e5f00-e50e-49a0-bbe4-0973c08024ce
-  :venue: Portland State College
+  :venue: College Center Ballroom, Portland State College
   :city: Portland
   :state: OR
   :country: US
   :sets: []
 1968/01/30:
   :uuid: 3d46c3a5-42b2-4015-9287-dd4d806c084f
-  :venue: Erb Memorial Union
+  :venue: EMU Ballroom, University of Oregon
   :city: Eugene
   :state: OR
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 25ce8b8d-5752-4dbc-bd13-89f3895a0158
+    :songs:
+    - :uuid: 9d41dd74-79a7-41f9-8e09-9a01f1fca392
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 62c8f580-fde3-4ddd-ad91-7162fe47e669
+      :name: The Other One
+      :segued: true
+    - :uuid: be22612c-27f6-49a0-ba34-76327eb9e464
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: ca6fe6fb-5396-4716-9942-a556b3142927
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: 517c6771-1344-42cb-bdfc-c21eb2915a2f
+      :name: Gloria
+      :segued: false
 1968/02/02:
   :uuid: 3d30186a-d2c8-4b60-a3eb-cfa80b7a266a
   :venue: Crystal Ballroom
   :city: Portland
   :state: OR
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 90fbe070-b82c-4f2c-b3ae-41aae364c827
+    :songs:
+    - :uuid: 0446fc0e-cbb2-40a9-b62e-bc37343de07c
+      :name: Viola Lee Blues
+      :segued: true
+    - :uuid: 1437f995-0b33-4ed9-949d-8bd5e4452644
+      :name: Feedback
+      :segued: false
+    - :uuid: dc3ac4eb-916f-4ab9-8a2c-a202370aadcd
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: af267dc4-d7de-4476-a862-f4e94d23013f
+      :name: The Other One
+      :segued: true
+    - :uuid: 7624f27e-12fc-4754-9bae-ee88f2962ab4
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: a0c8da7b-cf3d-49ae-8cf2-d5810b188480
+      :name: Clementine
+      :segued: true
+    - :uuid: 83926cf3-a8e1-4d95-89dd-5325161f6a4c
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 240d2652-78c6-410c-9145-0d06845d446f
+      :name: Dark Star
+      :segued: false
 1968/02/03:
   :uuid: a2ed27b6-bf53-489d-ab0d-d9b956e34a8a
   :venue: Crystal Ballroom
   :city: Portland
   :state: OR
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 84410213-beac-4b63-ac9c-6a229cf22552
+    :songs:
+    - :uuid: 3d55caa5-8c33-4757-991a-70e95d728461
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: ec85aa83-5834-4802-a405-277f6b115bd0
+      :name: The Other One
+      :segued: true
+    - :uuid: 1f2697ab-869c-4610-98bd-4faf3df5559e
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 3dfefa62-28e6-4e2b-a2b4-2f0e72482c0c
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: 1db1552c-e434-48e0-a5d1-e8169efef419
+      :name: Hurts Me Too
+      :segued: false
+    - :uuid: b3d61b43-7f2c-4ad7-ab2f-795aa4adee05
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: 51154b69-2c3b-480e-aa14-010ccdd28887
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: db676f3e-b34f-454f-ae1f-0dc0d8fb9812
+      :name: Dark Star
+      :segued: true
+    - :uuid: fcbb2010-c93a-43db-872a-9f7f75325aca
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 14b25273-68c7-4db7-84d4-037676d50e8f
+      :name: The Eleven
+      :segued: true
+    - :uuid: 3a1f23c4-fd67-4e5a-a918-0c66de5d143e
+      :name: Feedback
+      :segued: false
 1968/02/04:
   :uuid: b6e8b6f2-2f59-4175-8729-118c95df9d31
-  :venue: South Oregon College Gym
+  :venue: Britt Ballroom, South Oregon College Gym
   :city: Ashland
   :state: OR
   :country: US
@@ -143,61 +318,70 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: dfddd2f6-466a-4a51-a4cf-1dcd8b38b284
+  - :uuid: 0a0ac6c2-c388-497b-8d59-1affa1c1b5b3
     :songs:
-    - :uuid: 2eb7b985-db45-4aa6-86a7-f54b45d7e521
+    - :uuid: 629719e0-bd45-444d-a956-2f8a433b6bb3
+      :name: Morning Dew
+      :segued: false
+    - :uuid: ce7a7672-cbec-4716-9689-933da44c4ad0
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 3f6399e1-23f2-4655-903e-bb42c981d2af
+    - :uuid: 02d8bb13-8d4f-4ac6-bf86-68815525dace
       :name: Dark Star
-      :segued: false
-    - :uuid: b68141c8-f192-4fc3-82b8-0a7e95fff49d
+      :segued: true
+    - :uuid: 115f11d4-7450-435e-a637-f1148a218852
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: cc268485-53ec-4ff6-b3f3-d9ebd33ba86e
+      :segued: true
+    - :uuid: 10ceac9f-7c6a-410d-8d79-1db9c410674b
       :name: The Eleven
-      :segued: false
-    - :uuid: ecaf7871-f88b-4ce2-888b-594a91ac1be1
+      :segued: true
+    - :uuid: f629ba14-e1c6-4653-8b16-ec5b9940602a
       :name: Turn On Your Lovelight
       :segued: false
-  - :uuid: d84fae0a-9dce-4ee0-a25e-968492802033
+  - :uuid: 6f1a614d-c3bd-4daf-ab44-9f0205d4f132
     :songs:
-    - :uuid: 631809d1-0d3f-43ee-8032-52e8c88f5889
+    - :uuid: 5ae9ec4e-4119-469b-82d1-c7d6897f6556
       :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: 517a7230-08a1-4287-8b69-451b0a3a18c3
+      :segued: true
+    - :uuid: 26619c72-6dcc-43c1-bc46-9219636d062a
       :name: The Other One
-      :segued: false
-    - :uuid: 1ab338dc-e9dd-4f5e-9a22-53c302a51326
+      :segued: true
+    - :uuid: 7ac2181b-c208-4395-ad3b-87bec9973e96
       :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: 8d6c6789-d347-4dcc-a0e4-08b90fc6aca6
+      :segued: true
+    - :uuid: e7b5986b-a4a7-43b4-aed6-4ccaa6016ed0
       :name: New Potato Caboose
-      :segued: false
-    - :uuid: 100d239c-11c3-4326-91cd-d7190e6476c9
-      :name: Born Cross Eyed
-      :segued: false
-    - :uuid: 8a63ed1c-a77a-4ab5-bd3d-7ff34e1e2b69
+      :segued: true
+    - :uuid: cc1e6b54-1a62-43d1-9a03-2d0ef14dc298
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: 85fcdc05-9513-402b-90db-8079e61c6555
       :name: Spanish Jam
       :segued: false
-    - :uuid: 563d5206-1455-4196-9012-d4fe2aea7b65
+    - :uuid: ff4ca435-fbcd-4f75-83c8-b447b7794efc
       :name: Alligator
-      :segued: false
-    - :uuid: e4e7d7f3-1ec9-498d-985d-5b442bfc4a3a
-      :name: Caution (Do Not Stop On Tracks)
-      :segued: false
-    - :uuid: d2ebec32-eff2-45eb-9c9d-fed2e7c11ef7
+      :segued: true
+    - :uuid: bf8c904b-b312-4541-9044-2fd225aca624
+      :name: Drums
+      :segued: true
+    - :uuid: b3817090-4618-4744-a0ef-9d5c46f81029
+      :name: Alligator
+      :segued: true
+    - :uuid: 95fbe848-8af7-4ddd-bab9-9c6fc13debb9
+      :name: Caution
+      :segued: true
+    - :uuid: fc75c18d-aad7-4daa-bccf-09b9262a3f12
       :name: Feedback
       :segued: false
-  - :uuid: 798041a7-c354-460d-9d8a-221f65ac1cc1
+  - :uuid: cdd2946e-cc13-4542-b883-f35b9f9bd993
     :songs:
-    - :uuid: c8c4bcb5-9c33-4928-aa78-4f29c8d6411f
-      :name: In The Midnight Hour
+    - :uuid: b136ee98-fb05-4887-baef-7728d1cc5517
+      :name: Midnight Hour
       :segued: false
-1969/02/15:
-  :uuid: fae07860-6984-4729-a3b1-21752bd66c01
-  :venue: San Quentin State Prison
-  :city: San Quentin
+1968/02/16:
+  :uuid: 9d2a9429-b42a-4486-88bc-e6ac008d756f
+  :venue: Stanislaus County Fairgrounds
+  :city: Turlock
   :state: CA
   :country: US
   :sets: []
@@ -207,132 +391,215 @@
   :city: Fresno
   :state: CA
   :country: US
-  :sets: []
-1968/02/22:
-  :uuid: 06467cf3-312f-416c-8adc-df4e1a7b2cd1
-  :venue: King's Beach Bowl
-  :city: Lake Tahoe
-  :state: CA
-  :country: US
-  :sets: []
-1968/02/23:
-  :uuid: 66a16cce-b978-41d1-be87-8c00a58231bf
-  :venue: King's Beach Bowl
-  :city: Lake Tahoe
-  :state: CA
-  :country: US
   :sets:
-  - :uuid: 2e26d2ce-16df-4efb-b9dc-110caf2e69a4
+  - :uuid: 83ea0c91-3545-4033-83fe-fac75174a9a1
     :songs:
-    - :uuid: f2185d0e-ce0e-4413-96f5-340522ade39f
-      :name: Viola Lee Blues
-      :segued: true
-    - :uuid: 2d03b8bf-4290-4936-a037-4fc2016c9294
-      :name: Drums
-      :segued: true
-    - :uuid: 05f7137e-9e13-4f15-a959-4211a4f52fbc
-      :name: Viola Lee Blues
-      :segued: false
-    - :uuid: b89ddc9b-913c-44ba-8b65-4c7c90ad8e29
-      :name: It Hurts Me Too
-      :segued: false
-    - :uuid: 00494290-f33f-4c31-bf45-9f9f4cf33d0b
-      :name: Dark Star
-      :segued: true
-    - :uuid: c5a86697-28d7-43ea-9fb4-33ebf3fe925c
-      :name: China Cat Sunflower
-      :segued: true
-    - :uuid: 7f351cc2-b078-4cf9-84e1-5d8ab0bcdf4c
-      :name: The Eleven
-      :segued: true
-    - :uuid: ba6bda52-c099-44cc-8ae0-db6b71bbc76d
-      :name: Turn On Your Lovelight
-      :segued: false
-    - :uuid: 5cd33aaf-75a2-4fa1-9c47-02c9cdfb6bd8
-      :name: Born Cross Eyed
-      :segued: true
-    - :uuid: a635e8bb-829a-47cb-9e5d-85bd9bca60e7
-      :name: Spanish Jam
-      :segued: false    
-1968/02/24:
-  :uuid: 2cd7099f-f448-4e9b-8579-52504fa520ee
-  :venue: King's Beach Bowl
-  :city: Lake Tahoe
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: bc96e302-58fc-4a7e-9ff0-0dd01b5d02eb
-    :songs:
-    - :uuid: 4dadaaf9-f415-4e17-99e5-805acfe9eae8
-      :name: Morning Dew
-      :segued: false
-    - :uuid: 92874ba9-c63d-4097-9e41-56beeaf90af1
+    - :uuid: ffa02ecf-e826-4aac-8b10-f66116d5c7e3
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 82c2da8d-0d3d-42ed-b08a-8d9af5b1e69d
-      :name: Cryptical Envelopment
+    - :uuid: 47cf3c7f-ea9e-4023-a18e-2ddd9999f8aa
+      :name: Turn On Your Lovelight
       :segued: false
-    - :uuid: 10f2866a-0348-411a-adea-5a4e2e9f8f0d
+1968/02/22:
+  :uuid: 06467cf3-312f-416c-8adc-df4e1a7b2cd1
+  :venue: Kings Beach Bowl
+  :city: Lake Tahoe
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 0dcf0514-6eb5-473a-bb4a-edbc7dd48e49
+    :songs:
+    - :uuid: 145580e6-2778-458b-91b0-2db4a7d3f396
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 8ea68e2f-b663-47f0-bdec-18f76238fcfe
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 95d36741-0b54-4db2-8386-5f9db9af326f
+      :name: Hurts Me Too
+      :segued: false
+    - :uuid: de694e57-fc24-4678-9d92-3a45a622fe0d
+      :name: Dark Star
+      :segued: true
+    - :uuid: 8bb2a82f-d1fb-4bcb-89e8-92f514db7e9d
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 57bb643f-7c13-4053-bba4-738711b8e6ef
+      :name: The Eleven
+      :segued: true
+    - :uuid: 9b58f7c1-e432-4453-a3b6-62f99b34d4a6
+      :name: Caution
+      :segued: false
+1968/02/23:
+  :uuid: 66a16cce-b978-41d1-be87-8c00a58231bf
+  :venue: Kings Beach Bowl
+  :city: Lake Tahoe
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: f46d6587-5dd2-4ebf-8efb-d9afba5fe1ec
+    :songs:
+    - :uuid: 944c9c6c-b4ae-414e-9ea4-f2744947bc2b
+      :name: Viola Lee Blues
+      :segued: true
+    - :uuid: 20c68142-0816-475c-b431-545b0cd679a5
+      :name: Drums
+      :segued: true
+    - :uuid: b46fe3d3-35ad-42ed-9f48-b3046a575aa3
+      :name: Viola Lee Blues
+      :segued: true
+    - :uuid: 39448f29-b2cc-49e2-99eb-6c75d5aba240
+      :name: Feedback
+      :segued: false
+    - :uuid: 5bc1225b-f933-4403-8d9d-f70107fbc555
+      :name: Hurts Me Too
+      :segued: false
+    - :uuid: e1026c54-c699-4eb6-97ab-e443337a794d
+      :name: Dark Star
+      :segued: true
+    - :uuid: d4c9ba83-6877-406c-a709-dfffd8f88516
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 4ecaf53f-7cde-465a-97b7-9ebec6e9f458
+      :name: The Eleven
+      :segued: true
+    - :uuid: 8b8ad738-c227-42f2-845b-f73163b7d31e
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 9e30019e-ddfc-4127-a0f5-83fe35efe200
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: e053169e-326f-49be-8d51-5a0e6603c20c
+      :name: Spanish Jam
+      :segued: false
+1968/02/24:
+  :uuid: 2cd7099f-f448-4e9b-8579-52504fa520ee
+  :venue: Kings Beach Bowl
+  :city: Lake Tahoe
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 7ffe2dc4-7ce5-4d6b-a6e7-f8fb14bf2365
+    :songs:
+    - :uuid: b1af0830-048f-4f42-bcf4-755de5001b0a
+      :name: Morning Dew
+      :segued: false
+    - :uuid: e43ec337-ed6f-4b6d-b218-2a92140a01de
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 8e2b5b1b-176c-4b2e-b54c-02e09e43382a
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 19fbfcc3-db0b-4d77-86a9-7c0a72132776
       :name: The Other One
-      :segued: false
-    - :uuid: 32e1ad0f-c2a8-4e7f-938b-bdafe41d6737
+      :segued: true
+    - :uuid: 9de95484-7534-4b39-8c5a-8e0f89d21867
       :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: fa45b407-7945-425c-816d-cef17b7eb002
+      :segued: true
+    - :uuid: 63110908-6882-4539-995b-b65c391ace3e
       :name: New Potato Caboose
       :segued: false
-    - :uuid: df19d828-85f3-485b-a13f-426fc3b3c731
+    - :uuid: 09527123-c270-40fb-b234-21e22504087f
       :name: Alligator
-      :segued: false
-    - :uuid: 10a5bc48-a651-4dd2-a784-8294f7ff22d5
-      :name: Drums
-      :segued: false
-    - :uuid: c4839370-45f9-4797-a303-79120bd2c767
+      :segued: true
+    - :uuid: 5f36cecb-8ec2-4159-adb8-9cfcb0c99731
       :name: China Cat Sunflower
-      :segued: false
-    - :uuid: 205bb066-227d-4ac9-8c98-5b4641187863
+      :segued: true
+    - :uuid: d061147a-89fb-4a1e-84b0-18c900803bdc
       :name: The Eleven
-      :segued: false
-    - :uuid: 0cb139c2-a7a5-4bbd-b18c-6bf76b80dfbb
-      :name: Alligator
-      :segued: false
-    - :uuid: d34dacdf-7aee-4805-b757-ee6d24e178d5
+      :segued: true
+    - :uuid: 0d1b0230-1d79-4495-9a03-d3d53e717b58
       :name: Drums
-      :segued: false
-    - :uuid: a33dbcee-2609-49c0-88eb-21c28e8c4165
+      :segued: true
+    - :uuid: 7c6ed06d-ab9b-42ba-8200-3ac00e7e92bc
       :name: Alligator
-      :segued: false
-    - :uuid: 776d9898-a195-4874-ba13-620d97ac0b91
-      :name: Caution (Do Not Stop On Tracks)
-      :segued: false
-    - :uuid: 01c1c425-b2e8-44ac-b04a-4e53ddac69ac
+      :segued: true
+    - :uuid: a148a2bb-3a56-4aa4-8f57-c8150a6d4877
+      :name: Caution
+      :segued: true
+    - :uuid: d40a5581-205a-444a-aa0f-0e367292a803
       :name: Feedback
       :segued: false
 1968/03/01:
   :uuid: 8b8548cf-8f72-4798-80a8-5f8ad7a609df
-  :venue: 1300 Boulevard Way
+  :venue: Clifford's Catering
   :city: Walnut Creek
   :state: CA
   :country: US
   :sets: []
 1968/03/02:
   :uuid: ccdb9216-7c50-4ff9-9bd4-aeeebfcffe3e
-  :venue: 1300 Boulevard Way
+  :venue: Clifford's Catering
   :city: Walnut Creek
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: f1c6e630-1bce-4b5e-86c9-74712490c2ae
+    :songs:
+    - :uuid: 6a9574ff-0a03-43c6-8580-e98d0d35d8f2
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: e86147b9-6b85-409a-85f0-c436bde0de74
+      :name: Turn On Your Lovelight
+      :segued: false
 1968/03/03:
   :uuid: 11824844-ab3e-4890-afdb-e7e49774037a
   :venue: Haight Street
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
-1968/03/07:
-  :uuid: f7aace4a-2e3a-49bc-a9b3-e709a4129fd6
-  :venue: San Quentin State Prison
-  :city: San Quentin
+  :sets:
+  - :uuid: fecab02b-c957-4fe1-96d9-8b4e5a6a4a40
+    :songs:
+    - :uuid: 11eec55a-d073-495c-b368-1aa900fbe5ce
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: d81afcc4-9853-41b7-bc64-248854da5942
+      :name: Smokestack Lightning
+      :segued: false
+    - :uuid: 37341c41-59e8-40aa-823b-18f76642783e
+      :name: Turn On Your Lovelight
+      :segued: true
+    - :uuid: 802ffe59-1db3-400a-b83e-32b9cc6ec1db
+      :name: Drums
+      :segued: true
+    - :uuid: e594c54c-c1ef-49b5-938b-d8642b72206e
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 5729dc7e-fc03-482a-b752-b1fe4d70b8ed
+      :name: Hurts Me Too
+      :segued: false
+    - :uuid: c22392dd-1c05-4af7-ab1b-16f1fdefdbad
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 5e41cb28-4034-47fb-b73b-f7963a9b0dec
+      :name: The Other One
+      :segued: true
+    - :uuid: 0731fa20-755e-426a-898a-f011ad3e4677
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 76d990ae-5235-4967-829d-4d1478c8376a
+      :name: Dancin' In The Streets
+      :segued: false
+1968/03/08/0:
+  :uuid: 7461d608-9834-45b8-949f-ca5acb0be0b6
+  :venue: Melodyland Theatre
+  :city: Anaheim
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 44537474-6f74-4f0e-a80c-3aaa88512bbe
+    :songs:
+    - :uuid: 59b965bd-e59b-402b-8881-bc1ff36d9e58
+      :name: China Cat Sunflower
+      :segued: false
+    - :uuid: 8e920ce3-cdcf-4c8b-8b3f-86ff789e42b8
+      :name: And We Bid You Good Night
+      :segued: false
+1968/03/08/1:
+  :uuid: 7461d608-9834-45b8-949f-ca5acb0be0b6
+  :venue: Melodyland Theatre
+  :city: Anaheim
   :state: CA
   :country: US
   :sets: []
@@ -344,7 +611,7 @@
   :country: US
   :sets: []
 1968/03/09/1:
-  :uuid: 28d0b941-56fe-4098-896e-34ad704d3179
+  :uuid: 66282770-8884-4639-bcac-516afb6950e6
   :venue: Melodyland Theatre
   :city: Anaheim
   :state: CA
@@ -356,78 +623,182 @@
   :city: Sacramento
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 352912a5-1ca8-437e-87de-bc7bd0d5d856
+    :songs:
+    - :uuid: 6176f047-ceb8-4fa6-a48d-88b1b01d4ca6
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 21e18e2f-1b7d-4320-a679-dfd7cb242bcd
+      :name: The Other One
+      :segued: true
+    - :uuid: b053065a-ec4a-4074-b622-8d7fc05e564b
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: fafe1de9-977f-4eb7-8902-0a735387a9c5
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 983627b2-340b-45e4-bfb0-e5e50924746e
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: f878de8b-f9c9-427d-b3eb-560e35f1d0c2
+      :name: Caution
+      :segued: false
+    - :uuid: b2125a67-de8c-47b3-a2c6-dae30b2f160d
+      :name: Feedback
+      :segued: true
+    - :uuid: 20f5ff1c-793f-4432-9dd6-55309133d971
+      :name: And We Bid You Good Night
+      :segued: false
 1968/03/15:
   :uuid: 220d6e7a-01b9-4205-87dc-8508b9aaa32d
   :venue: Carousel Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets:
-  - :uuid: a1aa2ad8-e0fb-4b8c-b689-85dd76dd2201
-    :songs:
-    - :uuid: bfc37bfd-7759-4966-89f0-aaba82bd0132
-      :name: Dark Star
-      :segued: false
-    - :uuid: 42ca273a-ef33-41b9-a5af-458e95a01d57
-      :name: China Cat Sunflower
-      :segued: false
-    - :uuid: b731c591-54f0-4c69-ac38-7af551b9efdc
-      :name: The Eleven
-      :segued: false
-    - :uuid: dfdc4723-9039-4cd2-ac73-b8319b756121
-      :name: Good Morning Little Schoolgirl
-      :segued: false
-  - :uuid: df087f6f-6970-4e2e-ac7e-24d4179d249f
-    :songs:
-    - :uuid: 09d904e2-9308-4966-bde0-a488cc105891
-      :name: Morning Dew
-      :segued: false
-    - :uuid: 79cb49b6-ddf8-4b4a-ac23-49f896ec7f75
-      :name: It Hurts Me Too
-      :segued: false
-    - :uuid: e3e8858b-c3a3-4e1d-a55f-3b77d9885f22
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: 3c824527-c360-49a1-abec-1e14825b9d34
-      :name: The Other One
-      :segued: false
-    - :uuid: fed7c0f3-1fb5-48fa-b446-43b54e1f2559
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: cdf40321-18a5-4564-b540-1ad528a4be17
-      :name: Alligator
-      :segued: false
-    - :uuid: 4387c710-2c92-4f07-ab49-e353dcad4260
-      :name: Caution (Do Not Stop On Tracks)
-      :segued: false
-    - :uuid: 4fd5ae89-8dcb-49c3-be2c-8b14792b2518
-      :name: Feedback
-      :segued: false
-    - :uuid: fd1912f9-5426-48b0-b35a-af2efa81d919
-      :name: And We Bid You Good Night
-      :segued: false
+  :sets: []
 1968/03/16:
   :uuid: 0b2a9d1f-0e3f-46af-839e-9bdf9f1993ac
   :venue: Carousel Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2f39322c-dbe0-4c63-8a57-00e91bb3d0fb
+    :songs:
+    - :uuid: 2fc1c08d-f8b5-4c65-91d3-865c38009713
+      :name: Dark Star
+      :segued: true
+    - :uuid: b7cb9136-1001-47fb-96fe-c448ac9c6218
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: dd8d175f-9eda-4859-aade-83d05a02d1a3
+      :name: The Eleven
+      :segued: true
+    - :uuid: 57dfa6a3-3907-46a1-a095-f47818ed6c55
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+  - :uuid: c183ebdb-ef9c-44af-a5c1-50428510822b
+    :songs:
+    - :uuid: 5746c565-d35c-4bc7-be20-19a0532ea184
+      :name: Morning Dew
+      :segued: false
+    - :uuid: ea2a4afd-8ded-4bbb-88ae-46d908585389
+      :name: Hurts Me Too
+      :segued: false
+    - :uuid: 1b05a4f5-79cc-4a12-8edb-361d376767b5
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: b4724a0f-1a33-4c14-b1c6-a11123a5e6d6
+      :name: Drums
+      :segued: true
+    - :uuid: f88bb592-d206-4026-9a0d-85144d13239b
+      :name: The Other One
+      :segued: true
+    - :uuid: fe5a543b-195f-4a28-a3fa-531a36132392
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: a1994089-babc-40e0-bf0c-a396d0a57fd4
+      :name: Alligator
+      :segued: true
+    - :uuid: f671438d-e34e-40d1-ac47-d5890d2baa9c
+      :name: Drums
+      :segued: true
+    - :uuid: 2d79caf4-5363-4553-8f7e-1c62fd2dea76
+      :name: Alligator
+      :segued: true
+    - :uuid: 4d837fd2-df6d-4842-ba37-294ea76dda11
+      :name: Caution
+      :segued: true
+    - :uuid: d7c736c1-c571-4f47-a8ed-4284374a433e
+      :name: Feedback
+      :segued: true
+    - :uuid: 6da45cad-ca30-4285-88cc-c7f1a13e3b5a
+      :name: And We Bid You Good Night
+      :segued: false
 1968/03/17:
   :uuid: 7c4ef0fa-d065-4f33-a9d7-c9ee0fa2fc90
   :venue: Carousel Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 40e12a52-d18d-40ad-9250-251f7a501c9a
+    :songs:
+    - :uuid: 90be5c4d-63da-4502-b884-ee2fc73e47d1
+      :name: Dark Star
+      :segued: true
+    - :uuid: f81c7c78-38ab-4648-9a38-3b322b0f9598
+      :name: Born Cross-Eyed
+      :segued: false
+    - :uuid: a3c52ac5-c9fe-4c37-9767-294b6ece3f0f
+      :name: Turn On Your Lovelight
+      :segued: true
+    - :uuid: e7381d13-cab2-491e-b9d1-d4187ddb340c
+      :name: Drums
+      :segued: true
+    - :uuid: af63aaf2-b31e-489b-983a-30a308e8e2b0
+      :name: Turn On Your Lovelight
+      :segued: false
+  - :uuid: 349fd8eb-c6df-48df-8dea-f342d27ce315
+    :songs:
+    - :uuid: e305490a-20e0-4926-830c-e06fe4a49a79
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 4b0cfa0a-ba6f-4d56-a4b7-f5090edb6428
+      :name: Drums
+      :segued: true
+    - :uuid: 67c35bc0-d9b2-4787-8ffc-d10806a9a606
+      :name: The Other One
+      :segued: true
+    - :uuid: 6203e622-a252-4e85-9e25-76f44741a1a0
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 9fba1fcd-dbc9-4b4e-8856-b808ae32e70a
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: 16023fb6-6eda-4826-b780-84e6b0a79e1d
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 4f17ead6-c1b6-4959-9a20-80eb89c67446
+      :name: The Eleven
+      :segued: true
+    - :uuid: 18490a63-87c3-4f33-9bb0-f102f1dab40d
+      :name: Caution
+      :segued: true
+    - :uuid: b23b5675-4b9a-49ad-8933-aa507c80a7ee
+      :name: Drums
+      :segued: true
+    - :uuid: 9fcfd0f0-2af1-40f1-887c-461cc2b99df0
+      :name: Caution
+      :segued: true
+    - :uuid: e0128852-153c-40ec-83f0-cf2bbdaff8f1
+      :name: Drums
+      :segued: true
+    - :uuid: 64ed5afe-bbac-484e-b849-b3076d71b190
+      :name: Caution
+      :segued: true
+    - :uuid: 97d46a9d-19c6-43f9-9176-0721c5dfc2a4
+      :name: Feedback
+      :segued: false
 1968/03/20:
   :uuid: 1f741dfc-c105-48a4-a821-1ca849e48797
   :venue: Avalon Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: eeb35718-166c-4722-9fcb-9ca31ae12159
+    :songs:
+    - :uuid: 4ab88d72-61e3-4c40-9ebf-84ba3be470e3
+      :name: Morning Dew
+      :segued: false
+    - :uuid: f286e814-03c2-4238-8383-22a5bdec07f8
+      :name: Dark Star
+      :segued: false
+    - :uuid: 6189abb4-5df4-4cd0-9450-452e2c2331e3
+      :name: Turn On Your Lovelight
+      :segued: false
 1968/03/22:
   :uuid: 1e8c7ec4-7fb4-4f5e-9b94-2dcd255ca732
   :venue: State Fair Coliseum
@@ -435,92 +806,221 @@
   :state: MI
   :country: US
   :sets: []
-1968/03/23:
-  :uuid: 387670fd-cd76-4696-b631-df15b30d4dec
-  :venue: State Fair Coliseum
-  :city: Detroit
-  :state: MI
-  :country: US
-  :sets: []
-1968/03/26:
-  :uuid: 89acf864-0b80-49c4-97a3-01d324a62917
-  :venue: Carousel Ballroom
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets:
-  - :uuid: 8ca62111-3785-438d-97d9-7c3e468eaf47
-    :songs:
-    - :uuid: 4d1bb1d3-740b-4fbf-ba6d-ffdfc6ef27c5
-      :name: Morning Dew
-      :segued: false
-    - :uuid: df6c6e9f-07b4-4406-be86-8046aa62a2b4
-      :name: Turn On Your Lovelight
-      :segued: false
-    - :uuid: 3684e0dc-0c51-4026-b7f8-d7b02d1d796d
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: cf2c30fc-3ab4-4f0c-83a0-416249072ba9
-      :name: The Other One
-      :segued: false
-    - :uuid: 6099ac80-d27a-42d2-84e9-9e8b06152546
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: b4395910-d2ba-48ea-9195-f2c7007b769f
-      :name: New Potato Caboose
-      :segued: false
-    - :uuid: d1a65c61-2dac-4aec-9296-ab94ccc052b4
-      :name: Born Cross Eyed
-      :segued: false
 1968/03/29:
   :uuid: abf95adf-ab59-4b9d-9fc8-a51b86a8ecc3
   :venue: Carousel Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: da21eea1-986e-40de-8ca2-0f1964e6a35c
+    :songs:
+    - :uuid: b70947a6-ffaa-4451-b0dd-f9a4bd082bf1
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 254e3e42-52ef-44e2-a487-750d9de9f353
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 2f60ec22-904b-4041-babc-68712018ae92
+      :name: Sitting On Top Of The World
+      :segued: false
+    - :uuid: a7f6fa08-508a-455a-8c20-a245407faee7
+      :name: Dark Star
+      :segued: false
+    - :uuid: 156427e9-a206-48fb-be2e-5e16be5b31f7
+      :name: Morning Dew
+      :segued: false
+    - :uuid: fbc21af7-355c-40f8-89b2-53560fb9812b
+      :name: Turn On Your Lovelight
+      :segued: true
+    - :uuid: 4a9b7ca6-ff93-4b27-a64e-bff4e5f09b8a
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 7b6006bf-5194-46e4-add2-cd4d094d2ced
+      :name: Drums
+      :segued: true
+    - :uuid: 038b817b-1ac3-4e69-a800-d8101c65a158
+      :name: The Other One
+      :segued: true
+    - :uuid: 8d560a26-b16b-4d06-8760-11d02fb2a3ce
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 0862392c-375e-42cd-ae4f-4a39b27b21d1
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 49370fa5-4049-4544-850a-e0206d1fc54c
+      :name: Born Cross-Eyed
+      :segued: false
 1968/03/30:
   :uuid: 07679958-7e25-4d7e-b792-928f7e93babe
   :venue: Carousel Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 37268f9a-5dbb-47ad-9df6-f013e312dac1
+    :songs:
+    - :uuid: 54c42bfa-a6f3-4ad1-b731-436f43dc7c1a
+      :name: Morning Dew
+      :segued: false
+    - :uuid: b124fe8f-09a1-4fff-897d-6a28a063432e
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: bbc97dab-16e5-42ba-96ec-5784b06cd7ca
+      :name: Drums
+      :segued: true
+    - :uuid: 5cc679c8-9054-4c94-9637-4dba93557340
+      :name: The Other One
+      :segued: true
+    - :uuid: 69b74a42-6ab8-4c0c-b8b7-e6da9e82f6a6
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 9d709099-14ff-40e7-9eea-c186bae6ba88
+      :name: Dark Star
+      :segued: true
+    - :uuid: 9f8c21f6-9dbd-4a24-9c0c-b1e8bd6c528c
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 7f9eabec-3def-4fac-a9c7-1099e5eb8641
+      :name: The Eleven
+      :segued: true
+    - :uuid: 0c63b593-3334-4a14-832e-2ddc055ba0fb
+      :name: Turn On Your Lovelight
+      :segued: true
+    - :uuid: 677df8b9-a4ba-49ec-85d2-0856b0316e3b
+      :name: Drums
+      :segued: true
+    - :uuid: e10d5243-d4ea-4ee5-9773-be0586537379
+      :name: Turn On Your Lovelight
+      :segued: false
+  - :uuid: 1cb413e2-d4d9-42ec-86ea-32e9aa3c1252
+    :songs:
+    - :uuid: d8df4efe-9288-4a73-94b8-157665478782
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: 58b73065-39d8-4d81-970d-dcc6f8462523
+      :name: Feedback
+      :segued: true
+    - :uuid: 67da606d-62aa-45a0-a725-84482816be44
+      :name: Spanish Jam
+      :segued: true
+    - :uuid: 96220b11-c15d-4eb9-b2bf-41b3193a4c7d
+      :name: Death Don't Have No Mercy
+      :segued: false
 1968/03/31:
   :uuid: da34d96a-265f-4a45-bb4b-237cad5f0446
   :venue: Carousel Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 1aec69db-ffb0-4a0e-b980-fe87378d4741
+    :songs:
+    - :uuid: 364eee7c-24c4-464d-a443-f199b3255e53
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 50a1089f-4e9d-4269-b602-fa323ca551e8
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: e1ceddfa-94c8-4c76-9ec9-ee594878b797
+      :name: Dancin' In The Streets
+      :segued: false
+    - :uuid: 2c981da3-4bc5-4c00-a006-40ec9574b5e9
+      :name: Caution
+      :segued: true
+    - :uuid: 14192c6a-7d9a-41e8-a299-3e20b42e1d91
+      :name: Feedback
+      :segued: true
+    - :uuid: efbec7f1-04d7-4036-b3e1-94009da11075
+      :name: And We Bid You Good Night
+      :segued: false
 1968/04/03:
   :uuid: 02d8ffa5-0fc3-4aec-830f-d58c340ae861
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
+  :country: US
+  :sets:
+  - :uuid: c69a5e91-19c0-4b5d-acc8-964d7c5f116b
+    :songs:
+    - :uuid: e4e83cc1-a285-475c-98b9-23c1e076e0dd
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 9e51704f-9209-4527-8515-4d33f45a7bb3
+      :name: The Other One
+      :segued: true
+    - :uuid: b914ee0d-7c44-4af8-a8e5-18be630cfb44
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: dd0e0b19-4ea9-4a85-af5f-0f676ab0c352
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 523e159f-7163-4864-926c-eb4134aab67b
+      :name: Born Cross-Eyed
+      :segued: false
+    - :uuid: 53993919-a24e-4e5b-9567-f5b53ae4f031
+      :name: Alligator
+      :segued: true
+    - :uuid: caf796a3-e32b-4ad9-a1d4-b49e19ff88b5
+      :name: Caution
+      :segued: false
+1968/04/12:
+  :uuid: b2519e61-46d1-4a5b-8c5c-50728b2c60e8
+  :venue: Thee Image
+  :city: Sunny Isles Beach
+  :state: FL
+  :country: US
+  :sets: []
+1968/04/13:
+  :uuid: 5cd3e3fc-4e45-4df7-a3e2-c374e140112d
+  :venue: Thee Image
+  :city: Sunny Isles Beach
+  :state: FL
+  :country: US
+  :sets: []
+1968/04/14/0:
+  :uuid: d14dc445-e9e7-4d90-aa17-b9c94a6fcd91
+  :venue: Greynolds Park
+  :city: North Miami Beach
+  :state: FL
+  :country: US
+  :sets: []
+1968/04/14/1:
+  :uuid: d14dc445-e9e7-4d90-aa17-b9c94a6fcd91
+  :venue: Thee Image
+  :city: Sunny Isles Beach
+  :state: FL
   :country: US
   :sets: []
 1968/04/19:
   :uuid: 6e6df4bb-eb39-4946-866d-ab4ab3f83cb2
   :venue: Thee Image
-  :city: Miami
+  :city: Sunny Isles Beach
   :state: FL
   :country: US
   :sets: []
 1968/04/20:
   :uuid: 1393a92a-5283-44cd-bb15-135e99858716
   :venue: Thee Image
-  :city: Miami
+  :city: Sunny Isles Beach
   :state: FL
   :country: US
   :sets: []
 1968/04/21:
   :uuid: 6e7799f8-faeb-451b-a509-672158e82dd2
   :venue: Thee Image
-  :city: Miami
+  :city: Sunny Isles Beach
   :state: FL
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 5bbbb5f3-0bc6-42f0-b790-c327362f6144
+    :songs:
+    - :uuid: 77d4cf9f-680b-4330-8ee9-565653f74803
+      :name: Dark Star
+      :segued: false
+    - :uuid: 1a975881-d313-49b3-9a92-97b7dcfdaf80
+      :name: Alligator
+      :segued: false
 1968/04/26:
   :uuid: 5c92a7fe-8d17-42f6-90bc-b349e20839b7
   :venue: Electric Factory
@@ -544,22 +1044,36 @@
   :sets: []
 1968/05/03:
   :uuid: 426c1e1c-e550-43ee-b2d1-a2bda5d8f566
-  :venue: Low Library Plaza
-  :city: New York
-  :state: NY
-  :country: US
-  :sets: []
-1968/05/04:
-  :uuid: 774061a5-a01d-41d1-8d81-9cda8691fdda
-  :venue: Central Park
+  :venue: Ferris Booth Hall terrace, Columbia University
   :city: New York
   :state: NY
   :country: US
   :sets:
-  - :uuid: 16b4068c-427d-4f36-afd4-d1443c7a25c7
+  - :uuid: 742485c8-b9b1-4471-8de3-07ba9479eb64
     :songs:
-    - :uuid: 31bbc873-60b8-414c-a0bd-9b76045fd302
+    - :uuid: 53e1ed26-09b1-4d06-a3aa-80a390e0b90d
       :name: Morning Dew
+      :segued: false
+    - :uuid: f0563bf3-c4eb-480f-8d3c-d63f6b260d92
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 944ac14a-2e26-47f7-add1-6c08d105375e
+      :name: The Other One
+      :segued: true
+    - :uuid: 99e3f2a2-dc92-45f2-83f6-c15ef1f2acc7
+      :name: Cryptical Envelopment
+      :segued: false
+1968/05/04:
+  :uuid: 774061a5-a01d-41d1-8d81-9cda8691fdda
+  :venue: Pritchard Gym, S.U.N.Y.
+  :city: Stony Brook
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 8bad0c0d-6220-487d-aeb0-e4afa62f6abd
+    :songs:
+    - :uuid: f80d778d-23db-4436-9b47-295934b2986e
+      :name: Good Morning Little Schoolgirl
       :segued: false
 1968/05/05:
   :uuid: 446e3f4e-6886-4985-9366-20973ae0da08
@@ -567,21 +1081,69 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 6a77c622-58f3-4b9d-a7c0-128fa2e67b0e
+    :songs:
+    - :uuid: d1f75941-6bbe-434d-af79-43e456bb2a6e
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 93d51903-998f-4cc3-8b87-f21be580ed62
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: d4b09da8-550c-4252-895c-e267ddaf82b8
+      :name: The Other One
+      :segued: true
+    - :uuid: 483d182f-e775-40e8-9111-dddf85fb87e3
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 6fe6c98c-73d4-4fe2-8fe6-aa98daae20e0
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: 85dc1a52-b1e8-4faf-9d24-db2a61cfc380
+      :name: Alligator
+      :segued: false
+    - :uuid: 689ccf36-bdff-4517-ba99-32ba3e0c1196
+      :name: Turn On Your Lovelight
+      :segued: false
 1968/05/07/0:
   :uuid: bd8fe189-2345-4d59-a283-49924a224b8c
   :venue: Electric Circus
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 433cec84-29db-4400-8902-c843a3592693
+    :songs:
+    - :uuid: 4c777201-9412-429b-bb07-c0234cb1aaa1
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 2d7f3015-d27a-47da-8c85-b0eca3b743ed
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 7aa76daa-7df1-4ad1-a2c8-d477e10d75e2
+      :name: Morning Dew
+      :segued: false
+    - :uuid: e384ca8f-e8d1-409c-8942-793a20adc965
+      :name: Turn On Your Lovelight
+      :segued: false
 1968/05/07/1:
-  :uuid: e5ae83f1-00c1-4cad-8db2-10b08875c812
+  :uuid: bd8fe189-2345-4d59-a283-49924a224b8c
   :venue: Electric Circus
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: c5fe0877-0e40-43bf-b4e3-d6ec71940587
+    :songs:
+    - :uuid: 4ef28704-7376-4a12-8c3c-1209668f0c1b
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: 2234a9ee-0815-4388-8042-0686f5b17659
+      :name: Alligator
+      :segued: true
+    - :uuid: 83aeb092-7116-4db0-ac04-07ba0368eb88
+      :name: Caution
+      :segued: true
 1968/05/08/0:
   :uuid: 4354d1af-7d3e-4e2c-b1b2-2e4560a8215e
   :venue: Electric Circus
@@ -590,7 +1152,7 @@
   :country: US
   :sets: []
 1968/05/08/1:
-  :uuid: 2212e933-0fdd-444b-97e1-fbcc36029af8
+  :uuid: 4354d1af-7d3e-4e2c-b1b2-2e4560a8215e
   :venue: Electric Circus
   :city: New York
   :state: NY
@@ -604,15 +1166,27 @@
   :country: US
   :sets: []
 1968/05/09/1:
-  :uuid: 1632ab49-b641-4c42-a789-a544a9610792
+  :uuid: 1aa9cc9f-42fb-4d7f-a71c-382492e427b3
   :venue: Electric Circus
   :city: New York
   :state: NY
   :country: US
+  :sets:
+  - :uuid: 06038de5-e121-44dd-b15f-6f700320b979
+    :songs:
+    - :uuid: 36e3ba5c-a86c-4e6e-ac8b-e139b0315d81
+      :name: He Was A Friend Of Mine
+      :segued: false
+1968/05/12/0:
+  :uuid: c3339361-1086-414a-b5aa-8e7596b77c58
+  :venue: Virginia Beach Civic Center
+  :city: Virginia Beach
+  :state: VA
+  :country: US
   :sets: []
-1968/05/11:
-  :uuid: 7692a038-5a2e-48d8-b5a9-6f5e6b765b9f
-  :venue: The Dome
+1968/05/12/1:
+  :uuid: c3339361-1086-414a-b5aa-8e7596b77c58
+  :venue: Virginia Beach Civic Center
   :city: Virginia Beach
   :state: VA
   :country: US
@@ -623,60 +1197,43 @@
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 6d6faa49-aac7-4e8f-a7d3-0a315718bb3d
+    :songs:
+    - :uuid: 77de38a8-c88a-4fd3-807c-fa3636950fb2
+      :name: Morning Dew
+      :segued: false
 1968/05/18/0:
   :uuid: 086d10b3-9a6b-4be2-9738-473aad53374d
   :venue: Santa Clara County Fairgrounds
-  :city: Santa Clara
+  :city: San Jose
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: efa801bc-28c5-463b-aabf-12cf86e5c577
+    :songs:
+    - :uuid: 0627b684-443f-45eb-8016-d0243fd83129
+      :name: Alligator
+      :segued: true
+    - :uuid: c248fb98-d1fb-4c7b-8e58-b2b33ab7e914
+      :name: Drums
+      :segued: true
+    - :uuid: fee6e287-b71d-4878-90ba-23812049d166
+      :name: Alligator
+      :segued: true
+    - :uuid: 2048269d-ee18-4c7a-b882-46cae2b82dd5
+      :name: Caution
+      :segued: true
+    - :uuid: 5617baa6-2245-4221-b78c-4a9c2a1ae9be
+      :name: Feedback
+      :segued: false
 1968/05/18/1:
-  :uuid: bbd21a75-36db-498a-a687-016c729ec086
+  :uuid: 086d10b3-9a6b-4be2-9738-473aad53374d
   :venue: Shrine Exhibition Hall
   :city: Los Angeles
   :state: CA
   :country: US
   :sets: []
-1968/05/23:
-  :uuid: 7fee3706-a6f4-4f8e-b38d-b7323f269259
-  :venue: National Guard Armory
-  :city: St. Louis
-  :state: MO
-  :country: US
-  :sets:
-  - :uuid: c983a961-3bcd-4814-a78c-9243a2f13df2
-    :songs:
-    - :uuid: 12f61f7e-313f-4af8-99b3-36e1cc634a59
-      :name: Turn On Your Lovelight
-      :segued: false
-    - :uuid: 65d9e809-9f6e-4b81-a7f7-4c3d5d710aba
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: 43ff6c6f-63e4-40d0-8c02-51a953767f7e
-      :name: The Other One
-      :segued: false
-    - :uuid: bd564b2a-05c8-47e5-b33d-f816c9bbc644
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: 68e826c7-188e-4e55-88d3-96e6157a9f35
-      :name: Dark Star
-      :segued: false
-    - :uuid: bd3998b8-d6ac-4c56-9d76-f0838b3a39e8
-      :name: Saint Stephen
-      :segued: false
-    - :uuid: 637fe2cd-33f1-4458-b8ec-47b60056b1eb
-      :name: The Eleven
-      :segued: false
-    - :uuid: 9d9834f5-4e76-4028-a163-3253b6fdf7c9
-      :name: Caution (Do Not Stop On Tracks)
-      :segued: false
-    - :uuid: 0a7f6312-51c8-4eb4-98d5-f2d0cccd5bdc
-      :name: Feedback
-      :segued: false
-    - :uuid: f34b1a2d-0eb5-40f5-91a1-269d916ae040
-      :name: And We Bid You Good Night
-      :segued: false
 1968/05/24:
   :uuid: 3d1c4fe6-dc27-4ee0-9f27-b83b5f217199
   :venue: National Guard Armory
@@ -690,7 +1247,24 @@
   :city: St. Louis
   :state: MO
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 74be3c45-630c-43b1-9181-d2dcec134181
+    :songs:
+    - :uuid: 04e20811-69ed-4786-9ae6-2a5395fe1a75
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 5e1d832c-72da-4688-9579-672cbab0f897
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: c922b8ad-566e-4c5a-9d7b-e9e3214434f2
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 1cf97f3f-3842-4b7a-a17f-4bf7f2026b9f
+      :name: The Other One
+      :segued: true
+    - :uuid: 8bc6f5fe-fa02-4b59-8921-200209d01f94
+      :name: Cryptical Envelopment
+      :segued: false
 1968/05/30:
   :uuid: 6874b663-2f33-4d71-97eb-795ee9c0db2a
   :venue: Carousel Ballroom
@@ -711,6 +1285,54 @@
   :city: San Francisco
   :state: CA
   :country: US
+  :sets:
+  - :uuid: 0a8927a3-2523-4ae3-be78-a1c55678fbf6
+    :songs:
+    - :uuid: 331067fb-f799-4f2c-92c4-ff22d32d19c9
+      :name: Jam
+      :segued: true
+    - :uuid: 92df3912-4f5d-4f25-a76f-3fa9a71b747a
+      :name: Dark Star
+      :segued: true
+    - :uuid: f0657ebd-01cb-4652-bb67-1f8b5bfa71c9
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 0fd4a5fa-fa8b-4a72-ad24-8204213c6573
+      :name: The Eleven
+      :segued: true
+    - :uuid: 28af8876-8fb8-465a-8bd0-b7c92e8d3c38
+      :name: Born Cross-Eyed
+      :segued: false
+  - :uuid: 46e23761-be09-4afa-b5fb-213688d9c92e
+    :songs:
+    - :uuid: 6569322d-1dd9-446c-bdb0-c74071e766b8
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 697dcb95-9b88-4566-8d77-36bd8537505d
+      :name: The Other One
+      :segued: true
+    - :uuid: 72170a1a-de1a-44a7-b7ac-a67924eb65dd
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: dbc84525-01ab-4b98-b23a-f5028b81f9ea
+      :name: Alligator
+      :segued: true
+    - :uuid: e5273bed-2b62-4020-85e6-b6dd15c8ef6c
+      :name: Feedback
+      :segued: false
+1968/06/02/0:
+  :uuid: ef782e5b-db68-4055-8cef-9a833b9481e0
+  :venue: Panhandle, Golden Gate Park
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1968/06/02/1:
+  :uuid: ef782e5b-db68-4055-8cef-9a833b9481e0
+  :venue: Carousel Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
   :sets: []
 1968/06/07:
   :uuid: 495133c2-e960-4a25-81aa-f617fcbda0e7
@@ -718,7 +1340,15 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 042673b2-c544-45d8-8f07-14260f1cd03e
+    :songs:
+    - :uuid: 4d27dc6f-911e-4ffe-801e-00e897aaa451
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 636a7493-380a-4086-b254-952cd50022ac
+      :name: Dark Star
+      :segued: false
 1968/06/08:
   :uuid: fc6f99fd-5d77-41c5-b25b-b2dd0042c7b5
   :venue: Carousel Ballroom
@@ -740,63 +1370,63 @@
   :state: NY
   :country: US
   :sets:
-  - :uuid: 4dba90e5-c2c0-4cae-8302-7a6d0fe566cb
+  - :uuid: 251bd1ce-f34c-448e-bf3e-3861b8de549a
     :songs:
-    - :uuid: 61697f2e-f69e-4661-81a8-105b715abd21
+    - :uuid: 83d555ab-f88a-4afd-9a39-f1b9f677bece
       :name: Morning Dew
       :segued: false
-    - :uuid: eb4cd691-0d63-4e1d-b280-7b53c1ebab34
+    - :uuid: 0098b157-33b7-4d7b-836a-5d0a8cf43611
       :name: Cryptical Envelopment
       :segued: true
-    - :uuid: 609c84a0-3e1a-45ad-8e8b-ce66551486e2
+    - :uuid: 80a6f569-2994-460b-a17f-9771d3fea071
       :name: The Other One
       :segued: true
-    - :uuid: 45036309-430f-415e-9ede-483cdc12e0ac
+    - :uuid: ff4923a5-8938-47c4-9a44-c4002ad3da4f
       :name: Cryptical Envelopment
       :segued: true
-    - :uuid: a5a1e7f1-89ad-4d55-9ee1-412672384ee7
+    - :uuid: 4c2c5dad-3925-4f9f-87fb-43558475ea25
       :name: New Potato Caboose
-      :segued: true
+      :segued: false
 1968/06/14/1:
-  :uuid: 2222ca36-6a5a-418d-9570-ad177fc8e60e
+  :uuid: 746d0777-34c5-4f8b-b167-a320354a2809
   :venue: Fillmore East
   :city: New York
   :state: NY
   :country: US
   :sets:
-  - :uuid: 05ec3435-1ce4-4a2a-bc1a-f3a8743431e8
+  - :uuid: 51d88752-ca7e-4aca-adf0-a5cc71b90624
     :songs:
-    - :uuid: 0197ff3e-0d85-40c7-adf5-f4672b79964e
-      :name: Space
+    - :uuid: 0d7f51a9-3d8c-4515-a742-5bb5c844e34d
+      :name: Dark Star
+      :segued: false
+    - :uuid: 594669bc-9eef-45ce-8c70-a60efd1ce7a3
+      :name: Feedback
       :segued: true
-    - :uuid: 2fc4250f-3564-4c18-ae68-d712bfbdcc27
-      :name: Jam
-      :segued: true
-    - :uuid: 9575d166-f556-4f40-b6bb-16006d4a5914
+    - :uuid: e4acae5c-db35-4e55-be24-697f2c58c22d
       :name: The Eleven
       :segued: true
-    - :uuid: 406eadcb-7c37-44fa-a576-66f4e741abaf
+    - :uuid: 25ae57af-ad6a-4931-a2d3-f6018d26192c
       :name: Saint Stephen
       :segued: false
-    - :uuid: 61f67f80-898a-427e-a062-9cb05792ae1d
+    - :uuid: e1822166-8ae8-42cc-97c8-261530732759
       :name: Alligator
       :segued: true
-    - :uuid: 42df57f3-e28b-4546-9a47-972eacbd078d
+    - :uuid: a7947d10-b416-4b1d-9d15-b8465b783fcb
       :name: Drums
       :segued: true
-    - :uuid: 79d59ac3-f79c-468b-9f4f-7e1fc4f019cf
+    - :uuid: d512c415-d069-4000-98bd-1b64faf8afe6
       :name: Turn On Your Lovelight
       :segued: true
-    - :uuid: babc0a56-b51c-4d7e-a471-1c92aee05ba9
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: 5d4a13b0-e248-4cbe-87d5-47ec22f399fa
+      :name: Caution
       :segued: true
-    - :uuid: 14c29787-4a84-48cd-88c8-391fb2141466
+    - :uuid: 832b1703-bc93-49aa-8df4-5bd8745a8f1e
       :name: Drums
       :segued: true
-    - :uuid: f2229dc8-1407-42a0-a122-a0b3e4f8b989
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: a8b47e3d-bd77-42b2-aebe-7057748b3087
+      :name: Caution
       :segued: true
-    - :uuid: 0e84ee58-d7c8-45e8-849b-db450c5cb333
+    - :uuid: 4a2ade13-941e-458e-b781-205ccfa74973
       :name: Feedback
       :segued: false
 1968/06/15/0:
@@ -807,22 +1437,38 @@
   :country: US
   :sets: []
 1968/06/15/1:
-  :uuid: 3691d24a-e9a4-4cec-b822-953d83ddd1d7
+  :uuid: b07588e5-613d-44b7-8e4b-b6b7d6f4ed6d
   :venue: Fillmore East
   :city: New York
   :state: NY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 040715ec-e806-4539-8a61-2b184236d392
+    :songs:
+    - :uuid: 56dbe0a3-66b8-49fb-b551-3fca343c17c9
+      :name: Dark Star
+      :segued: true
+    - :uuid: f4dc0555-4240-4d6d-af2c-dc024c2966da
+      :name: The Other One
+      :segued: false
 1968/06/19:
   :uuid: 6f288121-df7a-4f30-a1ce-11d119126136
   :venue: Carousel Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2ee7fffd-95a2-40a0-a8fb-4dc0759e9fa6
+    :songs:
+    - :uuid: 5737d2f4-5c2e-4055-b2e8-57345c7acf3f
+      :name: Saint Stephen
+      :segued: false
+    - :uuid: 79969268-e11e-4c92-ad54-ffa1ab8869b7
+      :name: Dancin' In The Streets
+      :segued: false
 1968/06/22:
   :uuid: 03a5dfe3-0ceb-43cb-861d-86c7607a3b97
-  :venue: Phoenix Travelodge Theater
+  :venue: Phoenix Star Theatre
   :city: Phoenix
   :state: AZ
   :country: US
@@ -836,14 +1482,14 @@
   :sets: []
 1968/07/12:
   :uuid: e748bc31-b229-4d34-9cc6-68013c95bd1c
-  :venue: King's Beach Bowl
+  :venue: Kings Beach Bowl
   :city: Lake Tahoe
   :state: CA
   :country: US
   :sets: []
 1968/07/13:
   :uuid: 7a08d153-446c-4e8c-8b3f-e049bb8b3e84
-  :venue: King's Beach Bowl
+  :venue: Kings Beach Bowl
   :city: Lake Tahoe
   :state: CA
   :country: US
@@ -868,27 +1514,17 @@
   :city: Costa Mesa
   :state: CA
   :country: US
-  :sets: []
-1968/08/19:
-  :uuid: 3083d340-2ef7-48a5-a6c5-5c2126f4a9d9
-  :venue: Fillmore West
-  :city: San Francisco
-  :state: CA
-  :country: US
   :sets:
-  - :uuid: f9e90223-6a18-4815-abf4-b14a90c9d36b
+  - :uuid: 43806fb0-08a1-40c9-9c55-6e8ce82f8680
     :songs:
-    - :uuid: 3b3e21a8-81df-471c-a540-205326f00427
-      :name: Dark Star
+    - :uuid: a54c4f3a-545b-483c-8d8a-b15918b6b58b
+      :name: Alligator
       :segued: false
-    - :uuid: 56e94d82-5fd0-4ef4-9723-bee59fd76a8f
-      :name: Saint Stephen
+    - :uuid: c7c8cb7c-9f94-4011-a1d7-2c66e03ec9b8
+      :name: Caution
       :segued: false
-    - :uuid: 825ea935-5375-4086-b6ed-796925edabc6
-      :name: The Eleven
-      :segued: false
-    - :uuid: 1f8beb17-2233-4030-a275-96412da579db
-      :name: Death Don't Have No Mercy
+    - :uuid: 4e1ad6a1-3777-4cb5-bdfc-df53e38dfee0
+      :name: Feedback
       :segued: false
 1968/08/20:
   :uuid: 44197673-2d1d-492c-9d73-c791b08bcf6c
@@ -897,47 +1533,19 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: aea45779-d4e9-4f75-8f09-a039e630e81e
+  - :uuid: 73321d4a-7cfb-4816-8c96-54300168ea91
     :songs:
-    - :uuid: f38977ae-cde6-4ff1-8de4-205a9b372bf9
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: acefd93c-b34c-4e29-954d-992eda51ae70
-      :name: The Other One
-      :segued: false
-    - :uuid: b3639052-d80a-4365-97bf-f0daa3d0cd0b
-      :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: f6a8d046-dad0-4a00-89e6-ca563f7ac896
-      :name: Good Morning Little Schoolgirl
-      :segued: false
-    - :uuid: 1f05ea56-7cfc-4311-b947-bcb5f7637b58
-      :name: Alligator
-      :segued: false
-    - :uuid: d2855fbb-b95e-42c6-a56f-5b0328a29fcc
-      :name: Feedback
-      :segued: false
-  - :uuid: b2d6ccf3-4b1b-4a2e-9414-ad4a09968703
-    :songs:
-    - :uuid: 7029ce67-d177-4c39-a404-c57e191e4e46
+    - :uuid: 9ec66f05-ddc5-4ec1-96ce-271648757b97
       :name: Dark Star
-      :segued: false
-    - :uuid: 2153843b-8617-4ad6-8167-922b1e9564af
+      :segued: true
+    - :uuid: c608228f-4536-411f-a809-cd8a93f77844
       :name: Saint Stephen
-      :segued: false
-    - :uuid: 748230db-b256-48c9-9769-831da38973ee
+      :segued: true
+    - :uuid: a0dafb71-8f33-4d38-9852-08e2142aca7f
       :name: The Eleven
-      :segued: false
-    - :uuid: 8aeeb191-2def-48bc-8bd0-e676167a66f3
+      :segued: true
+    - :uuid: 0654c4f2-db12-4a52-9ef2-86c729fb7e51
       :name: Death Don't Have No Mercy
-      :segued: false
-    - :uuid: 52986b4d-41bf-4fd8-a6f0-feb189e027cd
-      :name: Turn On Your Lovelight
-      :segued: false
-  - :uuid: 76483edb-c80b-42c5-8ef9-92c65a3f08a5
-    :songs:
-    - :uuid: dd20836c-fe9f-4c66-9090-f1a9193997e1
-      :name: In The Midnight Hour
       :segued: false
 1968/08/21:
   :uuid: 226711c3-d40e-4608-a0e6-fa6e35c0c188
@@ -946,47 +1554,108 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: a971ee96-984b-4672-b2aa-286efd53ad74
+  - :uuid: a3303910-2dcb-48de-a06a-1fe891f56747
     :songs:
-    - :uuid: c6ceeb88-2cb9-44ab-ab62-7c7eaf1e23ab
-      :name: Saint Stephen
-      :segued: false
-    - :uuid: 6f26611e-b703-4ed4-b5e2-33c7f3dba994
-      :name: The Eleven
-      :segued: false
-    - :uuid: e26b456b-f16f-47cc-8b03-9ac1dbd45d8c
-      :name: Death Don't Have No Mercy
-      :segued: false
-    - :uuid: 30b8c379-7639-45e1-9199-786e999ac166
-      :name: Turn On Your Lovelight
-      :segued: false
-  - :uuid: ae1a583f-c779-4440-a947-9da127028e07
-    :songs:
-    - :uuid: db83d578-9afc-482e-a906-2cc358aff554
-      :name: Dark Star
-      :segued: false
-    - :uuid: 5d456754-a9b2-42a0-8a04-68120cb4e73a
+    - :uuid: a6c58806-6a30-45f1-813c-21cabf3ed3bf
       :name: Cryptical Envelopment
-      :segued: false
-    - :uuid: 6247dba9-c1b7-4bb7-a675-36028017e1b0
+      :segued: true
+    - :uuid: 6f2c6b0d-2e5b-4aed-ad7b-5d2787d6d460
+      :name: Drums
+      :segued: true
+    - :uuid: 5ad6a54f-af2a-4be3-ab05-6f501245cbf8
       :name: The Other One
-      :segued: false
-    - :uuid: 3c35c5b8-097b-477e-99ad-b03e84fa80bd
+      :segued: true
+    - :uuid: 7792bfae-0be2-4aa9-8369-2c218e66179d
       :name: Cryptical Envelopment
       :segued: false
-    - :uuid: f51b8a11-a67d-4fcd-b116-eaea15c2401f
-      :name: New Potato Caboose
+    - :uuid: 355d5762-77e1-4ecd-9027-a8a8d550978e
+      :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: deb3dc9c-c7ec-41f1-8c8d-d267a77b8ddd
+    - :uuid: 2fb2ad23-79c6-438b-8a4c-720f58bd9eea
       :name: Alligator
-      :segued: false
-    - :uuid: 3fab3e3e-f259-4b0d-96bd-518aea457f2d
-      :name: Caution (Do Not Stop On Tracks)
-      :segued: false
-    - :uuid: b31be2c2-0444-49fd-80a2-bef8d505c4e3
+      :segued: true
+    - :uuid: 8383e19f-d5dd-4e9f-afd3-903a9bf6ff61
+      :name: Drums
+      :segued: true
+    - :uuid: eb499945-df03-49f8-b06f-41ccccb3d415
+      :name: Alligator
+      :segued: true
+    - :uuid: 6c4b8d65-128b-447c-a779-a65f36f7413b
       :name: Feedback
       :segued: false
-    - :uuid: 61bd51c5-2fc4-43c1-9ac3-0a629954bcc0
+  - :uuid: c256a6d1-7985-40b7-83c8-ad004e86dba4
+    :songs:
+    - :uuid: 44e12317-46ea-4721-8120-25fd13ca05b0
+      :name: Dark Star
+      :segued: true
+    - :uuid: c9c419a1-cb27-4880-bd4f-fe8c236fb2fc
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 20acb767-1b69-4e95-8829-b30db96810c6
+      :name: The Eleven
+      :segued: true
+    - :uuid: f98fed0e-4b42-4b2b-beff-84a48cfe15b8
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 32d85b41-be8b-46af-93c2-ecc85a79f6f0
+      :name: Turn On Your Lovelight
+      :segued: false
+  - :uuid: b158032e-e293-4846-bd92-7d7ef66048b6
+    :songs:
+    - :uuid: 2c856fb9-8791-4927-89fb-4c42c395293e
+      :name: Midnight Hour
+      :segued: false
+1968/08/22:
+  :uuid: 6739c92f-e713-4256-99c3-1d470229358b
+  :venue: Fillmore West
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: cb9233ce-a776-4488-9f34-1ecf606d077c
+    :songs:
+    - :uuid: 9c7b9ba0-1121-4418-a065-dcb4d7282838
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: f7a65f0c-c1c4-40ee-a9d5-72e7f5a59949
+      :name: The Eleven
+      :segued: true
+    - :uuid: 413d0920-77a1-4379-a016-2668a5fa837c
+      :name: Death Don't Have No Mercy
+      :segued: false
+  - :uuid: fddc3f91-0eab-4376-b7ac-82be6c67e104
+    :songs:
+    - :uuid: 2a91b39c-3f6d-47f6-a952-2654607aa3c5
+      :name: Dark Star
+      :segued: false
+    - :uuid: d1e7c548-0d1d-4428-abf1-725fe861596b
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 79b4e9c3-5b7c-421a-9069-318429b1dd8d
+      :name: Drums
+      :segued: true
+    - :uuid: 4babec73-a347-43f8-aab8-0de26e9a9341
+      :name: The Other One
+      :segued: true
+    - :uuid: 98ccf5df-16db-4c97-ab4a-49fbcb073486
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: fa645041-cd89-469b-88c8-16a0093ca8be
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: 61746ed0-55c2-4d46-984b-2f2234555b23
+      :name: Alligator
+      :segued: true
+    - :uuid: 5e7dc19e-a305-431a-a182-face5bb7c4eb
+      :name: Drums
+      :segued: true
+    - :uuid: adeb0ed3-96d0-421f-889e-2ab1423f43d8
+      :name: Alligator
+      :segued: true
+    - :uuid: c4c4a4f1-840d-49d9-9bf9-50a48e6fd359
+      :name: Feedback
+      :segued: false
+    - :uuid: 6a58fa37-a0c2-4d18-8b8d-b4231c1b8c97
       :name: And We Bid You Good Night
       :segued: false
 1968/08/23:
@@ -995,21 +1664,101 @@
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 602951c3-71a9-4fbd-a26b-a61e35303aca
+    :songs:
+    - :uuid: ab9e58f2-5f7a-4eb9-bd9c-1029d6673431
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: dc5ead75-b2ee-4d51-9aaf-3d0c874fc573
+      :name: Drums
+      :segued: true
+    - :uuid: fc83d2c5-d2a4-4505-90e1-815d46556473
+      :name: The Other One
+      :segued: true
+    - :uuid: 73f53f90-5fc8-4a75-8d05-dd29f34165d0
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 6ab17fc9-217f-4049-ae62-d7de8e1487d6
+      :name: Dark Star
+      :segued: true
+    - :uuid: 13448798-0a41-417b-b070-f67a3ecb5d98
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 00822c02-2477-4cc9-9867-2292c90d4fae
+      :name: The Eleven
+      :segued: true
+    - :uuid: f7ecb9bd-ccd4-49a3-b103-493342ee26c1
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 6339aec3-ed86-4372-91fc-e8f4079001ac
+      :name: Alligator
+      :segued: true
+    - :uuid: 3aeb10fb-914c-4812-9add-f1f8a40d172c
+      :name: Drums
+      :segued: true
+    - :uuid: c56cb9c8-4034-4c5b-a4ce-69d64475ebee
+      :name: Alligator
+      :segued: true
+    - :uuid: bb09be35-336c-41b5-8e93-46108a99906e
+      :name: Drums
+      :segued: true
+    - :uuid: a40fa6ff-f778-4a55-aacb-81f182d67b74
+      :name: Alligator
+      :segued: true
+    - :uuid: f6f30adc-6df3-44ad-b5d7-b61a6549f5e0
+      :name: Caution
+      :segued: true
+    - :uuid: a6dfc628-4cc1-4424-9988-8c719be1d7c3
+      :name: Feedback
+      :segued: false
 1968/08/24:
   :uuid: 9e61dddc-68ca-4d1d-9e74-7d47b646f972
   :venue: Shrine Exhibition Hall
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
-1968/08/28:
-  :uuid: c2fcf750-2d87-49f7-9d25-a431e62ab93e
-  :venue: Avalon Ballroom
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
+  :sets:
+  - :uuid: 5df5b11d-5b35-4b6b-bbb4-c5cdbd8998c6
+    :songs:
+    - :uuid: 29625576-2438-40fc-940c-73c864325cd6
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 6e91bfc5-c112-450c-810d-4aaa75be2943
+      :name: Dark Star
+      :segued: true
+    - :uuid: 298566a2-8fc9-4969-aa7a-936b7089d264
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 8d9fbcd0-73f4-4536-9c8c-f498d737eb18
+      :name: The Eleven
+      :segued: true
+    - :uuid: 3de38400-e2d1-4da5-a009-6878d6183b34
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 942b1e15-7cbd-40e2-9adc-a6d5fede902c
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 691c3b70-1646-4d18-92b7-8d707416879f
+      :name: Drums
+      :segued: true
+    - :uuid: da9fbc94-9486-4d67-8e4f-a234bf20cfec
+      :name: The Other One
+      :segued: true
+    - :uuid: 92f6102f-6290-4627-be8d-584add4ba13e
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 5f8b7b18-e172-404f-93e5-c669c1fddc8a
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 8cef26dc-f45b-4547-b3aa-8661dfaab248
+      :name: Turn On Your Lovelight
+      :segued: false
+  - :uuid: 2e3aed8d-c8ed-4efd-8bf6-8ea21e0369fb
+    :songs:
+    - :uuid: 792bd681-d58c-4773-ae7b-dd589b7b122b
+      :name: Morning Dew
+      :segued: false
 1968/08/30:
   :uuid: c73eddb2-b1b2-4ffd-bb9b-64df7e0d5acf
   :venue: Fillmore West
@@ -1026,36 +1775,161 @@
   :sets: []
 1968/09/01/0:
   :uuid: c551221a-3bd2-4fc9-ad1d-40615cb0a701
-  :venue: Palace Of Fine Arts
+  :venue: Palace of Fine Arts Theatre
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1968/09/01/1:
-  :uuid: 02ab7891-20c3-449f-a235-33db14d60810
+  :uuid: c551221a-3bd2-4fc9-ad1d-40615cb0a701
   :venue: Fillmore West
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 0b4f0e85-8d63-41ed-b745-a3034b8dfd13
+    :songs:
+    - :uuid: bbc2db5c-16f7-4f9a-a487-3b6b5b9849f5
+      :name: Dark Star
+      :segued: true
+    - :uuid: 7c2414cf-5366-4e5f-84bf-62f37161cb9b
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: ac336333-9ac2-4bd0-b47f-82ce46d5bfcb
+      :name: The Eleven
+      :segued: true
+    - :uuid: 9c9cdb60-4065-4f35-afab-27bad19d8c2b
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 71826ef8-a951-4d33-97be-5083551d4931
+      :name: Turn On Your Lovelight
+      :segued: false
+  - :uuid: 6a57875b-9b80-4728-9b89-ed06e4d5a6c1
+    :songs:
+    - :uuid: bc33252a-a4df-4b0c-b954-41bab5cc10fe
+      :name: Good Morning Little Schoolgirl
+      :segued: false
 1968/09/02:
   :uuid: cb74f7dd-a1b2-40b8-a3d1-3c72de920e67
   :venue: Betty Nelson's Organic Raspberry Farm
   :city: Sultan
   :state: WA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: ec99a9a5-70d7-4968-8aab-bf13118fc85a
+    :songs:
+    - :uuid: 0894506a-ce45-4678-9a31-ece71ed819d1
+      :name: Dark Star
+      :segued: true
+    - :uuid: 4586e0ea-59ba-49ec-ac7b-50a1077f8022
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 1e5de071-0772-4d03-a97f-65a83ab27cea
+      :name: The Eleven
+      :segued: true
+    - :uuid: 57d7bcd7-3820-4755-9402-d992c8241907
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 5c971813-5389-46b7-8b53-2dea20b8f0b3
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: ef7e4fc4-ee1a-4df4-ac05-950aeaf72e32
+      :name: Drums
+      :segued: true
+    - :uuid: e47b1cdb-0fc2-47b5-9a1a-39c648996f88
+      :name: The Other One
+      :segued: true
+    - :uuid: f141364c-c737-4244-ba56-a9cd8e306ddb
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 8714a338-a13e-4039-af7b-628ced319070
+      :name: Feedback
+      :segued: false
+    - :uuid: 481255af-71fd-4d1e-beda-de3087f3f005
+      :name: Alligator
+      :segued: true
+    - :uuid: e9ebce06-30d3-4e6d-89ac-b4d99cf01bfa
+      :name: Drums
+      :segued: true
+    - :uuid: e8feda03-d5ee-4019-94fe-2f4738c46e20
+      :name: Alligator
+      :segued: true
+    - :uuid: 2a6002a4-5391-4c91-a4a3-68f4efc56498
+      :name: Drums
+      :segued: true
+    - :uuid: 9871c65a-72be-4acd-991b-e7e7000ac441
+      :name: Alligator
+      :segued: true
+    - :uuid: 384709c2-3512-41ed-9a65-802eddf6d41e
+      :name: Caution
+      :segued: true
+    - :uuid: 63bde0da-4646-4543-8346-7f1e78c6386a
+      :name: Feedback
+      :segued: false
 1968/09/20:
   :uuid: 1fffeabb-1921-4d21-a9f0-2fe5cee6ab02
-  :venue: Berkeley Community Theatre
+  :venue: Berkeley Community Theater
   :city: Berkeley
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: b5e6ec1c-16f4-418f-b9c6-e1c90b624be1
+    :songs:
+    - :uuid: 45c16213-d5be-402b-b8fd-cb10959a3a4d
+      :name: Good Morning Little Schoolgirl
+      :segued: true
+    - :uuid: b23de74d-cf52-4200-b3cb-2ae043474e60
+      :name: Feedback
+      :segued: false
+    - :uuid: f65e2dbf-5b10-4109-b161-a8cc34af9f1c
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 945c5a93-4c7d-4269-a7b0-549f9cbf92e2
+      :name: The Eleven
+      :segued: false
+    - :uuid: d4ce3afa-7186-4417-a958-89d5cbfc2b8d
+      :name: Drums
+      :segued: false
 1968/09/22:
   :uuid: af696930-6ede-4a70-803f-f708afcb56d1
   :venue: Del Mar Fairgrounds
-  :city: San Diego
+  :city: Del Mar
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 0760dc0e-be2f-4edb-92c9-10b99449d13e
+    :songs:
+    - :uuid: c46351ac-e727-4d7d-9a46-e950a2fae9d3
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: f45ad9c1-fb52-47de-b243-f81a6bed5395
+      :name: The Other One
+      :segued: true
+    - :uuid: 646e84b0-1488-40da-a73f-f69a6ab97713
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 9ea3e909-5e4c-410f-ad29-6f0d1a25a79c
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 694f2af2-5cb0-4e33-bc37-e035a3f1d246
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: 2fd3ee75-9ba5-4e75-bcb2-9b30b3249092
+      :name: Alligator
+      :segued: true
+    - :uuid: 06e7623c-17b6-4f4d-b3dd-5c64a3d30dbd
+      :name: Caution
+      :segued: true
+    - :uuid: 41ac87b6-a43c-4add-b2cc-9a0d8b37dd00
+      :name: Feedback
+      :segued: false
+    - :uuid: e0f24b9d-8342-46d6-9a41-7364d57abcf9
+      :name: Midnight Hour
+      :segued: false
+1968/09/30:
+  :uuid: 4f47fe49-c21a-4153-8e78-5337dafa62cc
+  :venue: Matrix
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
@@ -1066,48 +1940,112 @@
   :state: CA
   :country: US
   :sets: []
-1968/10/08:
-  :uuid: 0c47e9ec-4fd4-496c-bbeb-06ed4c885bff
-  :venue: The Matrix
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
-1968/10/09:
-  :uuid: 56cba4e2-f320-48e3-9ef4-c9fa24182ee6
-  :venue: The Matrix
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
-1968/10/10:
-  :uuid: b511e84d-5c28-45b4-813f-7a06683bbfa7
-  :venue: The Matrix
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
 1968/10/11:
   :uuid: 0172a5a0-29ab-46d2-a412-d5d7af86f3f6
   :venue: Avalon Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 6abd37fd-2e06-4b1b-a8e0-826508402962
+    :songs:
+    - :uuid: 56772889-36d2-475e-b74e-e21e232de06f
+      :name: Morning Dew
+      :segued: false
 1968/10/12:
   :uuid: 4f2d76f5-afd4-44e2-83ee-e3ccd762ffdd
   :venue: Avalon Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: f6f2e246-ed93-4272-93e2-cc5810f11a05
+    :songs:
+    - :uuid: 61ae9415-57dc-41a2-ad60-463bbbe3faaa
+      :name: Dark Star
+      :segued: true
+    - :uuid: eb1dde05-20d9-4590-97b0-368e1e6d5afb
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 3fc62919-64d8-45cb-b720-b4150efd590f
+      :name: The Eleven
+      :segued: true
+    - :uuid: 8b58a401-1bcb-405d-a409-f42eeda8aa14
+      :name: Death Don't Have No Mercy
+      :segued: false
+  - :uuid: fa045ee6-4fb8-4519-b68a-687e3b878841
+    :songs:
+    - :uuid: c44b7f75-b6bb-437a-86b4-bde57ecf46ef
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: e459070b-e0ab-4e43-b527-5c4601a4f7db
+      :name: Drums
+      :segued: true
+    - :uuid: 8233d8bb-b8be-4d11-90bf-983f36bcf386
+      :name: The Other One
+      :segued: true
+    - :uuid: f60b9177-9735-463c-ac38-a70ffc8e4857
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 481e1054-b605-4f45-90fb-dd723b064f81
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 98e4a7aa-cdd8-42b1-892b-4695ca1a802a
+      :name: Drums
+      :segued: true
+    - :uuid: 6ab64f16-d6a9-4d1f-a9b4-eee58824d758
+      :name: Jam
+      :segued: true
+    - :uuid: ec3edace-7063-43e9-b43d-cc6880d274f3
+      :name: Feedback
+      :segued: false
 1968/10/13:
   :uuid: 146c8aeb-8624-457a-8246-fb5d0bedd6ab
   :venue: Avalon Ballroom
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: cc82cb39-1a36-4fb2-b225-f7d254b0ff0b
+    :songs:
+    - :uuid: 6395030c-638b-41b8-88aa-d333fe712b9b
+      :name: Dark Star
+      :segued: true
+    - :uuid: ea7c297c-1e2c-42e2-b26d-b44239e891b7
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 892d0648-dcb0-43ec-89af-91688fc43cb3
+      :name: The Eleven
+      :segued: true
+    - :uuid: 67fd2f64-95e2-470a-ab4d-f7388bbfb231
+      :name: Death Don't Have No Mercy
+      :segued: false
+  - :uuid: c308af66-903a-4dd1-be34-2336f59bc4b2
+    :songs:
+    - :uuid: 2371677b-9efe-43d7-8d98-f4adc61385a0
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: fba3a656-64fa-48eb-bfd3-4159b27c681c
+      :name: Drums
+      :segued: true
+    - :uuid: cf653fe6-3b5f-48a8-acd4-84fa3a99526f
+      :name: The Other One
+      :segued: true
+    - :uuid: f7ded240-0e18-45bf-9991-892dac90d0d4
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 597f6eff-36ba-4708-bcfd-b7ca3c5477c7
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 76ba3b10-9933-4489-a210-be7681493aa4
+      :name: Drums
+      :segued: true
+    - :uuid: 9b7193d2-b185-474e-966a-bfbd188d0aa2
+      :name: Caution
+      :segued: true
+    - :uuid: 3648cfb3-b052-4112-9fce-c6da747e66db
+      :name: Feedback
+      :segued: false
 1968/10/18:
   :uuid: 46b2f925-cf6a-4cc9-8564-dab5cf4543f1
   :venue: The Bank
@@ -1115,79 +2053,88 @@
   :state: CA
   :country: US
   :sets: []
+1968/10/19:
+  :uuid: 2d88da96-bb86-47fe-9a43-db9af3f61d8e
+  :venue: Las Vegas Convention Center
+  :city: Las Vegas
+  :state: NV
+  :country: US
+  :sets: []
 1968/10/20:
   :uuid: 3278d598-67b0-40da-a7da-e79d0b559af0
-  :venue: Greek Theatre
+  :venue: William Randolph Hearst Greek Theatre, UC Berkeley
   :city: Berkeley
   :state: CA
   :country: US
-  :sets: []
-1968/10/29:
-  :uuid: e85e6138-72cd-4093-a3c3-be0e9215baa5
-  :venue: The Matrix
-  :city: San Francisco
-  :state: CA
-  :country: US
   :sets:
-  - :uuid: ab712432-b592-4b94-8e99-5ccb3e65e5de
+  - :uuid: 9a96df91-bb8a-498c-8cd5-8f4f625ff307
     :songs:
-    - :uuid: e8da86c5-7c13-403a-8806-43e694c2d119
-      :name: Dark Star Jam
+    - :uuid: 68e6f957-8a9c-4716-9c55-392d149500cb
+      :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 51951f63-614c-40d5-a1e2-695835ce4c28
-      :name: Death Letter Blues
-      :segued: false
-    - :uuid: e259d942-dfe7-4c60-86bb-0527c51486fc
-      :name: The Other One
-      :segued: false
-    - :uuid: d889a86a-2742-49f4-ada5-03916328d834
+    - :uuid: 6bcc7dee-d2e5-4914-9db2-438d75d9da8a
       :name: Turn On Your Lovelight
       :segued: false
-    - :uuid: 20c713b4-b076-4b48-bc3d-77f2ba176a0b
-      :name: Jam
-      :segued: false
-    - :uuid: 4098ac22-f6af-4b66-b8af-fdecb74ea680
+    - :uuid: f73ddc76-2882-47b5-b254-5741e6394e53
+      :name: Dark Star
+      :segued: true
+    - :uuid: 9744b5bc-dd65-40b8-9278-e57c84dc22e5
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 2604609a-aa6c-4b78-abc2-b6e4163cc1b0
       :name: The Eleven
+      :segued: true
+    - :uuid: fcbac3ea-4a7d-487c-be0b-7ec789ead24e
+      :name: Caution
+      :segued: true
+    - :uuid: 329bdb2c-c683-47f7-8fbc-4454b20a9f71
+      :name: Feedback
       :segued: false
-    - :uuid: 773660f5-ffc2-477c-9800-54c1f2891878
-      :name: Death Don't Have No Mercy
-      :segued: false
-    - :uuid: f76a2dfe-ab21-4f8a-8519-7817cf85b31a
-      :name: Jam
-      :segued: false
-    - :uuid: 4ae0be2b-6ea4-47f1-8846-aaf7d271dc3b
-      :name: Jam
-      :segued: false
-    - :uuid: 7fe7b368-d362-44c6-9224-c8d46cd8295d
-      :name: Prisoner Blues
-      :segued: false
-    - :uuid: 13696020-fb3a-458a-82d4-9db9091e8aaf
-      :name: Jam
-      :segued: false
-    - :uuid: 1ead4df4-6d60-49a5-9e0e-803b24e0bc5a
-      :name: Dark Star Jam
-      :segued: false
-1968/10/30:
-  :uuid: 2d24feea-265e-457d-959b-4c6dd17e5ee3
-  :venue: The Matrix
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
-1968/10/31:
-  :uuid: 2abd97a6-2166-44ee-8ff4-570bd5086a0a
-  :venue: The Matrix
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
 1968/11/01:
   :uuid: 56995880-ad66-4658-a817-8968465ed421
   :venue: Silver Dollar Fairgrounds
   :city: Chico
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: a50604c0-b95e-4452-8759-84c6c43e0b9a
+    :songs:
+    - :uuid: ec817006-4992-4123-945b-253b40fe69ed
+      :name: Dark Star
+      :segued: true
+    - :uuid: 81bb125b-f174-4004-ace6-8f4f2b591f67
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: bda632f2-be31-465a-9b1f-b30cece37994
+      :name: Drums
+      :segued: true
+    - :uuid: 4050bfdd-0c94-4580-9fa7-25a4c7a92349
+      :name: The Other One
+      :segued: true
+    - :uuid: 53b16123-841f-4247-83b1-c39b0c5d171c
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 440dc72c-1c88-4faf-8938-b52290f887d3
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: d002eff1-021a-4603-9757-e0612dfee1e2
+      :name: Alligator
+      :segued: true
+    - :uuid: 85f26ff1-5cd0-4b33-ac53-371eac00f0b0
+      :name: Drums
+      :segued: true
+    - :uuid: 52dc3d06-1651-4050-84f8-bff7f79513fe
+      :name: Alligator
+      :segued: true
+    - :uuid: 547226b3-377d-4cb9-b6de-7b6ed578804c
+      :name: Caution
+      :segued: true
+    - :uuid: 784b5cba-3137-4a27-8d6c-ae3e07531b1f
+      :name: Feedback
+      :segued: true
+    - :uuid: 65db9e98-5b77-433d-874b-12f8da5bea4a
+      :name: And We Bid You Good Night
+      :segued: false
 1968/11/04:
   :uuid: 0c1d70a8-45ae-43e3-8800-828dfd9cc260
   :venue: Longshoreman's Hall
@@ -1222,95 +2169,292 @@
   :city: San Francisco
   :state: CA
   :country: US
+  :sets:
+  - :uuid: 3c34e6f2-0721-4712-940d-ccb4e5902046
+    :songs:
+    - :uuid: e4e9426e-7a01-404e-8c4c-2c5b176f24eb
+      :name: Morning Dew
+      :segued: false
+1968/11/13:
+  :uuid: f1b8df2f-7b74-463c-b82b-8cc95dff73f4
+  :venue: EMU Ballroom, University of Oregon
+  :city: Eugene
+  :state: OR
+  :country: US
+  :sets: []
+1968/11/15:
+  :uuid: 6c1a7599-22ae-4b84-b297-b3f446ac2bfe
+  :venue: Gill Coliseum, Oregon State University
+  :city: Corvallis
+  :state: OR
+  :country: US
+  :sets:
+  - :uuid: 07f24299-5bc8-4c17-a0a5-b5d4df459c71
+    :songs:
+    - :uuid: 004a961c-6443-4d1b-b538-2d2a48c114de
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: f7e16228-9432-4baf-a769-3734b6133065
+      :name: Morning Dew
+      :segued: false
+1968/11/16:
+  :uuid: 0ca91df7-5f61-4d79-8274-d936eb946f2a
+  :venue: EMU Ballroom, University of Oregon
+  :city: Eugene
+  :state: OR
+  :country: US
   :sets: []
 1968/11/17/0:
   :uuid: 3a0ef00f-8697-4891-8c46-9d56c2d18334
-  :venue: Eagle's Auditorium
+  :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
   :country: US
   :sets: []
 1968/11/17/1:
-  :uuid: b9c002eb-a97d-4d7c-92d2-c9aa94bd0a36
-  :venue: Eagle's Auditorium
+  :uuid: 3a0ef00f-8697-4891-8c46-9d56c2d18334
+  :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
   :country: US
   :sets: []
 1968/11/22:
   :uuid: 1fe2ac3d-6f71-4f5a-99b1-09cc7202432f
-  :venue: Veterans Hall
+  :venue: Veterans Memorial Auditorium
   :city: Columbus
   :state: OH
   :country: US
-  :sets: []
-1968/11/23:
-  :uuid: 04786fcf-cb4c-490f-aaef-10f0deb17b87
-  :venue: Memorial Auditorium
+  :sets:
+  - :uuid: 41083a01-dca3-43b6-aaa8-abc42595db5b
+    :songs:
+    - :uuid: ff008a4a-c41b-4c7a-b634-1a6acc034b65
+      :name: Morning Dew
+      :segued: false
+    - :uuid: b27dca83-55c5-4abf-bdc4-d76a2cb21902
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 9e211aac-d6df-4a23-8b38-868c8128876b
+      :name: Dark Star
+      :segued: true
+    - :uuid: f3d76ee6-3338-4785-b20f-d1d42e0941f7
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: b74c95e6-ff6e-41ef-b880-b39285348ab7
+      :name: The Eleven
+      :segued: true
+    - :uuid: a6d9b5dc-da14-4740-acb5-21d160473dd3
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 4cb3354b-e9b1-4791-b2c6-fa2749ac665b
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: f4793e97-fd54-4e59-a548-b97d13644c24
+      :name: Drums
+      :segued: true
+    - :uuid: 446a21a7-546e-4173-9f6e-d88d56cfdfe5
+      :name: The Other One
+      :segued: true
+    - :uuid: 801e125d-49a2-4a1e-a03a-61793b3d3665
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 2ac47354-b8a4-4096-a67e-f5050545abd0
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: a7743ee7-a299-4a1e-a559-10bb835266ed
+      :name: And We Bid You Good Night
+      :segued: false
+1968/11/25:
+  :uuid: d29dad5c-bad1-4c4c-8f58-691684051627
+  :venue: Memorial Auditorium, Ohio University
   :city: Athens
-  :state: OH
-  :country: US
-  :sets: []
-1968/11/24:
-  :uuid: 60bff1a6-d694-45fa-adba-8d81909179ba
-  :venue: Hyde Park Teen Center
-  :city: Cincinnati
   :state: OH
   :country: US
   :sets: []
 1968/11/27:
   :uuid: b1d7577d-527a-444d-ba36-8750469e72f5
-  :venue: The Kinetic Playground
+  :venue: Kinetic Playground
   :city: Chicago
   :state: IL
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: f35ce2a0-e18d-45b7-b1d2-6d660ad59fbc
+    :songs:
+    - :uuid: 4ae35e10-c833-4c86-bd6e-d3d90f3fb408
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 435e2206-1756-4d52-a720-080d6dc13010
+      :name: The Other One
+      :segued: true
+    - :uuid: 6140e960-8ee9-40c6-851d-d533b6b6fd3a
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 1e3c6c81-1dbc-4201-b795-cc1c424cf6c4
+      :name: Dark Star
+      :segued: true
+    - :uuid: 22e25b23-c4bb-4edf-aad4-1af1560e0fb1
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 082bd956-9212-4437-8cdf-3e68e76124a9
+      :name: The Eleven
+      :segued: true
+    - :uuid: 0a572aed-8782-43a6-bd95-9db423799ff1
+      :name: Turn On Your Lovelight
+      :segued: false
 1968/11/28:
   :uuid: 93b4e18a-c25b-49a5-a2f8-cc92831ba1c5
-  :venue: The Kinetic Playground
+  :venue: Kinetic Playground
   :city: Chicago
   :state: IL
   :country: US
+  :sets:
+  - :uuid: 757eae52-429e-4c5a-9912-ca791faf61a2
+    :songs:
+    - :uuid: a81eefe1-c5b2-41c5-a00f-e0a68b51268d
+      :name: Feedback
+      :segued: true
+    - :uuid: 2a428a44-583f-4e1d-bd3a-e4cede4c5f30
+      :name: And We Bid You Good Night
+      :segued: false
+1968/11/29:
+  :uuid: d17e70be-0b5c-4151-badf-5e627139af36
+  :venue: Hyde Park Teen Center
+  :city: Cincinnati
+  :state: OH
+  :country: US
+  :sets:
+  - :uuid: e26d9107-b376-45ca-8694-50ffcdb6b347
+    :songs:
+    - :uuid: f7267724-aa62-4c7b-ab32-2c33695042b4
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 036e0985-ce33-4638-9e8c-24dd832ea206
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: cbd5b115-0605-46da-b8aa-b4231984a958
+      :name: The Other One
+      :segued: true
+    - :uuid: b4bed25e-ea0c-4c2a-aad7-454ab3bf4d72
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 11758a86-330f-47ca-9693-cc1c4381010a
+      :name: New Potato Caboose
+      :segued: false
+1968/11/30/0:
+  :uuid: 6faafb92-f485-43e2-b273-2686fc75c5e4
+  :venue: Hyde Park Teen Center
+  :city: Cincinnati
+  :state: OH
+  :country: US
   :sets: []
+1968/11/30/1:
+  :uuid: 6faafb92-f485-43e2-b273-2686fc75c5e4
+  :venue: Hyde Park Teen Center
+  :city: Cincinnati
+  :state: OH
+  :country: US
+  :sets:
+  - :uuid: 8ac0e068-71f0-4e02-94ab-6260a3193eb9
+    :songs:
+    - :uuid: 1ac567ff-1088-4b22-97e9-57caee0731e9
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 6e08a43f-7bf9-4fe3-9f1d-7d58e25676a8
+      :name: Dark Star
+      :segued: true
+    - :uuid: 5ba54312-b5e2-4001-98b1-c456b78955b4
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 96bd7cd5-1e6a-4dc6-979b-f2ffabcc0c4f
+      :name: Turn On Your Lovelight
+      :segued: false
 1968/12/01:
   :uuid: aa4932c9-83e9-4e3f-9613-f2d627d9305e
   :venue: Grande Ballroom
   :city: Detroit
   :state: MI
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: c715fe8d-7b47-4378-bfe3-79c022c55ed6
+    :songs:
+    - :uuid: 4e72dbfc-ccfb-4825-b5a3-932432aa03e3
+      :name: And We Bid You Good Night
+      :segued: false
 1968/12/06:
   :uuid: 7bcf3fa5-9344-466c-90cd-a8b1a3c53ca6
-  :venue: The Spectrum
+  :venue: Spectrum
   :city: Philadelphia
   :state: PA
   :country: US
   :sets: []
 1968/12/07:
   :uuid: 4bca2e28-bf5a-41ae-8fa2-70c136fb9f59
-  :venue: Bellarmine College
+  :venue: Knight's Hall, Bellarmine College
   :city: Louisville
   :state: KY
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 36bb275f-386a-49d0-9aff-6a93b33e208a
+    :songs:
+    - :uuid: 95ed3225-c0c7-4455-a168-010791c096e5
+      :name: Dark Star
+      :segued: true
+    - :uuid: 1b652e5b-6baf-4bec-bf6e-7d36cc31ccdd
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: bbf11126-50e0-4414-a745-7ff503eb77a3
+      :name: The Eleven
+      :segued: false
+    - :uuid: 9872469c-c039-4523-837b-00e07d21459c
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: fe189749-cb8e-4730-b33e-a0e77dbcd871
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 6b143299-d136-4490-a378-105ac886c5f9
+      :name: Drums
+      :segued: true
+    - :uuid: c3a82cf6-a399-4565-a742-449165348537
+      :name: The Other One
+      :segued: true
+    - :uuid: 2daaa259-f63a-47a6-bac5-0ed3b7d07062
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: d846dad3-66dd-4431-9029-6eb70050e8ea
+      :name: New Potato Caboose
+      :segued: false
+  - :uuid: 4c0f397c-ef58-4ed2-8f44-fdd250143a38
+    :songs:
+    - :uuid: a534395f-5243-472a-897b-0071e34f1246
+      :name: Rosemary
+      :segued: false
+    - :uuid: d07480f1-e556-4b51-ab66-b7512924f03e
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: 4fe0f1cf-7721-4d24-a886-c861921bdd56
+      :name: Hurts Me Too
+      :segued: false
+    - :uuid: ae14ff8f-7c54-4c20-8fc0-9f3d6bc91a8e
+      :name: Morning Dew
+      :segued: true
+    - :uuid: c45b65bb-5a4e-4748-bf19-df7f3f2bc274
+      :name: And We Bid You Good Night
+      :segued: false
 1968/12/13:
   :uuid: 40388a19-ffea-445a-9195-6c2ea6710d70
   :venue: The Bank
   :city: Torrance
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 3d13fc27-aefc-4772-893b-ef03b1f46470
+    :songs:
+    - :uuid: fabb5113-bf61-424f-be17-608e2b697ff1
+      :name: Turn On Your Lovelight
+      :segued: false
 1968/12/14:
   :uuid: 562e466e-e691-4c5c-9cd8-f3b5fbfdf784
   :venue: The Bank
   :city: Torrance
-  :state: CA
-  :country: US
-  :sets: []
-1968/12/16:
-  :uuid: 055969e3-5312-4c1b-b81a-5352f4fa121a
-  :venue: The Matrix
-  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
@@ -1320,46 +2464,177 @@
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 74ffea01-1a1f-4057-934f-a2c4973d0c1a
+    :songs:
+    - :uuid: 4facb866-0611-46ac-bf27-dd8752042ee1
+      :name: The Eleven
+      :segued: false
+    - :uuid: f849eff6-685d-4425-8171-6daf7246b91d
+      :name: Mountains Of The Moon
+      :segued: false
+    - :uuid: 4b4bb221-7599-4ca1-98b0-86470f26cce3
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 3a9b74a9-601b-4c11-ab02-cd41b6bb93dc
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 4976e651-a407-44fe-9f60-fe821dbbb136
+      :name: Turn On Your Lovelight
+      :segued: false
 1968/12/21:
   :uuid: 7d40f8fe-2a97-4b4a-95b4-a0a17ded9131
   :venue: Shrine Exhibition Hall
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
-1968/12/23:
-  :uuid: f1f4dec9-e2b9-4323-b1fc-aadacac668e1
-  :venue: The Matrix
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
-1968/12/24:
-  :uuid: 1bb9229d-eaf3-4252-853d-a54db4b3a4bb
-  :venue: The Matrix
-  :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
+  :sets:
+  - :uuid: 7e30d06a-30f5-4ac4-af1f-7ce86a583abc
+    :songs:
+    - :uuid: ec59d30b-893b-469b-8f38-54768da42d86
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 3e1ff944-1076-4831-b7bd-98e36c9ccbce
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 60769759-cfec-4f60-8889-b8cbf08836e8
+      :name: Drums
+      :segued: true
+    - :uuid: 2227d0b0-467c-48dd-95a0-9c96f436c314
+      :name: The Other One
+      :segued: true
+    - :uuid: c02487ea-cef0-4350-bf95-88a8119c6d08
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 57de97ad-74f2-4cd9-8e68-d3d39b0e8a92
+      :name: Drums
+      :segued: true
+    - :uuid: 7fb4e9c8-27e2-4109-bb46-4c853cdee66c
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 4f567e12-d26e-44c9-b4d2-c7b85f025cba
+      :name: Drums
+      :segued: true
+    - :uuid: eefe9bb5-294e-4275-a46a-20111a7e72dc
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: bd20743a-12a8-4a4c-a210-94e8273ca7ad
+      :name: Hurts Me Too
+      :segued: false
+    - :uuid: 1625eb7e-8354-4d94-8536-ccf0e096c517
+      :name: Alligator
+      :segued: true
+    - :uuid: 91230ab9-d6fe-460b-9495-1c403bbd112d
+      :name: Drums
+      :segued: true
+    - :uuid: c17f1ff9-d13a-4162-8ced-735c5180fdff
+      :name: Alligator
+      :segued: true
+    - :uuid: 0df51067-0c00-49f2-9d6e-db3e3f7d2962
+      :name: Caution
+      :segued: true
+    - :uuid: b96f0840-2adf-4a0a-b162-6fcda6a3ea8e
+      :name: Feedback
+      :segued: true
+    - :uuid: 3f8df7cb-0ac9-4da4-94a3-e087b8c4eaba
+      :name: And We Bid You Good Night
+      :segued: true
+    - :uuid: 6deb6623-83da-4993-bd4b-63ae945b39a2
+      :name: Drums
+      :segued: true
+    - :uuid: 2edfce00-5b02-4e34-9ff2-1ba87169cb97
+      :name: And We Bid You Good Night
+      :segued: false
 1968/12/28:
   :uuid: 8ff4a076-405a-4945-a6e5-09d2c594137a
-  :venue: Houston
+  :venue: Catacombs
   :city: Houston
   :state: TX
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 1ba4c6d5-be54-47ad-98f8-d4f90ccf8a08
+    :songs:
+    - :uuid: 8948d5c6-6a08-4fa8-b99e-e455b0565cc6
+      :name: Morning Dew
+      :segued: false
+    - :uuid: bbeba6e8-a846-4d47-aeb8-7734634a973a
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 9960cdbb-f8b9-4e0c-85fe-28ac6e673250
+      :name: The Other One
+      :segued: true
+    - :uuid: 4a88055c-c9d9-4ebc-88cc-f5c66d00a0ac
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: b349d7c3-0f05-47f2-9fb6-9faf3413a0bc
+      :name: Alligator
+      :segued: false
+    - :uuid: 23f2058f-7558-483c-bf2b-438b5f3c3089
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: afb3079f-bedd-4f8b-ac4e-46df6e13bb98
+      :name: Dark Star
+      :segued: true
+    - :uuid: 7edf1654-08a0-476a-b0d1-9e0a327dda84
+      :name: The Eleven
+      :segued: false
 1968/12/29:
   :uuid: 1cf979d6-5e48-49dd-a79f-6ea67e5d9e16
   :venue: Gulfstream Park Racetrack
   :city: Hallandale
   :state: FL
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 9b047a79-f5a8-45fa-980e-1bc52ac89701
+    :songs:
+    - :uuid: 22b89ff8-8e8c-4c79-aa6b-529eb398b7d0
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 1bda4581-3de4-4f2f-90bd-9f7eb011ddfd
+      :name: Dark Star
+      :segued: true
+    - :uuid: be051892-6822-4481-9678-c23ba6d6b6c9
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: 7ae5b326-475c-44b9-884d-1c9fe02981e5
+      :name: The Eleven
+      :segued: true
+    - :uuid: 376935a5-e904-4078-991c-d27bfaaad06e
+      :name: Drums
+      :segued: true
+    - :uuid: 5d6d7b1a-b2a3-4de2-82e7-3789910706e8
+      :name: The Other One
+      :segued: true
+    - :uuid: 045e7035-7b70-4657-833c-002136837259
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: ef9043cd-3bdf-42ec-9b44-6ba99f3371b9
+      :name: Feedback
+      :segued: true
+    - :uuid: 94a68401-f0c3-4004-8eeb-e535d7fdbe09
+      :name: And We Bid You Good Night
+      :segued: false
 1968/12/31:
   :uuid: a74873ec-bb56-42f2-aa3c-aa6249965908
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 5d418153-c354-4838-9b46-db0007193e88
+    :songs:
+    - :uuid: 882d204c-d39f-46e9-bc3e-2270e153f8d7
+      :name: Midnight Hour
+      :segued: false
+    - :uuid: 7eff31f2-71d7-4460-b36e-02a11f9597cd
+      :name: Dark Star
+      :segued: true
+    - :uuid: 088ed93c-2c74-4238-82c4-8c3fd4eba0e8
+      :name: Saint Stephen
+      :segued: true
+    - :uuid: dfe23277-0fe6-41d5-a2fd-c7d435e39096
+      :name: The Eleven
+      :segued: true
+    - :uuid: be6550b3-f9cc-4067-832a-770848a078fb
+      :name: Turn On Your Lovelight
+      :segued: false
