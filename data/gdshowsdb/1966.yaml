@@ -27,46 +27,46 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: a8e15935-ba68-439d-a325-af5331c9221e
+  - :uuid: 3bb28cdc-14ce-452c-90cc-6da829bf0985
     :songs:
-    - :uuid: 987e16b7-0fd5-4415-a290-0c6c828f5d37
-      :name: It's A Sin
+    - :uuid: c68b1491-3be5-4576-827e-062a7ba21042
+      :name: I Know It's A Sin
       :segued: false
-    - :uuid: ece3f416-5a80-4bb8-a408-6fcec6548da3
+    - :uuid: e993fa21-463d-47b1-b3d4-6c26ac370289
       :name: Sick And Tired
       :segued: false
-    - :uuid: c9479724-35a9-43be-8af4-430bd94cdc03
+    - :uuid: fdffbf2a-e393-428a-a68d-1d205f33d619
       :name: Mindbender
       :segued: false
-    - :uuid: 466340ca-d2e1-4cd7-8f73-5feab50dae26
+    - :uuid: 00bdef32-85fc-429a-8b65-1a70753e6531
       :name: On The Road Again
       :segued: false
-    - :uuid: 5927fb5b-263d-409d-b6e9-3939c44d39a2
+    - :uuid: d5c27789-be8c-45cb-b3a0-c00a90cf8bdb
       :name: She Belongs To Me
       :segued: false
-    - :uuid: 75c14523-caa0-4be6-b6b4-df59a39cc239
+    - :uuid: 504b137f-8441-4be3-9687-f9b433a40c4c
       :name: I'll Go Crazy
       :segued: false
-    - :uuid: 9a007641-4b1f-472e-9779-8774a8a4c45c
+    - :uuid: 28b3ba36-ee26-49bd-aa06-a9cabe716634
       :name: Can't Come Down
       :segued: false
-    - :uuid: a2544f71-b4fd-4e22-86b0-6522ce00a526
+    - :uuid: 74753802-da64-4eee-9f04-82aefaf826d1
       :name: Death Don't Have No Mercy
       :segued: false
-    - :uuid: 8c7a365d-45ff-4eef-a2f1-75ea4d9ffa12
+    - :uuid: cdc150f3-695b-4ae6-a527-d7ec194c1994
       :name: Parchman Farm
       :segued: false
-    - :uuid: cd8d10f8-104c-4785-98ad-2679761daedd
-      :name: In The Midnight Hour
+    - :uuid: d597ce22-f177-4194-bbea-6c6419a12d2a
+      :name: Midnight Hour
       :segued: false
-    - :uuid: f14f1c36-04dc-45da-ab9a-0cf2deb4567e
+    - :uuid: d0fb8e89-e342-4a1f-8d94-28065974355f
       :name: The Only Time Is Now
       :segued: false
-    - :uuid: 85a797cf-0cf9-47fd-bef0-15c7cc1054ee
+    - :uuid: 50c6334e-7ac8-4af2-8723-ffa002575608
       :name: Early Morning Rain
       :segued: false
-    - :uuid: 79f4cd2e-5df7-4896-aa11-eddf2236d773
-      :name: It's All Over Now, Baby Blue
+    - :uuid: e117e480-51f2-419d-8c79-560a4b2682ef
+      :name: It's All Over Now Baby Blue
       :segued: false
 1966/01/08:
   :uuid: 85cdbb3b-e463-485e-aa18-1e9752db832f
@@ -75,21 +75,21 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 06cd74b7-3e14-431f-8b0b-9582d7701f67
+  - :uuid: 07569651-eb80-42fe-a0e8-5eaf7c679f65
     :songs:
-    - :uuid: 65f2cde1-4d1c-49e4-b378-a0371c73d8cc
+    - :uuid: 4e518928-d2bb-4b5b-a5b9-112dd3c9d9f4
       :name: I'm A King Bee
       :segued: false
-    - :uuid: 1da1639e-9192-4da3-a149-972160569876
-      :name: I'm A Hog For You Baby
+    - :uuid: 909d8067-ea85-4b46-88f9-aaae125036ac
+      :name: Hog For You Baby
       :segued: false
-    - :uuid: 5f56642e-b7af-4e10-8c5e-d57ea129e985
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: 48bdd1ab-0e94-445a-afa5-f93b299cce01
+      :name: Caution
       :segued: false
-    - :uuid: 1ee90cd0-57e7-447a-8f71-e69ff5a1c336
+    - :uuid: de4ec6be-1020-4317-94c4-0b46339dd2fe
       :name: Death Don't Have No Mercy
       :segued: false
-    - :uuid: 892028c1-693e-4730-8eb0-1195acbe972e
+    - :uuid: 909ec17f-9da5-484c-a5c1-895c588b1e02
       :name: Star Spangled Banner
       :segued: false
 1966/01/13:
@@ -99,13 +99,13 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 685f275e-c6c4-40ab-b864-476efe29aa93
+  - :uuid: a71443fc-0371-4eea-b305-44c5b225d154
     :songs:
-    - :uuid: ddf6cdf8-1f1d-4247-9e58-b6d87e3d2483
+    - :uuid: 779be5bd-4892-48c8-aa8a-b23ed3a63dd4
       :name: All Of My Love
       :segued: false
-    - :uuid: fac57622-db7a-4c7c-8746-3e9592bcdf5e
-      :name: I'm A Hog For You Baby
+    - :uuid: 63bba658-0d49-4029-b6b2-19a538db0ed6
+      :name: Hog For You Baby
       :segued: false
 1966/01/14:
   :uuid: cc8553a7-f163-4feb-bcba-0162565acb64
@@ -149,21 +149,21 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 58dfcfe3-6f00-4a57-9bc1-15ff82393ba7
+  - :uuid: 7f2408a9-5ab0-42e4-b56d-d9d3ca7fc77d
     :songs:
-    - :uuid: 63b6f70d-f19e-4af1-81fb-43578aa69ad8
+    - :uuid: bd0cb6e9-e689-4b21-b054-e54090c0b856
       :name: You Don't Have To Ask
       :segued: false
-  - :uuid: 5546d36e-3420-475e-b913-422aa8da6981
+  - :uuid: 35872ae3-0218-4340-8271-afeeeb0d9039
     :songs:
-    - :uuid: 5e6708ac-96bc-43d7-9a07-bc7889dc3bd7
+    - :uuid: 48b786c6-4a64-48bf-a582-726fe0958f43
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 2425c7a7-e458-4cce-a679-79f216795261
+    - :uuid: e1a87aae-fa41-46da-a684-ffa69ff753b7
       :name: I Know You Rider
       :segued: false
-    - :uuid: 69c64b60-ccc1-46a1-842d-8929fa7dc8b7
-      :name: In The Midnight Hour
+    - :uuid: c2911fb5-f724-4d91-829e-310dcfa1c24a
+      :name: Midnight Hour
       :segued: false
 1966/01/29:
   :uuid: 6150765d-d147-4444-9d9f-f2233b4ec405
@@ -186,21 +186,21 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: b1b232e1-6e21-4f47-a46b-5cfdefba2d6d
+  - :uuid: 2a1b8cc3-7aba-4b27-a580-12fa061baa0f
     :songs:
-    - :uuid: a736a69a-dc14-4caa-8a39-926e411f309e
+    - :uuid: 6ebe3f5a-b859-456d-9f2d-2197c19a402b
       :name: Tastebud
       :segued: false
-    - :uuid: 72d828dc-4f43-497c-a43c-afa02c478aa6
+    - :uuid: 0344035c-3430-43ff-8e3c-69641f2930a4
       :name: Mindbender
       :segued: false
-    - :uuid: 936f2d3a-bd3d-460b-a651-895f54960b2a
+    - :uuid: 1f72a3af-0a00-4580-8ba2-1321e30d6176
       :name: One Kind Favor
       :segued: false
-    - :uuid: f7d94581-a2b3-4247-a1ad-8a41900226c8
+    - :uuid: 237739ff-272c-4d25-94eb-0a4538dcb389
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 296b9038-dbcf-4dde-8e49-4cc67dff6146
+    - :uuid: da5ff381-cdca-42d2-96d6-d75ff59a4cf1
       :name: The Only Time Is Now
       :segued: false
 1966/02/12:
@@ -210,9 +210,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 2f787d91-f330-491f-a4cb-bed4d29c4918
+  - :uuid: 01d4b7b2-1b0b-4aca-944f-5f0e2993380c
     :songs:
-    - :uuid: 70da990c-13dd-4776-b11a-76a1b6d73da6
+    - :uuid: bd3525ee-b85a-44ca-8aa2-9caab8399494
       :name: Twist And Shout
       :segued: false
 1966/02/25:
@@ -250,40 +250,40 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: d21b4ff5-2528-4e9a-bbd2-56175da5d931
+  - :uuid: ca5bff08-aaae-4aa0-a3bf-9883050a9b2c
     :songs:
-    - :uuid: 147d7637-d8c4-45c5-a31e-2fba697017a5
+    - :uuid: 1fcc06f1-1ff8-4f34-9302-acf463ae1237
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 5f39666c-3143-4892-8bf9-6f233d639977
+    - :uuid: 9feae3f6-fccd-4600-8f5a-838abfdf50b9
       :name: One Kind Favor
       :segued: false
-    - :uuid: bc785746-fc8b-479a-baab-7fcc88b556d5
+    - :uuid: 3a10437a-f353-4bce-8653-4d9c7c625fc5
       :name: I Know You Rider
       :segued: false
-    - :uuid: e4cf1087-0167-4cff-844a-cfc40819abe8
+    - :uuid: 5d54316a-e0a1-469f-aa79-0c3885d484e4
       :name: You See A Broken Heart
       :segued: false
-    - :uuid: 66c45164-5e96-47be-8601-f59542c2c5b7
-      :name: It's A Sin
+    - :uuid: 28332335-2303-4820-9ee6-f09a01e982d3
+      :name: I Know It's A Sin
       :segued: false
-    - :uuid: c0f717f1-a962-4a99-97b8-c3e0c57bf57d
+    - :uuid: b770f85f-a6b2-4939-b1a6-32f472df7887
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 85ae94bd-1b20-4e23-8353-5d94025b3a43
+    - :uuid: 5413ffee-eaa9-4a0f-b716-4415441fa2b8
       :name: Heads Up
       :segued: false
-    - :uuid: 5edffdf3-7c8f-4c44-990e-4056597b00dd
+    - :uuid: ef265a27-41b7-4b4b-8d7b-14abe9448333
       :name: Next Time You See Me
       :segued: false
-    - :uuid: 0b244196-264b-4169-82ef-3cd470d2ba67
+    - :uuid: f920fb14-924a-4e4a-bcdc-02f473f5c746
       :name: unidentified-19660312-02 (blues instrumental)
       :segued: false
-    - :uuid: 6afd91c3-790a-4516-8af1-92655e132032
+    - :uuid: 6afb761d-9bdf-4441-9b53-19fa68bbe119
       :name: Death Don't Have No Mercy
       :segued: false
-    - :uuid: 562141c1-ccb0-48b2-ae55-c2080eb2a148
-      :name: In The Midnight Hour
+    - :uuid: 5149614e-9c35-4259-bf36-1fd9f5c252bc
+      :name: Midnight Hour
       :segued: false
 1966/03/19:
   :uuid: 357b2230-03a2-4165-b880-865487d42a12
@@ -292,9 +292,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 727ced31-196f-436d-9b08-5e08e1e9a613
+  - :uuid: 3dbb9376-a959-4b6f-8a97-7f74a83be49a
     :songs:
-    - :uuid: b1bb5ccf-9a55-4e7b-b527-9e589c44d0ed
+    - :uuid: 63a76f55-67d9-4dcb-880a-e1f29dd19460
       :name: Viola Lee Blues
       :segued: false
 1966/03/25:
@@ -304,29 +304,29 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 432e3da2-66fc-44f7-84d4-13e2beaefab1
+  - :uuid: 9f0040a8-b665-42ae-a2b0-c1d69010bd0f
     :songs:
-    - :uuid: 690ef4b5-9a7f-40b1-9f4d-f4de987693f1
+    - :uuid: 444f6893-e58a-4cfb-b9ce-68294213053d
       :name: Stealin'
       :segued: false
-    - :uuid: 8fffd692-a0d9-4fe2-824a-6eb3deb5b7a1
+    - :uuid: 196a7e5c-c0b8-440f-a3b5-f50f82161006
       :name: unidentified-19660325-01
       :segued: false
-    - :uuid: ca953dca-0294-43b2-b7d7-950c9d10a872
+    - :uuid: 6c290d29-f3ac-4f54-b91f-56aed6e97332
       :name: Hey Little One
       :segued: false
-    - :uuid: 0ed52bd3-57c2-44ef-a762-da5a65f627cf
-      :name: I'm A Hog For You Baby
+    - :uuid: 7add12b7-50eb-4825-baa4-4366acf1731d
+      :name: Hog For You Baby
       :segued: false
-    - :uuid: b4bf696c-a20c-447e-ae39-71b3a407aeec
+    - :uuid: 0bae4e45-6806-465b-8229-bf8b729bbca7
       :name: You Don't Have To Ask
       :segued: false
-  - :uuid: 192061a2-289d-4931-9e9c-037d4f6a7abf
+  - :uuid: 57b14927-8774-457a-9423-70b111b45135
     :songs:
-    - :uuid: e39bb68a-47e1-4f01-9906-4eb009e96747
+    - :uuid: 8509471c-f951-4a5f-84cf-341c0d7fcf64
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: dfba5d06-1068-4608-99f1-a39f76c0f32f
+    - :uuid: bfe7a668-0bdb-4faf-b70b-1e6616c12663
       :name: Next Time You See Me
       :segued: false
 1966/04/22:
@@ -336,18 +336,18 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: ca251169-5621-46d1-9f47-edbe576777a4
+  - :uuid: 5a16c9fb-aaf5-4c6c-8878-87eb3a5df0ae
     :songs:
-    - :uuid: 73403af1-508c-4a65-81f2-18b9d759afb1
+    - :uuid: a5929cea-f603-4d6e-9a5c-dfa7a21174a2
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 4b0b1035-9f68-4ec1-a6f1-5381def16010
+    - :uuid: 207004fc-b4f0-43db-bee1-3ffa50f02336
       :name: Good Morning Little Schoolgirl
       :segued: true
-    - :uuid: 0723bcd0-48c8-4892-8940-54aab05c8eb4
+    - :uuid: 0275e940-79c0-489f-8f3d-4317a6b7b90f
       :name: You Don't Love Me
       :segued: true
-    - :uuid: 35b4c5b0-aeda-4c88-8918-550ad0717e65
+    - :uuid: 7b66276a-9e99-45e4-be54-8e71828b2fc8
       :name: Good Morning Little Schoolgirl
       :segued: false
 1966/04/23:
@@ -364,21 +364,21 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: d39e87db-c380-4d16-8779-9c570ec8e4fc
+  - :uuid: f9bf6897-889e-4ade-8356-58549ae11b0f
     :songs:
-    - :uuid: f0d402eb-1156-4291-8ceb-07b960b1f42f
-      :name: It's A Sin
+    - :uuid: 10bc48f7-c604-46e3-a6bf-3d4272ebbe14
+      :name: I Know It's A Sin
       :segued: false
-    - :uuid: e6a53fd5-2e88-48bb-b067-0d224c1c8bd1
+    - :uuid: 6badcaaf-4a12-4a27-98d4-7df66e74724d
       :name: Viola Lee Blues
       :segued: true
-    - :uuid: 39667172-d1b1-4910-8c14-003d02509374
-      :name: In The Midnight Hour
+    - :uuid: 36adc931-e0dc-453d-a375-d7605ea09975
+      :name: Midnight Hour
       :segued: false
-    - :uuid: 50080b74-2dc3-4cdb-99b8-2080e09c662f
+    - :uuid: 8c0fa069-96b6-45b2-8935-c3ea0212bc3a
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 2d2d4873-b266-4b6d-b558-d2b72054259b
+    - :uuid: fdef29ff-d680-476b-9eb0-201a875ef13c
       :name: Blues Jam
       :segued: false
 1966/05/07:
@@ -388,10 +388,10 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: cf8e1846-2859-436d-b357-f931d9cd562b
+  - :uuid: 7280966a-259c-4b58-8554-dffccac5bbc6
     :songs:
-    - :uuid: 9ef90ad3-e77b-4a5b-ae7d-77c0331210c4
-      :name: In The Midnight Hour
+    - :uuid: e032254c-480a-4900-94f8-6f187a5ab306
+      :name: Midnight Hour
       :segued: false
 1966/05/14:
   :uuid: aebffcc6-e71a-4d8c-9ee5-fe11692a51ed
@@ -407,59 +407,59 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 625abf01-a6c4-4054-a17a-108206346a7c
+  - :uuid: 15073d7f-7f9f-4e5f-bb6d-5bfb022cde1f
     :songs:
-    - :uuid: e4ab46f1-63ba-4aaf-9bad-08f70ae11b33
+    - :uuid: df71d2b4-9b3b-4851-8b1d-a0fea38119a5
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 9b861bc0-7ea0-4e82-904a-59abc2c48bf9
+    - :uuid: f9484458-6b47-4e17-aefd-5659a269e296
       :name: Standing On The Corner
       :segued: false
-    - :uuid: 829f86f8-7c90-4f6b-86ec-4bc6603e4a3f
+    - :uuid: e38dcbdd-58f3-455c-8a4c-d98e1cb86671
       :name: Mindbender
       :segued: false
-    - :uuid: 343cb807-d8e9-4fba-8094-eb0cc47edef2
-      :name: It Hurts Me Too
+    - :uuid: 57fef694-6949-4e5d-a4d9-edb2aab5b969
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: 351e862b-60bb-4f40-9f15-dca0ae0d8d26
+    - :uuid: c5b2a679-f468-4d82-8029-5c9257613e75
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: b41a7204-bd59-40fb-89ea-11e3a1a18352
+    - :uuid: 33f74c78-e7e4-4c39-9ccd-a2ff830c3ed6
       :name: I Know You Rider
       :segued: false
-    - :uuid: 0696ed2b-fa3e-4714-b896-ad8e6c3db24f
-      :name: It's A Sin
+    - :uuid: adc1ccef-a990-42a6-b9b7-723d56c2de66
+      :name: I Know It's A Sin
       :segued: false
-    - :uuid: 604cf373-f390-414c-b125-a52728656a57
+    - :uuid: b2ea2ac1-4cdb-4a08-a2ff-66ecfb10d058
       :name: Sick And Tired
       :segued: false
-    - :uuid: e63894a3-200a-4d4c-ad6e-3203cf8a3254
+    - :uuid: f37611b4-2f7a-4e94-bd81-d2c97a263804
       :name: Cream Puff War
       :segued: false
-  - :uuid: d8a4d9ab-37a9-41aa-a0aa-ff5c811360c1
+  - :uuid: 1d937c15-7bb1-4663-8a06-a8988633b9fb
     :songs:
-    - :uuid: b39911dd-a433-4a52-8a44-5c7b05711d86
-      :name: Sittin' On Top Of The World
+    - :uuid: 8038d413-934c-4800-83ae-6311b465367a
+      :name: Sitting On Top Of The World
       :segued: false
-    - :uuid: 3ef1c0fb-f584-4ae0-9eb0-6f9b1635523f
-      :name: New Minglewood Blues
+    - :uuid: a15b48a1-29b0-40ac-bf84-ebfdd92fa43e
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 9d375c37-acc7-4e3d-81e6-ff4b8c693342
+    - :uuid: 7959e7eb-e26e-40ee-9c0d-5512cf07a23a
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 184a890b-7422-46c1-b1ae-673857a4e401
+    - :uuid: 2b74939f-33db-429b-90fb-9f31782274bb
       :name: Tastebud
       :segued: false
-    - :uuid: 56b5599f-5b34-400e-a17c-2d6712bb6e1c
-      :name: Silver Threads And Golden Needle
+    - :uuid: 58f7b30c-87e3-4e5e-9abe-1826d07d2aec
+      :name: Silver Threads And Golden Needles
       :segued: false
-    - :uuid: df2be1d2-c541-49e2-8050-2e7a235becdb
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 5e1951c1-69b3-495c-86c4-05b6062fe3ce
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: 8818bde8-1587-4289-9bf3-7474b06f1edb
+    - :uuid: d8731b46-52e9-468b-8199-01d75cad460d
       :name: Good Lovin'
       :segued: false
-    - :uuid: 10b258b1-1629-4b3f-9186-ff5787467862
+    - :uuid: ce12054b-4e99-47f6-84e1-2207fd01ea38
       :name: You Don't Have To Ask
       :segued: false
 1966/05/22:
@@ -483,10 +483,10 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: eb30b390-5ee4-4820-992f-8901eacd37be
+  - :uuid: ef4e1805-07ec-4371-98ce-67a2664326ae
     :songs:
-    - :uuid: 2e8ec7fb-1940-4114-b41e-e89ebb524eb4
-      :name: Dancing In The Street
+    - :uuid: b15cd8b3-96ae-4b1f-a1ec-7da61e6084aa
+      :name: Dancin' In The Streets
       :segued: false
 1966/06/03:
   :uuid: 7e134b6d-3b20-40b0-a7e1-d611557d127a
@@ -495,9 +495,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: bcc4bb13-12ec-4ac9-897a-a38e889fb095
+  - :uuid: 3f83c5b2-1518-48e3-9d8b-469dab5e987e
     :songs:
-    - :uuid: 0127e505-7abd-4c53-8e3d-72b000481e3f
+    - :uuid: 175bcdbb-2a0b-4305-998d-e13c48c3c0b6
       :name: Mindbender
       :segued: false
 1966/06/04:
@@ -570,66 +570,66 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: b9fda243-4de4-4f52-b55a-3b3f81dbd296
+  - :uuid: 31c7c4b5-2650-4816-974a-0d424d1262c3
     :songs:
-    - :uuid: a0373a98-8fcf-4f8f-8f9f-8836e0369965
+    - :uuid: 24d5afd8-40a2-4439-80ba-ef0debe10315
       :name: Nobody's Fault But Mine
       :segued: false
-    - :uuid: 69ffd135-3833-4a3e-8044-061c84599e71
-      :name: Dancing In The Street
+    - :uuid: 40933570-699e-47c9-8e35-94db3b3a8a5a
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: de24f8fe-66bb-4f3b-b9b7-eab67afaae93
+    - :uuid: ccb33ff5-3676-48f5-94da-8f0a74c7d752
       :name: I Know You Rider
       :segued: false
-    - :uuid: 6e4443b6-8c33-4c8b-a81a-6f3897a0ad96
+    - :uuid: c3ae2ef7-8a79-4a75-8bc0-60cf9846f26d
       :name: He Was A Friend Of Mine
       :segued: false
-    - :uuid: 773e5ffd-da55-48a6-b867-3a605f4621c0
+    - :uuid: 020c2ef4-20cc-4363-b5b9-5ecd81742bc5
       :name: Next Time You See Me
       :segued: false
-    - :uuid: b0be7bee-7168-48bb-bc21-185cac54e96b
+    - :uuid: 6180567c-f55c-48b0-a2a9-68017e7dddd5
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: ec6338be-60a5-4dc3-bb88-f03715e18aa0
+    - :uuid: 6e2a474b-0656-47a9-bb3b-5448de11ac2f
       :name: Big Boss Man
       :segued: false
-    - :uuid: 6e1fd9a4-aa8e-4097-9fcf-7fa498bf29ed
-      :name: Sittin' On Top Of The World
+    - :uuid: 5c9f95a1-2a42-4dff-b7c3-42618c7d4918
+      :name: Sitting On Top Of The World
       :segued: false
-    - :uuid: c94fd80f-7213-4505-ad5c-8e46120bcf35
+    - :uuid: 673308e4-2d5b-41b5-b729-10aae91d04aa
       :name: Keep Rolling By
       :segued: false
-  - :uuid: dd45820a-a405-4eba-a0b5-e72d2cd0063b
+  - :uuid: b72dcf17-ab61-41ae-bbdc-cec1ea657ace
     :songs:
-    - :uuid: 263040f3-c4bd-4e27-a9be-cceccb249e5c
-      :name: New Minglewood Blues
+    - :uuid: 3f5fec80-6022-4497-8979-91055ce62cdd
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: bd9550e0-a786-4994-ba9e-83da6811595f
+    - :uuid: f4f75b9e-ba48-4de1-9f75-9c202b1520b9
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 473660f0-4d6c-4127-8a93-8dba6b86b496
+    - :uuid: 5a3644da-33bc-4163-b1e1-6c2f27d011d5
       :name: Tastebud
       :segued: false
-    - :uuid: 1bfc61ee-94d3-4e9e-92f3-8ce4e9b1602a
+    - :uuid: 25539a65-e976-48da-b206-e55b55771752
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: e8898845-133a-4028-b767-1f1078aaeb68
+    - :uuid: a94cfbf7-7d15-4bc0-a070-3cb892c2ef3e
       :name: Cream Puff War
       :segued: false
-    - :uuid: e2b66884-9438-4a77-af58-6c859799d6dc
+    - :uuid: 503d9a7e-0794-45da-96c5-ac47e8b94604
       :name: Don't Mess Up A Good Thing
       :segued: false
-    - :uuid: c319f246-ebd7-4c0f-8fcb-de1da4510ca4
+    - :uuid: bbd208ed-56e9-47b0-94b2-507734974629
       :name: Cardboard Cowboy
       :segued: false
-    - :uuid: 787c8f32-6313-40b0-8591-e3ff1e6f17f7
+    - :uuid: 3cc205a5-4486-4186-9c02-f5c5b9476a8d
       :name: Gangster Of Love
       :segued: false
-    - :uuid: e79e72ba-b6da-4d97-8224-6a9a2630ebcf
+    - :uuid: 1005b16a-765a-4468-bba2-a576d021344d
       :name: You Don't Have To Ask
       :segued: false
-    - :uuid: cef1ba11-6afe-4aa2-9273-89520631acec
-      :name: In The Midnight Hour
+    - :uuid: 7fb4b59b-55de-4b20-826a-63df807218f9
+      :name: Midnight Hour
       :segued: false
 1966/07/08:
   :uuid: c9ff5f14-716b-4b46-9986-a38b1f31aebf
@@ -659,12 +659,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 08c037eb-1822-48c2-85e0-5e599a596bc0
+  - :uuid: 43382e25-60bc-40fc-b25d-846f38a86508
     :songs:
-    - :uuid: 51d4038b-84f6-4b8e-b8a8-c7937cdb4f29
+    - :uuid: e5dff948-b740-4eda-ae93-2a8cbde32570
       :name: One Kind Favor
       :segued: false
-    - :uuid: d4666144-5beb-4e73-8e75-9658bbdb746b
+    - :uuid: e5e93ebe-4a1c-48f7-92c3-0ec9f27ca6bd
       :name: Keep Rolling By
       :segued: false
 1966/07/16:
@@ -674,74 +674,74 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: ea911c85-66a1-4e57-bcf2-56aa2433677e
+  - :uuid: ac6bd141-5521-4d48-a29d-e1cadf972b9f
     :songs:
-    - :uuid: 230e6d41-36f5-494c-9cd5-c0d511da1e9e
+    - :uuid: 8d8bf9c3-2372-4747-be39-1bfb7f03c45e
       :name: I Know You Rider
       :segued: false
-    - :uuid: 59982520-cbcf-4c64-946e-a74d7a761d62
+    - :uuid: 7b3b15a9-9d5a-45aa-ba87-f50d09e50afc
       :name: Big Boss Man
       :segued: false
-    - :uuid: e6dbeb8a-0d15-4010-8fc6-5ef3b2222cea
+    - :uuid: 8b701623-aa62-4ce1-aa78-20e1700b0123
       :name: Standing On The Corner
       :segued: false
-    - :uuid: 0f821f70-671e-4b11-87ae-8122eeb0d8ec
+    - :uuid: 9398c65c-da8c-49ca-aebb-65c30fca4f52
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 06386a6d-13c2-4b5b-a952-4b069abaea77
+    - :uuid: 8e4bd79c-100f-4594-b299-4b5e8903ab99
       :name: In The Pines
       :segued: false
-    - :uuid: db6ffb98-c3f6-46e3-b433-86c04b6ef423
+    - :uuid: 8d80f58a-472d-4762-a79a-f5c3ba065a43
       :name: Cardboard Cowboy
       :segued: false
-    - :uuid: 13d7c7f0-1113-436f-b9b2-0f945c04aa03
+    - :uuid: 91c52ad1-8690-4b41-92df-b21a88049c62
       :name: Nobody's Fault But Mine
       :segued: false
-    - :uuid: ecd96865-0229-42d4-8196-ea4ceb125d4b
+    - :uuid: 3658f912-e8b1-4862-a955-96f32fbd8f83
       :name: Next Time You See Me
       :segued: false
-    - :uuid: 2132f1d5-4e6c-4bd8-a632-f31517a072e2
+    - :uuid: efadfa05-3f97-4850-8706-57091098b74d
       :name: He Was A Friend Of Mine
       :segued: false
-    - :uuid: 99bd752e-b974-4c3e-9624-dd188b22bb67
+    - :uuid: a03489da-b3fd-4ab5-952d-e933af74c7e3
       :name: Cream Puff War
       :segued: false
-  - :uuid: 94510adc-6a5b-4e26-a7c2-eafe87cc9fbf
+  - :uuid: a5823ae0-5166-4e2e-bd13-515aca023d75
     :songs:
-    - :uuid: 68529771-9fc7-4ef6-a8eb-9817a6ab9957
+    - :uuid: b7e61fc3-0be4-4ca3-973b-7143d1c8d77e
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: ef0a463d-ab17-4305-bcfd-a3d591976c29
+    - :uuid: 8f717d0a-94fe-4ff2-a9d1-0fd7e8684e07
       :name: Don't Ease Me In
       :segued: false
-    - :uuid: 075979a7-214a-4fba-b804-2871b12e3ce8
+    - :uuid: 04fcff0a-9b32-4336-87a2-d04bf0bb1602
       :name: Pain In My Heart
       :segued: false
-    - :uuid: d064aeaa-1907-40dc-b921-03e5d9d9b048
-      :name: New Minglewood Blues
+    - :uuid: 36cb63ec-5aa4-413a-94b8-a5121233285f
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 5e5d0fc6-d183-4131-a024-9e12bfdc3f86
-      :name: Sittin' On Top Of The World
+    - :uuid: b3efa196-6e58-41ab-879a-58e29ee5c902
+      :name: Sitting On Top Of The World
       :segued: false
-    - :uuid: d3cb1b43-df43-4824-8770-015f552c04e9
+    - :uuid: 3c3be245-932b-4720-8a4d-88b3b375b9e2
       :name: You Don't Have To Ask
       :segued: false
-    - :uuid: 38c26e5a-2a8a-4b7b-9a6f-678385b83611
+    - :uuid: bd49325c-3643-4eb2-b24f-e513d388c56f
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 78018b10-85a2-4b4f-a609-e8f2c0a641ca
+    - :uuid: 75202009-a8ee-4563-aae8-7a1e846623df
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 5eec004b-f5b3-4272-800a-4fc42b2b0cf3
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 4993e6aa-6e0f-4f79-800a-e8ea430ac0fc
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: 9064a1b4-39ac-4a5e-a7de-56e635dd86f9
-      :name: Dancing In The Street
+    - :uuid: e00924fd-8daa-4eef-9ee9-7a496c5a90b0
+      :name: Dancin' In The Streets
       :segued: false
-  - :uuid: 9a9cb329-ab14-434d-a402-03c6ddc1c083
+  - :uuid: 354750d5-dfb5-430a-9b38-c563428cb90b
     :songs:
-    - :uuid: c29ca6e8-65b9-4908-9c95-53b3a553982e
-      :name: In The Midnight Hour
+    - :uuid: c3f32565-20c2-4f50-b9e8-99ef416c71e7
+      :name: Midnight Hour
       :segued: false
 1966/07/17:
   :uuid: 8d16e002-5627-4acc-81dd-77063148713a
@@ -750,39 +750,39 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 057b0c08-1b8b-4b46-92da-a28b752f1924
+  - :uuid: 742b62ad-41fd-45a3-9203-5ccc0ef1458a
     :songs:
-    - :uuid: 38a4a09c-386b-4303-b571-b0c9977bca0a
+    - :uuid: f3756090-7f20-4583-96aa-f9589209764a
       :name: Big Boss Man
       :segued: false
-    - :uuid: be0b7ef5-da47-4a5f-b1a8-c79ca8399c53
+    - :uuid: 9146e507-e510-4e10-bfb7-102a1c80bc92
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 9723f355-5e90-4f83-a3e1-24fbe63aba90
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 3c73ec80-fd8d-4f2b-adac-e31527180461
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: 706e2de5-1b6c-4a40-89c0-c5ba93b81ce1
+    - :uuid: d9a4c263-9583-4dd6-a061-ceb3b96503a8
       :name: Cream Puff War
       :segued: false
-    - :uuid: 14274b17-5a42-4eef-ab21-29b3b1c7538b
+    - :uuid: 87b3d251-caf6-4279-af04-b3107c48808c
       :name: I'm A King Bee
       :segued: false
-    - :uuid: a64cc0cd-7ad9-4e98-af9f-875123b8b96d
+    - :uuid: d1f433d2-fe0d-42c0-b267-83572edf684c
       :name: Stealin'
       :segued: false
-    - :uuid: 066c4cdf-2c6c-4d07-adb4-3337dcbfaaff
-      :name: Dancing In The Street
+    - :uuid: 4ec27400-6767-4b64-b2b0-346bc6bf0f03
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: 0fe08be4-dc82-4e12-910f-e43acd9fe47f
+    - :uuid: a62d932c-67f5-4074-8058-e96d92c37389
       :name: Next Time You See Me
       :segued: false
-    - :uuid: de245da6-a576-412e-ad9d-e9e80a178319
+    - :uuid: 6d547455-6596-4b05-988b-9372ff857b2f
       :name: One Kind Favor
       :segued: false
-    - :uuid: 2103c2ee-2f2b-430b-9194-11b77d0c0f9b
+    - :uuid: c36bf7d9-2f92-4b09-8ebf-a3e198feea8e
       :name: He Was A Friend Of Mine
       :segued: false
-    - :uuid: dd86839b-da92-45d3-b4bb-0a26ad5d6dfc
+    - :uuid: e15ea8ad-b624-4964-a594-7aa43a5cc1dd
       :name: Keep Rolling By
       :segued: false
 1966/07/29:
@@ -792,47 +792,47 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: 0e821bf0-a487-42c6-a10f-d2bede4a39be
+  - :uuid: 9e94a66a-22b9-4154-9ae9-77caf192e11d
     :songs:
-    - :uuid: cfd1eff3-913d-4734-a7cc-3ff703519bf6
+    - :uuid: 2cee584a-55a4-4186-b526-4a72b4ffea3a
       :name: Standing On The Corner
       :segued: false
-    - :uuid: 7bcd16f5-1386-4e65-9a77-0f01a5b1aebf
+    - :uuid: 34155c77-8003-4f76-bcd6-f6bdd26ecc05
       :name: I Know You Rider
       :segued: false
-    - :uuid: 4006a87b-7c6e-42a7-b598-7a56542968c8
+    - :uuid: 7d716417-2a5a-4ace-bca4-2d50b79c5000
       :name: Next Time You See Me
       :segued: false
-    - :uuid: 03a67730-af7e-429a-96d7-a3994e682233
-      :name: Sittin' On Top Of The World
+    - :uuid: 8692b02a-ad84-4d8c-b44b-ca1bb540def7
+      :name: Sitting On Top Of The World
       :segued: false
-    - :uuid: 659a6a03-fba0-468a-8141-b96641937392
+    - :uuid: b50e3688-108a-42d0-b423-df2877ff67ff
       :name: You Don't Have To Ask
       :segued: false
-    - :uuid: cd0b03e2-3a3a-423b-8fe8-ec629cdc8a90
+    - :uuid: 574beaac-ad6b-45cd-93c6-c22285c9c70b
       :name: Big Boss Man
       :segued: false
-    - :uuid: 03b94bd0-3290-4be7-829e-dc0b05cefbb3
+    - :uuid: f638bf35-01d2-4844-9774-c9f3292e134c
       :name: Stealin'
       :segued: false
-    - :uuid: f04a318a-baaf-485c-a3d3-5d4608478ed9
+    - :uuid: bbc1b1bc-757c-419e-961b-cf40d52a7314
       :name: Cardboard Cowboy
       :segued: false
-    - :uuid: 58b77997-83d2-488b-89c5-367e865cf3b8
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 009c9aa2-fec0-46df-b10a-7f91f921532c
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: 84128c2a-c31c-4300-955a-e19db8f4db31
+    - :uuid: 07ee8ae8-4911-4042-a73c-701e3e957ce4
       :name: Cream Puff War
       :segued: false
-  - :uuid: b9771277-47b8-4a2b-9d6a-09554b614807
+  - :uuid: d81e9c85-5312-4b77-92ee-4e640b2f5b29
     :songs:
-    - :uuid: 366ed3b4-be23-4ada-ad2c-35d354bb1d2c
+    - :uuid: 2907e22c-e878-4c08-9056-3ca66c33a598
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 447a5c5c-93c3-4ea6-907d-a93e86e5faf6
+    - :uuid: 67a11b20-d3a4-45fe-b7b3-e1f1f2bf7e11
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 4f6f1494-a80b-44e7-997f-17e5f32fdf1f
+    - :uuid: 5c383a7e-cbb9-4358-bfaf-e355d25b18d4
       :name: Good Morning Little Schoolgirl
       :segued: false
 1966/07/30:
@@ -842,34 +842,34 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: b403da46-32cd-4374-a551-082288cd32b1
+  - :uuid: 7a45f792-a235-48e0-bed2-cbd9c904a0a0
     :songs:
-    - :uuid: 812a1b6c-5ada-4ff3-9e7e-c6eade57e311
-      :name: Dancing In The Street
+    - :uuid: cbe38091-5892-4633-8802-803067904e46
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: 9627aba9-6f13-44d1-9405-e66424d91776
+    - :uuid: 55644291-b3ea-4373-8157-5a7fd1e1751b
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 6e7065fe-eb56-45da-b1ae-436ac6d0a3e3
+    - :uuid: 50c97aa5-094c-4e21-b2f2-1239513381ee
       :name: I'm A King Bee
       :segued: false
-    - :uuid: a926d420-0108-40a9-b33b-852336f910ea
+    - :uuid: 974df60d-89aa-48eb-aadc-29f688f08473
       :name: One Kind Favor
       :segued: false
-    - :uuid: 2e32ff34-f8cc-4202-b90c-bc135f6b1fa1
+    - :uuid: 9980b85c-449d-4a84-ba81-cfc4e7272f72
       :name: You Don't Have To Ask
       :segued: false
-    - :uuid: 292b0ad0-1203-4c4b-b2f6-c74e1bb2215d
+    - :uuid: dd76b96c-2999-493b-bd3e-cd6ee20a06a1
       :name: Hey Little One
       :segued: false
-    - :uuid: 88632026-6f77-453a-a531-1cbfd891a1d3
+    - :uuid: 93f35d32-adc7-4530-8972-9843a6d66412
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: af9aff8f-6c99-4377-9695-a7c29f440334
+    - :uuid: c217462b-affd-4cc7-bcb3-5b30ad3b12c8
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: f8c38941-94ff-492c-b447-de0115fcc6ca
-      :name: New Minglewood Blues
+    - :uuid: 0d88addb-e6d4-4235-871d-ce4f510ab8ce
+      :name: Minglewood Blues
       :segued: false
 1966/07/31:
   :uuid: fdc76715-8f4b-4c07-b957-f9e9725cc1f5
@@ -878,15 +878,15 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: e989d1b4-580a-481d-81f6-6bd8c89caf19
+  - :uuid: 844c24fc-80f6-4ba5-b55d-fa740c970cdd
     :songs:
-    - :uuid: 0b4eb1ab-e445-48b8-a5c9-d2d834386b1a
+    - :uuid: 98d31806-6781-4960-a394-0cd9bbfdda50
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: af7457ef-f964-4522-8cda-a7b41697e38b
+    - :uuid: 2ee84b90-65ef-43d4-a071-acea95f06073
       :name: Don't Ease Me In
       :segued: false
-    - :uuid: 29b9fd5a-9965-4597-a207-0052fabbc263
+    - :uuid: ceee8551-ffd7-4ca0-ab1e-1ea90c5ba587
       :name: Tastebud
       :segued: false
 1966/08/03:
@@ -903,10 +903,10 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: 575bcd19-af66-4f21-8b61-327fcbc9797f
+  - :uuid: cd648d6c-9d86-4097-abe0-67ff26ca046b
     :songs:
-    - :uuid: 58895b4a-3495-40c1-b584-1ca8bc4a5510
-      :name: In The Midnight Hour
+    - :uuid: c527ecaa-7654-4296-99d3-15a358504e33
+      :name: Midnight Hour
       :segued: false
 1966/08/12:
   :uuid: 5597a11d-8593-4a4b-b4b1-4689fa2336d4
@@ -992,13 +992,13 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: d76f0caa-bed5-4c4f-a2a4-1fea649e15d0
+  - :uuid: e560686a-0b14-410f-925b-6a2731757e9f
     :songs:
-    - :uuid: 31a8494f-1805-4c5a-934d-3946a7e8cf3c
+    - :uuid: e96dc2d7-6b27-43cd-bd57-d07eeb5d0adf
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 4d831297-ced2-486b-aab4-8aa9da41d88f
-      :name: In The Midnight Hour
+    - :uuid: 98acf405-f6a0-425f-a924-37b2ab898d91
+      :name: Midnight Hour
       :segued: false
 1966/09/16:
   :uuid: 475667e8-634f-4532-a285-78240be81cf4
@@ -1126,9 +1126,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: fafcf39c-867b-4f9d-926c-1ec0bca2ab8d
+  - :uuid: fb609121-dc24-4feb-ac95-09ae0ab2a8e5
     :songs:
-    - :uuid: d0af3674-6115-4694-ad1a-0f3bfdcce4da
+    - :uuid: 0c1b7bf2-e42f-43ce-a48d-06be202aec47
       :name: Good Morning Little Schoolgirl
       :segued: false
 1966/10/26:
@@ -1152,12 +1152,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: e0f3c79a-b008-4f6e-a7ee-84b33f0542b3
+  - :uuid: f9195a87-4d9a-46c6-a6ba-582d40035a29
     :songs:
-    - :uuid: a607436a-9b93-4c28-842e-802ce292c038
+    - :uuid: 255b413c-eaee-45b2-be7d-5bdd5f52cb3d
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 85b6aca9-f84c-490d-8c97-3749dda92ba1
+    - :uuid: 96fd3f79-7ba8-4027-b3ea-92bcd42127eb
       :name: Alice D. Millionaire
       :segued: false
 1966/11/04:
@@ -1202,27 +1202,27 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 9eaba508-82ed-4416-9160-8d4f0794e45e
+  - :uuid: d73f4a16-d519-438c-a7d0-d0084e1ee090
     :songs:
-    - :uuid: 605f054e-3137-4eca-a58a-5014466bb162
+    - :uuid: 15cec256-e3bf-4973-87f5-8597ed7022db
       :name: The Same Thing
       :segued: false
-    - :uuid: 5a924f54-73fe-4883-82e1-b9c8ee664325
-      :name: New Minglewood Blues
+    - :uuid: 0c39ad26-02c4-4747-ba46-5dc71e5db3a1
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 0de7878a-4815-4e85-8343-0e541e31d68b
+    - :uuid: 12d6bb6d-3bf4-4a3d-b21e-6cf18b1523d2
       :name: Nobody's Fault But Mine
       :segued: false
-    - :uuid: ffeaacf8-4bed-4b95-898b-b4cd0a88cee5
+    - :uuid: ae8e7902-9cd6-4109-a3b4-994a4386a225
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 7f61a198-4a6c-42c6-8303-fffb4ffc5f2a
+    - :uuid: e1bfa90a-20a7-4a4f-8f73-4426101ca7d9
       :name: Next Time You See Me
       :segued: false
-    - :uuid: 630d664f-ba12-4bcb-9bd2-21882f8ae339
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 4af6b8ab-5136-42af-a636-e38fc6be2568
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: 4cc1f4ac-5313-4ff0-b9e2-e1fb6f75d1c1
+    - :uuid: 12bde6f6-0b3e-41a4-838f-64dcc4bde134
       :name: Viola Lee Blues
       :segued: false
 1966/11/19:
@@ -1232,42 +1232,42 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 6537da7c-78ba-437a-a98c-0f0ba546900e
+  - :uuid: 43641b5c-63a8-4931-a126-2be825dbe86a
     :songs:
-    - :uuid: 610ca0e8-6164-490d-b7cd-6b93c209ec3a
+    - :uuid: 72d924fc-1802-4115-9e95-e773938d37da
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 71b67244-79e8-4ffe-a35e-655defba4a5c
-      :name: Hi-Heeled Sneakers
+    - :uuid: c37b07d6-02e1-49b5-a5bc-9ed0e0acaf61
+      :name: Hi-Heel Sneakers
       :segued: false
-    - :uuid: 1182630a-87fb-4f93-9af5-2a9e37149859
+    - :uuid: 006435be-02b5-4bca-a4c2-f649498d9e18
       :name: Pain In My Heart
       :segued: false
-    - :uuid: 1b78139f-f9cf-42e5-84a0-36d770c4fc6c
+    - :uuid: f5468ef9-593f-4be5-967f-93e43d484e68
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: e7c4020e-08d1-4cb6-ab37-77b4f4e61e28
+    - :uuid: 194c66f9-b15e-4c9d-8370-25a78e720b92
       :name: Cream Puff War
       :segued: false
-    - :uuid: 6198a84a-8d29-4baa-acbf-ead7025f8fcb
+    - :uuid: da3bb7c1-07b9-4f76-b546-89a6e3153e8b
       :name: The Same Thing
       :segued: false
-    - :uuid: d8e234ca-f326-43c1-b145-70170af429a4
+    - :uuid: d788c701-8d34-40ef-a469-5cf6af87eeb5
       :name: He Was A Friend Of Mine
       :segued: false
-    - :uuid: 83e9fce2-360f-4cd9-9e6e-e00726563351
-      :name: Dancing In The Street
+    - :uuid: be205d99-1dcb-4b0f-af4e-82b207504b13
+      :name: Dancin' In The Streets
       :segued: false
-  - :uuid: c1846f23-e9db-45e8-9197-ff3c7f33a1f0
+  - :uuid: 77cd1335-0cc7-4f02-a0b3-56a8d03bc01e
     :songs:
-    - :uuid: 084eaa15-9b11-47f1-b3ab-8167aa1ef81d
-      :name: Smokestack Lightnin'
+    - :uuid: 88327474-824b-44e6-b6f5-b8ec09a21176
+      :name: Smokestack Lightning
       :segued: true
-    - :uuid: 0639b461-493e-4718-bd07-bdaca21a26aa
+    - :uuid: 7ddb8618-41cd-4d47-b2f4-367d2149d50d
       :name: I'm A King Bee
       :segued: false
-    - :uuid: 80501692-4732-4c49-aff2-3d41c9896f46
-      :name: In The Midnight Hour
+    - :uuid: cd17def3-cd7b-47d5-a4de-0f38f54a8d6d
+      :name: Midnight Hour
       :segued: false
 1966/11/20:
   :uuid: 3d568951-848f-44af-9a5c-e02fcb32711c
@@ -1290,52 +1290,52 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 7d81b9a6-5e68-45cc-8fef-36328a802f12
+  - :uuid: c839d460-79b8-4c57-b3c9-2aa514f2dfa1
     :songs:
-    - :uuid: 0be5606c-a51f-4ed7-ae56-fa32a369dbe5
+    - :uuid: e0940a00-c9e7-4e40-a91d-e25684f10686
       :name: Cream Puff War
       :segued: false
-  - :uuid: 11517a8c-a75b-4a34-bf0a-890de95107e6
+  - :uuid: b4c82544-ec30-4669-850d-0cc1bac49354
     :songs:
-    - :uuid: b6f645b0-6d99-42b4-aa59-41a8b0b58882
+    - :uuid: 9f4b134f-ad6d-4c2f-a411-ddb3daeaf6e8
       :name: Me And My Uncle
       :segued: false
-    - :uuid: eea2e93f-8d7a-4240-a02f-d41758da73bc
+    - :uuid: 422da4f7-b0dc-4470-8c84-4a39531d9fa2
       :name: The Same Thing
       :segued: false
-    - :uuid: c37ec659-7ef8-4b11-ab64-a55df0a000eb
+    - :uuid: 67ecd526-1e90-4505-b9e1-41e75b1c6cbb
       :name: Stealin'
       :segued: false
-    - :uuid: 97a4eca6-e254-4246-9076-dc556f40cb3e
+    - :uuid: 91960d59-0121-45a9-a015-90aa493cf0dd
       :name: Big Boy Pete
       :segued: false
-    - :uuid: bdfb17e7-dd9d-4432-ab2a-5e9f2829d633
+    - :uuid: 0d5e5a9f-a903-4928-b4b6-8c72d53ff8a2
       :name: One Kind Favor
       :segued: false
-    - :uuid: 6a835fa8-d3ba-4954-bc92-96999d8b372e
+    - :uuid: 4cb1bfad-4869-4646-badc-ad16bb8d8d03
       :name: Early Morning Rain
       :segued: false
-    - :uuid: 2bfa65fd-26f1-479c-807d-df3413ecc7cc
+    - :uuid: 90b7bf65-26af-44f1-be47-fb4eaba2db62
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 77e464bc-127b-4149-b9e2-97e71c932787
+    - :uuid: 3eb368d2-4653-4974-9021-6134a22c8aa5
       :name: Viola Lee Blues
       :segued: false
-  - :uuid: a432bcfb-0781-4db8-8a93-e043ea3a6aa0
+  - :uuid: 86ec96df-16f3-4498-b88a-1c55f94d5fbb
     :songs:
-    - :uuid: f5026c28-a9c1-436c-8f6c-30b1734ceaca
+    - :uuid: 05dd9c25-4b69-4777-8ce6-2abb1b627bb4
       :name: Down So Long
       :segued: false
-    - :uuid: 50c9de7f-61fa-4905-aaac-588915c8a91a
+    - :uuid: 0e20030f-4665-4421-98a7-ed582e5456a4
       :name: There's Something On Your Mind
       :segued: false
-    - :uuid: 244c04cb-8023-43d6-b0aa-e33b3429d189
+    - :uuid: be1a2482-1338-441c-81db-1752e7fff25e
       :name: Lindy
       :segued: false
-    - :uuid: 15dbb0b4-d4b7-42c1-9d8a-0b9f40656128
+    - :uuid: 25acc9c2-9681-45f7-870e-3174df6a008e
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: ba60c504-ee30-44ac-89fa-71de39cce943
+    - :uuid: e2a3595f-c0c1-4658-ae8c-30fcce3449c2
       :name: I Just Want To Make Love To You
       :segued: false
 1966/11/30:
@@ -1352,88 +1352,88 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: c488f903-70d7-4947-a164-6f573e5ba389
+  - :uuid: 77823200-6cd1-4800-a843-49a33505544a
     :songs:
-    - :uuid: 00708c58-40d1-4954-9494-103643da9157
-      :name: New Minglewood Blues
+    - :uuid: d1ce3020-5807-426f-ae03-1c27a4291d4e
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: f8ed8deb-1bbf-4770-8a3a-f09a1955b909
+    - :uuid: 01eb5d66-b603-4c2e-a76e-9570599da9a4
       :name: Betty And Dupree
       :segued: false
-    - :uuid: 8a82c653-0c7f-4d7f-bcdd-d4d1e25eb1ae
+    - :uuid: 2341b5fb-c23a-46a3-91f6-a6ac960ecfcc
       :name: Next Time You See Me
       :segued: false
-    - :uuid: 90043fd3-55d1-4225-bdd1-35e80faca87e
+    - :uuid: f296c344-5e77-41f4-8ebb-041f23ec4715
       :name: I Know You Rider
       :segued: false
-    - :uuid: 7bd8bfdc-6f82-490d-9567-c64c880e99f1
+    - :uuid: 45e12407-baa3-427f-9621-940722cc26f6
       :name: Big Boss Man
       :segued: false
-    - :uuid: 62c1ec6b-547c-47f2-8f8b-0c3dfd21ddd3
+    - :uuid: 8be2193f-579d-4952-9fe7-e3c18d008f65
       :name: One Kind Favor
       :segued: false
-    - :uuid: 5b9c62ef-2c20-473b-a680-bbb1f42e7f33
+    - :uuid: 0ed6b03c-d7bf-4813-a765-22fa6f79fb91
       :name: Alice D. Millionaire
       :segued: false
-    - :uuid: e019575b-0b42-4503-9e15-ae995add5256
+    - :uuid: 83ed6745-1035-4f07-a983-9ea33c4300cf
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 33ee59a3-8dcc-4ae2-ba01-2f6cb702bdae
+    - :uuid: 1b08b5a6-3970-46de-8f92-a7845b02760b
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 4b382341-702e-47f3-b935-abad6ab78b46
+    - :uuid: 010f06ce-d26f-4b4d-a70d-2362ec19c17f
       :name: Cream Puff War
       :segued: false
-  - :uuid: cb6356e1-8d9e-4433-b6f3-cccbb95a5856
+  - :uuid: a78fe5f3-4281-4a4b-ac91-b93e8bbacd0c
     :songs:
-    - :uuid: baafb57a-9913-4117-8bf4-b9d848139ea3
+    - :uuid: 410ad35f-c8c7-4387-ab6b-37781998ab71
       :name: You Don't Love Me
       :segued: false
-    - :uuid: ee7f00c8-b09d-4a5c-93d8-ef7867791a7a
+    - :uuid: 1c1be913-81e6-47d7-929a-3e4b3f7f05d9
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: f7ba9827-ae43-4153-9abe-b599366dbd0f
-      :name: It Hurts Me Too
+    - :uuid: 28ad5534-ef0a-4dce-a17d-dcd77414e581
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: b0efe72f-f3b6-4583-8c68-dc1955d7dfc5
+    - :uuid: c882cd05-37ee-445b-b8bd-c9948c917dd6
       :name: On The Road Again
       :segued: false
-    - :uuid: 71e7247f-3fa2-42a3-a06a-370918c1fd99
+    - :uuid: b4bdfae8-da5a-4094-be85-736d3e8d3354
       :name: Look On Yonder's Wall
       :segued: false
-    - :uuid: 2bc9ba34-cd95-4868-90c8-201226e931a8
+    - :uuid: 3087b9e3-fb76-4444-94b0-29d1645f478d
       :name: My Own Fault
       :segued: false
-    - :uuid: 00c20849-9e64-4722-92fe-f0890e3c09aa
+    - :uuid: ef77a243-092c-4425-8127-c9711f56da51
       :name: Down So Long
       :segued: false
-    - :uuid: 14c48bc3-0e4f-42ad-8e8f-ebd8a25c6527
+    - :uuid: 530be63e-8e83-40dd-bbd0-2eee72c2f982
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: c16b80f7-582d-4664-ba49-b647c346cdba
+    - :uuid: 4b02e75f-927a-4976-9ea5-6cf276e1835a
       :name: Viola Lee Blues
       :segued: false
-  - :uuid: 142c4883-4b23-4348-9ccc-ac52358343b0
+  - :uuid: 61debc14-84f7-4e7d-a9b6-b5d099b21c4c
     :songs:
-    - :uuid: 963163f8-d73e-40c7-9028-71605c85af7d
+    - :uuid: fcf5c261-2ea5-4060-a2ca-675316358479
       :name: Deep Elem Blues
       :segued: false
-    - :uuid: 30926308-9c9a-46cb-90cf-70838c6dba80
+    - :uuid: 06167131-e917-4089-8b37-02c49e3ae372
       :name: There's Something On Your Mind
       :segued: false
-    - :uuid: 0cea289b-4ce1-4d17-9130-c7623c5d17ae
+    - :uuid: ea69c1a0-c074-4534-a1eb-4d0d9787b49f
       :name: Big Boy Pete
       :segued: false
-    - :uuid: 0ee28b71-978a-4bf3-b6ca-822cb9811eb2
+    - :uuid: 94c31bb5-a77c-477b-861c-e35c7a23c78e
       :name: Death Don't Have No Mercy
       :segued: false
-    - :uuid: 84d37d85-7c20-4e15-a710-4c3af1132094
+    - :uuid: 7f674a79-25d4-4240-affd-543600874052
       :name: Lindy
       :segued: false
-    - :uuid: 81695584-6c89-49a8-9f9a-e8c3d5e399f5
-      :name: Dancing In The Street
+    - :uuid: fd7a4d05-d6c7-455d-ac38-6e9e63cb938d
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: c51396c8-fa07-49ea-9a2d-ea8f577ec64a
+    - :uuid: b0d1ca95-c241-4e89-b6df-d2784ae0fad3
       :name: Me And My Uncle
       :segued: false
 1966/12/02:
@@ -1499,30 +1499,30 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: c5137ac7-3ef7-452d-bf7b-eed7ea6c2fa1
+  - :uuid: 024b2f58-baf3-44a2-a2ee-5c08ba181691
     :songs:
-    - :uuid: 135d7e4a-0fb0-47f4-9182-5f865a26f37b
+    - :uuid: f822244e-f649-4518-8f26-7f0786d111cc
       :name: I Know You Rider
       :segued: false
-    - :uuid: 0219caa7-8f67-4c5f-8f13-5252521a6cb4
-      :name: It Hurts Me Too
+    - :uuid: 203cccbb-8fe0-44f7-a911-3a09440af694
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: 9abdc253-7a95-4dc1-a846-9cd08c11ae6b
-      :name: It's All Over Now, Baby Blue
+    - :uuid: ab990cda-ab30-4bba-ad15-5f2f61aac830
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: e9d9ebbf-a1e3-4f7c-8fea-36eecd046112
+    - :uuid: 05c6120a-273b-4f46-aaac-2b1eb25f9a0b
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: dc80e51e-3c99-49eb-ae22-577c34c3559c
+    - :uuid: 6a80eb06-d531-48a2-ad71-2bbcae653558
       :name: Lindy
       :segued: false
-    - :uuid: d24fcf59-9252-4658-80a1-e75c282a9909
-      :name: Dancing In The Street
+    - :uuid: 93902737-ede3-470d-bccf-0802eddb0377
+      :name: Dancin' In The Streets
       :segued: false
-  - :uuid: ccca74c8-c543-4201-b917-4d205c2f80f9
+  - :uuid: d8d7816e-33fb-4bc6-9b49-9864d95c7603
     :songs:
-    - :uuid: 44aa2c3a-d57d-46dc-896e-ab0854f2ef81
-      :name: In The Midnight Hour
+    - :uuid: 8cfdf47b-dc3a-4e5f-95e5-24d204f28f5e
+      :name: Midnight Hour
       :segued: false
 1966/12/24:
   :uuid: 44c8aec1-ae27-4c83-ae81-7c4cbb6ac403
@@ -1538,9 +1538,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 669e372a-51d2-430f-8fa8-8605e7b7edd8
+  - :uuid: fc65bd49-00c6-4094-a553-ad4de2f547ea
     :songs:
-    - :uuid: 198d6f4a-3e9a-4507-b8fd-5668f0bcacaa
+    - :uuid: 9a9d72c7-cc50-4ff7-933e-36b966f4bb42
       :name: Death Don't Have No Mercy
       :segued: false
 1966/12/29:

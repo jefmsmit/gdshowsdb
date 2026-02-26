@@ -34,15 +34,15 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 1e27b604-cb23-4ac4-b3e4-bdc4b82353d7
+  - :uuid: aa81da53-c6b4-48dd-8828-dad52f3c66d8
     :songs:
-    - :uuid: de3bcf31-3b2e-4a6b-9ee8-c4f94f9c33f8
-      :name: Dancing In The Street
+    - :uuid: eb5d4313-2b00-4bd9-a133-39d5795af6c7
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: 8c514e99-bc0b-44c9-a265-32d3bab9fbcc
+    - :uuid: 4a0e23cc-cf62-400b-8c30-3d97a71207f8
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: beae23f1-e3e2-4f4d-a897-fb7f62cddf72
+    - :uuid: a98d49c7-7375-4a2a-82c4-fce3a7493146
       :name: Good Morning Little Schoolgirl
       :segued: false
 1967/01/14/1:
@@ -199,50 +199,50 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: c6e23f99-2c9b-4bcc-aba3-09a66d6df0d5
+  - :uuid: d4a2ec72-8715-4d82-ac90-b5d10efd727a
     :songs:
-    - :uuid: 14e16399-4e4b-41b0-804d-891be742df83
+    - :uuid: 71012b8a-41d4-4644-8c2b-cce569ca3a96
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 55679219-e40b-4a18-878a-5e9834c08dc4
+    - :uuid: 5fd67f5a-01b7-4b00-97c9-fa61eaa474d4
       :name: Next Time You See Me
       :segued: false
-    - :uuid: dddf99bd-5fdb-48be-a1b6-501a4fcfea87
+    - :uuid: 530ad777-9cbb-43e8-9ec4-38cfee52abad
       :name: He Was A Friend Of Mine
       :segued: false
-    - :uuid: 6d366995-1bfb-42bc-8def-2d82911d3658
-      :name: Smokestack Lightnin'
+    - :uuid: e6d81544-5926-4d69-8122-2b12b801716e
+      :name: Smokestack Lightning
       :segued: false
-    - :uuid: e50221c7-a462-4724-8dcc-4a27ff997f76
+    - :uuid: 54eed592-c41b-477d-8156-3b0e105d33a7
       :name: Morning Dew
       :segued: false
-    - :uuid: 7845c1b2-a499-47a9-8311-df191e6cd925
-      :name: It Hurts Me Too
+    - :uuid: 81eec54b-2c65-4734-b7e8-5504d52f3cc1
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: f0dcb3ea-87e4-401a-8b5c-6f81d0cdf15a
+    - :uuid: ff806bb2-106c-4d14-aa6b-35b4868176f2
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 7cac4442-0d13-494a-918b-2c998d94b3a2
-      :name: Dancing In The Street
+    - :uuid: cc1b667a-2d0b-4aad-81bf-afc60994aa99
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: a43b769c-4a52-44d2-938c-bc32f799b743
+    - :uuid: cee37c69-8e20-479c-b477-8b46cd919faa
       :name: Golden Road To Unlimited Devotion
       :segued: false
-  - :uuid: 100f9b18-68f2-4790-b8da-e9ac1535b17a
+  - :uuid: 2a0c5146-5fc0-48eb-906a-4b2913bfe2df
     :songs:
-    - :uuid: 424f80a0-8d80-4d21-bd99-5fbd250e0e3d
+    - :uuid: 6b548938-1a5a-4bc1-829b-212a06dddc4f
       :name: Cream Puff War
       :segued: false
-    - :uuid: 6ab5803e-7618-4a87-9c8e-24d0c73aec93
+    - :uuid: ab5027ec-3dd9-4d3a-9f56-a1d0815b60af
       :name: The Same Thing
       :segued: false
-    - :uuid: ef94b029-3cc9-4c00-82e3-692b92935113
+    - :uuid: bc86f341-982d-41ae-b4db-655b06452951
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 76c73ed0-8d39-4921-b5fd-5e85bea39a38
+    - :uuid: 9c524037-7ba4-4ce5-ae8a-920700c38139
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: e178c10c-984a-48b1-b466-5e9b8d863864
+    - :uuid: 81483b65-044a-4c2f-94ef-af975235bfbb
       :name: Death Don't Have No Mercy
       :segued: false
 1967/03/19:
@@ -329,12 +329,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: c460f557-9f4c-428e-a6f4-ff1403ec48bf
+  - :uuid: 93a9e911-f931-4235-8670-e048a5d4017c
     :songs:
-    - :uuid: ac6e67e9-11de-4974-b51f-e5a2449c81ea
+    - :uuid: 47a8e996-75f5-424d-ba0c-e2862112826f
       :name: Cream Puff War
       :segued: false
-    - :uuid: efa3f775-8b6b-4716-868a-8e5aca6299f3
+    - :uuid: aeff9302-5e8b-44a2-a2f0-b7af76903d22
       :name: Walkin' Blues
       :segued: false
 1967/04/09/0:
@@ -344,24 +344,24 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: c8520fd2-3ed9-4f3b-aa31-75e4acaebd17
+  - :uuid: f8fb547c-6c3f-46a2-bd9d-90da8b4f30ea
     :songs:
-    - :uuid: 05289532-a700-4aa4-a5ce-f32c0725a34f
-      :name: Dancing In The Street
+    - :uuid: 4f7f657c-2ca1-441d-ad58-e321b71b2dac
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: 2bf7d2a1-b30d-4a5e-8a88-24496b628f26
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: 8176e049-8d9d-4236-8d51-4b95154b0e3c
+      :name: Caution
       :segued: false
-    - :uuid: 3cf0cc6a-50ab-43b7-8b72-8da9ae52456c
+    - :uuid: c4b70e91-b271-4514-a94a-e75ab94ef75b
       :name: unidentified-19670409-01 (blues)
       :segued: false
-    - :uuid: bde09a66-6503-4ae8-a6ad-aa6a378fde87
+    - :uuid: 7d9c35ee-18d2-4978-a4d3-f26c6dcfb092
       :name: I'm A King Bee
       :segued: false
-    - :uuid: b17221c7-4284-430c-91ec-d8503bcf5d2b
+    - :uuid: 5c85b450-4d71-4f5d-bb92-811ed2e4e59f
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: d4e03a9f-eb86-4be3-bd17-65c7e84f549e
+    - :uuid: 40933b95-8391-42db-8650-d726044eb0c3
       :name: Gloria
       :segued: false
 1967/04/09/1:
@@ -385,12 +385,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: fe7547f4-9627-4363-a39a-6846c7a1d6a2
+  - :uuid: 93c0b12d-dde5-4b70-a4bc-6986ba79a655
     :songs:
-    - :uuid: 17180208-0981-42c3-9077-c8b2d18acbd7
+    - :uuid: efe38a12-4bdc-493d-b774-0b1e803baf5b
       :name: Golden Road To Unlimited Devotion
       :segued: false
-    - :uuid: db6e1ee7-3658-4519-91fd-19c079b91ef5
+    - :uuid: 321adacc-39be-4d2f-be78-0a6fb1846a86
       :name: Viola Lee Blues
       :segued: false
 1967/04/14:
@@ -421,15 +421,15 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: fd20ac78-57ea-4472-8ae8-611a379e1fc9
+  - :uuid: 18f069e8-99b0-4ba9-a26c-7aaa6155ac37
     :songs:
-    - :uuid: d31e0d97-c97f-4942-96ea-866501cfbfe5
+    - :uuid: 3a728e3e-47c5-4fe7-ac25-9a994bb69e98
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 24e72114-9c55-462f-8f7c-a41248f5ba8d
+    - :uuid: cb313614-cb8a-4d85-b113-66c01e4e90fa
       :name: Golden Road To Unlimited Devotion
       :segued: false
-    - :uuid: 3a6793e5-e01f-43d6-8022-1653cf006fbc
+    - :uuid: e30bd3c2-8d04-4df6-a985-22d16d5b62bc
       :name: Cream Puff War
       :segued: false
 1967/04/29:
@@ -439,9 +439,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 9e7b3175-1430-4909-a9e5-9dd976069423
+  - :uuid: 30d1724c-e065-466a-ab9c-69a22b0f0d95
     :songs:
-    - :uuid: 597fa46e-a838-43e2-a503-672f375fa2ad
+    - :uuid: 018790c8-025a-4fdd-a441-c602c21eacac
       :name: Viola Lee Blues
       :segued: false
 1967/04/30/0:
@@ -486,15 +486,15 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 2db7b707-3234-458c-a33a-ad940fc2cc32
+  - :uuid: 1fe6e947-7690-4db0-acaf-21ef48560f2a
     :songs:
-    - :uuid: 1725773d-3eb8-4e86-85ed-2f16e774bb53
+    - :uuid: c4a97047-24b4-41e5-b291-ed0b3bf1d0e7
       :name: Golden Road To Unlimited Devotion
       :segued: false
-    - :uuid: 146773b6-ce4c-43dc-89d0-f4618b5674e3
-      :name: New Minglewood Blues
+    - :uuid: ff7f697c-8807-4798-9883-b86f05b18a5d
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 4ecc1b5c-a983-432a-9db5-22586fa65064
+    - :uuid: 987eb798-5346-45e4-8e3f-07d282f36f78
       :name: Viola Lee Blues
       :segued: false
 1967/05/18:
@@ -504,12 +504,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: f08681bd-789a-4d13-98b0-8d0aff67829d
+  - :uuid: 7142e311-4bed-4d6b-a305-b6010e57f24e
     :songs:
-    - :uuid: f99efaa9-2f36-49c9-a08f-f917b9d05940
+    - :uuid: 46376a5f-7169-4fe4-be16-25e70f08e2da
       :name: Louie Louie
       :segued: false
-    - :uuid: cde2d58b-a58c-4ef4-bd5a-9086487912e1
+    - :uuid: 654ca6b0-997f-499d-9053-ba0a1f08426d
       :name: Good Morning Little Schoolgirl
       :segued: false
 1967/05/20:
@@ -533,18 +533,18 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: d16ae75c-f6ed-40fa-ae9d-67e981cbabc3
+  - :uuid: 8d2e05d7-bc37-43d1-8f9f-f3d7a2b46d90
     :songs:
-    - :uuid: 0da14350-de72-4cb5-bf4e-8e76824cfce4
+    - :uuid: 44a48e10-44d7-4f49-b06c-2b53f6fbe0a8
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 9c71f087-3c89-429c-88f3-dae76aa3cb1b
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 58a4885e-76e9-43ee-a6c5-f53ebb349c22
+      :name: It's All Over Now Baby Blue
       :segued: false
-    - :uuid: 0f19ab6e-9ef0-42fb-aa9a-1a9f08547b1f
+    - :uuid: 382a9ad5-4aca-4c5e-ab4d-1181d06f4d60
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 167e2a28-30f4-4405-a2f3-86b123b97123
+    - :uuid: 03fc31b6-4276-4206-b437-25e5d5e1cca3
       :name: Good Morning Little Schoolgirl
       :segued: false
 1967/05/30:
@@ -561,36 +561,36 @@
   :state: NY
   :country: US
   :sets:
-  - :uuid: 23c728ca-e652-4b15-90ca-8a486d9bd1a3
+  - :uuid: 60218203-4731-4fee-a725-85025f735ad6
     :songs:
-    - :uuid: 464a43ff-e51e-4bcb-b72d-503a73f4084c
+    - :uuid: 29c649a2-0a1a-43de-8015-7b06d8c6c5f7
       :name: Golden Road To Unlimited Devotion
       :segued: false
-    - :uuid: 0fc1dd1d-1498-4aa7-b0c3-318f109ce753
-      :name: Dancing In The Street
+    - :uuid: 4cfe85b9-df0f-4e96-8bbe-03f65778f7d1
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: fef0eac6-f5c5-4ca2-8857-66b3f5b11bcd
-      :name: In The Midnight Hour
+    - :uuid: 7a488758-3ca5-4416-b4d4-f65cf7905316
+      :name: Midnight Hour
       :segued: false
-    - :uuid: 4a2f72b9-48d0-499f-ab1c-986d288e4a29
+    - :uuid: 33681808-99b6-4084-8e90-0518813f4d37
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: c4a509c0-5b5a-48a8-873f-faa136c81fb1
+    - :uuid: da5bf137-42fa-40c0-a3e3-6c51318af42b
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 3cf709a9-6481-4a90-be66-502ff088ee8f
+    - :uuid: 3c77f1d5-908c-4f70-9ac2-744471f83bee
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 3a35f5ab-f9b7-478f-aead-bf2fd3f9cafc
+    - :uuid: daba2d21-a496-4a7d-b4da-a7e16ff5dfca
       :name: Morning Dew
       :segued: false
-    - :uuid: f0524fd2-2cf5-416c-83c8-f8114bdc6041
+    - :uuid: 2f159460-ab98-4a40-b141-16cbbf8d973c
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 20a7dabb-bb22-49df-b26d-aaddca5df1c8
+    - :uuid: e8cc25e0-cfe3-4e4b-bc50-a433aa828def
       :name: Alligator
       :segued: false
-    - :uuid: 4f982202-42d2-4171-8f79-fc7313c48e3d
+    - :uuid: 81f5afaf-374a-4ba4-b1d3-e5fe46af272b
       :name: Turn On Your Lovelight
       :segued: false
 1967/06/01/1:
@@ -642,46 +642,46 @@
   :state: NY
   :country: US
   :sets:
-  - :uuid: 57592ba4-c37c-40a5-ba99-b28b60e17d63
+  - :uuid: db53d9df-80a7-4cb0-a338-0a15e4ecb039
     :songs:
-    - :uuid: 863f7900-a14a-4894-a001-1a516e10a876
+    - :uuid: b5e60740-eac7-4f2d-b78f-044fbbf29664
       :name: I'm A King Bee
       :segued: false
-    - :uuid: 0d9a525b-8ffd-4aa0-b8de-2c96bf1731bf
-      :name: It Hurts Me Too
+    - :uuid: 802e7ef6-8215-4805-ab81-4687a7005122
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: e776f779-0d9e-4b44-973c-88147cad4595
+    - :uuid: ee440d0c-7244-44be-b7d5-99fc3e79d4eb
       :name: The Same Thing
       :segued: false
-    - :uuid: f34955c5-23e4-47af-9c71-414252851cc6
+    - :uuid: b59bb7d2-65e4-4f26-8282-8b6bc5c9e6b3
       :name: Big Boss Man
       :segued: false
-    - :uuid: 628d6f7c-b401-42e2-8d57-2c642416f23f
+    - :uuid: 41d67d17-13b0-4eda-b076-20f68431cf53
       :name: Alligator
       :segued: false
-    - :uuid: 94e10509-f136-4ba8-acf1-11a44cdb2fbc
-      :name: In The Midnight Hour
+    - :uuid: a0cf2027-5281-4d44-8b4a-dd16564d9390
+      :name: Midnight Hour
       :segued: false
-    - :uuid: d02075cc-e071-4963-b0fb-dd986f698aef
+    - :uuid: 939429e1-3ac6-4563-a1de-e169b44cc5bf
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 4737b6e2-810a-4d66-892d-ae8ad921dfbc
+    - :uuid: 251ae491-b19a-42ab-aaa7-48d42d80f852
       :name: Me And My Uncle
       :segued: false
-    - :uuid: aab81b33-86f1-46c5-b95c-fa7eecc49976
-      :name: New Minglewood Blues
+    - :uuid: 5360ead9-ef2c-4427-bcff-e2d385e06f44
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: 3170e9f1-64cd-4dc3-ad90-0d987b14b00b
+    - :uuid: d00bcbd8-ff44-42f2-b9d7-1e23cd2b68ab
       :name: Don't Ease Me In
       :segued: false
-    - :uuid: edaa9106-1afe-4e5b-882a-7bc62bb346a0
+    - :uuid: 01003085-ccfe-4190-bd8c-7c1d91a0ca4e
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: cc98953e-677a-494a-9fb5-6193c7ab255e
+    - :uuid: 4bdfcf8d-5d30-41b5-bf3e-13bbead709c5
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: f61fac68-e8df-4fed-a46c-4057c71315e2
-      :name: It's All Over Now, Baby Blue
+    - :uuid: 85171a60-575c-4b05-8d8a-83ee5bc0f807
+      :name: It's All Over Now Baby Blue
       :segued: false
 1967/06/07:
   :uuid: 39e8d34f-126a-43b8-8e9c-a1587d4b2f54
@@ -690,9 +690,9 @@
   :state: NY
   :country: US
   :sets:
-  - :uuid: 3576db95-b11b-43e0-a0c7-4400b0962101
+  - :uuid: 8342211c-9d85-41af-86ba-88930d047805
     :songs:
-    - :uuid: 8c1fe786-6636-4102-ac26-69c5b4e6cc54
+    - :uuid: c05ffa21-3b87-4941-92be-c8510885773a
       :name: Viola Lee Blues
       :segued: false
 1967/06/08/0:
@@ -765,19 +765,19 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 90039d44-161e-41d4-9b19-c9abf4b937d6
+  - :uuid: 0e981aeb-0a54-4c33-ab3a-2e6ac01f4243
     :songs:
-    - :uuid: 4598216e-74b9-4f97-92a1-7fb54830c15d
+    - :uuid: 0848cd6d-b30e-4442-9e9f-d042d415cdda
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 2ea644c9-176d-413e-9f1e-c34c883357e3
+    - :uuid: e7826435-f51f-4d1b-965c-2502921fdd39
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 43aa8739-2508-4693-b8b0-7466ea5a0678
+    - :uuid: 6424e231-44a2-420a-bd0a-7660ef548d50
       :name: Alligator
       :segued: true
-    - :uuid: 84571598-f4df-42e4-be26-f0a1c4ac6b7e
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: 1c258d99-15cc-4fc2-9816-c646297701a0
+      :name: Caution
       :segued: false
 1967/06/21:
   :uuid: f4b99172-5408-4111-8a24-43a806161eda
@@ -786,12 +786,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 166f2b33-a884-41ac-93b7-66f2c0fa5299
+  - :uuid: c9b7f51f-100e-42b7-bf19-b623e315cbf7
     :songs:
-    - :uuid: 4cc1d0ba-fc57-42e2-9423-40fd6663ed2e
+    - :uuid: 58850091-06b4-4ffd-ab1f-3e8ce57e0489
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: d39df27b-b7c0-4b6b-a946-a536f39d725e
+    - :uuid: 475279bc-9551-4406-87e3-d9fca4e2db58
       :name: Alligator
       :segued: false
 1967/06/28:
@@ -801,9 +801,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: a7ccef3b-eda6-4566-9a94-c41a19e1451c
+  - :uuid: 877b70b8-dbe5-40f6-9a78-a74e5b909fd0
     :songs:
-    - :uuid: 2dabf228-a625-4633-9368-d09874da31f0
+    - :uuid: e35d3cd7-808c-4fbb-9c63-8b63c9bb2be8
       :name: Good Morning Little Schoolgirl
       :segued: false
 1967/07/02:
@@ -813,13 +813,13 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 59bf7397-7c18-453a-84aa-5c37c5e728b4
+  - :uuid: 0149d17c-0c70-491b-a08e-84ae74d1abe6
     :songs:
-    - :uuid: 4208166b-ac44-4cc3-8a25-78c16379b449
+    - :uuid: dba19302-d405-4666-9b5c-4e7400634504
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 3d36dd56-0f81-423d-9e00-cf2c5c1a8ccf
-      :name: Dancing In The Street
+    - :uuid: 6653cf4b-ac32-49e7-ab98-408e7d904ab4
+      :name: Dancin' In The Streets
       :segued: false
 1967/07/04:
   :uuid: 2491dd6f-6b26-4364-a7b0-9101de60c1a2
@@ -877,25 +877,25 @@
   :state: OR
   :country: US
   :sets:
-  - :uuid: 75775c81-0905-476a-9341-8f23f0de3ffc
+  - :uuid: 538e5d5f-42ff-4d70-bbaa-2505623c8479
     :songs:
-    - :uuid: 12a33469-ba32-45e7-bf7c-b8bbcd1e0477
+    - :uuid: c122d6cc-4180-4696-a498-da1f2ddcea7a
       :name: Golden Road To Unlimited Devotion
       :segued: false
-    - :uuid: f193a3c5-598a-44ef-bfdc-6977e202d716
+    - :uuid: 999f5657-9a68-4edc-9022-da49da68f5a8
       :name: Turn On Your Lovelight
       :segued: false
-    - :uuid: 8b72de9e-2bf2-4fe6-97b8-dffa8a873313
+    - :uuid: 44a426bf-822d-4510-a8e0-5799ea4e1c80
       :name: Morning Dew
       :segued: false
-    - :uuid: ddb2eeca-d5ba-4911-9be5-71acccbcb0c2
+    - :uuid: 23ad7fc6-5b15-4472-916b-a56f338183b8
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 51f56c47-6b4c-4759-953f-8f08e35147b6
+    - :uuid: 355ffa34-37c0-4aea-be2c-74b7e5b6d7bf
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: d42f250e-893c-4271-bb81-0bfe487932ee
-      :name: New Minglewood Blues
+    - :uuid: e244e89a-9108-47dc-98a2-b8b9b7f77f2f
+      :name: Minglewood Blues
       :segued: false
 1967/07/21:
   :uuid: 2f719d8d-ab3e-4d49-b30e-e85fb2fcf5a8
@@ -911,25 +911,25 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 319e9a9e-7c29-4c3b-b156-5d2db3c894ed
+  - :uuid: 8f80932d-0177-413b-821d-c6952a56cd21
     :songs:
-    - :uuid: bdfc9826-758d-499e-bef8-7b470bc32825
+    - :uuid: e2674be1-0cab-4217-a369-5d79497b017b
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: d4f94a5d-2ecc-42de-9926-f87839611c0e
+    - :uuid: 1e0a5687-c337-4fe5-838f-f0e3d795c948
       :name: Morning Dew
       :segued: false
-    - :uuid: 3efc0e2e-73cb-4084-9116-69f97b2aadce
+    - :uuid: e7d3d209-59f6-4b66-b584-aa6cdd36ee27
       :name: Golden Road To Unlimited Devotion
       :segued: false
-    - :uuid: 709844ac-09cb-412a-a151-f71eac82bbba
-      :name: New Minglewood Blues
+    - :uuid: 8ef54f43-a5a0-4dc1-87c8-168fd4837c38
+      :name: Minglewood Blues
       :segued: false
-    - :uuid: bbdd2939-5521-4e08-840a-d8e31b20f677
+    - :uuid: d86337bf-66bd-428f-a08d-08d473635abc
       :name: He Was A Friend Of Mine
       :segued: false
-    - :uuid: 8df2eb19-82e8-490f-94f9-fc63f033143e
-      :name: In The Midnight Hour
+    - :uuid: 5f49a371-646f-4565-9f11-b331033903f8
+      :name: Midnight Hour
       :segued: false
 1967/07/23:
   :uuid: c544f17a-0a77-418f-b2b1-c840561c0f47
@@ -938,15 +938,15 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: fa24dabe-1138-4eb7-92c6-3b90028c0743
+  - :uuid: 67e61d25-b14a-4214-999d-8850be72f16e
     :songs:
-    - :uuid: 08cdb71e-5962-4739-8255-e5f784eb19ef
+    - :uuid: 35b38862-a3f1-421f-8ea3-e093cf9f5502
       :name: Turn On Your Lovelight
       :segued: true
-    - :uuid: 3eb8fd4b-b427-45e4-ad21-c6dc7127dd50
+    - :uuid: 3f8523a5-0213-449f-8d44-232456f53fca
       :name: Space
       :segued: true
-    - :uuid: cd779ffa-b1f3-4afb-b301-b060c2aec061
+    - :uuid: 125217df-1ec1-4db3-be2a-9902dd7e0b57
       :name: Turn On Your Lovelight
       :segued: false
 1967/07/31:
@@ -956,9 +956,9 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: 30381a2c-2054-4f5b-9f62-214ddd531463
+  - :uuid: 6def9472-90ca-40bb-b6cc-5de67cd55dd5
     :songs:
-    - :uuid: 37608a98-85db-47d8-a7d8-b835b9877ee9
+    - :uuid: 67506415-ff93-4943-b838-743e6623527a
       :name: Good Morning Little Schoolgirl
       :segued: false
 1967/08/01:
@@ -996,18 +996,18 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: 993588c3-bc0c-47e4-9820-1ff41af24fc9
+  - :uuid: dd0a7d08-02da-42ad-90b3-3879a014397f
     :songs:
-    - :uuid: b0fe1fd5-f16a-49ab-8299-936c8c08471b
+    - :uuid: 23243b2b-2bb1-4377-b5be-1964a9ea1934
       :name: Lindy
       :segued: false
-    - :uuid: ce52899c-7726-47e7-8795-7d57a4155185
+    - :uuid: eeccb34d-5cfc-4514-9a1b-2f4f397d87bb
       :name: New Potato Caboose
       :segued: false
-    - :uuid: f6f322ab-d7e0-4fac-badb-4a1fc3c7759f
+    - :uuid: b77d184a-5d2e-4968-98c8-50c7c660d59f
       :name: Viola Lee Blues
       :segued: true
-    - :uuid: 67acbd64-9417-43f8-aa24-9f0759486e1f
+    - :uuid: dd4996cd-4c3c-4ecd-8e72-2a7abe22199f
       :name: Feedback
       :segued: false
 1967/08/05/0:
@@ -1017,33 +1017,33 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: 1d9b78f1-bf43-432e-b5fb-e923c315df34
+  - :uuid: 1625035f-b17b-4099-ba1d-3d2c23b26b82
     :songs:
-    - :uuid: 504672d8-bbe8-456d-825c-bc1e254ab07b
+    - :uuid: 014a29bf-0951-4528-946f-f6a6cb30efa3
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 7dd1b649-e3d0-43af-aad6-154073438397
-      :name: In The Midnight Hour
+    - :uuid: 09baa3dc-272b-4508-a738-c13386d5a7c0
+      :name: Midnight Hour
       :segued: false
-    - :uuid: d383f599-e168-46dd-a179-9d266d38da4f
+    - :uuid: 1b610d0a-d682-452a-a438-ae63ac131c1a
       :name: Deep Elem Blues
       :segued: false
-    - :uuid: 33561182-8af3-4752-8522-c11511f063e2
+    - :uuid: 6bbbc034-bbec-4e63-b43b-e6e717baa9a5
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 049dbcd4-1e4e-4884-8a27-67ee1e1a6acb
+    - :uuid: 05be3768-c8bb-499a-80da-36a543c2d979
       :name: Big Boss Man
       :segued: false
-    - :uuid: 7bd12891-3e2b-4430-86c9-5c20451aff16
+    - :uuid: f9edcb16-0a4c-46f0-8a55-19560c936021
       :name: Cryptical Envelopment
       :segued: true
-    - :uuid: c2084359-6c3a-41e5-91d3-2bd63b560e6a
+    - :uuid: 60d23750-03a2-4eea-b249-8f18037ff6b8
       :name: The Other One
       :segued: true
-    - :uuid: bd12cffa-c2f6-458f-9fc5-167ce4b08ca2
+    - :uuid: feae2340-9078-462d-9af0-8339aafa6755
       :name: Cryptical Envelopment
       :segued: false
-    - :uuid: caa741b2-99e0-41f2-a6db-ee560ed613a6
+    - :uuid: 58323ea6-57ab-4ad8-bc4c-00fbe5df3b06
       :name: I Know You Rider
       :segued: false
 1967/08/05/1:
@@ -1053,24 +1053,24 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: bfc71bc1-d3aa-4dd0-b943-4ca1c8fe0849
+  - :uuid: f353b1b3-eeb5-4d5e-bec2-002275688d5c
     :songs:
-    - :uuid: 03bc3206-903f-4669-bae3-30cc647f4545
-      :name: Dancing In The Street
+    - :uuid: 2d3a7975-407b-4995-b02f-611434916fbb
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: ddb40d37-2cee-4de5-b24d-fef5ecca1650
+    - :uuid: 24ad4281-f2bc-4350-8af6-fe7b8396a8ba
       :name: Morning Dew
       :segued: false
-    - :uuid: 43f57ec6-6250-4d13-86f3-96feaa318e4d
-      :name: It Hurts Me Too
+    - :uuid: 0e54fbd3-e593-47f3-a5e0-fddce913de49
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: b755facd-fbf9-453e-bb74-8b87632a4661
+    - :uuid: 223a438a-9006-4829-aeca-db1eb2266f6f
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: b0598ec0-2627-49ed-ad1f-00a9cf5e0a02
+    - :uuid: d417dd84-4616-4366-8d95-5e02b922f955
       :name: Turn On Your Lovelight
       :segued: false
-    - :uuid: 696cb067-c4c5-46d3-b56e-7e242aafde1b
+    - :uuid: 7073ee35-be7e-46b6-bd66-d03033c0d391
       :name: Alligator
       :segued: false
 1967/08/06/0:
@@ -1080,29 +1080,29 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: 538dc3a7-a030-4b58-9ed1-a9edefec5f1c
+  - :uuid: fa1e3d61-084e-4ac7-a4ca-eadfa39252aa
     :songs:
-    - :uuid: f4e0d791-6df7-4f44-b5ae-9e5fae26c5ef
+    - :uuid: b410badb-dcc5-4724-9a63-9b9b487eea03
       :name: Morning Dew
       :segued: false
-    - :uuid: bbb34c32-198e-4f85-87b4-90e04577469e
+    - :uuid: d2a8e4b3-169d-441b-becf-b54001056c2a
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: e0e757eb-8ecd-4e5f-943d-08c8864d2052
+    - :uuid: 49d83515-feb7-4f1d-b176-2a3ecf55afec
       :name: Alligator
       :segued: true
-    - :uuid: 4def23d8-51c5-4083-add7-b3237f3841ca
+    - :uuid: 414dd847-c921-49fd-86ef-0f489e978de1
       :name: Drums
       :segued: true
-    - :uuid: babb2379-ec5a-4914-938f-3549bd9f66e4
+    - :uuid: 17c071f0-f966-4ad0-9640-fb87a72634a7
       :name: Feedback
       :segued: false
-    - :uuid: d7e3ef80-90c0-43a3-b2de-d75bc97ea3cf
-      :name: Dancing In The Street
+    - :uuid: 1379d6d0-0f91-42fc-b864-09fa9ff861b7
+      :name: Dancin' In The Streets
       :segued: false
-  - :uuid: b49363f9-b872-4f83-baa6-6e33a9b5d0fb
+  - :uuid: b9dcf68b-5b09-4aab-9fce-fd6d3f4fcc22
     :songs:
-    - :uuid: b953b746-3c79-492b-bbcb-2a9552cc9e89
+    - :uuid: 07f0e5fa-9278-46de-9693-89e698379501
       :name: Gloria
       :segued: false
 1967/08/06/1:
@@ -1112,9 +1112,9 @@
   :state: 
   :country: Canada
   :sets:
-  - :uuid: ba645b26-8fd9-4345-b2e4-ff7b53cdd4a7
+  - :uuid: 858386da-ebec-43e8-88db-f831c4d455f5
     :songs:
-    - :uuid: 3ac4dea9-764c-49c6-9507-977d2ba5b734
+    - :uuid: 98dda1db-f8d0-4756-93a7-a2558316c7ec
       :name: Viola Lee Blues
       :segued: false
 1967/08/10:
@@ -1152,15 +1152,15 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 06e7b15e-c3b5-48bc-895f-53576ccfa575
+  - :uuid: 4fd14695-86d2-4fc4-b4ae-dcda17e3f16c
     :songs:
-    - :uuid: cea5a025-0166-413c-a039-6851c9496f78
-      :name: Sittin' On Top Of The World
+    - :uuid: 06fafdca-b4b5-41dc-a10e-b626493e0ba3
+      :name: Sitting On Top Of The World
       :segued: false
-    - :uuid: f7a51cc6-e6f0-4c07-a7ea-77f6c092965f
+    - :uuid: 8258a42b-1c28-4f8c-9db4-fc57b0b5225d
       :name: Golden Road To Unlimited Devotion
       :segued: false
-    - :uuid: 85c65c40-cdec-4bc0-bc49-db87ff106dad
+    - :uuid: 37a11996-6e98-4f44-bf5c-e5811ee7cefd
       :name: Turn On Your Lovelight
       :segued: false
 1967/08/25:
@@ -1184,12 +1184,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 843ceced-1be1-4076-ae7a-607d86d1053a
+  - :uuid: 31391d98-fa60-4962-958d-5c445ab97ffd
     :songs:
-    - :uuid: 3945635a-c1ce-4550-b907-3c61b2d6201a
+    - :uuid: 92a5f798-b25c-4078-a9c8-1152ca2a627f
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 718003bf-e69f-4f2f-9039-99e7d6c22998
+    - :uuid: 125d12b3-5678-474f-aa60-cffd60460563
       :name: Good Morning Little Schoolgirl
       :segued: false
 1967/09/03:
@@ -1199,34 +1199,34 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 513d3fe3-5a73-4cdf-979e-d4061d456c3d
+  - :uuid: 06ae564d-a3f6-4714-90c3-7a527a3bc7a6
     :songs:
-    - :uuid: 0356bb3b-d9b2-44ba-808e-734fb08c10b0
-      :name: Dancing In The Street
+    - :uuid: 850c5726-8215-4b88-9299-dab7f894e6bc
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: 3a5093b6-7702-402a-8ea8-2f2ce03b97da
-      :name: It Hurts Me Too
+    - :uuid: 7c982ce9-1178-4800-9069-0008cc3ccd62
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: 2b1460dc-c4cf-44f4-8af0-748dd96d51ba
+    - :uuid: 3e044867-0ac5-46f3-8572-db0d143b6c4a
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 9f894200-454e-4749-8684-3efd0a1ee67d
+    - :uuid: 203fd5c9-2b78-4581-9bd9-094b4495dc59
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 46d3d35d-1863-4b17-8ca8-16e0d292a3f3
+    - :uuid: 519c3f18-8e70-4b17-9a90-1fc2b0e1ee7f
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: afb47947-7844-4145-91f3-f61ac5948eef
+    - :uuid: e73d3a52-94b1-4647-bac4-1573590de39f
       :name: Big Boss Man
       :segued: false
-    - :uuid: 34b09244-6476-4b6e-83f3-35014172befc
+    - :uuid: aa7e5d75-51d6-489f-9ff1-2903a2f23e89
       :name: Alligator
       :segued: true
-    - :uuid: df2efade-ae60-4c14-bbb4-bc9d09e5fb0a
+    - :uuid: 5588dc93-4fbc-4255-8bba-34bd5464aa32
       :name: Feedback
       :segued: false
-    - :uuid: 5b643bf3-5fc1-4282-a407-ea6b5591679a
-      :name: In The Midnight Hour
+    - :uuid: 064910ea-3e0e-432a-8cad-36f1c8f2fe5d
+      :name: Midnight Hour
       :segued: false
 1967/09/04:
   :uuid: ad9a591b-28cc-430f-acbb-991ce1ceb021
@@ -1235,12 +1235,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 1f6f57cf-be1a-4e71-9a12-dd14694432a1
+  - :uuid: 4bae2827-1c49-4044-beef-5a2da8e580ab
     :songs:
-    - :uuid: 502afd5e-131f-4f52-99e5-760d8782e7f3
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: ee858b8f-6f0e-4342-8572-41eef597f53e
+      :name: Caution
       :segued: true
-    - :uuid: 2f70fbc3-c2cd-42e7-bc93-b7f8d7624b6e
+    - :uuid: 3555ef3e-82aa-423b-82ee-0ddcc1ded971
       :name: Feedback
       :segued: false
 1967/09/08:
@@ -1271,30 +1271,30 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 7993a8c0-f117-4b60-b083-f85e265fe89c
+  - :uuid: 426465d0-8d61-4d84-8026-34ae4aa07b1a
     :songs:
-    - :uuid: c3b369dd-ea27-4d01-aa22-714d4dd7a099
+    - :uuid: c7dfacad-8a83-445b-a9e9-d405c7bb182d
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 7978db0f-cbf8-4d44-9b4f-0a8fde2f69be
+    - :uuid: 2b623699-fe8d-4093-aaf2-33702e970429
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 0d8476fc-d572-4e7e-a9c3-72cebcfa3972
+    - :uuid: f9f9f114-07ad-4480-86df-1f5b2bdadfc4
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 190e7af3-c774-4528-851c-0a86a7e81292
+    - :uuid: d56a1483-8614-4ac2-b82a-3c4b15b7c91e
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: a8675a2f-40f9-4bb2-915a-50fb9772b385
+    - :uuid: fa078de5-b10b-46ea-8ac3-5d6145e6a0bc
       :name: Morning Dew
       :segued: false
-    - :uuid: 38ef4579-0dbd-4425-a9fc-17af0c347401
+    - :uuid: 9bc935f2-9c40-4ab1-9819-c5f7bc43dab2
       :name: Alligator
       :segued: true
-    - :uuid: 36e2bb63-575b-49dc-95d1-1fe3efadb138
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: 5167a824-6048-4b38-8040-50fb04e8f3ba
+      :name: Caution
       :segued: true
-    - :uuid: b1936a8a-943f-4912-b449-c9ba70c59ed0
+    - :uuid: b9bc70a0-3125-4648-9ef2-a4afeb6cc576
       :name: Feedback
       :segued: false
 1967/09/16/0:
@@ -1339,21 +1339,21 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: de919008-92c3-46d7-83b1-ce3aedeac53b
+  - :uuid: 476c7b86-b238-48c0-9f6f-309752b3dda1
     :songs:
-    - :uuid: b797b943-de1b-4145-92ac-735cea5e901d
-      :name: Dancing In The Street
+    - :uuid: 56dbffdf-bf96-4078-bb80-e98b6c64b414
+      :name: Dancin' In The Streets
       :segued: false
-    - :uuid: 10bf84d3-9d9c-4b22-ad64-4c65bf8cd407
+    - :uuid: 110f5d9e-bec4-45c2-87a9-4d4922424342
       :name: Golden Road To Unlimited Devotion
       :segued: true
-    - :uuid: 4a88b8bb-2f7c-4894-b6fc-d6e6b14b9104
+    - :uuid: 6a312bd5-0bdf-47de-be1b-5f776a7e2324
       :name: New Potato Caboose
       :segued: true
-    - :uuid: be062a6b-73d8-4140-9f72-d7ce7d691625
+    - :uuid: 8187db7d-1184-4a43-9786-68eea4ae2b1f
       :name: Alligator
       :segued: true
-    - :uuid: bcb5681f-adf6-4f81-b40e-f6f1c97769b8
+    - :uuid: 313d91f2-4d65-409c-9cae-3a57220e7caf
       :name: He Was A Friend Of Mine
       :segued: false
 1967/09/30:
@@ -1363,20 +1363,20 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 6c11332f-b46e-4a70-905e-608c44d9a7e2
+  - :uuid: 8b1a104c-5ba7-4be0-bcf6-34bc81258f45
     :songs:
-    - :uuid: 501b4023-d86a-4122-9b5d-d13b3ca32124
+    - :uuid: 2fb16798-4217-48c9-9f56-1a18f3f137e7
       :name: Viola Lee Blues
       :segued: false
-  - :uuid: 4185320a-28ec-498e-ba15-b367cc1690be
+  - :uuid: 826f1edd-6cba-412f-91f9-eb07ea0b2ca7
     :songs:
-    - :uuid: ca3f5635-eb0b-4601-bd3a-685360672910
+    - :uuid: 116fbfdf-8921-4caa-a8fb-cf46b1b76226
       :name: Alligator
       :segued: true
-    - :uuid: d938a715-f5e8-4b1a-91a5-ec9925fb5cc5
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: bb39331a-5d82-411d-bab4-fd5732758578
+      :name: Caution
       :segued: true
-    - :uuid: d62953b0-0c61-4c42-8f8a-7aa5651a0e8f
+    - :uuid: 405eb885-b42f-4105-a9df-c9866b2df89a
       :name: Feedback
       :segued: false
 1967/10/01:
@@ -1386,12 +1386,12 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 98d81f58-c54b-4faf-8c5b-cea46ff29e36
+  - :uuid: efee183b-1aa0-4158-8faf-57f9d03aa2cf
     :songs:
-    - :uuid: 0d6e728e-5d80-42cb-b16d-99607558b98a
+    - :uuid: bd3f4aab-2d58-47d5-a9c4-45ec585c369f
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 671175d0-30ce-49a5-946d-3f0550fb9ab4
+    - :uuid: fc69f0ec-576f-4d68-a83a-d95321df2037
       :name: Feedback
       :segued: false
 1967/10/14:
@@ -1401,25 +1401,25 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 6376cd5b-53a7-4b35-a738-1e631d3a4f48
+  - :uuid: 1c99e427-161e-4c0a-89aa-c9c9e541aaca
     :songs:
-    - :uuid: 0d2040d8-4ef0-4160-96ac-a9ae46798be4
+    - :uuid: 18b4d456-6825-41b4-877f-393ae68dab02
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 5aad5e18-30a8-4f22-9464-0f81ebb20040
+    - :uuid: a54aeee6-61e4-42df-8c62-b52d927cebf5
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: 69249cba-9128-4840-9dac-b4c4f34e1be2
+    - :uuid: 27148b90-d31d-4b34-9733-5d9651f1d90c
       :name: Alligator
       :segued: true
-    - :uuid: 44cc8622-d54f-4dc9-af39-2eddfad35a51
+    - :uuid: ebaf4164-c61a-4e88-8fa9-6eed330a3643
       :name: Drums
       :segued: true
-    - :uuid: d61cc5ac-d9f0-4089-af1e-01e9e7f5d3af
+    - :uuid: d714dc70-3185-40cd-8a23-291b499fe0cc
       :name: Alligator
       :segued: true
-    - :uuid: 45cd25ab-405a-4958-b3cc-158b886647c8
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: ca71dd73-5c89-4363-9e3b-03b2c115b872
+      :name: Caution
       :segued: false
 1967/10/22:
   :uuid: 7a21768d-46e4-477b-8b38-89fe93d31022
@@ -1428,33 +1428,33 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: e6a7e686-dace-4c67-b89f-1d6e5b7c0eef
+  - :uuid: e009ba80-e05d-48c2-8ac1-a6054bb03d11
     :songs:
-    - :uuid: 0876d968-0827-4dba-8287-e6033c884e66
+    - :uuid: 40e3c92a-5821-42d0-a503-8375276a4832
       :name: Morning Dew
       :segued: false
-    - :uuid: 1eae4644-a472-45e3-8b52-200add687305
+    - :uuid: 144e6fd8-a9be-4905-8d8e-25e98593aad0
       :name: New Potato Caboose
       :segued: false
-    - :uuid: 04686b5f-fca7-44cd-bd06-8a00a0b2b644
-      :name: It Hurts Me Too
+    - :uuid: 0c499356-5af2-4389-a550-6a8edc57451f
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: e98930f0-e3d3-41fc-b014-bc00a82956d8
+    - :uuid: e8a603a7-d0e2-441b-9d02-b10a274c5146
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 5de4e805-9bc8-4e32-b3ef-cc1d06495613
+    - :uuid: 8f383720-10fe-452f-9c6e-8158278d0913
       :name: Turn On Your Lovelight
       :segued: false
-    - :uuid: 2308feee-539b-4796-a56e-bcbdbdc25101
+    - :uuid: be085af5-1f6a-416b-8be4-a083140f9d2a
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: e053b7a3-d965-4b56-a632-a5e31dcbb965
+    - :uuid: 9e09cf00-c953-4843-aa2d-f47d17f03ab1
       :name: Cryptical Envelopment
       :segued: true
-    - :uuid: 30413945-30a3-4830-9624-ad99e068b403
+    - :uuid: af705357-bb7a-49c8-87f5-21fb6940439e
       :name: The Other One
       :segued: true
-    - :uuid: fded89bc-c7f9-415c-b2f9-ef21577fc391
+    - :uuid: 97091dd9-412a-4a5e-a464-0528dcc3150e
       :name: Cryptical Envelopment
       :segued: false
 1967/10/31:
@@ -1464,9 +1464,9 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 632d466f-8e6f-4852-a2ca-80da1daca39e
+  - :uuid: a558f86a-29d1-484f-b56c-8ee043d5de45
     :songs:
-    - :uuid: 8fd3ff6a-bf29-49c8-bedd-6cb80a7ef5a5
+    - :uuid: 7ba34d2f-69ca-4cfa-a811-baf38ecdc164
       :name: Viola Lee Blues
       :segued: false
 1967/11/10:
@@ -1476,48 +1476,48 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 4bb554f6-031a-4906-ac0c-0cb8c48f98c3
+  - :uuid: 2ab133c6-6a53-4d78-b339-ded6ded65cab
     :songs:
-    - :uuid: a6ef917a-70dc-4867-be0b-1159f2aa1922
+    - :uuid: bb5b0eac-6d73-4cb0-858b-bfccaa62b6a6
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 9c62b66a-4a94-46c8-a5be-9642196cbd10
-      :name: It Hurts Me Too
+    - :uuid: 31a4a518-886a-4bc8-b33d-e1cb765b52ae
+      :name: Hurts Me Too
       :segued: false
-    - :uuid: ca70d3f1-99d2-44d6-83d7-ef928cb00cbe
+    - :uuid: ffb7058f-cde4-49b2-99c8-4108c860ae3e
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 71bb05e9-ff33-4739-8a2c-2f44c1767c84
+    - :uuid: c4906e01-0451-4702-ae20-f564f26481ec
       :name: Morning Dew
       :segued: false
-    - :uuid: daa14282-d81e-4a41-9d89-2d1ffbab9340
+    - :uuid: e8960f9e-b4fa-48b0-8fc4-e33ba825cca8
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: a36c61f7-a8d6-4bab-8a02-1cc3c0942e00
+    - :uuid: 65f78a66-cbe0-4f18-ba15-65590959998a
       :name: Cryptical Envelopment
       :segued: true
-    - :uuid: 0428d7b2-e9ca-45d7-b08f-e7683dc2460d
+    - :uuid: e5430e1c-c72f-4327-a722-63fdb45bfd80
       :name: The Other One
       :segued: true
-    - :uuid: 37282463-c7c0-4692-beda-d65db5f2dc0b
+    - :uuid: cd6b9263-b83b-45d2-a6fd-9ae7142bdfe7
       :name: Cryptical Envelopment
       :segued: false
-    - :uuid: c27fb0a8-377b-4a80-8f5c-32b321840911
+    - :uuid: 642e3853-426d-460d-b800-f0d691c08146
       :name: New Potato Caboose
       :segued: false
-    - :uuid: 6e3f7e3b-1bab-4879-abb2-322e2d034019
+    - :uuid: 2bf910f7-249c-4d91-8479-2fc2da06190f
       :name: Alligator
       :segued: true
-    - :uuid: ad7e6c53-db43-4949-a744-3bc73abb6be6
+    - :uuid: e75339cc-ff4a-48b3-8265-c304b7488d2f
       :name: Drums
       :segued: true
-    - :uuid: 2c4c4f9f-77f9-48df-a347-5ab32b95cd5f
+    - :uuid: 4883b786-5ff9-414a-b9c2-21acde5e8056
       :name: Alligator
       :segued: true
-    - :uuid: 66fffd4b-bece-42b8-99ac-cbd848d556e5
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: 23802dc0-c0e1-4dee-9da0-2650c753de34
+      :name: Caution
       :segued: true
-    - :uuid: 85b8b93d-fe65-4efa-b504-0b801bb94138
+    - :uuid: 3a7a2076-c1cb-4a47-baf5-5d518aaf0346
       :name: Feedback
       :segued: false
 1967/11/11:
@@ -1527,42 +1527,42 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 93eb57af-0088-49fe-a079-2e6bc0f511ea
+  - :uuid: 55a32ced-6579-4cd6-89f3-e8e37941933a
     :songs:
-    - :uuid: 2c74b21f-0fcc-45d1-8fdb-04f693ceca45
+    - :uuid: a9ac77c9-c9c6-4814-8c26-b4839fa25291
       :name: Turn On Your Lovelight
       :segued: false
-    - :uuid: ff8bbfeb-ef32-4805-8580-9f2eb0339ce0
+    - :uuid: 3e54a457-3acf-450a-83e9-f628d6a2c32d
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: f19e6dc7-6aeb-4678-92ab-3a027eb05c96
+    - :uuid: 4ed80edf-7ec9-41b0-9aa9-177d6f171040
       :name: Death Don't Have No Mercy
       :segued: false
-    - :uuid: 8f50106b-0548-45c4-9357-8ef7db36874b
+    - :uuid: fcb1a193-f599-4c44-8184-3a6e3b6ada6e
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: b858a6e0-c185-440e-8d89-a7891283cd94
+    - :uuid: c72c78ac-a268-462d-b54f-189bc9ab4ae6
       :name: Cryptical Envelopment
       :segued: true
-    - :uuid: 8b1ad735-4396-41f7-9d85-49da452256db
+    - :uuid: 51725c1f-3ad8-4681-b3c3-5033f02fe439
       :name: The Other One
       :segued: true
-    - :uuid: 796c29af-c1e0-4ccc-9d67-85b975c0e25e
+    - :uuid: 5a7a5a95-ded9-47fa-8759-48469437236f
       :name: Cryptical Envelopment
       :segued: false
-    - :uuid: d1d85bdf-e0a3-44b3-8561-80cbb6e00754
+    - :uuid: 374754c2-9ead-46fc-8025-b10fcf2c06df
       :name: Alligator
       :segued: true
-    - :uuid: 9b6ea4bc-e037-44c0-9d17-b09123f327b6
+    - :uuid: e57ff35b-2992-42d0-a0ae-b892db7dabcb
       :name: Drums
       :segued: true
-    - :uuid: 5cc9154e-6251-4492-a016-3e63cee9aee5
+    - :uuid: 737a38c8-ff36-4077-8968-2cedad839850
       :name: Alligator
       :segued: true
-    - :uuid: ee0d0ea9-38aa-40ff-b08b-d3ac0453b835
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: fe4f23cf-5d9b-4dcb-a5ad-4102dc5795c3
+      :name: Caution
       :segued: true
-    - :uuid: 78f3389c-9981-4cf2-bd21-5fb26dec905a
+    - :uuid: dbb9ad6b-0fb3-4d42-8e01-b08ff803d1f2
       :name: Feedback
       :segued: false
 1967/12/08:
@@ -1572,10 +1572,10 @@
   :state: MA
   :country: US
   :sets:
-  - :uuid: 387b4f30-ba38-47c8-a0bf-c3cf9c837f2f
+  - :uuid: bcba2ebe-03cb-4f9d-b3b2-7a4e354763d9
     :songs:
-    - :uuid: fc75517f-31d9-46e0-b913-92bfb7d59334
-      :name: In The Midnight Hour
+    - :uuid: 8af57912-40c3-49b8-9162-c5755dd2635c
+      :name: Midnight Hour
       :segued: false
 1967/12/09/0:
   :uuid: 8416ad65-1aae-423d-9961-3e2d6e4e5d08
@@ -1619,27 +1619,27 @@
   :state: NY
   :country: US
   :sets:
-  - :uuid: a1b8aedf-4e43-4f96-bbe5-87d007303791
+  - :uuid: 633bcf36-239f-4ba7-9291-de383604adf8
     :songs:
-    - :uuid: b2766d2b-ca24-4b5f-9da6-da672de3fa5a
+    - :uuid: 1221f8ec-3d65-4bb5-9010-22eae04cb5cd
       :name: Good Morning Little Schoolgirl
       :segued: false
-    - :uuid: bb1246b0-7b54-4a82-9d6a-8bba774af494
+    - :uuid: e97f0aac-e1b3-46cb-95e5-bb75c8ebf9da
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: d47d9bab-aecc-47e3-b707-2203b055edd9
+    - :uuid: 2983d420-ffba-408d-a2c0-daa1e761a833
       :name: Cold Rain And Snow
       :segued: false
-    - :uuid: 7e317a24-d00c-400b-ae00-caaf35681dda
+    - :uuid: dd8aff53-afae-4e70-bfca-55489b371b8a
       :name: Alligator
       :segued: true
-    - :uuid: 59d27294-0bf8-4229-a385-34f26b6fb2ba
-      :name: Caution (Do Not Stop On Tracks)
+    - :uuid: 9a2508f7-1245-4231-95f2-f57b0caca8d6
+      :name: Caution
       :segued: false
-    - :uuid: 612d3298-fd79-4c35-91af-53eeabc7d08a
+    - :uuid: 5701ab05-4413-4086-8ffb-ec6e2e884d05
       :name: Morning Dew
       :segued: false
-    - :uuid: d2e633b5-8ba0-40d2-b095-4c6e6450ae5e
+    - :uuid: ece78630-66c0-4687-a08d-64826f277a23
       :name: Viola Lee Blues
       :segued: false
 1967/12/27:

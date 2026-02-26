@@ -6,26 +6,26 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 4c915e8c-0744-48e1-9dc5-139a87554b0f
+  - :uuid: f9767788-fea2-445f-9108-6f8beb512028
     :songs:
-    - :uuid: 7910c645-e4c7-4054-8a64-b3a95f6713e1
+    - :uuid: ef649403-1e45-488d-9c97-4facfe341135
       :name: Blues For Allah
       :segued: true
-    - :uuid: 1e1c7c49-4d5d-4a1a-9032-7cce78c66055
-      :name: Stronger Than Dirt Or Milkin' The Turkey
+    - :uuid: 4195742d-2812-45ac-934d-0fa606b7de70
+      :name: Stronger Than Dirt
       :segued: true
-    - :uuid: 0229c1bc-bf40-4f80-9087-534ddeadf30c
+    - :uuid: 8ebd9d3e-5e77-4343-9f48-64f76a0ef0e9
       :name: Drums
       :segued: true
-    - :uuid: cc471733-13c7-469d-80fd-75163c13d8fc
-      :name: Stronger Than Dirt Or Milkin' The Turkey
+    - :uuid: bd9738e5-ba19-46bf-af11-847c898efe72
+      :name: Stronger Than Dirt
       :segued: true
-    - :uuid: d741a90c-2741-4b48-9949-119218c80525
+    - :uuid: 8d4ca864-13b7-4e9a-b26c-20893bc6345c
       :name: Blues For Allah
       :segued: false
-  - :uuid: e256c378-ea2c-4652-ae3b-cf2350e14ab7
+  - :uuid: 31463ceb-0aa8-4ba3-88f9-edb0cd8ff28a
     :songs:
-    - :uuid: 360ed9f3-0790-4bf7-9364-e9676b035448
+    - :uuid: 9a4e841b-5d54-4d78-b1b9-b2b47ffe943d
       :name: Johnny B. Goode
       :segued: false
 1975/06/17:
@@ -35,55 +35,55 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: d18c95a1-38d5-4c85-a3a9-d4fd876c854e
+  - :uuid: d5ccb5bb-c856-491e-a81b-efc1eb1df861
     :songs:
-    - :uuid: e6757d46-032c-4ef9-9962-6b7bc0be6716
+    - :uuid: ec969d37-2eb0-46c1-a34f-60e2650032e8
       :name: Crazy Fingers
       :segued: false
-    - :uuid: 93ab85a9-195f-4e03-8182-d1994b1e6968
+    - :uuid: 2c8748dc-830d-4116-98bf-c2d4105fe16a
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: edbf79c3-5e39-48f5-86b4-d9495e51d191
+    - :uuid: d7a9c253-6f5c-4a83-92ec-a7325153e923
       :name: Deal
       :segued: false
-    - :uuid: 97cb9def-5e21-4804-91d1-ce6023dfb8b6
+    - :uuid: d3611fb8-cde2-406d-83f7-9f30db8ff52f
       :name: Big River
       :segued: false
-    - :uuid: 7e41638d-6470-4211-ac7f-74f863fd3c10
-      :name: Peggy O
+    - :uuid: c0ef840f-8ef6-4d2e-b33a-046eb86640c3
+      :name: Peggy-O
       :segued: false
-    - :uuid: 4fc479fe-876f-442a-b63f-511d51676f5a
+    - :uuid: 0f8c750a-352c-4fa7-a8bc-ccf0a5ff38bd
       :name: Me And My Uncle
       :segued: false
-    - :uuid: 1b551488-717e-4462-aa63-df2e4d985d3b
+    - :uuid: c355181c-ca62-4280-ab37-d3efbb4dd8d5
       :name: Help On The Way
       :segued: true
-    - :uuid: a5a90620-c570-41e9-8a3e-7583b900be59
+    - :uuid: b886ec2a-de9c-42d0-b19e-f33b261ffda4
       :name: Slipknot!
       :segued: true
-    - :uuid: 73b0dd7e-f4f8-41c6-8552-7802b58c4bc0
+    - :uuid: ed3a4912-6700-4421-8d3e-a56c74a9e3f1
       :name: Franklin's Tower
       :segued: false
-  - :uuid: de249cbb-7963-49ea-80b7-a1ac3b942c48
+  - :uuid: 1af76c56-9147-412c-93df-4ec00e7351f8
     :songs:
-    - :uuid: 3181e8ce-72d8-4b5b-8fa3-5e9805dc0139
+    - :uuid: f322b4f1-5c8d-4e3f-9382-8ff9caa0618f
       :name: Blues For Allah
       :segued: true
-    - :uuid: 8f0b274a-6cc8-46ec-8fc3-d41f0f8762fe
+    - :uuid: ccb3fdb3-425d-4b72-a453-3f9fbb991607
       :name: Drums
       :segued: true
-    - :uuid: 25048127-af07-4f6b-83b4-053c589e9523
-      :name: Stronger Than Dirt Or Milkin' The Turkey
+    - :uuid: ed3c4d67-0508-4b23-81f4-acff2a2a1a80
+      :name: Stronger Than Dirt
       :segued: true
-    - :uuid: c6851611-0429-4468-90c3-f43dd23d061c
+    - :uuid: f8ffe92a-8aee-4e54-81b2-c3ac166a3aee
       :name: Blues For Allah
       :segued: false
-    - :uuid: 1622a10c-5e5e-4e62-8143-a8a197464d33
+    - :uuid: 078bdcc5-4ab1-438c-be67-644c1600eb87
       :name: Sugar Magnolia
       :segued: false
-  - :uuid: 5f8dbd33-8e31-4adb-b6e9-3a61f772eaef
+  - :uuid: 6c5a9742-f04e-44f6-ab2d-1de6efdfa582
     :songs:
-    - :uuid: e56c2e58-75e8-4774-9ab3-1eeaa90755db
+    - :uuid: 418519ce-2d55-4999-a353-6ed6ed07aebb
       :name: U.S. Blues
       :segued: false
 1975/08/13:
@@ -93,62 +93,62 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: 17980d25-4874-4b0e-9e87-4e31b29cf909
+  - :uuid: 39564d38-3a2c-46df-af76-a840eb9322f4
     :songs:
-    - :uuid: d3e3a327-66e8-413f-bbc1-1310bc36b79e
+    - :uuid: 35d0c5d4-f65c-4011-a2dc-8c722941f267
       :name: Help On The Way
       :segued: true
-    - :uuid: 2be8204c-f509-4654-b519-fc2b7bc52759
+    - :uuid: 5e0915ba-72c7-4c00-b204-3d8f8e531bc8
       :name: Slipknot!
       :segued: true
-    - :uuid: 4d9a2ac0-2147-491c-97af-7067dd401cff
+    - :uuid: 39a357b3-d0b7-43a3-a1bd-d826e404be54
       :name: Franklin's Tower
       :segued: false
-    - :uuid: 027083a9-8876-474e-b68d-a2e146f38df7
+    - :uuid: a6a9612e-bf58-4c58-a32b-2b1fe0e2b72c
       :name: The Music Never Stopped
       :segued: false
-    - :uuid: 39d50bfc-d5c9-4867-873f-63ab8c186732
+    - :uuid: dfb25a8b-79aa-46f7-b4bb-c81dd60d1da7
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 46cef5c9-5cc9-4512-9243-22e1c86b1df2
+    - :uuid: 0fbe0faa-e78c-456e-9a85-0b8e6e2b126a
       :name: Eyes Of The World
       :segued: true
-    - :uuid: bf3b36c5-8d1c-4dfb-ad71-f36afa6d9159
+    - :uuid: c0196eb7-a918-4e1b-a2c3-1ea9e12f3d73
       :name: Drums
       :segued: true
-    - :uuid: 796e70af-384c-45ce-9131-d17b765dbaed
-      :name: Stronger Than Dirt Or Milkin' The Turkey
+    - :uuid: 34e852cb-e19c-4175-ac22-817ad2351ce4
+      :name: Stronger Than Dirt
       :segued: false
-  - :uuid: 644699b4-ced3-4f40-a716-24cf63324116
+  - :uuid: a1b26ded-2932-4d36-ae97-505a5f8f6611
     :songs:
-    - :uuid: 0ab8c22b-8324-40aa-bc59-735d05d61d89
+    - :uuid: 2b6a2104-960f-4bf8-8be5-66176ba673c9
       :name: Around And Around
       :segued: false
-    - :uuid: 579b3fd0-6bd4-4780-b6c1-fab53237f045
+    - :uuid: 493c1969-22e1-4773-988f-a2bfeb6a5af2
       :name: Sugaree
       :segued: false
-    - :uuid: cb32b7d7-42bd-46a7-b437-be3ec3b999d5
+    - :uuid: c281627d-27a4-492b-9978-5f02bd297374
       :name: Big River
       :segued: false
-    - :uuid: df5c408b-0acd-4cba-bf52-45a651c53b24
+    - :uuid: 1c8b4fec-c213-45df-a369-e7ff224c56ed
       :name: Crazy Fingers
       :segued: true
-    - :uuid: 07689648-dc99-4555-80e6-889f3b4edcf4
+    - :uuid: 771d4bec-f2c1-42dd-b763-048f9b11296e
       :name: Drums
       :segued: true
-    - :uuid: 71e58e89-19ce-4b2b-8561-621e006ce6d4
+    - :uuid: 5321d401-30ed-48b2-96e5-646f925f3389
       :name: The Other One
       :segued: true
-    - :uuid: 960b2796-c2b7-435f-b5a0-b8cf39e94d3b
+    - :uuid: 9c070c6d-f4d1-4457-ba96-ab422788523b
       :name: Sage And Spirit
       :segued: true
-    - :uuid: 5fa62978-92f4-47a6-af3c-46b90b7f9a1a
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 98ff1d77-2ef0-45e4-96ee-2145cca76c2a
+      :name: Goin' Down The Road Feelin' Bad
       :segued: false
-    - :uuid: 2fdbe48f-5d5e-48d7-99d2-1abf818b1fcb
+    - :uuid: 2aa99977-7d6e-4d35-8010-1e92c97f3bac
       :name: U.S. Blues
       :segued: false
-    - :uuid: ec69bf1f-a861-4a8c-af3b-9b6b92e122c3
+    - :uuid: 664fccfb-957a-457e-b5cb-dfa7c2e40e39
       :name: Blues For Allah
       :segued: false
 1975/09/28:
@@ -158,50 +158,50 @@
   :state: CA
   :country: US
   :sets:
-  - :uuid: f9796ae0-ad67-48c4-bb05-80e0fe443c2d
+  - :uuid: e332767e-47f4-42fe-b05e-2ae3123a6d82
     :songs:
-    - :uuid: 4bb37f03-f497-4f97-be00-01ca3810f9be
+    - :uuid: 4ba9a9b2-dfb5-4c28-be89-41689abc7ffe
       :name: Help On The Way
       :segued: true
-    - :uuid: 5c33ae54-80de-45dd-9874-8295edcce536
+    - :uuid: 9af87a4c-86ce-4ea8-8f78-45cb6b5ffea5
       :name: Slipknot!
       :segued: false
-    - :uuid: 6982a5b6-123a-4c75-a7ae-e803bf6ab493
+    - :uuid: c2f6f37e-84e9-4c17-b1bc-8ad2f3d547d5
       :name: The Music Never Stopped
       :segued: false
-    - :uuid: 76a76b7f-2fc6-4c86-82a5-01e5cba2f149
+    - :uuid: bfb08403-9841-4d43-86b5-f0dda2967b6f
       :name: They Love Each Other
       :segued: false
-    - :uuid: 5ebf6bb7-7d10-45aa-9c3f-466d9836e540
+    - :uuid: cd456f66-39c4-4f05-a37f-d393149a8a56
       :name: Beat It On Down The Line
       :segued: false
-    - :uuid: 56cebdc8-97fe-4394-9f43-4d5e69544a87
+    - :uuid: 7b124a47-027e-461e-9516-4c162fda058f
       :name: Franklin's Tower
       :segued: false
-    - :uuid: c151458c-d02e-4098-8240-dd3d05ab1f18
+    - :uuid: 28fea9d5-31a5-469d-9dde-9bd36ce4ade7
       :name: Big River
       :segued: false
-    - :uuid: 2d92f521-70d0-479d-a19d-31eff95070bf
+    - :uuid: d421fe3c-202e-416e-996d-d2219dac76cb
       :name: It Must Have Been The Roses
       :segued: false
-    - :uuid: 5f0c475a-e3cd-4154-b1a7-903404721d76
+    - :uuid: ed4510ce-aa25-4300-bbc1-a9304efde6dd
       :name: Truckin'
       :segued: true
-    - :uuid: af793358-1159-497a-8898-9cb7b2725739
+    - :uuid: 98fc5cb4-67ef-4993-9e93-0636597fc11d
       :name: Jam
       :segued: true
-    - :uuid: 9729f497-02b0-4ad7-baa8-909ef68b24c2
+    - :uuid: 3a32e67b-782e-42e5-816f-85763e8276c2
       :name: Drums
       :segued: true
-    - :uuid: 79d9cc84-43d5-4cfc-8ba5-87d7417e9fcf
-      :name: Stronger Than Dirt Or Milkin' The Turkey
+    - :uuid: 0276d82a-7a5e-4f78-9e41-05013f491a5c
+      :name: Stronger Than Dirt
       :segued: true
-    - :uuid: ca60bea5-8b36-49dd-969c-f57d89195839
+    - :uuid: 74c6c8b7-425a-4630-9218-396ba51525ca
       :name: Not Fade Away
       :segued: true
-    - :uuid: 5eb31e2a-1be1-4643-8543-4b303d236af2
-      :name: Goin' Down The Road Feeling Bad
+    - :uuid: 6ed66ddc-fd97-485f-9b15-46adf003acca
+      :name: Goin' Down The Road Feelin' Bad
       :segued: true
-    - :uuid: 4a94c1a4-cb2c-4d40-a45d-b86fa123228e
+    - :uuid: 28fa4955-5cc2-493b-a206-a373b5f370dd
       :name: One More Saturday Night
       :segued: false
