@@ -1,80 +1,112 @@
 ---
+1966/01/01:
+  :uuid: 17795917-048f-4f3f-9db1-9bc9591bbdb6
+  :venue: Beaver Hall
+  :city: Portland
+  :state: OR
+  :country: US
+  :sets: []
+1966/01/04:
+  :uuid: 0eeced2a-ba0c-452d-90b0-506c39efe831
+  :venue: Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
 1966/01/05:
   :uuid: 4aafd24e-1ea2-4ff8-898e-17c44cccb4c8
-  :venue: The Matrix
+  :venue: Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/01/07:
+  :uuid: ab7de6d3-c7ab-4d17-86f2-08f12004200d
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: bed16af1-0206-4f30-a988-22542d2178d8
+  - :uuid: 614a1020-5f66-403c-ade2-caa7a666d1e2
     :songs:
-    - :uuid: 91788f50-fcce-472e-a8f7-7f34edb61719
+    - :uuid: 12baa6f6-61b2-4112-bcd7-8a3897c1455c
       :name: It's A Sin
       :segued: false
-    - :uuid: 986c1900-b93f-4233-b823-b44fb98e208b
+    - :uuid: ea644407-71b9-4329-9a9f-25b85c0db7b5
       :name: Sick And Tired
       :segued: false
-    - :uuid: 0eb2323e-9f78-4f13-a3fe-9ffc05b17cc8
+    - :uuid: e2e56d4b-742f-42fa-9044-ea191e17aac6
       :name: Mindbender
       :segued: false
-    - :uuid: b4fc660f-647d-4d36-ab0c-de9eadeea446
+    - :uuid: 9cdc479b-c90c-4414-986a-c80333e29884
       :name: On The Road Again
       :segued: false
-    - :uuid: fc7c8f28-d438-4ba1-ac65-4d226451a629
+    - :uuid: 89ead511-a00e-481b-98d4-d292907aba87
       :name: She Belongs To Me
       :segued: false
-    - :uuid: 9c4c9f1d-5afc-42cb-9f60-86dbec4ad20d
+    - :uuid: 92bed4f2-6caa-4bee-b023-1048dfc1ab37
       :name: I'll Go Crazy
       :segued: false
-    - :uuid: 66b6c7c9-c526-4a7e-9493-2570a1e0289d
+    - :uuid: ec8b5f61-2386-41d1-97d3-daaf7ccd7141
       :name: Can't Come Down
       :segued: false
-    - :uuid: 466cdd87-6ff9-4d54-9d1d-8cf7a6418b98
+    - :uuid: 05b7cb0f-66e9-468a-81b0-a86701048442
       :name: Death Don't Have No Mercy
       :segued: false
-    - :uuid: 54d43d23-3e46-4963-b0db-1201e18ae761
+    - :uuid: 602381f5-29ee-43c3-9b19-01c35e815db4
       :name: Parchman Farm
       :segued: false
-    - :uuid: 4dbac7db-76de-4a62-ad71-0256989c339b
+    - :uuid: ce442024-cebc-42e8-92f1-72109d1881d1
       :name: In The Midnight Hour
       :segued: false
-    - :uuid: 5c980c12-80c8-4ad3-b578-d1188cde1ff1
+    - :uuid: 2b537080-185c-414a-8b44-d437a9fe4e04
       :name: The Only Time Is Now
       :segued: false
-    - :uuid: 1bcf2016-4ef6-4060-9104-f97c43dfc7f7
+    - :uuid: e0e3587a-f131-4f2b-b611-5282746a37ca
       :name: Early Morning Rain
       :segued: false
-    - :uuid: 450f8e56-7d11-4999-8262-947e69ab1e17
+    - :uuid: a92deabf-dc8c-4d21-8a6a-6692da72d7a6
       :name: It's All Over Now, Baby Blue
       :segued: false
-1966/01/07:
-  :uuid: ab7de6d3-c7ab-4d17-86f2-08f12004200d
+1966/01/08:
+  :uuid: 85cdbb3b-e463-485e-aa18-1e9752db832f
   :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: 6d8bc3d4-ec22-4134-befa-64a3d0c213cf
+  - :uuid: bc4ea99f-9ca4-4dcd-9735-6609566b3be3
     :songs:
-    - :uuid: d1511ee4-0950-467b-b05c-4cc136ef166a
+    - :uuid: fdc3d96c-91bd-49b6-a6ec-f297859e6812
       :name: I'm A King Bee
       :segued: false
-    - :uuid: 474c1085-2065-401f-b5ee-67b1a26ac28c
+    - :uuid: ff094573-9f72-471a-b82b-b584d32193de
       :name: I'm A Hog For You Baby
       :segued: false
-    - :uuid: fc0c9f18-4fc1-43f7-9514-1fc18a4543b4
+    - :uuid: eb8ad159-aee8-49c9-acdd-10471f6db18f
       :name: Caution (Do Not Stop On Tracks)
-      :segued: true
-    - :uuid: 7479ad9a-0f49-42e6-8235-460a21270fbf
+      :segued: false
+    - :uuid: 51bafb3c-9f28-48f2-ac0c-ba1d0d1ee191
       :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: b39b506a-5acb-4de7-b34b-2b9f7eefbb3e
+      :name: Star Spangled Banner
       :segued: false
 1966/01/13:
   :uuid: 76f576e0-9385-4e7b-88c1-fbfb68b04848
-  :venue: The Matrix
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 24762544-e057-4e74-9484-d67d7090133d
+    :songs:
+    - :uuid: ea33b282-e70b-4b3a-8c1b-d58816d28219
+      :name: All Of My Love
+      :segued: false
+    - :uuid: c5481e5b-3fe5-43fc-a0ca-bae4bf4b7b37
+      :name: I'm A Hog For You Baby
+      :segued: false
 1966/01/14:
   :uuid: cc8553a7-f163-4feb-bcba-0162565acb64
   :venue: Fillmore Auditorium
@@ -84,14 +116,14 @@
   :sets: []
 1966/01/15:
   :uuid: edb04066-47a9-4d09-aae4-c2a02332b07d
-  :venue: The Matrix
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1966/01/16:
   :uuid: f4b62659-815e-4575-af91-828d62742757
-  :venue: The Matrix
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
@@ -112,112 +144,281 @@
   :sets: []
 1966/01/28:
   :uuid: 3f98582a-0ee8-4dd9-a54e-0d404def2731
-  :venue: The Matrix
+  :venue: Matrix
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 5016f30f-de7a-4fa0-a08e-1b7472bb499a
+    :songs:
+    - :uuid: 5331a864-a697-471b-9cd9-f8572f28727d
+      :name: You Don't Have To Ask
+      :segued: false
+  - :uuid: d7f67153-6e1d-4a00-8016-028fc3589eb3
+    :songs:
+    - :uuid: af621694-064f-469e-be82-55e985b87d1c
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: dd624318-17f3-4a66-a450-5bf8c0485f3a
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 7f784045-a43b-47c0-8b69-4e4fb1bd21bc
+      :name: In The Midnight Hour
+      :segued: false
+1966/01/29:
+  :uuid: 6150765d-d147-4444-9d9f-f2233b4ec405
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
-1966/01/29:
-  :uuid: 6150765d-d147-4444-9d9f-f2233b4ec405
-  :venue: The Matrix
+1966/02/01:
+  :uuid: f65fb69b-bbc8-4d3b-96b2-24550a143dd1
+  :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1966/02/06:
   :uuid: 50cb3faf-11af-4043-8e08-97d9d66c8528
-  :venue: Northridge Unitarian Church
-  :city: Los Angeles
+  :venue: Valley Unitarian Universalist Church
+  :city: North Hills
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: bfe785d5-356f-4fba-9769-ae2d74a21011
+    :songs:
+    - :uuid: 828cf474-587a-46c0-95bb-3c880ce930d4
+      :name: Tastebud
+      :segued: false
+    - :uuid: 2516b9e3-f81a-4f9c-81aa-7eb455b9ba5c
+      :name: Mindbender
+      :segued: false
+    - :uuid: 52f74f93-6ad7-4843-a943-66d3af769ce5
+      :name: One Kind Favor
+      :segued: false
+    - :uuid: 8b7d45e6-3ec8-459e-80ba-b9e87c6c53a7
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: b9587525-cd73-485c-98e6-04197a8dd31d
+      :name: The Only Time Is Now
+      :segued: false
 1966/02/12:
   :uuid: ef6b23a3-81bb-4c1a-a155-7fc1b7e610cb
   :venue: Youth Opportunities Center
   :city: Compton
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 316e6fd9-eddb-44a0-8e46-550ccf751f45
+    :songs:
+    - :uuid: 7bda88d2-275d-4b35-8456-4c76fcccb1bc
+      :name: Twist And Shout
+      :segued: false
+1966/02/23:
+  :uuid: 43f9fe70-ac9f-4f83-8f85-ca8dec9f127c
+  :venue: Bear's House
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 086c1558-1efb-416b-a0cc-1a7a586bbbd0
+    :songs:
+    - :uuid: 39319f1c-b783-4169-9b5c-9b98a956be03
+      :name: It's A Sin
+      :segued: true
+    - :uuid: 6fab809f-1030-4894-b9ee-31b88a8a12cc
+      :name: La Bamba
+      :segued: true
+    - :uuid: 40d687fc-08ee-46d6-9f37-a5efb023b1e1
+      :name: It's A Sin
+      :segued: false
 1966/02/25:
   :uuid: 116aa11d-1bc8-491e-9092-8645999400a5
-  :venue: Ivar Theater
+  :venue: Empire Studios
   :city: Los Angeles
   :state: CA
   :country: US
   :sets: []
-1966/03/03:
+1966/03/02:
+  :uuid: 1f063be4-125a-4bbb-8344-8e082ac1f8f1
+  :venue: Bear's House
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 15a255a6-601a-4e8a-8972-9072ed73d1b3
+    :songs:
+    - :uuid: 27a866e4-bcad-4057-91e1-05606fd4a8b5
+      :name: Betty And Dupree
+      :segued: false
+    - :uuid: 15a7746a-4270-400d-9e56-16e41580dc40
+      :name: Stealin'
+      :segued: false
+1966/03/03/0:
   :uuid: a885dd8c-9b5f-4823-9f99-d27bffdfb84d
-  :venue: A. I. A. A. Hall
+  :venue: American Institute of Aeronautics and Astronautics Hall
   :city: Los Angeles
   :state: CA
   :country: US
   :sets: []
+1966/03/03/1:
+  :uuid: a885dd8c-9b5f-4823-9f99-d27bffdfb84d
+  :venue: American Institute of Aeronautics and Astronautics Hall
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets: []
+1966/03/04/1:
+  :uuid: 54fcf960-6f64-471c-9f44-aa98e3353827
+  :venue: Unicorn Theater
+  :city: La Jolla
+  :state: CA
+  :country: US
+  :sets: []
+1966/03/09:
+  :uuid: db2337de-5f18-45d3-8842-cfb2c3520b50
+  :venue: Bear's House
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: ce9dcc19-fe16-465d-8076-d645b5dd2890
+    :songs:
+    - :uuid: a0ed2f65-f832-4f69-b6a0-fc57be401923
+      :name: unidentified-19660309-01
+      :segued: false
+    - :uuid: 4b1c7dd9-0ef3-4300-a03e-ab1234629346
+      :name: Who Do You Love?
+      :segued: false
+    - :uuid: ebc2b4d0-9787-426a-9692-4ae0641eca04
+      :name: Who Do You Love?
+      :segued: false
+    - :uuid: 88d4f5e1-3c7a-4d8c-b5f0-0617f26a823c
+      :name: Jam
+      :segued: false
+    - :uuid: affbcf38-90b4-44ec-8337-4cd6b5841f0a
+      :name: Jam
+      :segued: false
+1966/03/10:
+  :uuid: 19b5b83a-f71c-4970-882f-48f2d726c226
+  :venue: Bear's House
+  :city: Los Angeles
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 7a445cd8-e767-4fb7-ba83-7b71084aaff8
+    :songs:
+    - :uuid: 193931f7-1b44-4e2a-8881-c0ceae85661c
+      :name: Sittin' On Top Of The World
+      :segued: false
 1966/03/12:
   :uuid: 3d48b97a-8699-4bd5-b953-6dadb20562cd
   :venue: Danish Center
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
-1966/03/18:
-  :uuid: 3ad5e6f6-0e8c-457c-9223-ca6258012318
+  :sets:
+  - :uuid: df725547-d0b6-4466-9969-30b0c61591ed
+    :songs:
+    - :uuid: cf594d01-b79a-4d6d-bdac-bcc9d09cec1b
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 8c4c7b10-5e0e-4386-a2f9-cfcb6d45ffd1
+      :name: One Kind Favor
+      :segued: false
+    - :uuid: 679aff99-5641-4051-95c7-56f5883334c4
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 3d37caa0-a5ac-4a8c-aeb8-08d07258e5ca
+      :name: You See A Broken Heart
+      :segued: false
+    - :uuid: 2bbdc95f-ce74-4f7b-9dc7-d540d2317787
+      :name: It's A Sin
+      :segued: false
+    - :uuid: 42c67076-ca34-45c5-9a25-412b1771d57e
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 72b32675-3379-4d9e-9469-43b61b4a868f
+      :name: Heads Up
+      :segued: false
+    - :uuid: 5f0d670b-aae9-487c-a0f8-36a44c7e2a60
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 67e19085-24ef-490a-982a-4171d0976cc3
+      :name: unidentified-19660312-02 (blues instrumental)
+      :segued: false
+    - :uuid: 60759b7a-bcc9-42ad-9df6-68e4728e90ec
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 83a1b056-53d9-4e38-95a8-e76edeece967
+      :name: In The Midnight Hour
+      :segued: false
+1966/03/19:
+  :uuid: 357b2230-03a2-4165-b880-865487d42a12
   :venue: Carthay Studios
   :city: Los Angeles
   :state: CA
   :country: US
   :sets:
-  - :uuid: d80aff11-9abb-4785-ac0f-5e31c9799b00
+  - :uuid: 287e105c-7dc2-4c1a-a218-c99a1d10ea60
     :songs:
-    - :uuid: 0922982b-6c36-42c1-a8b4-c8cd2b116c0c
+    - :uuid: dd78ee86-cdc7-4dbf-ade8-4a65bf8a8e32
       :name: Viola Lee Blues
-      :segued: false
-    - :uuid: 76ba34ee-d4d6-4f9d-84c0-ca20241148eb
-      :name: One Kind Favor
-      :segued: false
-    - :uuid: fb6c5603-921a-4ae3-bc30-504af3e69027
-      :name: I Know You Rider
-      :segued: false
-    - :uuid: 8694108f-dc6b-4e23-a252-ae284f65ab07
-      :name: You See A Broken Heart
-      :segued: false
-    - :uuid: 96071d77-1807-486b-8582-7026da6fdfbc
-      :name: It's A Sin
-      :segued: false
-    - :uuid: fadd7456-bcba-4404-a141-52807c0aaef3
-      :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: b612ad5b-0ba9-449b-a7de-7d1df3f9add7
-      :name: Heads Up
-      :segued: false
-    - :uuid: 87cd5bd8-9f07-4ecc-bc79-8fcf4ac48cf2
-      :name: Next Time You See Me
-      :segued: false
-    - :uuid: 08e35699-491b-445d-8479-40ef08f7cf8d
-      :name: Slow R and B Instrumental
-      :segued: false
-    - :uuid: b66ce493-34c8-4ef6-bdac-1b1564e311d3
-      :name: Space
-      :segued: false
-    - :uuid: 964d02ab-a5be-4a1d-a498-bc5b95e16b13
-      :name: Death Don't Have No Mercy
-      :segued: false
-    - :uuid: aa19c94a-8215-48b2-aff8-ff4369994ca9
-      :name: In The Midnight Hour
       :segued: false
 1966/03/25:
   :uuid: 87ba0e4c-1ac7-4242-94ac-046fd84415e4
-  :venue: Trouper's Club
+  :venue: Trouper's Hall
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 7cefd938-849f-4232-8073-5c398b72b1bc
+    :songs:
+    - :uuid: 81694933-6a97-467b-a31c-b251443f13c0
+      :name: Stealin'
+      :segued: false
+    - :uuid: 154603df-5c7f-42b8-83e5-d0f45fc96395
+      :name: unidentified-19660325-01
+      :segued: false
+    - :uuid: 1b01a0f5-4a30-4632-b7e2-6ef62210430a
+      :name: Hey Little One
+      :segued: false
+    - :uuid: bdad3168-a3d4-4517-8f94-91230450ee1c
+      :name: I'm A Hog For You Baby
+      :segued: false
+    - :uuid: b3fc697d-c23e-46e2-9ddf-32ebbfaeb843
+      :name: You Don't Have To Ask
+      :segued: false
+  - :uuid: 5fd3a2a2-d24b-41d1-a079-2bd07ed56826
+    :songs:
+    - :uuid: 64b4bdb8-90fc-4f22-9cb1-8b6364eda56c
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: e5afc7f2-4749-4ac7-b5d9-0d51b3058356
+      :name: Next Time You See Me
+      :segued: false
 1966/04/22:
   :uuid: ebd9d7b2-3c3c-4835-a2c3-2f16a195580d
   :venue: Longshoreman's Hall
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 65e141d8-c6ce-40d4-a812-7d5a93009ae4
+    :songs:
+    - :uuid: ab5bdeae-d4b5-4b70-b2ff-5e5932399dd4
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 87414634-9078-43c2-8593-41628afd73fb
+      :name: Good Morning Little Schoolgirl
+      :segued: true
+    - :uuid: 938686a2-7bc0-4e52-896e-e5207d79aca1
+      :name: You Don't Love Me
+      :segued: true
+    - :uuid: 52e9a9de-cee0-48ca-8f2e-aaa31ec54741
+      :name: Good Morning Little Schoolgirl
+      :segued: false
 1966/04/23:
   :uuid: 2ba2858f-803f-4701-a338-ea64ffbe244d
   :venue: Longshoreman's Hall
@@ -231,14 +432,36 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 9860a0a0-ccd4-463f-8def-5e3fdb24ae43
+    :songs:
+    - :uuid: 100eeffd-f918-4266-9caa-cb240f6543f8
+      :name: It's A Sin
+      :segued: false
+    - :uuid: 49edbe0a-1963-4bba-af87-218b8219c74b
+      :name: Viola Lee Blues
+      :segued: true
+    - :uuid: 49553c3d-5af3-4a6c-aa0b-cd13ceb9391e
+      :name: In The Midnight Hour
+      :segued: false
+    - :uuid: 8c305725-a4fa-472b-b20e-c7092cb4435d
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: f2220311-e651-4cb5-81bf-97d53ea28391
+      :name: Blues Jam
+      :segued: false
 1966/05/07:
   :uuid: 4b969d4b-0596-4826-b48c-ee7a06bfa58c
-  :venue: Harmon Gym
+  :venue: Harmon Gym, UC Berkeley
   :city: Berkeley
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 72a1ee7d-a684-40a0-aab9-90d388d2c96f
+    :songs:
+    - :uuid: 7ea62947-2d14-433d-8282-1fef6d33363e
+      :name: In The Midnight Hour
+      :segued: false
 1966/05/14:
   :uuid: aebffcc6-e71a-4d8c-9ee5-fe11692a51ed
   :venue: Veterans Memorial Hall
@@ -252,18 +475,66 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2543a359-c9b7-457e-8fac-5709cc008178
+    :songs:
+    - :uuid: 6f4b6f11-7174-466f-80b1-043d019d97dc
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 2b72ca61-c624-4e30-aef2-6a5a1db5bfb4
+      :name: Standing On The Corner
+      :segued: false
+    - :uuid: 593dc6fb-50e4-4e6f-99f0-d8c9c983c449
+      :name: Mindbender
+      :segued: false
+    - :uuid: 79ea1ee1-b7bf-477d-a3a2-ed80046c977f
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: e1df4326-b9c0-4098-9c8f-8abe43cc7f05
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: f8b49b39-d0ab-4817-8624-92be174cc392
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 69803610-0633-44fc-9c6d-576cd691b6c6
+      :name: It's A Sin
+      :segued: false
+    - :uuid: 140d33c2-5e21-40eb-8565-fc9874cadd0f
+      :name: Sick And Tired
+      :segued: false
+    - :uuid: 1b2de5a7-fcf8-4778-bf19-14c0949af879
+      :name: Cream Puff War
+      :segued: false
+  - :uuid: 48a3ddea-a28b-41c7-ba3a-980fcee01879
+    :songs:
+    - :uuid: 425102df-0bee-4527-a0fb-1994582c3a2c
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: c16f408b-8c13-49d7-9dc0-74997e773129
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: bdb6590d-c807-4b08-9af9-a686ea6ebe32
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 97ff708f-6543-454f-a20d-923eda6fb306
+      :name: Tastebud
+      :segued: false
+    - :uuid: d1479f97-31ad-42a6-9465-102e40649edd
+      :name: Silver Threads And Golden Needle
+      :segued: false
+    - :uuid: 9ce661f0-790c-461c-90b2-ec5e70086b05
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+    - :uuid: 21dc81b5-9dbb-4e79-b583-e982554c3453
+      :name: Good Lovin'
+      :segued: false
+    - :uuid: c7bf8ee0-d1f5-4a82-ad01-1403309133c9
+      :name: You Don't Have To Ask
+      :segued: false
 1966/05/22:
   :uuid: 7f7d07c0-199a-4de7-b726-a720d6f14412
   :venue: Rancho Olompali
   :city: Novato
-  :state: CA
-  :country: US
-  :sets: []
-1966/05/25:
-  :uuid: fdd08fc7-c35a-47af-9645-323af2d5e70b
-  :venue: Unknown Location
-  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
@@ -280,18 +551,76 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
-1966/06/01:
-  :uuid: 639f74b0-875d-476f-8743-78e6ba0dee09
-  :venue: Pauley Ballroom
-  :city: Berkeley
+  :sets:
+  - :uuid: f905b13b-6a63-4300-a26b-c44c75b40cd3
+    :songs:
+    - :uuid: 214c2d4f-2e71-493a-ab29-01adcaa082d4
+      :name: Dancing In The Street
+      :segued: false
+1966/05/30:
+  :uuid: e547b9b1-476e-46d3-ae6f-ea21ca5bb723
+  :venue: Buena Vista Studios
+  :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: d897c475-daa1-4bb8-b51c-2bd5d9b76293
+    :songs:
+    - :uuid: 5e2d5351-c27b-448c-b843-e9ad9783409d
+      :name: Stealin'
+      :segued: false
+    - :uuid: f7d81563-8c0a-4498-a527-bdb9d68e685c
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 1749adb8-d938-4bc6-bfce-4be5b6068654
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: 27b3ce82-5e02-4b93-be5f-650763b20464
+      :name: You Don't Have To Ask
+      :segued: false
+    - :uuid: 1b7c72fd-b6e5-47c2-a716-dfd6de489549
+      :name: Tastebud
+      :segued: false
+    - :uuid: e616110d-a6a5-43b4-a326-e2ad20717565
+      :name: I Know You Rider
+      :segued: false
+1966/06/03:
+  :uuid: 7e134b6d-3b20-40b0-a7e1-d611557d127a
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 474ac369-a336-44d5-949b-38e1cdd20572
+    :songs:
+    - :uuid: a9a14945-6343-4c89-af29-5441eda67fc9
+      :name: Mindbender
+      :segued: false
 1966/06/04:
   :uuid: 73f157a4-c7dd-4268-b0b7-e1b2f6967492
   :venue: Fillmore Auditorium
   :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/07:
+  :uuid: 452bdabf-a76b-40bd-bf27-e610c3782066
+  :venue: Stockton Ballroom
+  :city: Stockton
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/08:
+  :uuid: 8d4859a7-d709-4319-a58a-5eafdbd29242
+  :venue: Stockton Ballroom
+  :city: Stockton
+  :state: CA
+  :country: US
+  :sets: []
+1966/06/09:
+  :uuid: 1189bb19-a77b-445c-8b3d-227bfada65c5
+  :venue: Stockton Ballroom
+  :city: Stockton
   :state: CA
   :country: US
   :sets: []
@@ -309,16 +638,23 @@
   :state: CA
   :country: US
   :sets: []
+1966/06/12:
+  :uuid: d3d45274-2adb-4531-a3d3-feb20466011e
+  :venue: Unknown
+  :city: 
+  :state: CA
+  :country: US
+  :sets: []
 1966/06/17:
   :uuid: 1414edcb-ab34-482d-a551-d46fe319712d
-  :venue: Veterans Hall
+  :venue: Veterans Memorial Auditorium
   :city: Santa Rosa
   :state: CA
   :country: US
   :sets: []
 1966/06/18:
   :uuid: f953a891-75eb-4fba-b9c1-d7f887010ca9
-  :venue: Veterans Hall
+  :venue: Veterans Memorial Auditorium
   :city: Santa Rosa
   :state: CA
   :country: US
@@ -329,7 +665,68 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 303a0710-922a-4a5c-b3ca-3dad9d694de6
+    :songs:
+    - :uuid: c8a6d0d0-d255-4fd7-a394-53141544d1ae
+      :name: Nobody's Fault But Mine
+      :segued: false
+    - :uuid: 70d0e16d-4dc4-4ffb-b740-9edf07553cae
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 3d2128dd-cb54-4a9d-ae4c-8389faaecae3
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 40839090-3ddb-458e-b4d8-b4005b30137e
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: 39a14802-8c27-4956-896f-6f9d54eb4672
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 396b38db-cbef-40b6-9337-984f9fd84303
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 886c25aa-a8dc-483f-923f-e5a9672ba953
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: cc89c06c-38a9-4fc2-927f-c641e0882b6d
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: 47d2379e-acfe-4e50-bc69-32371cfdf41c
+      :name: Keep Rolling By
+      :segued: false
+  - :uuid: fffa13d7-3ba4-46ab-9ae6-b706d6345ade
+    :songs:
+    - :uuid: cfb6b539-cfd2-4855-aa32-478cd9fe1225
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: bcf363e8-3ee6-45d1-8262-be988c6eb657
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 1971ae21-de51-4ef5-8a37-b400abf0c148
+      :name: Tastebud
+      :segued: false
+    - :uuid: 54b6d3f2-3a2e-433b-8215-feeabddcde84
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: d088518d-cc5b-44a2-97fe-6593c421e02a
+      :name: Cream Puff War
+      :segued: false
+    - :uuid: 02c00aad-141e-4552-866c-4308ec89549b
+      :name: Don't Mess Up A Good Thing
+      :segued: false
+    - :uuid: 3715d88b-4b42-4b6d-a3f2-c7cd437d9612
+      :name: Cardboard Cowboy
+      :segued: false
+    - :uuid: d79df08d-dd04-4f93-b07a-3643e3ab43e0
+      :name: Gangster Of Love
+      :segued: false
+    - :uuid: a5be87e0-2f9a-49bc-85e3-67cb365caa13
+      :name: You Don't Have To Ask
+      :segued: false
+    - :uuid: 1a2cbaa4-a65c-4652-b6b1-ed54bdb9d8db
+      :name: In The Midnight Hour
+      :segued: false
 1966/07/08:
   :uuid: c9ff5f14-716b-4b46-9986-a38b1f31aebf
   :venue: Santa Venetia Armory
@@ -357,56 +754,256 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: a56b0fe6-6fcb-4f9f-8c83-77d6a36b5a5a
+    :songs:
+    - :uuid: 0269218b-0aa9-4786-afd8-f300bf60c7ce
+      :name: One Kind Favor
+      :segued: false
+    - :uuid: 5b8d820b-1974-44aa-9106-2dd21db7c5b5
+      :name: Keep Rolling By
+      :segued: false
 1966/07/16:
   :uuid: 99d96ef5-1a10-4155-bd78-3f596c158427
   :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2c5f41df-ea93-426e-b655-dddf3ee1a541
+    :songs:
+    - :uuid: 51bbd5e6-04cf-4527-bce8-6e2cb58fff31
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 584afcc2-3f6b-4a2b-9878-52e37ce58946
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 9eeb676c-476c-4081-b186-6f5900489dfd
+      :name: Standing On The Corner
+      :segued: false
+    - :uuid: c34f5a07-505e-420b-be94-242b785e894e
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: d209a86a-bff2-4aca-ae47-2cfdd4a1d26d
+      :name: In The Pines
+      :segued: false
+    - :uuid: db8718bf-7774-4be5-b56a-51cc6ce5a092
+      :name: Cardboard Cowboy
+      :segued: false
+    - :uuid: d6624227-969a-469f-b336-200d1b609957
+      :name: Nobody's Fault But Mine
+      :segued: false
+    - :uuid: 57125280-9ad4-430a-ba2e-4cd2fe828fb8
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 37403fa1-693a-45bd-bb1d-37a3deb6d736
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: 063dd35c-e9d2-497c-a40d-6e9b0d4b2919
+      :name: Cream Puff War
+      :segued: false
+  - :uuid: 5d9b5b4c-6c71-4b0c-8fe7-17295dd85a64
+    :songs:
+    - :uuid: a18de329-4859-48ec-9ed6-a5dce84be0ff
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 13753393-5087-463c-b5bf-f30585fa51c4
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: aabe595f-29c1-4671-9181-3be241377de2
+      :name: Pain In My Heart
+      :segued: false
+    - :uuid: 25d84207-2f9e-4b1a-8c54-46eebd6ad10c
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: d01dcd00-4552-4d3a-bc78-0d34c072e69c
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: b1408595-5cd9-46b4-ae8a-337bd14ac971
+      :name: You Don't Have To Ask
+      :segued: false
+    - :uuid: 5be5b3e3-46d3-4f8f-816d-fa697697fd92
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 5724a163-60d9-47ff-9c7f-5b677c293a0a
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 2b41f71f-a12f-4aab-abcc-c99d04ce848c
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+    - :uuid: 015f7f31-8d0d-421d-bcad-c008d708b110
+      :name: Dancing In The Street
+      :segued: false
+  - :uuid: b54eda80-c6db-434b-aa57-8a9633645275
+    :songs:
+    - :uuid: ba54a280-beb9-47aa-9b04-9e5021576833
+      :name: In The Midnight Hour
+      :segued: false
 1966/07/17:
   :uuid: 8d16e002-5627-4acc-81dd-77063148713a
   :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 1da3a85b-000e-4733-8a81-38e112b9c0a0
+    :songs:
+    - :uuid: c0f017da-2ceb-4573-bcf2-50f7921fee4b
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: d99d942c-7669-4cd5-9c85-cc2770bdabd0
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: dfde1246-5768-45f1-91cb-de9a86994ff2
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+    - :uuid: 0757ac9b-4920-4d93-b44d-b6ae90bd7967
+      :name: Cream Puff War
+      :segued: false
+    - :uuid: a3c79bce-f0cb-4c02-8447-296e58a3f64b
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 5571f03a-ecf5-4683-9e6d-1c7e19ae8414
+      :name: Stealin'
+      :segued: false
+    - :uuid: 4177deb4-ba33-49bb-95f1-39530bf16df0
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 46a99652-7609-4eea-b4df-10ee6f02fc8c
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 34ac4300-dc60-4b9f-9f74-fd271bfad1c6
+      :name: One Kind Favor
+      :segued: false
+    - :uuid: b28f1177-3715-4e24-8c96-616d299602a8
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: 47b26198-cf17-4fca-be46-198e7be3f53e
+      :name: Keep Rolling By
+      :segued: false
 1966/07/29:
   :uuid: 2d791c41-7f8a-46cf-a7e3-b449cc96e866
   :venue: P.N.E. Garden Auditorium
-  :city: B.C.
-  :state: ''
-  :country: CA
-  :sets: []
+  :city: Vancouver
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: 898f2beb-1888-4643-85e2-8ead41f390fb
+    :songs:
+    - :uuid: 7db1d1f3-96fa-48ec-a2c9-ef98a8fd545e
+      :name: Standing On The Corner
+      :segued: false
+    - :uuid: 1622b830-3c0a-4d90-9aea-b746f2f52728
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 849d3bf5-7690-4bad-828a-14dca4f92ed6
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: f1c7fb5c-9dd3-4668-a98f-e7e23fec35ea
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: 304a663b-902a-4280-80fc-c7425edd0cbe
+      :name: You Don't Have To Ask
+      :segued: false
+    - :uuid: 8d49d583-66ee-4560-ae4a-dfbceca2789b
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 4675a9d9-03f2-46ae-ab12-fc581e8382c9
+      :name: Stealin'
+      :segued: false
+    - :uuid: 4cf4b6a3-d098-4e31-9f5b-03cdcb3e9081
+      :name: Cardboard Cowboy
+      :segued: false
+    - :uuid: f7070e6a-6b8b-49be-a858-d76d55ab508d
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+    - :uuid: c91ff0ef-bdaa-4724-854b-6f99e54ca2b1
+      :name: Cream Puff War
+      :segued: false
+  - :uuid: a5ff1fb7-6a58-496e-977e-bcc421842d36
+    :songs:
+    - :uuid: 760b97b7-c29d-4ff7-8eb8-9b972a071475
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: d91a69af-04b3-4a9e-b38b-bd4aac83a8e1
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: bcc7ed85-e97f-406f-9ddb-065af97b74a8
+      :name: Good Morning Little Schoolgirl
+      :segued: false
 1966/07/30:
   :uuid: 3f462202-5460-42fc-91e9-be7018d3611c
   :venue: P.N.E. Garden Auditorium
-  :city: B.C.
-  :state: ''
-  :country: CA
-  :sets: []
+  :city: Vancouver
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: 4a814d14-765d-4e42-a1f4-003c60ba9428
+    :songs:
+    - :uuid: a3052e65-0b79-4ff0-9a94-bca95cc5554f
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 70257a73-cfc5-4c62-bb65-970132f16867
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 6557daf5-ba48-41b8-90b2-0bfc274ea693
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 71a19059-77e2-479c-b0d8-b9dfc6a7d807
+      :name: One Kind Favor
+      :segued: false
+    - :uuid: f30714ec-461e-4dc4-9b60-d8deef855179
+      :name: You Don't Have To Ask
+      :segued: false
+    - :uuid: 2deea8c3-4235-4fbd-a6d7-c7cfecda10ae
+      :name: Hey Little One
+      :segued: false
+    - :uuid: 74249f77-5e96-4725-9aed-00a13319e5ba
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 626b7920-93f0-4486-9938-e14989d90fa2
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: afefb6c6-22e9-456c-b85c-29111462d3c7
+      :name: New Minglewood Blues
+      :segued: false
 1966/07/31:
   :uuid: fdc76715-8f4b-4c07-b957-f9e9725cc1f5
   :venue: P.N.E. Garden Auditorium
-  :city: B.C.
-  :state: ''
-  :country: CA
+  :city: Vancouver
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: 5d18cb42-3a08-4390-b7f5-42867f38c6fa
+    :songs:
+    - :uuid: ed0bf40e-17d4-4932-88da-f9017ef7257d
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 57fedb2d-6d1f-429b-9ab0-4cdfb60b2a88
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: f49a9d10-762d-4ef1-b8a5-90da4c646fa1
+      :name: Tastebud
+      :segued: false
+1966/08/03:
+  :uuid: 99f420e6-9af6-4be0-8526-eb73160869d2
+  :venue: Haywood Bandstand
+  :city: Vancouver
+  :state: 
+  :country: Canada
   :sets: []
 1966/08/05:
   :uuid: b64e1c3f-ef80-4124-8241-0b2ed9cd3cb8
-  :venue: Afterthought
-  :city: B.C.
-  :state: ''
-  :country: CA
-  :sets: []
-1966/08/06:
-  :uuid: 09ed4869-ac78-452f-8b00-cc4c6a5db462
-  :venue: Afterthought
-  :city: B.C.
-  :state: ''
-  :country: CA
-  :sets: []
+  :venue: Afterthought, Pender Auditorium
+  :city: Vancouver
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: 5c880b86-f3c7-4d08-8c16-a7bc5b560257
+    :songs:
+    - :uuid: 0897bda2-0b9b-4a49-9a35-e3023ac4a1b5
+      :name: In The Midnight Hour
+      :segued: false
 1966/08/12:
   :uuid: 5597a11d-8593-4a4b-b4b1-4689fa2336d4
   :venue: Fillmore Auditorium
@@ -435,6 +1032,13 @@
   :state: CA
   :country: US
   :sets: []
+1966/08/26:
+  :uuid: eca8455f-f112-4121-8281-914615f8d7cc
+  :venue: I.D.E.S. Hall
+  :city: Pescadero
+  :state: CA
+  :country: US
+  :sets: []
 1966/08/27:
   :uuid: d25fb0c0-1ae1-4845-be27-a1228425d791
   :venue: I.D.E.S. Hall
@@ -446,6 +1050,13 @@
   :uuid: 02b4fd1d-523d-4dc4-9f85-e184a93ab6bb
   :venue: I.D.E.S. Hall
   :city: Pescadero
+  :state: CA
+  :country: US
+  :sets: []
+1966/09/02:
+  :uuid: 0e51b2db-cc2d-4ec7-a976-906bca604653
+  :venue: La Dolphine
+  :city: Hillsborough
   :state: CA
   :country: US
   :sets: []
@@ -463,10 +1074,10 @@
   :state: CA
   :country: US
   :sets: []
-1966/09/08:
-  :uuid: 0d2ed3f7-7e70-497e-8abc-c9c29c5a1530
-  :venue: Fillmore Auditorium
-  :city: San Francisco
+1966/09/10:
+  :uuid: b56906a3-5af0-4838-b63c-a23dd5e6bb43
+  :venue: Strawberry Canyon
+  :city: Berkeley
   :state: CA
   :country: US
   :sets: []
@@ -476,7 +1087,15 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: fc3fc56f-9ddd-412b-a87b-26b8d6e47fad
+    :songs:
+    - :uuid: 97acd7cb-89e7-480d-a113-5b0e636c86f2
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: b106ca04-94ee-4434-8060-12208222c8db
+      :name: In The Midnight Hour
+      :segued: false
 1966/09/16:
   :uuid: 475667e8-634f-4532-a285-78240be81cf4
   :venue: Avalon Ballroom
@@ -488,13 +1107,6 @@
   :uuid: f949a3ee-f573-4506-81d6-92ce13e3edc5
   :venue: Avalon Ballroom
   :city: San Francisco
-  :state: CA
-  :country: US
-  :sets: []
-1966/09/22:
-  :uuid: 13899b5d-7937-4e00-be2f-c2b37600cc32
-  :venue: La Dolphine
-  :city: Hillsborough
   :state: CA
   :country: US
   :sets: []
@@ -512,16 +1124,30 @@
   :state: CA
   :country: US
   :sets: []
+1966/09/30:
+  :uuid: 2e116a35-18a6-4a38-ad5a-72ea59fbee18
+  :venue: International Room, San Francisco State University
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/01:
+  :uuid: 0044d99c-01ab-4aae-b36e-9205f90e0f7f
+  :venue: Women's Gym, San Francisco State University
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
 1966/10/02:
   :uuid: 83c3f23c-4259-41c4-947e-ebd35c5e631c
-  :venue: Commons
+  :venue: Commons, San Francisco State University
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1966/10/06:
   :uuid: 5add4e76-b95f-472c-a01b-fd05383fbe50
-  :venue: Golden Gate Park
+  :venue: Panhandle, Golden Gate Park
   :city: San Francisco
   :state: CA
   :country: US
@@ -533,10 +1159,17 @@
   :state: CA
   :country: US
   :sets: []
-1966/10/08:
+1966/10/08/0:
   :uuid: 3c4ba878-1f88-466a-ae1f-54ec856b11d9
-  :venue: Mt. Tamalpais Amphitheatre
+  :venue: Mount Tamalpais, Cushing Memorial Amphitheatre
   :city: Marin County
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/08/1:
+  :uuid: 3c4ba878-1f88-466a-ae1f-54ec856b11d9
+  :venue: Fillmore Auditorium
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
@@ -549,7 +1182,7 @@
   :sets: []
 1966/10/14:
   :uuid: 9a23cc71-7e92-41d3-b668-21ba1ccbadf5
-  :venue: TMU Deck
+  :venue: Tressider Memorial Union (TMU) Deck, Stanford University
   :city: Palo Alto
   :state: CA
   :country: US
@@ -563,7 +1196,7 @@
   :sets: []
 1966/10/16:
   :uuid: 372fcfef-016e-4618-83dd-7106fafb6b49
-  :venue: Golden Gate Park
+  :venue: Panhandle, Golden Gate Park
   :city: San Francisco
   :state: CA
   :country: US
@@ -584,15 +1217,27 @@
   :sets: []
 1966/10/23:
   :uuid: 8fd75c0e-6d6a-4caa-bd1d-c16a99c52c87
-  :venue: Las Lomas High School
+  :venue: Gymnasium, Las Lomas High School
   :city: Walnut Creek
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: d18c6403-168a-42fc-9e7e-1f60262e393d
+    :songs:
+    - :uuid: e6369c75-e42e-4045-bcd3-787e1c3b6928
+      :name: Good Morning Little Schoolgirl
+      :segued: false
 1966/10/26:
   :uuid: cd58c767-89b5-40b2-a96e-a1914c1c34c9
   :venue: The North Face Ski Shop
-  :city: Berkeley
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/10/28:
+  :uuid: 77eacbc6-9aca-4a7d-9807-d413082047de
+  :venue: Freeborn Hall, UC Davis
+  :city: Davis
   :state: CA
   :country: US
   :sets: []
@@ -602,7 +1247,15 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 28f09342-0adf-4dea-bce1-360568043911
+    :songs:
+    - :uuid: 8a848ffc-2962-4ab3-bbeb-b47d2f4e459b
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 43014043-cf7b-410a-8de9-a27a62585a3a
+      :name: Alice D. Millionaire
+      :segued: false
 1966/11/04:
   :uuid: ff6369e1-5f37-4486-9c4f-98d2f9cb1d0e
   :venue: Avalon Ballroom
@@ -617,16 +1270,16 @@
   :state: CA
   :country: US
   :sets: []
-1966/11/09:
-  :uuid: 66dccb52-7303-4b7f-9bbe-9359747f4cf9
-  :venue: Fillmore Auditorium
+1966/11/12/0:
+  :uuid: fc123ac0-4aee-4e1c-ae46-19ca2dd2b685
+  :venue: The Old Cheese Factory
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
-1966/11/12:
+1966/11/12/1:
   :uuid: fc123ac0-4aee-4e1c-ae46-19ca2dd2b685
-  :venue: The Old Cheese Factory
+  :venue: Sokol Hall
   :city: San Francisco
   :state: CA
   :country: US
@@ -644,14 +1297,74 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: eca19b61-55f4-401b-afe1-9542f2563011
+    :songs:
+    - :uuid: 7fcbcfb4-0292-4fee-8c9b-47da9d354812
+      :name: The Same Thing
+      :segued: false
+    - :uuid: 9416f605-b754-45c6-b72a-ac429c51956d
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: fe2b4e73-0338-4465-9892-b3ad1627096f
+      :name: Nobody's Fault But Mine
+      :segued: false
+    - :uuid: dea14a1a-1780-4345-b795-0ce1eb7ad69b
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 84f49d3c-12d5-4c37-8f9b-4a59eac3143c
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: d6b01033-b08e-44d8-986a-af2156da577d
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+    - :uuid: 66e1f46e-936c-4372-9ed8-3cb723f27b1e
+      :name: Viola Lee Blues
+      :segued: false
 1966/11/19:
   :uuid: 30126d88-907b-4410-84a7-fe08ceaad444
   :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 5d64586f-9e70-4a7f-926f-cd47a67fa725
+    :songs:
+    - :uuid: 6c09797f-48e4-443c-93b9-2d031d1514ec
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 125061f1-a9ca-4eea-b5af-e32e5b07c156
+      :name: Hi-Heeled Sneakers
+      :segued: false
+    - :uuid: 475ba371-5b57-42bb-a15d-ee467aa19c86
+      :name: Pain In My Heart
+      :segued: false
+    - :uuid: 72f9efb1-8c88-4a85-9fd8-ff8dc9611f0b
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 511ca449-8740-4582-b40a-4d3038798e19
+      :name: Cream Puff War
+      :segued: false
+    - :uuid: 126fd027-db1e-4834-b3f5-6d1d758c2a15
+      :name: The Same Thing
+      :segued: false
+    - :uuid: afa31c8d-10d4-4cdb-ace1-b87c7ac4663f
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: 4bbfc5a0-ce69-46a2-a5a7-ad0b8c40f5b1
+      :name: Dancing In The Street
+      :segued: false
+  - :uuid: 12d7e22c-1b41-4ac0-96e2-b1596b6562c8
+    :songs:
+    - :uuid: d5528d21-ebe5-4547-a81f-c27ba3fd14a6
+      :name: Smokestack Lightnin'
+      :segued: true
+    - :uuid: 3fc4eb4a-2ab2-4590-9f7c-387a59f7667e
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 09e7bf1f-da2f-4b66-9d63-2913806359d6
+      :name: In The Midnight Hour
+      :segued: false
 1966/11/20:
   :uuid: 3d568951-848f-44af-9a5c-e02fcb32711c
   :venue: Fillmore Auditorium
@@ -659,8 +1372,8 @@
   :state: CA
   :country: US
   :sets: []
-1966/11/27:
-  :uuid: ea8d2ee7-ecdc-4034-81bf-1b250d61f887
+1966/11/23:
+  :uuid: 7fc64f72-b981-4de5-8a5e-acb6c6735697
   :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
@@ -668,39 +1381,201 @@
   :sets: []
 1966/11/28:
   :uuid: 0a274fe9-e589-4b96-9326-1bbf2d01884e
-  :venue: The Matrix
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1966/11/29:
   :uuid: d5b8a3b4-8bf6-411d-aaeb-5bc11243b126
-  :venue: The Matrix
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 9f26a072-d4f6-4a60-ae9e-8eea4ab7b41e
+    :songs:
+    - :uuid: eb727822-6e65-4ea6-84f0-d85a85f36565
+      :name: Cream Puff War
+      :segued: false
+  - :uuid: 6fe9ee49-dfb3-4651-bada-1757b6969e86
+    :songs:
+    - :uuid: 1ae12686-4c42-4e70-9065-d963a5420109
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 9afdb496-a47d-493e-aa19-4e9e5e09be04
+      :name: The Same Thing
+      :segued: false
+    - :uuid: cd702b55-262d-44a1-b05a-07867ed71461
+      :name: Stealin'
+      :segued: false
+    - :uuid: 3c6bf06b-f88e-41ca-9575-ec6e268eea68
+      :name: Big Boy Pete
+      :segued: false
+    - :uuid: 00cb1751-30ba-4353-8308-0447937e4b17
+      :name: One Kind Favor
+      :segued: false
+    - :uuid: 700caf3c-22e9-45cf-bef5-3c52fbe55fe7
+      :name: Early Morning Rain
+      :segued: false
+    - :uuid: a0f65bb4-97e1-4411-ac45-26e70f07aa95
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 219e5ef1-1714-4fb8-995d-840b3d9aa75b
+      :name: Viola Lee Blues
+      :segued: false
+  - :uuid: ee6f20c0-63e0-4cce-b2a0-85bd225ad5ca
+    :songs:
+    - :uuid: 443beaf6-6a32-4643-b9de-fb12dc89ebc3
+      :name: Down So Long
+      :segued: false
+    - :uuid: 977cac4d-3746-40a7-9332-4609bbcb0bf6
+      :name: There's Something On Your Mind
+      :segued: false
+    - :uuid: 7ba19d4c-74e8-46a5-a3f9-4b5a27947ffd
+      :name: Lindy
+      :segued: false
+    - :uuid: ec2ca277-6386-4dd1-8a47-7e638292271f
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 78a0bb04-f71c-4dde-a767-1736cb280057
+      :name: I Just Want To Make Love To You
+      :segued: false
 1966/11/30:
   :uuid: ee126743-3a96-4c9f-a4e9-80b14fce83cd
-  :venue: The Matrix
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1966/12/01:
   :uuid: 49f93ee7-bcbb-4e4a-9c67-68793581959a
-  :venue: The Matrix
+  :venue: Matrix
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: cba2f53a-536e-44af-b6ec-d902969e4e92
+    :songs:
+    - :uuid: 4c66f2ef-fe6d-46a1-b904-3d8059a8fd1b
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: dd238c22-9bab-447e-83de-6363e11bbeae
+      :name: Betty And Dupree
+      :segued: false
+    - :uuid: 522afbf1-8a53-495f-bc32-ea22cb5ed953
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: 1c092b06-66d9-4efd-819e-d16528832b3d
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 8d508a9d-01fb-4463-b1c4-9d2b1ecadbbd
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 769a32be-79ac-4a65-aae7-13cfe69aef89
+      :name: One Kind Favor
+      :segued: false
+    - :uuid: 441538b9-5ffa-4bfa-b77c-4289e7cee4c4
+      :name: Alice D. Millionaire
+      :segued: false
+    - :uuid: 7e397870-97c8-4bfe-82cc-0dfa8387e96d
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: cb717f24-b033-44da-a5cd-47741dd261b1
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 10c5eef2-3a5b-4176-a0bc-776096fee46e
+      :name: Cream Puff War
+      :segued: false
+  - :uuid: fe94faba-7be9-4865-b53f-d905fb56eaf6
+    :songs:
+    - :uuid: 39397f29-2ade-4e4d-b57e-ac65afb4c959
+      :name: You Don't Love Me
+      :segued: false
+    - :uuid: 34a01a7b-53c5-449e-9e20-dc32af5b68f2
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: ab275fe0-1b3e-4d5e-a6a8-0c76b26e5845
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 0a825e1d-1a8c-466c-85f0-42467959dce3
+      :name: On The Road Again
+      :segued: false
+    - :uuid: 8337b844-335e-4aab-ab4d-0e18847ca3d6
+      :name: Look On Yonder's Wall
+      :segued: false
+    - :uuid: 293a43df-c2b2-4a84-afe9-c138bc2f79e3
+      :name: My Own Fault
+      :segued: false
+    - :uuid: a759d3c6-20ad-48bd-acbd-5f77a1290972
+      :name: Down So Long
+      :segued: false
+    - :uuid: a62b1721-6339-40da-838d-1b8d7ca359cd
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 44e64541-f580-4631-b332-81d38d0836f1
+      :name: Viola Lee Blues
+      :segued: false
+  - :uuid: c1b555a1-c48b-43c6-91ee-5c7648b964e7
+    :songs:
+    - :uuid: 30fa7b3c-f8ed-417b-a00b-8a52e0b3c0e2
+      :name: Deep Elem Blues
+      :segued: false
+    - :uuid: 28662a67-8473-47c5-b18f-a3f71c12c07a
+      :name: There's Something On Your Mind
+      :segued: false
+    - :uuid: e7e850a3-469a-47b3-87e4-34f418a5b4b6
+      :name: Big Boy Pete
+      :segued: false
+    - :uuid: d200ba8b-d3e7-455c-8a65-b84a884496be
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: e6e305d4-af6e-4922-924b-5864a4b06fe2
+      :name: Lindy
+      :segued: false
+    - :uuid: f57cf46b-d7dd-45b4-a257-1e8bb9f96eb2
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: a6298503-96b7-4ceb-985d-194aa39964ae
+      :name: Me And My Uncle
+      :segued: false
 1966/12/02:
   :uuid: 10f8c2e5-2c81-44f2-82d1-be191246a0eb
-  :venue: Pauley Ballroom
+  :venue: Pauley Ballroom, UC Berkeley
   :city: Berkeley
   :state: CA
   :country: US
   :sets: []
+1966/12/05:
+  :uuid: 1d5fc09d-705c-4708-92e4-1688ba142772
+  :venue: Studio
+  :city: 
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 5430a193-92fd-4189-ab2a-433ee0c3aeda
+    :songs:
+    - :uuid: a466495d-d8a5-4589-8d09-b8bc5068ccb4
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: e8812b48-2e51-40fe-9491-90824124b8f3
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 76dabe44-230f-44e8-a855-986645e25e15
+      :name: Cream Puff War
+      :segued: false
+    - :uuid: 7b8d00bb-e4c5-4c95-9ee0-323b2a3e4b64
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: fa08411b-f6b0-4517-a077-0b558f02ab90
+      :name: The Same Thing
+      :segued: false
+    - :uuid: 85a09e5d-ea32-49b4-ba2b-ecd97958c7b8
+      :name: Stealin'
+      :segued: false
+    - :uuid: b6dc8918-6a69-4c47-bb83-1632952fdf93
+      :name: New Minglewood Blues
+      :segued: false
 1966/12/09:
   :uuid: 88dcd99d-5d41-46fe-8962-38ed849dfeb2
   :venue: Fillmore Auditorium
@@ -719,6 +1594,20 @@
   :uuid: e4e6e73a-806c-43ad-ada5-055a3599231d
   :venue: Fillmore Auditorium
   :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/14:
+  :uuid: 007c330c-35f6-46b1-b42e-6033fca419c6
+  :venue: Diamond Gym, College of Marin
+  :city: Kentfield
+  :state: CA
+  :country: US
+  :sets: []
+1966/12/17:
+  :uuid: 15e31cc4-da2f-4f77-b743-096de0a8d702
+  :venue: Ladera School
+  :city: Ladera
   :state: CA
   :country: US
   :sets: []
@@ -742,7 +1631,32 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: b40c038b-8bc8-4c31-883a-6ce79a8b30cc
+    :songs:
+    - :uuid: 55277313-fb67-418f-9cdb-2e524f279de5
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 68f8ee40-b38f-4788-acc9-9509b0ce21bf
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 4f70807a-379a-4e9a-a1ba-4dfcccdcf9c6
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+    - :uuid: f65ad0d7-8815-4354-b1d4-7493323f22ae
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: bc0d121a-50fb-4a33-88fd-f8122d21aab3
+      :name: Lindy
+      :segued: false
+    - :uuid: 18a8e153-3e93-4073-8d20-82e257e3fed2
+      :name: Dancing In The Street
+      :segued: false
+  - :uuid: 6bd9f588-775b-4a28-bfc2-99557ab4e163
+    :songs:
+    - :uuid: c9ca4990-4792-44c9-9d9b-e9940c93777b
+      :name: In The Midnight Hour
+      :segued: false
 1966/12/24:
   :uuid: 44c8aec1-ae27-4c83-ae81-7c4cbb6ac403
   :venue: Avalon Ballroom
@@ -752,11 +1666,16 @@
   :sets: []
 1966/12/28:
   :uuid: 25dba9f3-8b87-4917-9900-f751623059ed
-  :venue: Governor's Hall
+  :venue: Governor's Hall, State Fairgrounds
   :city: Sacramento
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 41b495d6-31db-4ccd-a3a5-b2302c3d87b2
+    :songs:
+    - :uuid: 042544a6-96e8-4e2a-bcd6-e1df4b39c394
+      :name: Death Don't Have No Mercy
+      :segued: false
 1966/12/29:
   :uuid: 8690f2a3-f4dc-40ee-bd29-1273ac9a6053
   :venue: Santa Venetia Armory

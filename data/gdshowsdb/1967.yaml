@@ -1,27 +1,27 @@
 ---
 1967/01/01:
   :uuid: a34945db-5c22-4553-9882-38f4bd09618f
-  :venue: Panhandle
+  :venue: Panhandle, Golden Gate Park
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/01/06:
   :uuid: 45f5f7f6-d64c-4788-82e9-3e32a5ab38c0
-  :venue: Freeborn Hall
+  :venue: Freeborn Hall, UC Davis
   :city: Davis
   :state: CA
   :country: US
   :sets: []
 1967/01/13/0:
   :uuid: fced92c4-5f70-4057-a190-cf23ea55cc7b
-  :venue: Fillmore Auditorium
-  :city: San Francisco
+  :venue: Berkeley Community Theater
+  :city: Berkeley
   :state: CA
   :country: US
   :sets: []
 1967/01/13/1:
-  :uuid: 5da9ef8a-f3be-487d-972e-92e9a587c3de
+  :uuid: fced92c4-5f70-4057-a190-cf23ea55cc7b
   :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
@@ -29,24 +29,24 @@
   :sets: []
 1967/01/14/0:
   :uuid: 16a89512-324d-41c4-bf78-80937c0ebc03
-  :venue: Fillmore Auditorium
+  :venue: Polo Field, Golden Gate Park
   :city: San Francisco
   :state: CA
   :country: US
   :sets:
-  - :uuid: d58a3f2d-9647-404d-a852-7565bcaa5090
+  - :uuid: 03e5d952-45a8-4e28-80a3-a2c3e713ca62
     :songs:
-    - :uuid: 7b211b13-3f73-49ad-abfa-be58da74d24f
-      :name: Morning Dew
+    - :uuid: 118821fa-0fb7-45f5-8cc6-112088f8eabe
+      :name: Dancing In The Street
       :segued: false
-    - :uuid: 9c2725cf-4ea3-42d2-ac30-257e04824894
+    - :uuid: 5e1217a7-8875-4dfc-ad91-4d79a02a520d
       :name: Viola Lee Blues
       :segued: false
-    - :uuid: 95465852-e9ba-4c0b-8c8d-30e7b1a5e528
+    - :uuid: 8e4267a3-9ffa-4783-aa3c-92755c20aa27
       :name: Good Morning Little Schoolgirl
       :segued: false
 1967/01/14/1:
-  :uuid: e2036b78-edb6-4997-a84a-d72bd2574aac
+  :uuid: 16a89512-324d-41c4-bf78-80937c0ebc03
   :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
@@ -83,6 +83,55 @@
 1967/01/29:
   :uuid: 353be50c-d17c-4b82-bc19-205f560dd2ac
   :venue: Avalon Ballroom
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/30:
+  :uuid: 2527fed2-9f59-40c1-8c59-4d7d893cb5a0
+  :venue: RCA Studio A
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets: []
+1967/01/31:
+  :uuid: 51d7a224-9e1a-4b8b-8f13-d3619d2a7576
+  :venue: RCA Studio A
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets: []
+1967/02/01:
+  :uuid: 276cd185-92ac-4fe5-a361-066eb5f6d961
+  :venue: RCA Studio A
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets: []
+1967/02/02:
+  :uuid: b804cea0-318f-40f0-8470-7dc8fbc33fa8
+  :venue: RCA Studio A
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 7241028f-7d41-4191-89ce-6e2ca58997f5
+    :songs:
+    - :uuid: a075b4f9-8697-4b52-943a-bd2e37bdd1a3
+      :name: Alice D. Millionaire
+      :segued: false
+    - :uuid: 4a043124-208f-40b2-8393-1ab1eef82219
+      :name: Overseas Stomp
+      :segued: false
+    - :uuid: 1b65c337-b008-43b0-934b-179a99a31497
+      :name: Tastebud
+      :segued: false
+    - :uuid: 7a7f5d7f-0e8f-4756-9404-187df6e2c006
+      :name: Death Don't Have No Mercy
+      :segued: false
+1967/02/05:
+  :uuid: 2920bec8-2ca9-4b4f-baef-b57d1f5ed4df
+  :venue: Fillmore Auditorium
   :city: San Francisco
   :state: CA
   :country: US
@@ -124,60 +173,120 @@
   :sets: []
 1967/03/03:
   :uuid: 91c1eb4e-b337-46de-b56c-41f07787065e
-  :venue: Winterland Arena
+  :venue: Winterland
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/05:
+  :uuid: ec8da09a-27cc-433d-b447-7b7dc82795ae
+  :venue: Avalon Ballroom
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/03/10:
   :uuid: ea7a406f-8ef6-4698-ac77-1df218ee845b
-  :venue: Whiskey
-  :city: Los Angeles
+  :venue: Whisky-A-Go-Go
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/03/11:
+  :uuid: fc7843b3-ba27-48e3-b072-71bd19909de3
+  :venue: Whisky-A-Go-Go
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/03/12:
   :uuid: fbc25c7b-eb48-48f7-848a-c3a53d43a133
-  :venue: Whiskey
-  :city: Los Angeles
+  :venue: Whisky-A-Go-Go
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/03/14:
   :uuid: 6cf53348-7389-472e-8d6c-c4cceb5cb5fe
-  :venue: Whiskey
-  :city: Los Angeles
+  :venue: Whisky-A-Go-Go
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/03/15:
   :uuid: 6d94be53-44c3-4a78-88cf-85a40c3be84a
-  :venue: Whiskey
-  :city: Los Angeles
+  :venue: Whisky-A-Go-Go
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/03/16:
   :uuid: 029e6e8e-f5ac-41a4-9c97-f891ee932c73
-  :venue: Whiskey
-  :city: Los Angeles
+  :venue: Whisky-A-Go-Go
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/03/17:
   :uuid: 47bcc624-df46-44e1-b8a7-8582b28e37e4
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/03/18:
   :uuid: 6ede906c-300f-4c03-afdb-d6200296a648
-  :venue: Winterland Arena
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2d9f7daa-06b7-4f2b-8e59-567ffe1e4e7a
+    :songs:
+    - :uuid: 6fc2869d-828e-4c9c-a9d1-13985cb75c29
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 12468843-c436-44a8-aa45-b0ac247f1b29
+      :name: Next Time You See Me
+      :segued: false
+    - :uuid: ef581a21-893d-439f-8030-d715801c86db
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: cc79be50-c46c-4741-a8c5-b7d11fff322a
+      :name: Smokestack Lightnin'
+      :segued: false
+    - :uuid: 5a7cea41-ae26-48d4-8329-3e6909c6cee3
+      :name: Morning Dew
+      :segued: false
+    - :uuid: ca56ad0e-df04-41a2-a3b1-2dd13885d967
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: efdbef67-69ac-4842-bc37-722c42f1160b
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: a902bb17-46f9-4155-bad1-f928c74f4425
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 1380b1d5-a249-4e84-b6de-d0f7a14d1a26
+      :name: Golden Road To Unlimited Devotion
+      :segued: false
+  - :uuid: 648e9ef7-68f2-4b42-b07e-2107c05e26d9
+    :songs:
+    - :uuid: 7b387469-adbb-47e7-b492-9c9ba8261c9e
+      :name: Cream Puff War
+      :segued: false
+    - :uuid: 4ea5149d-e295-4b19-8986-baaa9cebb388
+      :name: The Same Thing
+      :segued: false
+    - :uuid: 2c7c3e09-9f98-4142-8809-fa5d28771a5b
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 36313e7e-e018-47e0-a399-c3c9ae660da3
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 9ec33f00-0df0-4d90-bf5a-d72c7396f45e
+      :name: Death Don't Have No Mercy
+      :segued: false
 1967/03/19:
   :uuid: f80ab244-758e-44b2-9baf-699c724169e4
   :venue: Fillmore Auditorium
@@ -255,10 +364,59 @@
   :state: CA
   :country: US
   :sets: []
-1967/04/09:
+1967/04/08:
+  :uuid: d6ebc7e5-c3b8-464b-8ced-fc4f469dd62b
+  :venue: KPIX-TV Studios
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 236a2db5-0434-4973-ab6e-15689232c4f9
+    :songs:
+    - :uuid: 20f09c96-a030-4068-a949-fb058c75b848
+      :name: Cream Puff War
+      :segued: false
+    - :uuid: 82f86140-d5a6-47d9-b586-d50c3800437e
+      :name: Walkin' Blues
+      :segued: false
+1967/04/09/0:
+  :uuid: c176b129-9df6-4968-ba6a-e3667c57f186
+  :venue: Panhandle, Golden Gate Park
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 8a7a492b-b30e-4f2a-a458-7f6faa67ced1
+    :songs:
+    - :uuid: 21488209-5bb6-4a62-a805-6711ac96ecc3
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 70015726-a625-4c03-b5dd-23e84b34b07c
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: false
+    - :uuid: b9710ef0-ef69-43c6-ba4e-907704e55fd2
+      :name: unidentified-19670409-01 (blues)
+      :segued: false
+    - :uuid: b0e30b10-96c7-4965-80a9-68d0f668f9b5
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 5287644f-28d2-4c95-8341-da4fcfc14946
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: f59a5b1e-2f67-4130-9a3f-ba852147079f
+      :name: Gloria
+      :segued: false
+1967/04/09/1:
   :uuid: c176b129-9df6-4968-ba6a-e3667c57f186
   :venue: Longshoreman's Hall
   :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/11:
+  :uuid: e831c15f-bd75-472c-aa75-3a90c99d05cb
+  :venue: San Quentin State Prison
+  :city: San Quentin
   :state: CA
   :country: US
   :sets: []
@@ -268,31 +426,32 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 7426780f-b57b-450d-8ef9-562fe240e2e5
+    :songs:
+    - :uuid: 37524dbe-2fda-4508-8eee-903a960f5824
+      :name: Golden Road To Unlimited Devotion
+      :segued: false
+    - :uuid: 67c1ad1f-c77a-43c1-87e8-c2e6d293abd2
+      :name: Viola Lee Blues
+      :segued: false
 1967/04/14:
   :uuid: 42d82bfb-3e6d-4b45-84f5-e518ba40caf1
-  :venue: Kaleidoscope
-  :city: Hollywood
+  :venue: Embassy Ballroom (a.k.a. "Banana Grove"), Ambassador Hotel
+  :city: Los Angeles
   :state: CA
   :country: US
   :sets: []
 1967/04/15:
   :uuid: 39fa4f80-f9d2-4d23-bf10-d0aef4f2ffb7
-  :venue: Kaleidoscope
-  :city: Hollywood
+  :venue: Embassy Ballroom (a.k.a. "Banana Grove"), Ambassador Hotel
+  :city: Los Angeles
   :state: CA
   :country: US
   :sets: []
 1967/04/16:
   :uuid: 402a923a-abe5-4e0e-ad86-8f43e018c01c
-  :venue: Kaleidoscope
-  :city: Hollywood
-  :state: CA
-  :country: US
-  :sets: []
-1967/04/17:
-  :uuid: 5d791615-5a57-47ff-ad12-bac22ccc3d5c
-  :venue: Banana Grove
+  :venue: Embassy Ballroom (a.k.a. "Banana Grove"), Ambassador Hotel
   :city: Los Angeles
   :state: CA
   :country: US
@@ -303,18 +462,41 @@
   :city: Stockton
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 444b881e-f438-4afb-b08a-1574e800199c
+    :songs:
+    - :uuid: fa9f6004-f48a-4d09-83f0-e4d85095e61c
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: b65be7ba-044f-4201-8e29-a8eb17e211ad
+      :name: Golden Road To Unlimited Devotion
+      :segued: false
+    - :uuid: 3c2ddb05-a00e-46e2-9bbc-9ca591d86c83
+      :name: Cream Puff War
+      :segued: false
 1967/04/29:
   :uuid: c4705717-a2d8-426a-815c-6198e438ed93
   :venue: Earl Warren Showgrounds
   :city: Santa Barbara
   :state: CA
   :country: US
-  :sets: []
-1967/04/30:
+  :sets:
+  - :uuid: 69cfb1b4-8b8b-48e0-878c-cfd549cc5833
+    :songs:
+    - :uuid: 7ce039f2-f176-449d-a971-9720a8b4e912
+      :name: Viola Lee Blues
+      :segued: false
+1967/04/30/0:
   :uuid: 9f6b2f3b-d56d-4ee8-b426-0ee8e001aa6e
   :venue: The Cheetah
-  :city: Santa Monica
+  :city: Venice
+  :state: CA
+  :country: US
+  :sets: []
+1967/04/30/1:
+  :uuid: 9f6b2f3b-d56d-4ee8-b426-0ee8e001aa6e
+  :venue: The Cheetah
+  :city: Venice
   :state: CA
   :country: US
   :sets: []
@@ -332,20 +514,46 @@
   :state: CA
   :country: US
   :sets: []
-1967/05/11:
-  :uuid: 4dd9a002-99e4-49e1-8c21-1fcdeacce1cb
+1967/05/07:
+  :uuid: 4752c315-e276-4c12-b4cb-05a3701e72e1
+  :venue: Fillmore Auditorium
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets: []
+1967/05/12:
+  :uuid: 1d9b6ee7-4f37-4a2f-9860-ea4e065686a8
   :venue: Marigold Ballroom
   :city: Fresno
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 59d1d520-3592-46b7-98ee-570a4faedeea
+    :songs:
+    - :uuid: a2fd4efd-15d5-4554-8c5a-3129f87625ae
+      :name: Golden Road To Unlimited Devotion
+      :segued: false
+    - :uuid: 1b49d42f-b6ba-428a-b7e8-dcaf953d40cd
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: 717ac9d7-859c-43b6-b107-18ed558e04be
+      :name: Viola Lee Blues
+      :segued: false
 1967/05/18:
   :uuid: f55e6de8-8729-4992-90c3-01be4601b23c
-  :venue: Awalt High School
+  :venue: Awalt Pavilion, Chester F. Awalt High School
   :city: Mountain View
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: c76b788a-1581-45a7-82d4-90fa0cca0dcb
+    :songs:
+    - :uuid: 864d8336-6110-4069-9429-ffa0c0c1b96a
+      :name: Louie Louie
+      :segued: false
+    - :uuid: 7281eda5-ed4b-46b0-b631-c1a65aa6bf67
+      :name: Good Morning Little Schoolgirl
+      :segued: false
 1967/05/20:
   :uuid: b2eaac74-75f8-4cf4-8626-a478585d8819
   :venue: Continental Ballroom
@@ -353,108 +561,222 @@
   :state: CA
   :country: US
   :sets: []
-1967/05/29:
-  :uuid: 858a6f54-4c4e-4978-9cbf-4c20e4355a87
-  :venue: Napa County Fairgrounds
-  :city: Napa
-  :state: CA
-  :country: US
-  :sets: []
-1967/05/30:
-  :uuid: 6fd94d20-d5a7-4c0c-8c47-558f1145dbd3
-  :venue: Winterland Arena
+1967/05/28:
+  :uuid: f004ab04-7912-45a8-ba6a-925b8fb78dc7
+  :venue: Panhandle, Golden Gate Park
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
-1967/06/01:
-  :uuid: b32d5be2-bb5f-40c5-8c36-3ffe108d0681
-  :venue: El Camino Park
-  :city: Palo Alto
+1967/05/29:
+  :uuid: 858a6f54-4c4e-4978-9cbf-4c20e4355a87
+  :venue: Chardonnay Hall, Napa County Fairgrounds
+  :city: Napa
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 0abf2ceb-93c8-4f46-b723-6ba8694f86c4
+    :songs:
+    - :uuid: 3de24764-c570-4d9f-ae00-893208e2bf3f
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 998953ab-0eca-462c-8172-bf933d526267
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+    - :uuid: 3c9522e7-b419-4780-a15a-549e7bd55200
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: af51ce2b-2932-40c8-8095-1f5b3824cd35
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+1967/05/30:
+  :uuid: 6fd94d20-d5a7-4c0c-8c47-558f1145dbd3
+  :venue: Winterland
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
-1967/06/03:
+1967/06/01/0:
+  :uuid: b32d5be2-bb5f-40c5-8c36-3ffe108d0681
+  :venue: Tompkins Square Park
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 5d8f796a-2df4-49d9-9142-91c9fa9e56f8
+    :songs:
+    - :uuid: d9f72b0f-8876-4f4d-b736-8a1ff917d2fc
+      :name: Golden Road To Unlimited Devotion
+      :segued: false
+    - :uuid: ede7ad7e-6233-48ea-aa28-9eb9d3cbe166
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 4f9ac96b-7d3a-475d-829a-4592928e4890
+      :name: In The Midnight Hour
+      :segued: false
+    - :uuid: e842f73b-5cf3-41ab-9628-e055621a67ff
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: e75181e6-e31b-4993-98b2-3c9f03a54069
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 09fd5346-b14a-46f0-8771-ca41d5876fac
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 033c6895-77fa-4c53-a9d0-1664eea9199a
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 4a7e9982-5320-4d01-9ddf-3eed82ebeb5d
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 77af3ac2-8e81-4922-b1d3-d7f17652213d
+      :name: Alligator
+      :segued: false
+    - :uuid: 10248f62-2de3-4519-9e92-052c90c04e59
+      :name: Turn On Your Lovelight
+      :segued: false
+1967/06/01/1:
+  :uuid: b32d5be2-bb5f-40c5-8c36-3ffe108d0681
+  :venue: Caf� au Go-Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/02:
+  :uuid: 541a6f2b-3405-406d-ad55-1d930eebcf63
+  :venue: Caf� au Go-Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/03/0:
   :uuid: ecb5f0f0-6ccc-4608-b5c6-462ecff90bb2
-  :venue: Gym
+  :venue: Pritchard Gym, S.U.N.Y.
   :city: Stony Brook
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/03/1:
+  :uuid: ecb5f0f0-6ccc-4608-b5c6-462ecff90bb2
+  :venue: Caf� au Go-Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/04:
+  :uuid: c410942c-001d-4ff0-ab56-67d31cf348d4
+  :venue: Caf� au Go-Go
+  :city: New York
   :state: NY
   :country: US
   :sets: []
 1967/06/05:
   :uuid: 0390c743-a1c5-4497-99ea-6d02d679a788
-  :venue: Caf' au Go
-  :city: New York
-  :state: NY
-  :country: US
-  :sets:
-  - :uuid: 6499f26e-0d2e-4fac-89b7-6800c395ee2f
-    :songs:
-    - :uuid: cb3dbb42-6c0d-4948-aeff-c8fd7a4eb886
-      :name: I'm A King Bee
-      :segued: false
-    - :uuid: 443452cc-aafb-4c57-8e72-3ba3a39ba508
-      :name: It Hurts Me Too
-      :segued: false
-    - :uuid: 91f8eea1-4aa9-46c9-83ec-2f4877b92c9b
-      :name: The Same Thing
-      :segued: false
-    - :uuid: 8fd580d6-8d4c-44a7-badb-42da9e0a0541
-      :name: Big Boss Man
-      :segued: false
-    - :uuid: edcea3c9-18ad-424b-93f6-d0c6382a0f63
-      :name: Alligator
-      :segued: false
-    - :uuid: ab7d7f8a-5f97-4587-8c9b-9a44668cdb0d
-      :name: In The Midnight Hour
-      :segued: false
-    - :uuid: bdb96c78-a61e-4da6-8831-4e92b9c5b113
-      :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: 63a97eab-ba64-41f7-9dd4-8e261672a6e4
-      :name: Me And My Uncle
-      :segued: false
-    - :uuid: 2cedb7cb-bf07-49ab-9a68-f59fe8adff13
-      :name: New Minglewood Blues
-      :segued: false
-    - :uuid: ea296857-f40e-47b5-b590-4f5633e3dd0d
-      :name: Don't Ease Me In
-      :segued: false
-    - :uuid: b3a33bde-bc9e-49d0-8e2c-ab43475afc17
-      :name: Cold Rain And Snow
-      :segued: false
-    - :uuid: f08aeae2-ee61-4647-8868-4eb85e5854e4
-      :name: Viola Lee Blues
-      :segued: false
-    - :uuid: 49b532b4-21db-479b-96c7-dc36faf18feb
-      :name: It's All Over Now, Baby Blue
-      :segued: false
-1967/06/07:
-  :uuid: 39e8d34f-126a-43b8-8e9c-a1587d4b2f54
-  :venue: Caf' au Go
+  :venue: Caf� au Go-Go
   :city: New York
   :state: NY
   :country: US
   :sets: []
-1967/06/08:
+1967/06/06:
+  :uuid: 79a7de7c-eeed-48ae-8ba5-e40714bc3efa
+  :venue: Caf� au Go-Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 789121d4-1ef1-49e3-9de8-ff423bc89f9b
+    :songs:
+    - :uuid: e1a98c4c-8162-4832-9024-1c1caa014956
+      :name: I'm A King Bee
+      :segued: false
+    - :uuid: 5dd661c1-36e3-4d92-8567-f53593d8f1ea
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 3b9f50f4-330b-47e4-bda2-79d6eef16de6
+      :name: The Same Thing
+      :segued: false
+    - :uuid: beeb0ad8-0e54-4e9c-a475-01edb72ec578
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: c2ea478a-bdd8-4bf9-9c4a-7b37946453c9
+      :name: Alligator
+      :segued: false
+    - :uuid: 44aba58c-4d8b-428f-8bf2-574cd7986f8a
+      :name: In The Midnight Hour
+      :segued: false
+    - :uuid: 931f85b4-536f-4cbd-bf13-ff88d549ad85
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 26186bf7-0498-4cc9-8d7f-bda34db081b6
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: c5bb12ce-b4f0-4bd7-9e1a-45cd7647135a
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: 13b9b1d9-5106-4298-840e-9e0426b20e28
+      :name: Don't Ease Me In
+      :segued: false
+    - :uuid: fa890370-c478-451d-8bc6-fa12f488aa89
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: b70423e1-e046-428b-acdd-32e8f49b35ea
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 20115f1e-db2e-4395-a62d-d87ffdb9f116
+      :name: It's All Over Now, Baby Blue
+      :segued: false
+1967/06/07:
+  :uuid: 39e8d34f-126a-43b8-8e9c-a1587d4b2f54
+  :venue: Caf� au Go-Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets:
+  - :uuid: 4ba7e2b3-8743-407b-8a74-2542b11c780d
+    :songs:
+    - :uuid: b76f2e88-68af-4544-bcbb-8a4918858166
+      :name: Viola Lee Blues
+      :segued: false
+1967/06/08/0:
   :uuid: c258483e-499d-426b-9246-6d9d7036e8a2
-  :venue: Caf' au Go
+  :venue: Naumburg Bandshell, Central Park
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/08/1:
+  :uuid: c258483e-499d-426b-9246-6d9d7036e8a2
+  :venue: Caf� au Go-Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/09:
+  :uuid: afd3f395-7e5b-440f-858b-287d1240ee4c
+  :venue: Caf� au Go-Go
+  :city: New York
+  :state: NY
+  :country: US
+  :sets: []
+1967/06/10:
+  :uuid: 007e1cd1-4afe-4cc2-89ec-869f5ff1df50
+  :venue: Caf� au Go-Go
   :city: New York
   :state: NY
   :country: US
   :sets: []
 1967/06/11:
   :uuid: 851e05b1-945d-4212-b68c-b0a1a2b3c0d3
-  :venue: Avalon Ballroom
-  :city: San Francisco
-  :state: CA
+  :venue: Caf� au Go-Go
+  :city: New York
+  :state: NY
   :country: US
   :sets: []
 1967/06/12:
   :uuid: 77b8b49a-3de4-43c6-83dd-63459ed19fe5
-  :venue: The Cheetah
-  :city: Santa Monica
-  :state: CA
+  :venue: Cheetah
+  :city: New York
+  :state: NY
   :country: US
   :sets: []
 1967/06/15:
@@ -464,43 +786,127 @@
   :state: CA
   :country: US
   :sets: []
-1967/06/18:
-  :uuid: 3856b175-abe6-41ee-a5ca-c81579c71715
-  :venue: Monterey Fairgrounds
-  :city: Monterey
+1967/06/16/0:
+  :uuid: 6c6512e5-b30a-4239-b309-e18bb3dce5ec
+  :venue: The Hullabaloo
+  :city: Hollywood
   :state: CA
   :country: US
   :sets: []
+1967/06/16/1:
+  :uuid: c7bed86a-2e65-480b-bb9d-e81f86365274
+  :venue: The Hullabaloo
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets: []
+1967/06/18:
+  :uuid: 3856b175-abe6-41ee-a5ca-c81579c71715
+  :venue: Monterey County Fairgrounds
+  :city: Monterey
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: cfa6401c-1dec-4332-ae1a-ab65764c7fd3
+    :songs:
+    - :uuid: c78ff658-9e97-42f1-9850-4fa11b7427de
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 21e5e515-b5c1-4f29-a1a5-6dd5479ef4ec
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 29f0d7f1-1af1-4cf2-a475-345918bd99c0
+      :name: Alligator
+      :segued: true
+    - :uuid: 9680473a-4445-4ad5-a68c-3e1b55682ed3
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: false
 1967/06/21:
   :uuid: f4b99172-5408-4111-8a24-43a806161eda
-  :venue: Polo Field
+  :venue: Polo Field, Golden Gate Park
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: bda0d5f4-ee2a-4d50-ac11-e56a48d597c6
+    :songs:
+    - :uuid: cbc60ca5-8b32-4a40-8792-6cf308d30cf0
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: d2f2eea4-a084-4ee0-adda-40d296825dd1
+      :name: Alligator
+      :segued: false
+1967/06/28:
+  :uuid: 7ae408e3-94f0-49ea-985d-b2eb08743e94
+  :venue: Oakland Auditorium
+  :city: Oakland
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 726c30de-4483-4a99-a37e-d6355baf002d
+    :songs:
+    - :uuid: 691efd79-6aa3-4a15-8781-c58878c9a02a
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+1967/07/02:
+  :uuid: ffa46352-3370-4e80-870d-eb6c4a070635
+  :venue: El Camino Park
+  :city: Palo Alto
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 3a9777bf-a04d-4563-9b4c-1089658a10d5
+    :songs:
+    - :uuid: 1ce911d9-2c5f-424b-9a09-5922f6833ce6
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 8bcccf25-ac84-4fdc-b6da-a55aed791fae
+      :name: Dancing In The Street
+      :segued: false
+1967/07/04:
+  :uuid: 2491dd6f-6b26-4364-a7b0-9101de60c1a2
+  :venue: Speedway Meadows, Golden Gate Park
   :city: San Francisco
   :state: CA
   :country: US
   :sets: []
-1967/06/28:
-  :uuid: 7ae408e3-94f0-49ea-985d-b2eb08743e94
-  :venue: Oakland Auditorium Arena
-  :city: Oakland
+1967/07/06:
+  :uuid: 6c3e78b4-b91f-4e93-a341-641c298f138d
+  :venue: Spreckles Temple of Music Bandshell, Golden Gate Park
+  :city: San Francisco
   :state: CA
   :country: US
   :sets: []
 1967/07/13:
   :uuid: f04e95a3-6632-45a6-9e37-0b47acdaf696
   :venue: P.N.E. Agradome
-  :city: B.C.
-  :state: ''
-  :country: CA
+  :city: Vancouver
+  :state: 
+  :country: Canada
+  :sets: []
+1967/07/14:
+  :uuid: 3942c8f3-a7d3-46a8-b0b8-27f4b8ee4abe
+  :venue: Dante's Inferno
+  :city: Vancouver
+  :state: 
+  :country: Canada
+  :sets: []
+1967/07/15:
+  :uuid: 7cda06f3-b047-4a18-a416-4364f5fa2baf
+  :venue: Dante's Inferno
+  :city: Vancouver
+  :state: 
+  :country: Canada
   :sets: []
 1967/07/16/0:
   :uuid: 625c7db1-ce25-4346-89b7-d35f988a1245
-  :venue: Golden Gardens Beach
+  :venue: Golden Gardens Park
   :city: Seattle
   :state: WA
   :country: US
   :sets: []
 1967/07/16/1:
-  :uuid: 295063cc-59bd-4b04-863a-e082f9babe17
+  :uuid: 625c7db1-ce25-4346-89b7-d35f988a1245
   :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
@@ -512,7 +918,27 @@
   :city: Portland
   :state: OR
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 8a3e5dd3-cfdf-4ef2-b998-4bf1cdbb6645
+    :songs:
+    - :uuid: 8bedaa55-3eec-46f1-8c05-d1f4ec605415
+      :name: Golden Road To Unlimited Devotion
+      :segued: false
+    - :uuid: 2a9744a9-1b46-4586-bd14-560100f5249a
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 417e8f27-15b4-4daf-8a50-d4c9adbe7461
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 18207204-b578-4081-af7e-f0f49d93d6af
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: ce4986ca-b3d7-4228-8db1-96e4eb7d7b36
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: e6529d98-3286-4b77-8ca8-e6e93e000da8
+      :name: New Minglewood Blues
+      :segued: false
 1967/07/21:
   :uuid: 2f719d8d-ab3e-4d49-b30e-e85fb2fcf5a8
   :venue: Continental Ballroom
@@ -526,92 +952,213 @@
   :city: Santa Clara
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 18a8f820-b767-42e5-8682-56589bef9ef4
+    :songs:
+    - :uuid: 4af51d0c-cb52-4e4e-8302-847eff93fe76
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: e7a0ea6d-fa0f-45c2-b66c-9aabdd04c980
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 66e7a98d-254b-4880-b32f-b780bfb4dbbe
+      :name: Golden Road To Unlimited Devotion
+      :segued: false
+    - :uuid: f9124387-799a-4e84-8ef8-d03ce09d239d
+      :name: New Minglewood Blues
+      :segued: false
+    - :uuid: 9b1046c0-d21f-4cc7-a221-6a72882b1610
+      :name: He Was A Friend Of Mine
+      :segued: false
+    - :uuid: 6b528062-7333-46a4-9ad8-464783944df0
+      :name: In The Midnight Hour
+      :segued: false
 1967/07/23:
   :uuid: c544f17a-0a77-418f-b2b1-c840561c0f47
   :venue: Straight Theater
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 1c085711-5acd-4244-bc63-563181124806
+    :songs:
+    - :uuid: 3e75c59a-d925-460d-a811-ed02a3a1943f
+      :name: Turn On Your Lovelight
+      :segued: true
+    - :uuid: 2fca9bc2-b735-40e1-86a9-d498c8d107ae
+      :name: Space
+      :segued: true
+    - :uuid: ce386247-4f64-40b8-9dd7-80d1fb28fe52
+      :name: Turn On Your Lovelight
+      :segued: false
 1967/07/31:
   :uuid: 49dbebbb-051f-42ac-a599-f217f4b404fb
   :venue: O'Keefe Centre
   :city: Toronto
-  :state: ''
-  :country: CA
-  :sets: []
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: 66f089cc-a607-4ba8-b088-d9fe5f8d5877
+    :songs:
+    - :uuid: 7a199548-3f5a-4474-94a1-ac75783177c6
+      :name: Good Morning Little Schoolgirl
+      :segued: false
 1967/08/01:
   :uuid: 358f821b-a1f3-4a1c-806b-106af6a3df0c
   :venue: O'Keefe Centre
   :city: Toronto
-  :state: ''
-  :country: CA
+  :state: 
+  :country: Canada
   :sets: []
 1967/08/02/0:
   :uuid: 587e6ab2-79a7-4005-b95b-876ef0691b2c
   :venue: O'Keefe Centre
   :city: Toronto
-  :state: ''
-  :country: CA
+  :state: 
+  :country: Canada
   :sets: []
 1967/08/02/1:
-  :uuid: b32546ec-246a-4f08-b53b-fc65635a18f8
+  :uuid: 587e6ab2-79a7-4005-b95b-876ef0691b2c
   :venue: O'Keefe Centre
   :city: Toronto
-  :state: ''
-  :country: CA
+  :state: 
+  :country: Canada
   :sets: []
 1967/08/03:
   :uuid: e3bcea75-c9c9-4828-9a04-1e53527d2bbe
   :venue: O'Keefe Centre
   :city: Toronto
-  :state: ''
-  :country: CA
+  :state: 
+  :country: Canada
   :sets: []
 1967/08/04:
   :uuid: 907829d1-6a68-4641-b527-3acb8f46375b
   :venue: O'Keefe Centre
   :city: Toronto
-  :state: ''
-  :country: CA
-  :sets: []
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: 598a32c0-a3ab-44a9-a392-bb9dc410e89c
+    :songs:
+    - :uuid: cf6f5661-d73f-4b94-8981-9416f8dfd4ae
+      :name: Lindy
+      :segued: false
+    - :uuid: b4ce9958-8eed-4fe6-8237-12f1d523c74b
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: c1750c5b-0c89-4d7b-bb45-cc7804bde31f
+      :name: Viola Lee Blues
+      :segued: true
+    - :uuid: 4b13864a-6f7a-4598-98e8-7586dc5948f5
+      :name: Feedback
+      :segued: false
 1967/08/05/0:
   :uuid: c9dbe3c4-59c3-4d07-acb4-8fc6cef68ec3
   :venue: O'Keefe Centre
   :city: Toronto
-  :state: ''
-  :country: CA
-  :sets: []
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: bad0a853-d019-4fda-96d0-52e23a197c96
+    :songs:
+    - :uuid: 465eda82-a2b5-46e5-8b19-fd5b000043be
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 7fa94d59-093a-454b-a8b8-2308ad5d0821
+      :name: In The Midnight Hour
+      :segued: false
+    - :uuid: 26be3094-07ca-478b-aadd-4e580e7bdcbc
+      :name: Deep Elem Blues
+      :segued: false
+    - :uuid: 269ba50e-0044-4e15-8589-63e3413258d1
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: e642213d-d746-43ba-aee4-509924c3b36a
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 9439ef27-602a-479f-af76-343089df77c1
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 6e6b6da3-6ab7-40b5-93bf-3f5256476e5b
+      :name: The Other One
+      :segued: true
+    - :uuid: 999b3b20-878b-4354-8164-8d8d6fefcc5c
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 7e934615-48f7-454c-866a-a43e38226806
+      :name: I Know You Rider
+      :segued: false
 1967/08/05/1:
-  :uuid: 860cbb8d-0efe-4e48-824f-becf6f7c411e
+  :uuid: c9dbe3c4-59c3-4d07-acb4-8fc6cef68ec3
   :venue: O'Keefe Centre
   :city: Toronto
-  :state: ''
-  :country: CA
+  :state: 
+  :country: Canada
   :sets:
-  - :uuid: 7687b3bf-a94d-4b57-aa94-93d78295a5ec
+  - :uuid: eac36e07-ea59-4a28-9dad-91c8c2eb76fe
     :songs:
-    - :uuid: ae615da7-b47e-4368-9e24-873d5613ca0a
+    - :uuid: 314aee4d-208d-458c-9219-dddd50756158
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 72143415-72fe-4b95-a1b7-55273d1570be
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 15c5632a-a853-4754-a6f6-3b23c86c4d6f
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 8702646e-f980-4f0f-8a90-490e7e5a435c
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 25eac938-25a4-421a-8eda-74dea2052a5e
       :name: Turn On Your Lovelight
       :segued: false
-    - :uuid: 9f070af3-4268-40ce-85e3-ef705d7aa2ba
+    - :uuid: 82d66b3c-89b9-48e3-9c71-1a161b6df0c4
       :name: Alligator
       :segued: false
 1967/08/06/0:
   :uuid: 342970e0-528b-4bb4-954a-0f382ae8c79c
-  :venue: Palace Ville Marie
+  :venue: Place Ville Marie
   :city: Montreal
-  :state: ''
-  :country: CA
-  :sets: []
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: c3c8d66a-0d85-4028-bfc6-23ee153e5980
+    :songs:
+    - :uuid: 6a4504c1-6a98-476e-8ad9-43fef09523e1
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 8b6bfba0-1c9d-4b1d-97ea-43513e874167
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 56a17697-5dd5-479b-9b77-bfb36a4fd561
+      :name: Alligator
+      :segued: true
+    - :uuid: dba3abac-3535-4392-a70c-ea954d64895d
+      :name: Drums
+      :segued: true
+    - :uuid: 1ef98e17-a91e-42af-ad60-ca58b1e530fa
+      :name: Feedback
+      :segued: false
+    - :uuid: f50d1af3-2855-42b8-9cd8-aeaab5cf58fa
+      :name: Dancing In The Street
+      :segued: false
+  - :uuid: c5a3b875-1c99-4e0a-9ced-c9d031dc053e
+    :songs:
+    - :uuid: 9ae4f5e4-ca7f-4706-91a2-66ad13922f32
+      :name: Gloria
+      :segued: false
 1967/08/06/1:
-  :uuid: 6a7f2fde-a782-4c7e-9e01-274a35b2814a
-  :venue: Expo '67
+  :uuid: 342970e0-528b-4bb4-954a-0f382ae8c79c
+  :venue: Youth Pavilion, Expo '67
   :city: Montreal
-  :state: ''
-  :country: CA
-  :sets: []
+  :state: 
+  :country: Canada
+  :sets:
+  - :uuid: c8a9c51a-c391-431f-a698-e9dabb596be9
+    :songs:
+    - :uuid: 983026ad-f01d-41c9-ac03-d9e00b2f2028
+      :name: Viola Lee Blues
+      :segued: false
 1967/08/10:
   :uuid: 45061ce6-6d3a-463d-bbef-75a212d984c3
   :venue: Chelsea Hotel Roof
@@ -640,44 +1187,107 @@
   :state: MI
   :country: US
   :sets: []
-1967/08/18:
-  :uuid: 160559c7-8611-4e78-aecb-626453f4ccd5
-  :venue: American Legion Hall
+1967/08/19:
+  :uuid: ace025c3-6d3e-4ff6-87bd-cfb0c3ec9d54
+  :venue: American Legion Hall Post 795
+  :city: South Lake Tahoe
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: df3d6648-70cd-4180-a4a0-d9167eb9bddf
+    :songs:
+    - :uuid: 0171b27f-edee-4088-88a1-6f83626ff05a
+      :name: Sittin' On Top Of The World
+      :segued: false
+    - :uuid: 16818d0d-7924-4dfc-8096-a2152ec3762c
+      :name: Golden Road To Unlimited Devotion
+      :segued: false
+    - :uuid: 57946dec-adb8-4e0a-808b-919c67c65bfb
+      :name: Turn On Your Lovelight
+      :segued: false
+1967/08/25:
+  :uuid: 6e8e4cf6-c826-49d8-8557-cba92fa0a90c
+  :venue: Kings Beach Bowl
   :city: Lake Tahoe
   :state: CA
   :country: US
   :sets: []
-1967/08/25:
-  :uuid: 6e8e4cf6-c826-49d8-8557-cba92fa0a90c
-  :venue: King's Beach Bowl
+1967/08/26:
+  :uuid: 8c70208a-c3d4-4d73-9b1e-580c94fa8092
+  :venue: Kings Beach Bowl
   :city: Lake Tahoe
   :state: CA
   :country: US
   :sets: []
 1967/08/28:
   :uuid: d1872cf2-bd05-4486-ade3-6b4275b91153
-  :venue: Lindley Meadows
+  :venue: Lindley Meadow, Golden Gate Park
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: e22aee74-1e6e-4431-a9e7-e76b01cc163e
+    :songs:
+    - :uuid: 02f6796d-7534-454f-80de-dcdb9d714d17
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 5a5088dd-9322-470e-a914-02618fdcbb36
+      :name: Good Morning Little Schoolgirl
+      :segued: false
 1967/09/03:
   :uuid: c7deedb3-4c5f-434b-9dd7-c44cf579fcdf
   :venue: Dance Hall
   :city: Rio Nido
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 3a590310-ff2d-4a53-977f-47086331c50d
+    :songs:
+    - :uuid: 48bf4239-7ffd-4048-92ad-b962c629a081
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 3e1b2ccf-8e87-4474-a93f-3c3e9337ff82
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 46cf3beb-3f04-4d47-a90a-e9031e7a5ad3
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 8deb39e0-386c-4604-a4e1-12265e0db943
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 81992531-ab94-4c6f-8a59-4e3262325cd7
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: d438a7d4-f776-4ec7-8dc4-4092f57555f4
+      :name: Big Boss Man
+      :segued: false
+    - :uuid: 869103d5-abee-435b-b05a-a6222dbfb41a
+      :name: Alligator
+      :segued: true
+    - :uuid: d0f8eebb-8339-4959-bfc7-a6fc16460de6
+      :name: Feedback
+      :segued: false
+    - :uuid: a11d6b36-1ff6-440b-ad25-5ecb7681d5b8
+      :name: In The Midnight Hour
+      :segued: false
 1967/09/04:
   :uuid: ad9a591b-28cc-430f-acbb-991ce1ceb021
   :venue: Dance Hall
   :city: Rio Nido
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 2c57380f-1060-49c4-a50c-6fd565d4d59e
+    :songs:
+    - :uuid: 51618415-606d-463a-83bf-71ef229c4194
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 70865fa3-182a-4c4d-801e-b7ac8a02a85a
+      :name: Feedback
+      :segued: false
 1967/09/08:
   :uuid: 490a0834-c38c-43aa-b94a-d61baea3bf04
-  :venue: Eagle's Auditorium
+  :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
   :country: US
@@ -690,7 +1300,7 @@
   :country: US
   :sets: []
 1967/09/09/1:
-  :uuid: d3f87906-5430-4d6a-a839-c4318f03d4ce
+  :uuid: 20e0786f-6274-44dd-8702-d8f67e5dcad2
   :venue: Eagles Auditorium
   :city: Seattle
   :state: WA
@@ -699,14 +1309,54 @@
 1967/09/15:
   :uuid: 7ed9382a-d574-476f-9a72-7d7e13158886
   :venue: Hollywood Bowl
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 6355e08b-7833-444b-968d-6d9afe8e59b9
+    :songs:
+    - :uuid: 33e0bc05-5886-43c9-a054-80418b209b5a
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: fac8bbc1-119c-4cf8-bec5-d5a68b89629e
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 640d08cb-a5db-4210-821f-0bafc6c4e0bf
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 767d858a-7444-43a1-8e75-5ce203cbe4e4
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: a4f2f6f7-b31b-4b9c-bc21-534ab26ba51c
+      :name: Morning Dew
+      :segued: false
+    - :uuid: f2cdbffb-05df-4809-be09-f993aaba63b6
+      :name: Alligator
+      :segued: true
+    - :uuid: 9f61336f-0001-4e26-80c1-1e0085b0d18d
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 9952b77c-c2a2-441a-b5a3-b2a5ecf16e35
+      :name: Feedback
+      :segued: false
+1967/09/16/0:
+  :uuid: 3fcb4376-1ed1-4c19-b828-4a100cc0c4a6
+  :venue: Elysian Park
   :city: Los Angeles
   :state: CA
   :country: US
   :sets: []
-1967/09/16:
+1967/09/16/1:
   :uuid: 3fcb4376-1ed1-4c19-b828-4a100cc0c4a6
-  :venue: Griffith Park
-  :city: Los Angeles
+  :venue: Las Vegas Convention Center
+  :city: Las Vegas
+  :state: NV
+  :country: US
+  :sets: []
+1967/09/18:
+  :uuid: 72bc06e5-912a-4ffa-9df6-1fb31af250d1
+  :venue: Unknown
+  :city: 
   :state: CA
   :country: US
   :sets: []
@@ -731,67 +1381,317 @@
   :state: CO
   :country: US
   :sets: []
-1967/09/28:
-  :uuid: c5f6fff8-b40d-4c56-85e0-373231f78c70
+1967/09/29:
+  :uuid: fbcf7094-b925-4bae-b981-0d4fd5690e2b
   :venue: Straight Theater
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 5b8d5abf-ab7a-4ca7-a8a1-51f3cffe6fba
+    :songs:
+    - :uuid: c2b00385-2a85-45a1-b1c8-f90c7858d004
+      :name: Dancing In The Street
+      :segued: false
+    - :uuid: 4a8704ab-e6d7-4a68-bed0-4cf98d546a40
+      :name: Golden Road To Unlimited Devotion
+      :segued: true
+    - :uuid: e928dfa1-7eb4-43c7-a1b8-824020f45d39
+      :name: New Potato Caboose
+      :segued: true
+    - :uuid: 31dcd30d-fb78-47fe-a128-f23596cc1f66
+      :name: Alligator
+      :segued: true
+    - :uuid: 16c92aa0-e80f-4da1-b0e1-62040b0b714a
+      :name: He Was A Friend Of Mine
+      :segued: false
 1967/09/30:
   :uuid: dfe8282d-b4e6-4246-86b2-b982d41397d2
   :venue: Straight Theater
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 81e12191-c308-4fb3-a3b7-1abd9fe66644
+    :songs:
+    - :uuid: d295a897-7d12-44f0-a490-56dc04b00ccb
+      :name: Viola Lee Blues
+      :segued: false
+  - :uuid: ac4f3b3d-72df-4c6d-ab8a-7b275030fce5
+    :songs:
+    - :uuid: 91a66d34-2ff5-4636-9ceb-d7448724ea4a
+      :name: Alligator
+      :segued: true
+    - :uuid: e99b5c5c-be9b-4bb6-b1f7-91d41527c08d
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: f13a5a51-4abd-4889-afd4-0af227fc6861
+      :name: Feedback
+      :segued: false
 1967/10/01:
   :uuid: ce69fe92-3516-4801-880a-279b4266e3d1
-  :venue: Greek Theatre
+  :venue: William Randolph Hearst Greek Theatre, UC Berkeley
   :city: Berkeley
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 067fbfea-dd92-40b0-a95f-3e30a2240af3
+    :songs:
+    - :uuid: 3ae64d95-b8e6-4a45-978c-c8754ccb65f9
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 205d8ba0-bb18-45cd-8dce-2d3549622b1a
+      :name: Feedback
+      :segued: false
 1967/10/14:
   :uuid: cd8031f1-eaf9-479f-b674-a6cb9833a586
   :venue: Continental Ballroom
   :city: Santa Clara
   :state: CA
   :country: US
-  :sets: []
-1967/10/31:
-  :uuid: 4d11de1f-10b6-4d3f-b61b-3879640d7535
-  :venue: Winterland Arena
+  :sets:
+  - :uuid: f7351db4-98a4-43b7-bdea-70a27648c7bd
+    :songs:
+    - :uuid: 4ce552c9-0840-496a-89c7-5b71da9f6874
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 10632bbb-a2d9-458b-a5e4-6b2d7981b95c
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 44ccb4ea-6248-4ae7-90fb-315237f20d1d
+      :name: Alligator
+      :segued: true
+    - :uuid: 49e06bf4-0f3c-46e7-ba97-0b4b5aa7c0b1
+      :name: Drums
+      :segued: true
+    - :uuid: 26b30e20-139e-466b-b9e1-1dcf34c33d80
+      :name: Alligator
+      :segued: true
+    - :uuid: 337f07c8-63ec-425e-a04e-f48407dd1b1b
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: false
+1967/10/20:
+  :uuid: adee5e0e-558f-4fec-a037-0de07438e14f
+  :venue: American Studios
+  :city: Hollywood
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: b1ce855e-f4e0-4ebb-a257-b70e0fc1fb04
+    :songs:
+    - :uuid: d4e6dc7c-c2e7-4828-95f8-92e4cf52897a
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: 87debc47-00c6-4efc-be3a-fc1d01064d2d
+      :name: Alligator
+      :segued: true
+    - :uuid: c505e269-ee55-476b-8069-d85169b5e432
+      :name: Drums
+      :segued: true
+    - :uuid: 53e2ac72-88a8-4c43-b96f-3af65432a456
+      :name: Alligator
+      :segued: true
+    - :uuid: f93e3c5a-02ad-4a80-a153-10bcc723dbfb
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 62f0ff4a-9ff5-404a-b24d-3f1ecfab7daa
+      :name: Feedback
+      :segued: false
+    - :uuid: c3b36c5e-5dda-4336-b9e2-431afd88f216
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 9fb7bfc0-51c8-47ea-95bf-b1f8c52cc7e9
+      :name: The Other One
+      :segued: true
+    - :uuid: 6c8e31fb-8f2d-482b-8656-b67f79892848
+      :name: Cryptical Envelopment
+      :segued: false
+1967/10/22:
+  :uuid: 7a21768d-46e4-477b-8b38-89fe93d31022
+  :venue: Winterland
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 9858c0b0-af4f-4db6-bee5-9e189afa04fb
+    :songs:
+    - :uuid: 004c7b58-36b1-434b-a776-2907853277a6
+      :name: Morning Dew
+      :segued: false
+    - :uuid: ba01a79e-11ea-47c7-8b92-3a7d80d4f549
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: 427975aa-53ee-4a21-8690-f5d9a1aa4bc6
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: 1a1117ed-3b06-4da7-8237-282936a40aa6
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 24c6d581-f0e0-40ab-9ff5-4243641b992f
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: c741ebc5-b474-42d0-9195-4717a0a940db
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 52d7e146-5b45-4d2c-966b-5414e5c73f9f
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 6976dcc1-4970-4ae6-998a-73c20d33401d
+      :name: The Other One
+      :segued: true
+    - :uuid: fa7e99e6-88d3-42aa-bd00-4889dc1aad20
+      :name: Cryptical Envelopment
+      :segued: false
+1967/10/31:
+  :uuid: 4d11de1f-10b6-4d3f-b61b-3879640d7535
+  :venue: Winterland
+  :city: San Francisco
+  :state: CA
+  :country: US
+  :sets:
+  - :uuid: 9237d93f-a984-4b07-8b19-f8d6b58bd4e4
+    :songs:
+    - :uuid: ea050c7d-65ff-4ac0-b3c8-f98c18c2398c
+      :name: Viola Lee Blues
+      :segued: false
 1967/11/10:
   :uuid: 1929abf0-cb74-4218-b924-fe5c4f06ce92
   :venue: Shrine Exhibition Hall
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: f80a3ef5-9a9a-4257-90e2-bb2d92afb782
+    :songs:
+    - :uuid: c584aa2e-64cc-4bf4-910d-f98a0de15551
+      :name: Viola Lee Blues
+      :segued: false
+    - :uuid: 030382f6-f971-4ccb-9c87-0b56d7289243
+      :name: It Hurts Me Too
+      :segued: false
+    - :uuid: b87326e0-5aa8-4840-a8e3-02a603585fc2
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 55843079-1745-4e50-a9b6-ab107cbdd5dd
+      :name: Morning Dew
+      :segued: false
+    - :uuid: 308c60b2-6323-4729-b37c-9dfb90057818
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 83f844a3-6d67-42d7-bda9-de741f4bb29a
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 01e4c482-d621-4d37-86fb-92a895d4299c
+      :name: The Other One
+      :segued: true
+    - :uuid: a2f59a5f-f6c2-405d-8fb3-f1f8ff231d9c
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: 167dc86e-fb67-47c9-a8da-ffd78e8dbfa1
+      :name: New Potato Caboose
+      :segued: false
+    - :uuid: b6bf3aae-ee62-4f33-bdeb-d5f677bc5384
+      :name: Alligator
+      :segued: true
+    - :uuid: a6b8125a-1453-48a0-b3a8-f80f7d3ebac5
+      :name: Drums
+      :segued: true
+    - :uuid: a80609df-db1d-4dec-8052-79755c4cc1de
+      :name: Alligator
+      :segued: true
+    - :uuid: e0062c7d-662d-479c-b2e6-aba3fb3aee09
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 741248d8-d28e-4bc9-a5a3-bd9e1ad474ce
+      :name: Feedback
+      :segued: false
 1967/11/11:
   :uuid: a7ae9ac1-b463-4269-b50a-c387a0af51a2
   :venue: Shrine Exhibition Hall
   :city: Los Angeles
   :state: CA
   :country: US
-  :sets: []
-1967/11/12:
-  :uuid: a2e68a54-00db-4c70-97b7-5dc6bbf7e5e1
-  :venue: Winterland Arena
-  :city: San Francisco
+  :sets:
+  - :uuid: 0198999a-d51c-497e-9348-0a5002e079d4
+    :songs:
+    - :uuid: 0ec8b3c5-f1e3-4681-998d-08d7d58bf55a
+      :name: Turn On Your Lovelight
+      :segued: false
+    - :uuid: ef8936f6-b277-473d-a985-1d7771aa36b1
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: cbc02af6-d44c-4358-9d7a-a3db9965a3ef
+      :name: Death Don't Have No Mercy
+      :segued: false
+    - :uuid: 75fc3741-e284-40bf-adda-35937d0d5da8
+      :name: Good Morning Little Schoolgirl
+      :segued: false
+    - :uuid: 25f04bad-eaff-405d-a877-c170f65813de
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: 8d4473ec-ee1d-4c30-9108-66edf4892a1f
+      :name: The Other One
+      :segued: true
+    - :uuid: 8fffe757-2489-447e-8b52-4b1f95bb3f6b
+      :name: Cryptical Envelopment
+      :segued: false
+    - :uuid: e9d42f03-5cd4-43e3-a52f-3ff9141ade77
+      :name: Alligator
+      :segued: true
+    - :uuid: d4450100-18c2-42df-a24e-7eeb62afd836
+      :name: Drums
+      :segued: true
+    - :uuid: 70831766-d2fd-43a7-9a8e-6925da8192fc
+      :name: Alligator
+      :segued: true
+    - :uuid: d1547723-3361-43c4-952c-e95e43298086
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: true
+    - :uuid: 2c893ce1-9ecc-4d48-9885-1a4465c16b94
+      :name: Feedback
+      :segued: false
+1967/11/14:
+  :uuid: 69040455-6566-4c86-8c86-4ac724c74830
+  :venue: American Studios
+  :city: Hollywood
   :state: CA
   :country: US
+  :sets:
+  - :uuid: d359bdc2-b2c4-43b4-9e04-cc8148678eb2
+    :songs:
+    - :uuid: 0337daa6-7844-48d8-b5ce-384c63edc888
+      :name: Born Cross-Eyed
+      :segued: true
+    - :uuid: 4ffe9617-493d-4137-a7bb-df0e7a5ccd8d
+      :name: Feedback
+      :segued: false
+    - :uuid: 68edbf11-7a61-4053-87a0-3369334c081f
+      :name: Dark Star
+      :segued: false
+1967/12/08:
+  :uuid: 6877de43-214c-4ba0-b6d4-e312cbd8b525
+  :venue: Psychedelic Supermarket
+  :city: Boston
+  :state: MA
+  :country: US
+  :sets:
+  - :uuid: cf6825ec-905b-4ce0-a8ca-8c4ea6c4b434
+    :songs:
+    - :uuid: 2695792e-8a18-4e2a-af33-6568244e5520
+      :name: In The Midnight Hour
+      :segued: false
+1967/12/09/0:
+  :uuid: 8416ad65-1aae-423d-9961-3e2d6e4e5d08
+  :venue: Atwood Hall, Clark University
+  :city: Worcester
+  :state: MA
+  :country: US
   :sets: []
-1967/12/13:
-  :uuid: 480fe9eb-cc28-4ac7-868b-2ed68f5a04cf
-  :venue: Shrine Exhibition Hall
-  :city: Los Angeles
-  :state: CA
+1967/12/09/1:
+  :uuid: 3b7f23ed-cba9-466a-919c-da156471ef3e
+  :venue: Psychedelic Supermarket
+  :city: Boston
+  :state: MA
   :country: US
   :sets: []
 1967/12/22:
@@ -821,21 +1721,32 @@
   :city: New York
   :state: NY
   :country: US
-  :sets: []
-1967/12/27/0:
-  :uuid: f6f921c3-4a0a-4c4d-8184-b9846d6ca34c
-  :venue: Village Theater
-  :city: New York
-  :state: NY
-  :country: US
   :sets:
-  - :uuid: b963c7e4-2e7f-4606-a10d-e0ee87a85174
+  - :uuid: e454502b-d3c7-4266-9e61-f395ab0cc31f
     :songs:
-    - :uuid: 7fb81f2a-9483-4c79-9fc9-d61c4a33c577
+    - :uuid: acfcbe90-24cd-426d-818d-08afa62f8eeb
       :name: Good Morning Little Schoolgirl
       :segued: false
-1967/12/27/1:
-  :uuid: f1d4582f-1533-412e-b763-d504dc3d837f
+    - :uuid: 3d1b3ecf-0299-42b8-8129-9b6ea017f687
+      :name: Beat It On Down The Line
+      :segued: false
+    - :uuid: 45ecd1a9-fe30-43f7-83f5-ad0183726a14
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: a53a6dd3-10ca-44b5-862d-a05c3a990605
+      :name: Alligator
+      :segued: true
+    - :uuid: 16fd0c6d-9326-4fc6-a2fc-c389ecf29d34
+      :name: Caution (Do Not Stop On Tracks)
+      :segued: false
+    - :uuid: db50bc9f-144f-49af-8306-921cee9c7fe8
+      :name: Morning Dew
+      :segued: false
+    - :uuid: e7ad40c0-ee9b-4fdf-8aa6-ab82fa76e7ec
+      :name: Viola Lee Blues
+      :segued: false
+1967/12/27:
+  :uuid: f6f921c3-4a0a-4c4d-8184-b9846d6ca34c
   :venue: Village Theater
   :city: New York
   :state: NY
