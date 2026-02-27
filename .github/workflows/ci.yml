@@ -19,5 +19,8 @@ jobs:
           ruby-version: .ruby-version
           bundler-cache: true
       - name: Test
-        run: 
+        run:
           bundle exec rake spec
+      - name: Smoke test sample.rb
+        run:
+          bundle exec ruby sample.rb

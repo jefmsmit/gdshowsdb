@@ -16,7 +16,9 @@ class Song < ActiveRecord::Base
     song_ref = SongRef.find_by_name(spec[:name])
     raise "Unable to find a song ref named #{spec[:name]} #{spec.inspect}" unless song_ref
     song_ref.songs << Song.find_by_uuid(spec[:uuid])
-    song_ref.song_occurences << SongOccurence.create_from(uuid: SecureRandom.uuid, position: spec[:position], show_set_uuid: spec[:show_set_uuid])
+    show = ShowSet.find_by_uuid(spec[:show_set_uuid]).show
+    occurrence_position = song_ref.song_occurences.where(show_uuid: show.uuid).count
+    song_ref.song_occurences << SongOccurence.create_from(uuid: SecureRandom.uuid, position: occurrence_position, show_set_uuid: spec[:show_set_uuid])
     song_ref.save
   end
 
