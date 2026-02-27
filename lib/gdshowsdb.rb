@@ -22,9 +22,8 @@ module Gdshowsdb
 	end
 
   def self.load(level = nil)
-    schema_migration = ActiveRecord::Base.connection.schema_migration
-    migration_context = ActiveRecord::MigrationContext.new(File.dirname(__FILE__) + '/gdshowsdb/db/migrations', schema_migration) 
-    ActiveRecord::Migrator.new(:up, migration_context.migrations, schema_migration, level).migrate
+    migration_context = ActiveRecord::MigrationContext.new(File.dirname(__FILE__) + '/gdshowsdb/db/migrations') 
+    migration_context.migrate(level)
   end
   
   def self.yaml_file_location(file_name)
