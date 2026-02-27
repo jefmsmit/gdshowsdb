@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gdshowsdb (4.0.2)
+    gdshowsdb (5.0.0)
       friendly_id
       rails (>= 8.1)
 
