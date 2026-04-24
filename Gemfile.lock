@@ -91,7 +91,7 @@ GEM
     date (3.5.1)
     diff-lcs (1.6.2)
     drb (2.2.3)
-    erb (6.0.2)
+    erb (6.0.4)
     erubi (1.13.1)
     friendly_id (5.6.0)
       activerecord (>= 4.0.0)
